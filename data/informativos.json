@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-13T08:22:40.319695+00:00",
-  "total": 5,
+  "updated_at": "2026-04-13T09:51:20.140295+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -41,6 +41,30 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10042026-Seminario-em-Joao-Pessoa-discute-violencia-contra-a-mulher--prevencao-e-efetividade-da-protecao-legal.aspx",
       "date": "2026-04-13",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Informe de Rendimentos: ferramenta para consulta é disponibilizada para servidores e prestadores de serviços no Portal do TRT-11",
+      "summary": "Nova funcionalidade está disponível na aba Serviços",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11262-informe-de-rendimentos-ferramenta-para-consulta-e-disponibilizada-para-servidores-e-prestadores-de-servicos-no-portal-do-trt-11",
+      "date": "2026-04-13",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Reforçar a cultura de conciliação é objetivo do Café com Cejusc-JT em Boa Vista (RR)",
+      "summary": "Evento é uma das ações preparatórias para a 10ª Semana Nacional da Conciliação Trabalhista",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11261-reforcar-a-cultura-de-conciliacao-e-objetivo-do-cafe-com-cejusc-jt-em-boa-vista-rr",
+      "date": "2026-04-13",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-13",
+      "category": "Trabalhista"
     }
   ]
 }

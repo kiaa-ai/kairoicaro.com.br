@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T08:03:54.535058+00:00",
-  "total": 5,
+  "updated_at": "2026-04-14T09:13:49.599186+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -41,6 +41,30 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13042026-Jornal-nao-tera-de-indenizar-apostador-frustrado-apos-erro-na-divulgacao-do-resultado-da-Mega-Sena.aspx",
       "date": "2026-04-14",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "TRT-11 faz consulta pública sobre metas nacionais da Justiça do Trabalho para 2027",
+      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR), por meio da Secretaria de Governança e Gestão Estratégica (Seggest), iniciou a consulta pública para definir as Metas Nacionais da Justiça do Trabalho em 2027. Esta consulta anual faz parte do processo de gestão participativa para a construção d",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11264-trt-11-faz-consulta-publica-sobre-metas-nacionais-da-justica-do-trabalho-para-2027",
+      "date": "2026-04-14",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Informe de Rendimentos: ferramenta para consulta é disponibilizada para servidores e prestadores de serviços no Portal do TRT-11",
+      "summary": "Nova funcionalidade está disponível na aba Serviços",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11262-informe-de-rendimentos-ferramenta-para-consulta-e-disponibilizada-para-servidores-e-prestadores-de-servicos-no-portal-do-trt-11",
+      "date": "2026-04-14",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-14",
+      "category": "Trabalhista"
     }
   ]
 }

@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-04-15T19:42:48.436434+00:00",
+  "updated_at": "2026-04-16T03:46:31.452571+00:00",
   "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Presidente do STF saúda eleição do ministro Nunes Marques para Presidência do TSE",
-      "summary": "Ministro foi eleito nesta terça-feira (4) e comandará o Tribunal Superior Eleitoral, com ministro André Mendonça como vice",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-sauda-eleicao-do-ministro-nunes-marques-para-presidencia-do-tse/",
-      "date": "2026-04-15",
+      "title": "STF avança na análise sobre dever de informar direito ao silêncio em abordagem policial",
+      "summary": "Julgamento tem cinco votos proferidos e foi suspenso após pedido de vista do ministro Alexandre de Moraes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-na-analise-sobre-dever-de-informar-direito-ao-silencio-em-abordagem-policial/",
+      "date": "2026-04-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF esclarece que acordos do caso Mariana (MG) dispensam aprovação da Justiça britânica",
-      "summary": "De acordo com o ministro Flávio Dino, municípios podem fechar acordos no Brasil sem aval da Justiça do Reino Unido",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-esclarece-que-acordos-do-caso-mariana-mg-dispensam-aprovacao-da-justica-britanica/",
-      "date": "2026-04-15",
+      "title": "STF suspende julgamento sobre nepotismo em cargos políticos do Executivo",
+      "summary": "Ministro Gilmar Mendes pediu vista para aprofundar discussão",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-julgamento-sobre-nepotismo-em-cargos-politicos-do-executivo/",
+      "date": "2026-04-16",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Relator vota por homologar sentença italiana contra ex-oficial da Operação Condor, e julgamento é suspenso",
+      "summary": "Relator vota por homologar sentença italiana contra ex-oficial da Operação Condor, e julgamento é suspenso",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Relator-vota-por-homologar-sentenca-italiana-contra-ex-oficial-da-Operacao-Condor--e-julgamento-e-suspenso.aspx",
+      "date": "2026-04-16",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Sessão da Corte Especial prevista para as 9h desta quarta-feira (15) vai começar às 14h",
       "summary": "Sessão da Corte Especial prevista para as 9h desta quarta-feira (15) vai começar às 14h",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Sessao-da-Corte-Especial-prevista-para-as-9h-desta-quarta-feira--15--vai-comecar-as-14h.aspx",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre embriaguez e agravamento do risco no seguro de vida",
       "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre embriaguez e agravamento do risco no seguro de vida",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-embriaguez-e-agravamento-do-risco-no-seguro-de-vida.aspx",
-      "date": "2026-04-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Opção do juiz entre múltiplas causas de aumento de pena deve ser sempre pela mais grave",
-      "summary": "Opção do juiz entre múltiplas causas de aumento de pena deve ser sempre pela mais grave",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Opcao-do-juiz-entre-multiplas-causas-de-aumento-de-pena-deve-ser-sempre-pela-mais-grave.aspx",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "category": "Jurisprudencia"
     }
   ]

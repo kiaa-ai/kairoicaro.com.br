@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-04-16T14:13:15.324916+00:00",
-  "total": 8,
+  "updated_at": "2026-04-16T19:37:41.755084+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (16)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-16/",
+      "title": "STF determina prisão de ex-presidente do BRB e de advogado suspeitos de fraudes bilionárias",
+      "summary": "Ministro André Mendonça considerou risco de destruição de provas e de interferência nas investigações no Caso Master",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-prisao-de-ex-presidente-do-brb-e-de-advogado-suspeitos-de-fraudes-bilionarias/",
       "date": "2026-04-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF avança na análise sobre dever de informar direito ao silêncio em abordagem policial",
-      "summary": "Julgamento tem cinco votos proferidos e foi suspenso após pedido de vista do ministro Alexandre de Moraes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-na-analise-sobre-dever-de-informar-direito-ao-silencio-em-abordagem-policial/",
+      "title": "Confira a pauta do STF desta quinta-feira (16)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-16/",
       "date": "2026-04-16",
       "category": "Constitucional"
     },
@@ -41,30 +41,6 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16042026-Repetitivo-discute-retroatividade-de-pensao-por-morte-e-auxilio-reclusao-para-menores-de-16-anos.aspx",
       "date": "2026-04-16",
       "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Ouvidoria do TRT-11 participa de mutirão de atendimento a pessoas em situação de rua em Iranduba-AM",
-      "summary": "Evento que integra o PopRuaJud acontece nesta sexta (17/4) e terá a Justiça do Trabalho presente para orientar a população sobre os seus direitos trabalhistas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11267-ouvidoria-do-trt-11-participa-de-mutirao-de-atendimento-a-pessoas-em-situacao-de-rua-em-iranduba-am",
-      "date": "2026-04-16",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Desvio de função e falta de treinamento marcam caso de trabalhador morto em porto de Manaus",
-      "summary": "Conciliação na 13ª Vara do Trabalho de Manaus garantiu o pagamento à viúva e ao filho pequeno, encerrando processo após sete meses de tramitação.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11266-desvio-de-funcao-e-falta-de-treinamento-marcam-caso-de-trabalhador-morto-em-porto-de-manaus",
-      "date": "2026-04-16",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-04-16",
-      "category": "Trabalhista"
     }
   ]
 }

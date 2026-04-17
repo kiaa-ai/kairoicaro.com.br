@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-04-17T13:58:37.313255+00:00",
-  "total": 8,
+  "updated_at": "2026-04-17T19:31:26.876148+00:00",
+  "total": 6,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Direito sem juridiquês: entenda o que são os remédios constitucionais",
-      "summary": "Nova série de vídeos educativos explica termos jurídicos em novo quadro do canal da Suprema Corte no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/explica-ai-stf-entenda-o-que-sao-os-remedios-constitucionais/",
+      "title": "Sexta edição da revista Suprema reúne estudos sobre constitucionalismo contemporâneo",
+      "summary": "Periódico científico do STF traz artigos e entrevista internacional sobre direito comparado, justiça climática, igualdade de gênero e transformações das instituições democráticas",
+      "url": "https://noticias.stf.jus.br/postsnoticias/sexta-edicao-da-revista-suprema-reune-estudos-sobre-constitucionalismo-contemporaneo/",
       "date": "2026-04-17",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "CESTF avança em agenda nacional para pesquisa e ensino do direito constitucional",
-      "summary": "Reunião discutiu nova fase do Edital nº 3, que prevê audiências regionais, e alta adesão ao pós-doutorado em parceria com a Capes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/cestf-avanca-em-agenda-nacional-para-pesquisa-e-ensino-do-direito-constitucional/",
+      "title": "Congresso internacional debate atuação da Justiça em territórios indígenas",
+      "summary": "Evento será nos dias 28 e 29/4, no STJ e no STF",
+      "url": "https://noticias.stf.jus.br/postsnoticias/congresso-internacional-debate-atuacao-da-justica-em-territorios-indigenas/",
       "date": "2026-04-17",
       "category": "Constitucional"
     },
@@ -41,22 +41,6 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Informativo-destaca-competencia-do-juri-em-caso-de-feminicidio-imputado-a-ex-soldado-do-Exercito.aspx",
       "date": "2026-04-17",
       "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "TRT-11 terá expediente suspenso nos dias 20 e 21 de abril",
-      "summary": "Neste período, somente casos urgentes serão apreciados no plantão judiciário",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11278-trt-11-tera-expediente-suspenso-nos-dias-20-e-21-de-abril",
-      "date": "2026-04-17",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Evento realizado no dia do Aprendiz reforça a Lei da Aprendizagem como instrumento de combate ao trabalho infantil",
-      "summary": "Encontro homenageará aprendizes e entidades formadoras que se destacam na promoção da aprendizagem profissional.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11276-evento-realizado-no-dia-do-aprendiz-reforca-a-lei-da-aprendizagem-como-instrumento-de-combate-ao-trabalho-infantil",
-      "date": "2026-04-17",
-      "category": "Trabalhista"
     },
     {
       "tribunal": "TST",

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-17T09:13:08.935407+00:00",
-  "total": 5,
+  "updated_at": "2026-04-17T13:58:37.313255+00:00",
+  "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Direito sem juridiquês: entenda o que são os remédios constitucionais",
+      "summary": "Nova série de vídeos educativos explica termos jurídicos em novo quadro do canal da Suprema Corte no YouTube",
+      "url": "https://noticias.stf.jus.br/postsnoticias/explica-ai-stf-entenda-o-que-sao-os-remedios-constitucionais/",
+      "date": "2026-04-17",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "CESTF avança em agenda nacional para pesquisa e ensino do direito constitucional",
@@ -11,36 +19,52 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Professor temporário tem direito ao piso salarial do magistério, decide STF",
-      "summary": "Tribunal decidiu limitar a 5% cessão de profissionais a outros órgãos para frear necessidade de substituição",
-      "url": "https://noticias.stf.jus.br/postsnoticias/professor-temporario-tem-direito-ao-piso-salarial-do-magisterio-decide-stf/",
-      "date": "2026-04-17",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Tribunal não terá expediente nos dias 20 e 21 de abril",
-      "summary": "Tribunal não terá expediente nos dias 20 e 21 de abril",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16042026-Tribunal-nao-tera-expediente-nos-dias-20-e-21-de-abril.aspx",
+      "title": "Repercussão do FGTS na base de cálculo da pensão alimentícia está na Pesquisa Pronta",
+      "summary": "Repercussão do FGTS na base de cálculo da pensão alimentícia está na Pesquisa Pronta",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Repercussao-do-FGTS-na-base-de-calculo-da-pensao-alimenticia-esta-na-Pesquisa-Pronta.aspx",
       "date": "2026-04-17",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Rádio Decidendi analisa repetitivo sobre multa em agravo interno e respeito a precedentes",
-      "summary": "Rádio Decidendi analisa repetitivo sobre multa em agravo interno e respeito a precedentes",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16042026-Radio-Decidendi-analisa-repetitivo-sobre-multa-em-agravo-interno-e-respeito-a-precedentes.aspx",
+      "title": "Podcast STJ No Seu Dia discute jurisprudência sobre seguro de vida com cotas para beneficiários",
+      "summary": "Podcast STJ No Seu Dia discute jurisprudência sobre seguro de vida com cotas para beneficiários",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Podcast-STJ-No-Seu-Dia-discute-jurisprudencia-sobre-seguro-de-vida-com-cotas-para-beneficiarios.aspx",
       "date": "2026-04-17",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Repetitivo discute retroatividade de pensão por morte e auxílio-reclusão para menores de 16 anos",
-      "summary": "Repetitivo discute retroatividade de pensão por morte e auxílio-reclusão para menores de 16 anos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16042026-Repetitivo-discute-retroatividade-de-pensao-por-morte-e-auxilio-reclusao-para-menores-de-16-anos.aspx",
+      "title": "Informativo destaca competência do júri em caso de feminicídio imputado a ex-soldado do Exército",
+      "summary": "Informativo destaca competência do júri em caso de feminicídio imputado a ex-soldado do Exército",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Informativo-destaca-competencia-do-juri-em-caso-de-feminicidio-imputado-a-ex-soldado-do-Exercito.aspx",
       "date": "2026-04-17",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "TRT-11 terá expediente suspenso nos dias 20 e 21 de abril",
+      "summary": "Neste período, somente casos urgentes serão apreciados no plantão judiciário",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11278-trt-11-tera-expediente-suspenso-nos-dias-20-e-21-de-abril",
+      "date": "2026-04-17",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Evento realizado no dia do Aprendiz reforça a Lei da Aprendizagem como instrumento de combate ao trabalho infantil",
+      "summary": "Encontro homenageará aprendizes e entidades formadoras que se destacam na promoção da aprendizagem profissional.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11276-evento-realizado-no-dia-do-aprendiz-reforca-a-lei-da-aprendizagem-como-instrumento-de-combate-ao-trabalho-infantil",
+      "date": "2026-04-17",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-17",
+      "category": "Trabalhista"
     }
   ]
 }

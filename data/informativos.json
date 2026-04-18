@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-18T08:42:18.676378+00:00",
-  "total": 7,
+  "updated_at": "2026-04-18T13:35:59.418630+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "Comissão Nacional da Conciliação reforça resultados reais da Justiça do Trabalho com métodos consensuais",
       "summary": "Projeto do TRT-11 será premiado como boas práticas em conciliação.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11279-comissao-nacional-da-conciliacao-reforca-resultados-reais-da-justica-do-trabalho-com-metodos-consensuais",
+      "date": "2026-04-18",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-04-18",
       "category": "Trabalhista"
     }

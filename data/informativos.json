@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-04-17T19:31:26.876148+00:00",
-  "total": 6,
+  "updated_at": "2026-04-18T03:30:05.934919+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Sexta edição da revista Suprema reúne estudos sobre constitucionalismo contemporâneo",
-      "summary": "Periódico científico do STF traz artigos e entrevista internacional sobre direito comparado, justiça climática, igualdade de gênero e transformações das instituições democráticas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/sexta-edicao-da-revista-suprema-reune-estudos-sobre-constitucionalismo-contemporaneo/",
-      "date": "2026-04-17",
+      "title": "Feriado de Tiradentes altera expediente no STF no início da próxima semana",
+      "summary": "Prazos que começam ou terminam na segunda (20) e na terça-feira (21) serão automaticamente prorrogados para quarta-feira (22)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/feriado-de-tiradentes-altera-expediente-no-stf-no-inicio-da-proxima-semana/",
+      "date": "2026-04-18",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Congresso internacional debate atuação da Justiça em territórios indígenas",
-      "summary": "Evento será nos dias 28 e 29/4, no STJ e no STF",
-      "url": "https://noticias.stf.jus.br/postsnoticias/congresso-internacional-debate-atuacao-da-justica-em-territorios-indigenas/",
-      "date": "2026-04-17",
+      "title": "STF autoriza liberação de R$ 3,7 bi de precatórios do Fundef a estados",
+      "summary": "Despachos assinados pelo presidente do STF foram publicados nesta semana",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-liberacao-de-r-37-bi-de-precatorios-do-fundef-a-estados/",
+      "date": "2026-04-18",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nancy Andrighi recebe homenagem da Defensoria Pública do Ceará com lançamento de e-book",
+      "summary": "Nancy Andrighi recebe homenagem da Defensoria Pública do Ceará com lançamento de e-book",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Nancy-Andrighi-recebe-homenagem-da-Defensoria-Publica-do-Ceara-com-lancamento-de-e-book.aspx",
+      "date": "2026-04-18",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Repercussão do FGTS na base de cálculo da pensão alimentícia está na Pesquisa Pronta",
       "summary": "Repercussão do FGTS na base de cálculo da pensão alimentícia está na Pesquisa Pronta",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Repercussao-do-FGTS-na-base-de-calculo-da-pensao-alimenticia-esta-na-Pesquisa-Pronta.aspx",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "category": "Jurisprudencia"
     },
     {
@@ -31,23 +39,23 @@
       "title": "Podcast STJ No Seu Dia discute jurisprudência sobre seguro de vida com cotas para beneficiários",
       "summary": "Podcast STJ No Seu Dia discute jurisprudência sobre seguro de vida com cotas para beneficiários",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Podcast-STJ-No-Seu-Dia-discute-jurisprudencia-sobre-seguro-de-vida-com-cotas-para-beneficiarios.aspx",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Informativo destaca competência do júri em caso de feminicídio imputado a ex-soldado do Exército",
-      "summary": "Informativo destaca competência do júri em caso de feminicídio imputado a ex-soldado do Exército",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Informativo-destaca-competencia-do-juri-em-caso-de-feminicidio-imputado-a-ex-soldado-do-Exercito.aspx",
-      "date": "2026-04-17",
-      "category": "Jurisprudencia"
+      "tribunal": "TRT11",
+      "title": "TRT-11 monitora execução de 52 projetos na primeira Reunião de Análise da Estratégia de 2026",
+      "summary": "Encontro híbrido reuniu a gestão para avaliar resultados e alinhar o cumprimento das metas institucionais",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11284-trt-11-monitora-execucao-de-52-projetos-em-primeira-reuniao-de-analise-da-estrategia-de-2026",
+      "date": "2026-04-18",
+      "category": "Trabalhista"
     },
     {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-04-17",
+      "tribunal": "TRT11",
+      "title": "Comissão Nacional da Conciliação reforça resultados reais da Justiça do Trabalho com métodos consensuais",
+      "summary": "Projeto do TRT-11 será premiado como boas práticas em conciliação.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11279-comissao-nacional-da-conciliacao-reforca-resultados-reais-da-justica-do-trabalho-com-metodos-consensuais",
+      "date": "2026-04-18",
       "category": "Trabalhista"
     }
   ]

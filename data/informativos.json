@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T08:27:23.083680+00:00",
-  "total": 5,
+  "updated_at": "2026-04-20T09:54:52.442445+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-considera-inconstitucional-lei-de-sc-que-proibia-cotas-raciais/",
       "date": "2026-04-20",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Dia dos Povos Indígenas: reportagem celebra vozes ancestrais e debate papel da Justiça na proteção de grupos originários",
+      "summary": "Dia dos Povos Indígenas: reportagem celebra vozes ancestrais e debate papel da Justiça na proteção de grupos originários",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19042026-Dia-dos-Povos-Indigenas-reportagem-celebra-vozes-ancestrais-e-debate-papel-da-Justica-na-protecao-de-grupos.aspx",
+      "date": "2026-04-20",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nancy Andrighi recebe homenagem da Defensoria Pública do Ceará com lançamento de e-book",
+      "summary": "Nancy Andrighi recebe homenagem da Defensoria Pública do Ceará com lançamento de e-book",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Nancy-Andrighi-recebe-homenagem-da-Defensoria-Publica-do-Ceara-com-lancamento-de-e-book.aspx",
+      "date": "2026-04-20",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Repercussão do FGTS na base de cálculo da pensão alimentícia está na Pesquisa Pronta",
+      "summary": "Repercussão do FGTS na base de cálculo da pensão alimentícia está na Pesquisa Pronta",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17042026-Repercussao-do-FGTS-na-base-de-calculo-da-pensao-alimenticia-esta-na-Pesquisa-Pronta.aspx",
+      "date": "2026-04-20",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

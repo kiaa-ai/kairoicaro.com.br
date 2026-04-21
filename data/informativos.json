@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T08:08:09.721242+00:00",
-  "total": 5,
+  "updated_at": "2026-04-21T09:21:29.882250+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-considera-inconstitucional-lei-de-sc-que-proibia-cotas-raciais/",
       "date": "2026-04-21",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Decisão que afastou responsabilidade de jornal por erro na divulgação da Mega-Sena é destaque no STJ Notícias",
+      "summary": "Decisão que afastou responsabilidade de jornal por erro na divulgação da Mega-Sena é destaque no STJ Notícias",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20042026-Decisao-que-afastou-responsabilidade-de-jornal-por-erro-na-divulgacao-da-Mega-Sena-e-destaque-no-STJ-Noticias.aspx",
+      "date": "2026-04-21",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ promove segunda edição de evento de cooperação com países da Ásia e do Pacífico no próximo dia 23",
+      "summary": "STJ promove segunda edição de evento de cooperação com países da Ásia e do Pacífico no próximo dia 23",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20042026-STJ-promove-segunda-edicao-de-evento-de-cooperacao-com-paises-da-Asia-e-do-Pacifico-no-proximo-dia-23.aspx",
+      "date": "2026-04-21",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Dia dos Povos Indígenas: reportagem celebra vozes ancestrais e debate papel da Justiça na proteção de grupos originários",
+      "summary": "Dia dos Povos Indígenas: reportagem celebra vozes ancestrais e debate papel da Justiça na proteção de grupos originários",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19042026-Dia-dos-Povos-Indigenas-reportagem-celebra-vozes-ancestrais-e-debate-papel-da-Justica-na-protecao-de-grupos.aspx",
+      "date": "2026-04-21",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

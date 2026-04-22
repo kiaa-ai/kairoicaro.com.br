@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-04-21T09:21:33.299724+00:00",
+  "updated_at": "2026-04-22T09:16:10.491538+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "21.abr.2026Flávio Dino propõe nova reforma do Judiciário e recebe apoio de FachinMinistro propõe mudanças \"sérias e profundas\" para tornar o Judiciário mais ágil, eficiente e confiável.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-22",
+      "url": "https://www.migalhas.com.br/quentes/454286/flavio-dino-propoe-nova-reforma-do-judiciario-e-recebe-apoio-de-fachin"
+    },
+    {
+      "setor": "empresarial",
+      "title": "21.abr.2026Servidor do TRE/RJ obtém remoção para cuidar de filho com TEAMagistrada reconheceu direito do servidor com base na lei 8.112 e no melhor interesse da criança.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-22",
+      "url": "https://www.migalhas.com.br/quentes/454227/servidor-do-tre-rj-obtem-remocao-para-cuidar-de-filho-com-tea"
+    },
+    {
+      "setor": "empresarial",
+      "title": "21.abr.2026OAB/RJ obtém liminar para suspender controle de ponto a procuradores municipaisTribunal reconheceu que autonomia da advocacia pública e afastou controle de ponto",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-22",
+      "url": "https://www.migalhas.com.br/quentes/453957/oab-rj-consegue-suspender-controle-de-ponto-de-procuradores-municipais"
+    },
+    {
+      "setor": "empresarial",
+      "title": "21.abr.2026Juiz suspende multa por compensação tributária via sistema da ReceitaEmpresa utilizou créditos oriundos de precatórios para quitar débitos tributários via PER/DCOMP.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-22",
+      "url": "https://www.migalhas.com.br/quentes/454035/juiz-suspende-multa-por-compensacao-tributaria-via-sistema-da-receita"
+    },
+    {
+      "setor": "empresarial",
+      "title": "21.abr.2026Gilmar pede inclusão de Zema no inquérito das fake news por vídeo do MasterEx-governador publicou vídeo em que fantoches simulam falas de ministros do STF com referência ao caso Master.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-22",
+      "url": "https://www.migalhas.com.br/quentes/454283/gilmar-pede-inclusao-de-zema-no-inquerito-das-fake-news"
+    },
     {
       "setor": "empresarial",
       "title": "20.abr.2026TRF-3 mantém suspensão de majoração no lucro presumido para escritórios de advocaciaMajoração de 10% nos percentuais de presunção do IRPJ e da CSLL, prevista na LC 224/25 para sociedades de advogados no lucro presumido, segue com exigibilidade suspensa.",
@@ -81,46 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-04-20",
       "url": "https://www.migalhas.com.br/quentes/453862/trt-4-mantem-justa-causa-de-trabalhador-por-forjar-ata-da-cipa"
-    },
-    {
-      "setor": "ambiental",
-      "title": "19.abr.2026TRT-2: Mulher demitida após questionar valor de plano de saúde será indenizadaJuiz também determinou reintegração da trablhadora, mãe de criança com TEA, ao cargo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-20",
-      "url": "https://www.migalhas.com.br/quentes/453861/mulher-demitida-por-questionar-valor-de-plano-de-saude-sera-indenizada"
-    },
-    {
-      "setor": "empresarial",
-      "title": "19.abr.2026TST: Usina indenizará trabalhador ferido ao atravessar canavial em chamasCorte afastou tese de força maior e reconheceu negligência da empresa em incêndio que atingiu ônibus com trabalhadores.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-20",
-      "url": "https://www.migalhas.com.br/quentes/453859/tst-usina-indenizara-homem-ferido-ao-atravessar-canavial-em-chamas"
-    },
-    {
-      "setor": "empresarial",
-      "title": "18.abr.2026Construtora é condenada a reparar vícios estruturais em condomínioPerícia apontou falhas graves de execução e segurança no empreendimento.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-19",
-      "url": "https://www.migalhas.com.br/quentes/453867/construtora-e-condenada-a-reparar-vicios-estruturais-em-condominio"
-    },
-    {
-      "setor": "empresarial",
-      "title": "18.abr.2026TJ/SP: Juíza limita reajuste de plano falso coletivo aos índices da ANSMagistrada anulou cláusulas por sinistralidade e determinou devolução de valores pagos a mais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-19",
-      "url": "https://www.migalhas.com.br/quentes/454234/tj-sp-juiza-limita-reajuste-de-plano-falso-coletivo-a-indices-da-ans"
-    },
-    {
-      "setor": "empresarial",
-      "title": "18.abr.2026Juiz afasta tributos em trânsito interestadual de gado entre fazendasMagistrado entendeu que deslocamento para manejo entre propriedades da mesma titularidade não configura fato gerador tributário.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-19",
-      "url": "https://www.migalhas.com.br/quentes/453937/juiz-afasta-tributos-em-transito-interestadual-de-gado-entre-fazendas"
     }
   ]
 }

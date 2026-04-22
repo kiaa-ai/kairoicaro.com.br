@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-22T09:16:06.979220+00:00",
+  "updated_at": "2026-04-22T14:08:46.718843+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quarta-feira (22)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-22-2/",
+      "date": "2026-04-22",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Aplicação do piso nacional para professores temporários é destaque no Supremo na Semana",
@@ -11,50 +19,42 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF considera inconstitucional lei de SC que proibia cotas raciais",
-      "summary": "Plenário Virtual acompanha voto do relator, ministro Gilmar Mendes, que relembra jurisprudência do Supremo sobre a validade da política de cotas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-considera-inconstitucional-lei-de-sc-que-proibia-cotas-raciais/",
-      "date": "2026-04-22",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Decisão que afastou responsabilidade de jornal por erro na divulgação da Mega-Sena é destaque no STJ Notícias",
-      "summary": "Decisão que afastou responsabilidade de jornal por erro na divulgação da Mega-Sena é destaque no STJ Notícias",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20042026-Decisao-que-afastou-responsabilidade-de-jornal-por-erro-na-divulgacao-da-Mega-Sena-e-destaque-no-STJ-Noticias.aspx",
+      "title": "Entender Direito estreia o primeiro de dois episódios sobre direito digital",
+      "summary": "Entender Direito estreia o primeiro de dois episódios sobre direito digital",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-Entender-Direito-estreia-o-primeiro-de-dois-episodios-sobre-direito-digital.aspx",
       "date": "2026-04-22",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "STJ promove segunda edição de evento de cooperação com países da Ásia e do Pacífico no próximo dia 23",
-      "summary": "STJ promove segunda edição de evento de cooperação com países da Ásia e do Pacífico no próximo dia 23",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20042026-STJ-promove-segunda-edicao-de-evento-de-cooperacao-com-paises-da-Asia-e-do-Pacifico-no-proximo-dia-23.aspx",
+      "title": "Tribunal autoriza retirada de sobrenome paterno do registro civil em razão de abandono afetivo",
+      "summary": "Tribunal autoriza retirada de sobrenome paterno do registro civil em razão de abandono afetivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-Tribunal-autoriza-retirada-de-sobrenome-paterno-do-registro-civil-em-razao-de-abandono-afetivo.aspx",
       "date": "2026-04-22",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Dia dos Povos Indígenas: reportagem celebra vozes ancestrais e debate papel da Justiça na proteção de grupos originários",
-      "summary": "Dia dos Povos Indígenas: reportagem celebra vozes ancestrais e debate papel da Justiça na proteção de grupos originários",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19042026-Dia-dos-Povos-Indigenas-reportagem-celebra-vozes-ancestrais-e-debate-papel-da-Justica-na-protecao-de-grupos.aspx",
+      "title": "I Congresso Internacional Justiça Originária acontece nos dias 28 e 29 de abril",
+      "summary": "I Congresso Internacional Justiça Originária acontece nos dias 28 e 29 de abril",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-I-Congresso-Internacional-Justica-Originaria-acontece-nos-dias-28-e-29-de-abril.aspx",
       "date": "2026-04-22",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Ouvidoria da Justiça do Trabalho participa de mutirão de atendimento a pessoas em situação de rua em Manaus",
+      "summary": "Evento que integra o PopRuaJud acontece nesta sexta (24/4) no Centro de Convenções Vasco Vasques",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11285-ouvidoria-da-justica-do-trabalho-participa-de-mutirao-de-atendimento-a-pessoas-em-situacao-de-rua-em-manaus",
+      "date": "2026-04-22",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "TRT-11 monitora execução de 52 projetos na primeira Reunião de Análise da Estratégia de 2026",
       "summary": "Encontro híbrido reuniu a gestão para avaliar resultados e alinhar o cumprimento das metas institucionais",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11284-trt-11-monitora-execucao-de-52-projetos-em-primeira-reuniao-de-analise-da-estrategia-de-2026",
-      "date": "2026-04-22",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Comissão Nacional da Conciliação reforça resultados reais da Justiça do Trabalho com métodos consensuais",
-      "summary": "Projeto do TRT-11 será premiado como boas práticas em conciliação.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11279-comissao-nacional-da-conciliacao-reforca-resultados-reais-da-justica-do-trabalho-com-metodos-consensuais",
       "date": "2026-04-22",
       "category": "Trabalhista"
     }

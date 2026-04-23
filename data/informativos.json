@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-22T19:38:37.514792+00:00",
-  "total": 7,
+  "updated_at": "2026-04-23T03:46:50.865313+00:00",
+  "total": 6,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF esclarece que regras sobre uso de relatórios financeiros do Coaf valem apenas para o futuro",
-      "summary": "Ministro Alexandre de Moraes fixou alcance temporal da decisão para compartilhamento de informações financeiras em investigações",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-esclarece-que-regras-sobre-uso-de-relatorios-financeiros-do-coaf-valem-apenas-para-o-futuro/",
-      "date": "2026-04-22",
+      "title": "STF suspende análise do valor do mínimo existencial em negociações de superendividamento",
+      "summary": "Todos os votos já proferidos reconhecem a necessidade de estudos periódicos para atualização do valor previsto em decreto",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-analise-do-valor-do-minimo-existencial-em-negociacoes-de-superendividamento/",
+      "date": "2026-04-23",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quarta-feira (22)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-22-2/",
-      "date": "2026-04-22",
+      "title": "PDT questiona no STF eleição da Mesa Diretora da Assembleia Legislativa do Rio de Janeiro por voto aberto",
+      "summary": "Agremiação aponta violação a princípios constitucionais e irregularidades no Regimento Interno da Alerj",
+      "url": "https://noticias.stf.jus.br/postsnoticias/pdt-questiona-no-stf-eleicao-da-mesa-diretora-da-assembleia-legislativa-do-rio-de-janeiro-por-voto-aberto/",
+      "date": "2026-04-23",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Entender Direito estreia o primeiro de dois episódios sobre direito digital",
       "summary": "Entender Direito estreia o primeiro de dois episódios sobre direito digital",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-Entender-Direito-estreia-o-primeiro-de-dois-episodios-sobre-direito-digital.aspx",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Tribunal autoriza retirada de sobrenome paterno do registro civil em razão de abandono afetivo",
       "summary": "Tribunal autoriza retirada de sobrenome paterno do registro civil em razão de abandono afetivo",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-Tribunal-autoriza-retirada-de-sobrenome-paterno-do-registro-civil-em-razao-de-abandono-afetivo.aspx",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "category": "Jurisprudencia"
     },
     {
@@ -39,23 +39,15 @@
       "title": "I Congresso Internacional Justiça Originária acontece nos dias 28 e 29 de abril",
       "summary": "I Congresso Internacional Justiça Originária acontece nos dias 28 e 29 de abril",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-I-Congresso-Internacional-Justica-Originaria-acontece-nos-dias-28-e-29-de-abril.aspx",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "TRT11",
-      "title": "Ouvidoria da Justiça do Trabalho participa de mutirão de atendimento a pessoas em situação de rua em Manaus",
-      "summary": "Evento que integra o PopRuaJud acontece nesta sexta (24/4) no Centro de Convenções Vasco Vasques",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11285-ouvidoria-da-justica-do-trabalho-participa-de-mutirao-de-atendimento-a-pessoas-em-situacao-de-rua-em-manaus",
-      "date": "2026-04-22",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "TRT-11 monitora execução de 52 projetos na primeira Reunião de Análise da Estratégia de 2026",
-      "summary": "Encontro híbrido reuniu a gestão para avaliar resultados e alinhar o cumprimento das metas institucionais",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11284-trt-11-monitora-execucao-de-52-projetos-em-primeira-reuniao-de-analise-da-estrategia-de-2026",
-      "date": "2026-04-22",
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-23",
       "category": "Trabalhista"
     }
   ]

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-23T09:23:28.699001+00:00",
-  "total": 5,
+  "updated_at": "2026-04-23T14:11:16.527109+00:00",
+  "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quinta-feira (23)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-23-2/",
+      "date": "2026-04-23",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF suspende análise do valor do mínimo existencial em negociações de superendividamento",
@@ -11,36 +19,52 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "PDT questiona no STF eleição da Mesa Diretora da Assembleia Legislativa do Rio de Janeiro por voto aberto",
-      "summary": "Agremiação aponta violação a princípios constitucionais e irregularidades no Regimento Interno da Alerj",
-      "url": "https://noticias.stf.jus.br/postsnoticias/pdt-questiona-no-stf-eleicao-da-mesa-diretora-da-assembleia-legislativa-do-rio-de-janeiro-por-voto-aberto/",
-      "date": "2026-04-23",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Entender Direito estreia o primeiro de dois episódios sobre direito digital",
-      "summary": "Entender Direito estreia o primeiro de dois episódios sobre direito digital",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-Entender-Direito-estreia-o-primeiro-de-dois-episodios-sobre-direito-digital.aspx",
+      "title": "Entenda a Decisão: nova publicação explica teses do STJ em linguagem simples; leia a primeira edição",
+      "summary": "Entenda a Decisão: nova publicação explica teses do STJ em linguagem simples; leia a primeira edição",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23042026-Entenda-a-Decisao-nova-publicacao-explica-teses-do-STJ-em-linguagem-simples--leia-a-primeira-edicao.aspx",
       "date": "2026-04-23",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Tribunal autoriza retirada de sobrenome paterno do registro civil em razão de abandono afetivo",
-      "summary": "Tribunal autoriza retirada de sobrenome paterno do registro civil em razão de abandono afetivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-Tribunal-autoriza-retirada-de-sobrenome-paterno-do-registro-civil-em-razao-de-abandono-afetivo.aspx",
+      "title": "Rescisão de contrato imobiliário com alienação fiduciária sem registro em cartório é tema de repetitivo",
+      "summary": "Rescisão de contrato imobiliário com alienação fiduciária sem registro em cartório é tema de repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23042026-Rescisao-de-contrato-imobiliario-com-alienacao-fiduciaria-sem-registro-em-cartorio-e-tema-de-repetitivo.aspx",
       "date": "2026-04-23",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "I Congresso Internacional Justiça Originária acontece nos dias 28 e 29 de abril",
-      "summary": "I Congresso Internacional Justiça Originária acontece nos dias 28 e 29 de abril",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-I-Congresso-Internacional-Justica-Originaria-acontece-nos-dias-28-e-29-de-abril.aspx",
+      "title": "Evento que celebra um ano do Cejusc/STJ acontece nesta quinta (23), com transmissão ao vivo",
+      "summary": "Evento que celebra um ano do Cejusc/STJ acontece nesta quinta (23), com transmissão ao vivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23042026-Evento-que-celebra-um-ano-do-CejuscSTJ-acontece-nesta-quinta--23---com-transmissao-ao-vivo.aspx",
       "date": "2026-04-23",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Ouvidoria da Justiça do Trabalho participa de mutirão de atendimento a pessoas em situação de rua em Manaus",
+      "summary": "Evento que integra o PopRuaJud acontece nesta sexta (24/4) no Centro de Convenções Vasco Vasques",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11285-ouvidoria-da-justica-do-trabalho-participa-de-mutirao-de-atendimento-a-pessoas-em-situacao-de-rua-em-manaus",
+      "date": "2026-04-23",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "TRT-11 monitora execução de 52 projetos na primeira Reunião de Análise da Estratégia de 2026",
+      "summary": "Encontro híbrido reuniu a gestão para avaliar resultados e alinhar o cumprimento das metas institucionais",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11284-trt-11-monitora-execucao-de-52-projetos-em-primeira-reuniao-de-analise-da-estrategia-de-2026",
+      "date": "2026-04-23",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-23",
+      "category": "Trabalhista"
     }
   ]
 }

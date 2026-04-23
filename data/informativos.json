@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T08:10:38.387967+00:00",
-  "total": 6,
+  "updated_at": "2026-04-23T09:23:28.699001+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
@@ -41,14 +41,6 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22042026-I-Congresso-Internacional-Justica-Originaria-acontece-nos-dias-28-e-29-de-abril.aspx",
       "date": "2026-04-23",
       "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-04-23",
-      "category": "Trabalhista"
     }
   ]
 }

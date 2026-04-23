@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-04-23T14:11:16.527109+00:00",
-  "total": 8,
+  "updated_at": "2026-04-23T19:41:15.974404+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (23)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-23-2/",
+      "title": "STF recebe mais duas ações sobre Marco Legal do Combate ao Crime Organizado",
+      "summary": "Principais alegações são de violação a garantias fundamentais e endurecimento penal excessivo",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-mais-duas-acoes-sobre-marco-legal-do-combate-ao-crime-organizado/",
       "date": "2026-04-23",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF suspende análise do valor do mínimo existencial em negociações de superendividamento",
-      "summary": "Todos os votos já proferidos reconhecem a necessidade de estudos periódicos para atualização do valor previsto em decreto",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-analise-do-valor-do-minimo-existencial-em-negociacoes-de-superendividamento/",
+      "title": "Confira a pauta do STF desta quinta-feira (23)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-23-2/",
       "date": "2026-04-23",
       "category": "Constitucional"
     },
@@ -44,25 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Ouvidoria da Justiça do Trabalho participa de mutirão de atendimento a pessoas em situação de rua em Manaus",
-      "summary": "Evento que integra o PopRuaJud acontece nesta sexta (24/4) no Centro de Convenções Vasco Vasques",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11285-ouvidoria-da-justica-do-trabalho-participa-de-mutirao-de-atendimento-a-pessoas-em-situacao-de-rua-em-manaus",
+      "title": "Empreiteira e dona da obra são condenadas por acidente de trabalho que resultou em perda de visão de trabalhador, em Manaus",
+      "summary": "O Juízo da 2ª VTM entendeu que houve o descumprimento de deveres legais de segurança do trabalho",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11292-empreiteira-e-dona-da-obra-sao-condenadas-por-acidente-de-trabalho-que-resultou-em-perda-de-visao-de-trabalhador-em-manaus",
       "date": "2026-04-23",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 monitora execução de 52 projetos na primeira Reunião de Análise da Estratégia de 2026",
-      "summary": "Encontro híbrido reuniu a gestão para avaliar resultados e alinhar o cumprimento das metas institucionais",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11284-trt-11-monitora-execucao-de-52-projetos-em-primeira-reuniao-de-analise-da-estrategia-de-2026",
-      "date": "2026-04-23",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
+      "title": "TRT-11 suspende atendimento ao público externo em unidades de Manaus nesta quinta-feira (23/4)",
+      "summary": "As audiências presenciais já agendadas permanecem mantidas.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11291-trt-11-suspende-atendimento-ao-publico-externo-em-unidades-de-manaus-nesta-quinta-feira-23-4",
       "date": "2026-04-23",
       "category": "Trabalhista"
     }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-23T19:41:15.974404+00:00",
-  "total": 7,
+  "updated_at": "2026-04-24T03:50:30.596588+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF recebe mais duas ações sobre Marco Legal do Combate ao Crime Organizado",
-      "summary": "Principais alegações são de violação a garantias fundamentais e endurecimento penal excessivo",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-mais-duas-acoes-sobre-marco-legal-do-combate-ao-crime-organizado/",
-      "date": "2026-04-23",
+      "title": "Rádio Justiça: discussão sobre fake news é um dos destaques desta sexta-feira (24)",
+      "summary": "Programa Revista Justiça aborda a aposentadoria compulsórira de empregados públicos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-discussao-sobre-fake-news-e-um-dos-destaques-desta-sexta-feira-24/",
+      "date": "2026-04-24",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (23)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-23-2/",
-      "date": "2026-04-23",
+      "title": "Supremo confirma constitucionalidade de regras do setor automotivo e mantém validade da Lei Ferrari",
+      "summary": "Por unanimidade, Corte entendeu que norma integra regulação legítima da atividade econômica",
+      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-confirma-constitucionalidade-de-regras-do-setor-automotivo-e-mantem-validade-da-lei-ferrari/",
+      "date": "2026-04-24",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Entenda a Decisão: nova publicação explica teses do STJ em linguagem simples; leia a primeira edição",
       "summary": "Entenda a Decisão: nova publicação explica teses do STJ em linguagem simples; leia a primeira edição",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23042026-Entenda-a-Decisao-nova-publicacao-explica-teses-do-STJ-em-linguagem-simples--leia-a-primeira-edicao.aspx",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Rescisão de contrato imobiliário com alienação fiduciária sem registro em cartório é tema de repetitivo",
       "summary": "Rescisão de contrato imobiliário com alienação fiduciária sem registro em cartório é tema de repetitivo",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23042026-Rescisao-de-contrato-imobiliario-com-alienacao-fiduciaria-sem-registro-em-cartorio-e-tema-de-repetitivo.aspx",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Evento que celebra um ano do Cejusc/STJ acontece nesta quinta (23), com transmissão ao vivo",
       "summary": "Evento que celebra um ano do Cejusc/STJ acontece nesta quinta (23), com transmissão ao vivo",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23042026-Evento-que-celebra-um-ano-do-CejuscSTJ-acontece-nesta-quinta--23---com-transmissao-ao-vivo.aspx",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Empreiteira e dona da obra são condenadas por acidente de trabalho que resultou em perda de visão de trabalhador, em Manaus",
       "summary": "O Juízo da 2ª VTM entendeu que houve o descumprimento de deveres legais de segurança do trabalho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11292-empreiteira-e-dona-da-obra-sao-condenadas-por-acidente-de-trabalho-que-resultou-em-perda-de-visao-de-trabalhador-em-manaus",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,15 @@
       "title": "TRT-11 suspende atendimento ao público externo em unidades de Manaus nesta quinta-feira (23/4)",
       "summary": "As audiências presenciais já agendadas permanecem mantidas.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11291-trt-11-suspende-atendimento-ao-publico-externo-em-unidades-de-manaus-nesta-quinta-feira-23-4",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-24",
       "category": "Trabalhista"
     }
   ]

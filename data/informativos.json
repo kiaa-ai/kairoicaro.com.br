@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-24T09:28:05.753386+00:00",
-  "total": 4,
+  "updated_at": "2026-04-24T14:07:22.407276+00:00",
+  "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "135 anos do STF: 66 anos de Brasília e do STF na nova capital",
+      "summary": "Série “Tá na Nossa História” revisita os primórdios da Corte, seus marcos institucionais, a evolução de suas competências e o papel desempenhado na consolidação da República, da democracia e dos direitos fundamentais no Brasil",
+      "url": "https://noticias.stf.jus.br/postsnoticias/135-anos-do-stf-66-anos-de-brasilia-e-do-stf-na-nova-capital/",
+      "date": "2026-04-24",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Rádio Justiça: discussão sobre fake news é um dos destaques desta sexta-feira (24)",
@@ -11,12 +19,28 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Supremo confirma constitucionalidade de regras do setor automotivo e mantém validade da Lei Ferrari",
-      "summary": "Por unanimidade, Corte entendeu que norma integra regulação legítima da atividade econômica",
-      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-confirma-constitucionalidade-de-regras-do-setor-automotivo-e-mantem-validade-da-lei-ferrari/",
+      "tribunal": "STJ",
+      "title": "Tribunal devolve mais de 11 mil recursos em 2025 devido à afetação de temas repetitivos",
+      "summary": "Tribunal devolve mais de 11 mil recursos em 2025 devido à afetação de temas repetitivos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Tribunal-devolve-mais-de-11-mil-recursos-em-2025-devido-a-afetacao-de-temas-repetitivos.aspx",
       "date": "2026-04-24",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Corte Especial reafirma que citação por WhatsApp é inválida em ações de estado",
+      "summary": "Corte Especial reafirma que citação por WhatsApp é inválida em ações de estado",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Corte-Especial-reafirma-que-citacao-por-WhatsApp-e-invalida-em-acoes-de-estado.aspx",
+      "date": "2026-04-24",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Recibo de compra e venda do imóvel pode servir como justo título em ação de usucapião ordinária",
+      "summary": "Para a Terceira Turma, a exigência legal de justo título deve ser interpretada de modo a alcançar situações em que se possa verificar a inequívoca intenção das partes de transmitir a propriedade.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Recibo-de-compra-e-venda-do-imovel-pode-servir-como-justo-titulo-em-acao-de-usucapiao-ordinaria.aspx",
+      "date": "2026-04-24",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
@@ -31,6 +55,14 @@
       "title": "TRT-11 suspende atendimento ao público externo em unidades de Manaus nesta quinta-feira (23/4)",
       "summary": "As audiências presenciais já agendadas permanecem mantidas.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11291-trt-11-suspende-atendimento-ao-publico-externo-em-unidades-de-manaus-nesta-quinta-feira-23-4",
+      "date": "2026-04-24",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-04-24",
       "category": "Trabalhista"
     }

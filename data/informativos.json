@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T08:46:31.042155+00:00",
-  "total": 7,
+  "updated_at": "2026-04-25T13:39:35.387051+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "Aprendizagem é caminho para qualificação e erradicação do trabalho infantil",
       "summary": "Justiça do Trabalho atua para promover esse instrumento de inclusão",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11294-aprendizagem-e-caminho-para-qualificacao-e-erradicacao-do-trabalho-infantil",
+      "date": "2026-04-25",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-04-25",
       "category": "Trabalhista"
     }

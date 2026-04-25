@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-24T19:13:17.938045+00:00",
-  "total": 6,
+  "updated_at": "2026-04-25T03:31:49.148647+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF decide que presidente do TJ deve ser mantido como governador do Rio de Janeiro",
-      "summary": "Ministro Zanin explicou que, quando foi suspenso o julgamento no STF sobre as eleições no estado, o Plenário assinalou que o presidente do TJ permaneceria no cargo até nova deliberação da Corte",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-presidente-do-tj-deve-ser-mantido-como-governador-do-rio-de-janeiro/",
-      "date": "2026-04-24",
+      "title": "Presidente do STF suspende decisão que barrava venda de bens do DF para socorrer BRB",
+      "summary": "Decisão do ministro Edson Fachin será submetida a referendo do Plenário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-suspende-decisao-que-barrava-venda-de-bens-do-df-para-socorrer-brb/",
+      "date": "2026-04-25",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Plenário conclui oito julgamentos em um único dia, destaca presidente do STF ao encerrar sessão",
-      "summary": "Casos analisados abrangeram temas como superendividamento, concursos públicos e aquisição de terras por empresas controladas por estrangeiros",
-      "url": "https://noticias.stf.jus.br/postsnoticias/plenario-conclui-oito-julgamentos-em-um-unico-dia-destaca-presidente-do-stf-ao-encerrar-sessao/",
-      "date": "2026-04-24",
+      "title": "STF determina início do cumprimento de pena de condenados do Núcleo 2 da tentativa de golpe",
+      "summary": "Decisão do ministro Alexandre de Moraes inicia execução das condenações impostas na AP 2693",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-inicio-do-cumprimento-de-pena-de-condenados-do-nucleo-2-por-tentativa-de-golpe/",
+      "date": "2026-04-25",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Tribunal devolve mais de 11 mil recursos em 2025 devido à afetação de temas repetitivos",
       "summary": "Tribunal devolve mais de 11 mil recursos em 2025 devido à afetação de temas repetitivos",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Tribunal-devolve-mais-de-11-mil-recursos-em-2025-devido-a-afetacao-de-temas-repetitivos.aspx",
-      "date": "2026-04-24",
+      "date": "2026-04-25",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Corte Especial reafirma que citação por WhatsApp é inválida em ações de estado",
       "summary": "Corte Especial reafirma que citação por WhatsApp é inválida em ações de estado",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Corte-Especial-reafirma-que-citacao-por-WhatsApp-e-invalida-em-acoes-de-estado.aspx",
-      "date": "2026-04-24",
+      "date": "2026-04-25",
       "category": "Jurisprudencia"
     },
     {
@@ -39,15 +39,23 @@
       "title": "Recibo de compra e venda do imóvel pode servir como justo título em ação de usucapião ordinária",
       "summary": "Para a Terceira Turma, a exigência legal de justo título deve ser interpretada de modo a alcançar situações em que se possa verificar a inequívoca intenção das partes de transmitir a propriedade.",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Recibo-de-compra-e-venda-do-imovel-pode-servir-como-justo-titulo-em-acao-de-usucapiao-ordinaria.aspx",
-      "date": "2026-04-24",
+      "date": "2026-04-25",
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-04-24",
+      "tribunal": "TRT11",
+      "title": "Projeto “Sinuca das Competências” é incluído no Portal Nacional de Boas Práticas do CNJ",
+      "summary": "Plataforma gamificada do TRT-11 poderá ser replicada por outros tribunais do país.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11295-projeto-sinuca-das-competencias-e-incluido-no-portal-nacional-de-boas-praticas-do-cnj",
+      "date": "2026-04-25",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Aprendizagem é caminho para qualificação e erradicação do trabalho infantil",
+      "summary": "Justiça do Trabalho atua para promover esse instrumento de inclusão",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11294-aprendizagem-e-caminho-para-qualificacao-e-erradicacao-do-trabalho-infantil",
+      "date": "2026-04-25",
       "category": "Trabalhista"
     }
   ]

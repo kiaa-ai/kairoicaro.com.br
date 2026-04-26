@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-04-25T08:46:34.775725+00:00",
+  "updated_at": "2026-04-26T08:55:49.351158+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "25.abr.2026Após negativa de plano, TRF-2 garante continuidade de tratamento a pacientes oncológicosDecisão mantém atendimento integral e impede interrupção de terapias já iniciadas.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-26",
+      "url": "https://www.migalhas.com.br/quentes/454588/negativa-de-plano-trf-2-garante-tratamento-a-pacientes-oncologicos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.abr.2026Escritório dos EUA pede desculpas à Justiça por erros de IA em documentoBanca afirmou que tem políticas rigorosas para o uso responsável de ferramentas de IA. Documento com erros foi corrigido.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-26",
+      "url": "https://www.migalhas.com.br/quentes/454635/escritorio-dos-eua-pede-desculpas-a-justica-por-erros-de-ia-em-peticao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.abr.2026Dona de veículo que teve seguro cancelado indevidamente será indenizadaJuízo reconheceu falha na prestação do serviço após associação desconsiderar pagamento feito em lotérica e devidamente comprovado.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-26",
+      "url": "https://www.migalhas.com.br/quentes/454608/dona-de-veiculo-sera-indenizada-apos-seguro-cancelado-indevidamente"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.abr.2026Juíza afasta IR de gratificação de professor e Estado devolverá valoresMagistrada reconheceu natureza indenizatória das verbas e mandou restituir descontos indevidos.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-26",
+      "url": "https://www.migalhas.com.br/quentes/454450/juiza-afasta-ir-de-gratificacao-de-professor-e-estado-devolvera-valor"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.abr.2026Merendeira receberá adicional de insalubridade por exposição ao calor excessivoA decisão foi baseada em laudo pericial que comprovou a inadequação das condições de trabalho.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-26",
+      "url": "https://www.migalhas.com.br/quentes/454425/merendeira-recebera-insalubridade-por-exposicao-ao-calor-excessivo"
+    },
     {
       "setor": "empresarial",
       "title": "24.abr.2026Cade mantém multa diária à Meta por cobrança de mensagens por chatbotsMeta não restabeleceu condições concorrenciais e manteve cobrança a chatbots de IA no WhatsApp Business, em descumprimento de ordem do Cade; multa é de R$ 250 mil por dia.",
@@ -81,46 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-04-24",
       "url": "https://www.migalhas.com.br/quentes/454524/moraes-cita-autores-tradicionais-e-diz-que-gilmar-e-jovem-perto-deles"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.abr.2026STF valida lei Ferrari; norma prevê restrições no mercado automotivoCorte considerou constitucionais regras que disciplinam a relação entre montadoras e concessionárias e afastou violação à livre concorrência e à livre iniciativa.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-24",
-      "url": "https://www.migalhas.com.br/quentes/451608/stf-valida-lei-ferrari-norma-preve-restricoes-no-mercado-automotivo"
-    },
-    {
-      "setor": "ambiental",
-      "title": "23.abr.2026Fica na 2ª turma ou volta para a 1ª? Dino e Toffoli \"disputam\" FuxDurante julgamento no STF, ministros brincaram após voto de Luiz Fux, que migrou para a 2ª turma, se alinhar ao entendimento da 1ª.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-24",
-      "url": "https://www.migalhas.com.br/quentes/454519/fica-na-2-turma-ou-volta-para-a-1--dino-e-toffoli-disputam-fux"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.abr.2026Mínimo existencial: Entenda controle do STF sobre decreto regulamentarCorte admitiu ADPFs para discutir decreto presidencial que regulamentou lei do superendividamento.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-23",
-      "url": "https://www.migalhas.com.br/quentes/454406/minimo-existencial-entenda-controle-do-stf-sobre-decreto-regulamentar"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.abr.2026Gilmar aponta gravidade das bets e cita tratamento como vício em PortugalGilmar alertou para o impacto das apostas no superendividamento de brasileiros e citou exemplo de Portugal, onde o problema é tratado como vício.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-23",
-      "url": "https://www.migalhas.com.br/quentes/454419/gilmar-aponta-gravidade-das-bets-e-cita-tratamento-como-vicio"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.abr.2026STF: Dino e Fux apontam bets como principal causa de endividamento no BrasilMinistros ressaltam que apostas online ferem a dignidade e alertam para impactos financeiros nas famílias brasileiras: \"as pessoas gastam o dinheiro do consumo e do mínimo existencial em bets\".",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-23",
-      "url": "https://www.migalhas.com.br/quentes/454411/stf-dino-e-fux-apontam-bets-como-principal-causa-de-endividamento"
     }
   ]
 }

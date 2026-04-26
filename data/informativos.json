@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T07:54:58.916873+00:00",
-  "total": 6,
+  "updated_at": "2026-04-26T08:55:46.047237+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -41,6 +41,22 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Recibo-de-compra-e-venda-do-imovel-pode-servir-como-justo-titulo-em-acao-de-usucapiao-ordinaria.aspx",
       "date": "2026-04-26",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Projeto “Sinuca das Competências” é incluído no Portal Nacional de Boas Práticas do CNJ",
+      "summary": "Plataforma gamificada do TRT-11 poderá ser replicada por outros tribunais do país.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11295-projeto-sinuca-das-competencias-e-incluido-no-portal-nacional-de-boas-praticas-do-cnj",
+      "date": "2026-04-26",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Aprendizagem é caminho para qualificação e erradicação do trabalho infantil",
+      "summary": "Justiça do Trabalho atua para promover esse instrumento de inclusão",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11294-aprendizagem-e-caminho-para-qualificacao-e-erradicacao-do-trabalho-infantil",
+      "date": "2026-04-26",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TST",

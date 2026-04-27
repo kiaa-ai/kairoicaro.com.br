@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-27T10:10:47.949509+00:00",
+  "updated_at": "2026-04-27T14:26:32.896825+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF suspende decisões que bloqueavam recursos de empresa pública de Sergipe",
+      "summary": "Na decisão, ministro Flávio Dino verificou que a Pronese atende aos requisitos previstos na jurisprudência do STF para se submeter ao regime de precatórios",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-decisoes-que-bloqueavam-recursos-de-empresa-publica-de-sergipe/",
+      "date": "2026-04-27",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Definição sobre mínimo existencial em negociações de superendividamento é destaque no Supremo na Semana",
@@ -11,50 +19,42 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Presidente do STF suspende decisão que barrava venda de bens do DF para socorrer BRB",
-      "summary": "Decisão do ministro Edson Fachin será submetida a referendo do Plenário",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-suspende-decisao-que-barrava-venda-de-bens-do-df-para-socorrer-brb/",
-      "date": "2026-04-27",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "STJ avança na discussão sobre quebra do sigilo bancário em ações cíveis",
-      "summary": "Utilizada com mais frequência na Justiça criminal, para investigações ou bloqueio de patrimônio ilícito, a quebra de sigilo bancário é admitida no âmbito cível, mas apenas em caráter excepcional.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26042026-STJ-avanca-na-discussao-sobre-quebra-do-sigilo-bancario-em-acoes-civeis.aspx",
+      "title": "Informativo traz direito à remoção de servidor por motivo de saúde e identificação de conteúdo ilícito na internet",
+      "summary": "Informativo traz direito à remoção de servidor por motivo de saúde e identificação de conteúdo ilícito na internet",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Informativo-traz-direito-a-remocao-de-servidor-por-motivo-de-saude-e-identificacao-de-conteudo-ilicito-na-internet.aspx",
       "date": "2026-04-27",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Tribunal devolve mais de 11 mil recursos em 2025 devido à afetação de temas repetitivos",
-      "summary": "Tribunal devolve mais de 11 mil recursos em 2025 devido à afetação de temas repetitivos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Tribunal-devolve-mais-de-11-mil-recursos-em-2025-devido-a-afetacao-de-temas-repetitivos.aspx",
+      "title": "Terceira Seção começa às 9h30 no dia 13 de maio",
+      "summary": "Terceira Seção começa às 9h30 no dia 13 de maio",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Terceira-Secao-comeca-as-9h30-no-dia-13-de-maio.aspx",
       "date": "2026-04-27",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Corte Especial reafirma que citação por WhatsApp é inválida em ações de estado",
-      "summary": "Corte Especial reafirma que citação por WhatsApp é inválida em ações de estado",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24042026-Corte-Especial-reafirma-que-citacao-por-WhatsApp-e-invalida-em-acoes-de-estado.aspx",
+      "title": "Biblioteca do STJ será reinaugurada no próximo dia 5 com exposição de obras",
+      "summary": "Reforma melhorou condições de estudo e acessibilidade",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Biblioteca-do-STJ-sera-reinaugurada-no-proximo-dia-5-com-exposicao-de-obras.aspx",
       "date": "2026-04-27",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "PopRuaJud realiza ação em Iranduba e Manaus para ampliar acesso à justiça e à cidadania",
+      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) por meio da Ouvidoria Regional participou de duas ações sociais do Programa PopRuaJud, em 17/4 na cidade de Iranduba, e em 24/4 em Manaus. Durante as atividades, houve a oferta de serviços como orientação jurídica, emissão e regularização de docu",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11296-popruajud-realiza-acao-em-iranduba-e-manaus-para-ampliar-acesso-a-justica-e-a-cidadania",
+      "date": "2026-04-27",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Projeto “Sinuca das Competências” é incluído no Portal Nacional de Boas Práticas do CNJ",
       "summary": "Plataforma gamificada do TRT-11 poderá ser replicada por outros tribunais do país.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11295-projeto-sinuca-das-competencias-e-incluido-no-portal-nacional-de-boas-praticas-do-cnj",
-      "date": "2026-04-27",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Aprendizagem é caminho para qualificação e erradicação do trabalho infantil",
-      "summary": "Justiça do Trabalho atua para promover esse instrumento de inclusão",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11294-aprendizagem-e-caminho-para-qualificacao-e-erradicacao-do-trabalho-infantil",
       "date": "2026-04-27",
       "category": "Trabalhista"
     }

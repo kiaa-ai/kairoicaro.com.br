@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-04-27T14:26:32.896825+00:00",
+  "updated_at": "2026-04-27T19:48:25.533734+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF suspende decisões que bloqueavam recursos de empresa pública de Sergipe",
-      "summary": "Na decisão, ministro Flávio Dino verificou que a Pronese atende aos requisitos previstos na jurisprudência do STF para se submeter ao regime de precatórios",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-decisoes-que-bloqueavam-recursos-de-empresa-publica-de-sergipe/",
+      "title": "STF concede prisão domiciliar humanitária a 19 condenados por atos ligados à tentativa de golpe de Estado",
+      "summary": "Decisões beneficiam pessoas condenadas com mais de 60 anos e levam em consideração a vulnerabilidade etária e os riscos à saúde no sistema prisional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-concede-prisao-domiciliar-humanitaria-a-19-condenados-por-atos-ligados-a-tentativa-de-golpe-de-estado/",
       "date": "2026-04-27",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Definição sobre mínimo existencial em negociações de superendividamento é destaque no Supremo na Semana",
-      "summary": "Episódio #187 está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/definicao-sobre-minimo-existencial-em-negociacoes-de-superendividamento-e-destaque-no-supremo-na-semana/",
+      "title": "Pioneira: há 20 anos, a ministra Ellen Gracie assumia a Presidência do STF",
+      "summary": "Primeira mulher a ocupar o cargo, ela deixou um legado de pioneirismo, modernização e fortalecimento institucional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/pioneira-ha-20-anos-a-ministra-ellen-gracie-assumia-a-presidencia-do-stf/",
       "date": "2026-04-27",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Cejusc/STJ comemora um ano de trabalho com mais de 80 processos recebidos",
+      "summary": "Cejusc/STJ comemora um ano de trabalho com mais de 80 processos recebidos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-CejuscSTJ-comemora-um-ano-de-trabalho-com-mais-de-80-processos-recebidos.aspx",
+      "date": "2026-04-27",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Biblioteca do STJ será reinaugurada no próximo dia 5 com exposição de obras",
-      "summary": "Reforma melhorou condições de estudo e acessibilidade",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Biblioteca-do-STJ-sera-reinaugurada-no-proximo-dia-5-com-exposicao-de-obras.aspx",
-      "date": "2026-04-27",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "PopRuaJud realiza ação em Iranduba e Manaus para ampliar acesso à justiça e à cidadania",
-      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) por meio da Ouvidoria Regional participou de duas ações sociais do Programa PopRuaJud, em 17/4 na cidade de Iranduba, e em 24/4 em Manaus. Durante as atividades, houve a oferta de serviços como orientação jurídica, emissão e regularização de docu",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11296-popruajud-realiza-acao-em-iranduba-e-manaus-para-ampliar-acesso-a-justica-e-a-cidadania",
+      "title": "TRT-11 inaugura projeto “Sextou com Acordo” e alcança mais de 40% de conciliações na primeira edição",
+      "summary": "Das 24 audiências agendadas, 10 resultaram em acordos homologados.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11300-trt-11-inaugura-projeto-sextou-com-acordo-e-alcanca-mais-de-40-de-conciliacoes-na-primeira-edicao",
       "date": "2026-04-27",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Projeto “Sinuca das Competências” é incluído no Portal Nacional de Boas Práticas do CNJ",
-      "summary": "Plataforma gamificada do TRT-11 poderá ser replicada por outros tribunais do país.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11295-projeto-sinuca-das-competencias-e-incluido-no-portal-nacional-de-boas-praticas-do-cnj",
+      "title": "Café com Cejusc-JT em Boa Vista ocorre nesta terça-feira (28)",
+      "summary": "Evento é uma das ações preparatórias para a 10ª Semana Nacional da Conciliação Trabalhista",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11299-cafe-com-cejusc-jt-em-boa-vista-ocorre-nesta-terca-feira-28",
       "date": "2026-04-27",
       "category": "Trabalhista"
     }

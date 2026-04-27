@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-26T08:55:49.351158+00:00",
+  "updated_at": "2026-04-27T10:10:51.307475+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "27.abr.2026Fim da escala 6x1 reacende debate econômico e social, diz advogadoPlaton Neto acredita que o projeto trará uma transformação cultural no país e, por isso, não deve ser aprovado de forma apressada.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-27",
+      "url": "https://www.migalhas.com.br/quentes/454597/fim-da-escala-6x1-reacende-debate-economico-e-social-diz-advogado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "27.abr.2026STF: 1ª turma julga danos a fotojornalista que perdeu visão em protestoCaso discute responsabilidade do Estado por disparo de bala de borracha durante manifestação em 2013.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-27",
+      "url": "https://www.migalhas.com.br/quentes/454615/stf-1-turma-julga-danos-a-fotografo-que-perdeu-visao-em-protesto"
+    },
+    {
+      "setor": "empresarial",
+      "title": "27.abr.2026Memória afiada: Leitor cumpre desafio lançado há 110 edições do Migalhas e leva prêmioMigalheiro atento, Éric Vieira se antecipou à edição palíndroma 6.336, relembrou desafio lançado em 2025, e foi premiado.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-27",
+      "url": "https://www.migalhas.com.br/quentes/454594/leitor-cumpre-desafio-lancado-ha-110-edicoes-do-migalhas-e-leva-premio"
+    },
+    {
+      "setor": "empresarial",
+      "title": "26.abr.2026Mulher que contestou dívida de empréstimo válido é condenada por má-féApós ajuizar ação por negativação supostamente indevida, autora não comprovou quitação do débito.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-27",
+      "url": "https://www.migalhas.com.br/quentes/454498/mulher-que-contestou-divida-de-emprestimo-valido-e-condenada-por-ma-fe"
+    },
+    {
+      "setor": "varejo",
+      "title": "26.abr.2026Juiz rescinde contrato de time sharing com devolução de 80% dos valores pagosConsumidora alegou que não conseguiu usufruir dos serviços contratados.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-27",
+      "url": "https://www.migalhas.com.br/quentes/454393/juiz-rescinde-time-sharing-com-devolucao-de-80-dos-valores-pagos"
+    },
+    {
+      "setor": "varejo",
+      "title": "26.abr.2026Crédito rural: Juiz suspende dívida e impede negativação de produtorDiante de prejuízos na safra, magistrado destacou que a negativação comprometeria o acesso ao crédito e, consequentemente, o custeio da atividade agrícola.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-27",
+      "url": "https://www.migalhas.com.br/quentes/454421/credito-rural-juiz-suspende-divida-e-impede-negativacao-de-produtor"
+    },
     {
       "setor": "empresarial",
       "title": "25.abr.2026Após negativa de plano, TRF-2 garante continuidade de tratamento a pacientes oncológicosDecisão mantém atendimento integral e impede interrupção de terapias já iniciadas.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-04-25",
       "url": "https://www.migalhas.com.br/quentes/454573/estado-de-sp-e-condenado-em-r-258-mil-por-tortura-em-presidio"
-    },
-    {
-      "setor": "varejo",
-      "title": "24.abr.2026Senacon impõe medida ao BRB por recusa em cancelar débitos automáticosCautelar visa garantir controle do consumidor sobre a renda.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-25",
-      "url": "https://www.migalhas.com.br/quentes/454623/senacon-impoe-medida-ao-brb-por-recusa-em-cancelar-debitos-automaticos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.abr.2026Juiz anula execução bancária após revisão contratual tornar dívida ilíquidaDecisão reconheceu que revisão de contratos bancários, com limitação de juros e exclusão de seguro, alterou o valor da dívida e exige recálculo, afastando a liquidez do título executivo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-25",
-      "url": "https://www.migalhas.com.br/quentes/454592/juiz-anula-execucao-apos-revisao-contratual-tornar-divida-iliquida"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.abr.2026STF julga 8 ações em uma sessão e Dino alfineta: \"ativismo judicial\"Após balanço da sessão feito pelo presidente da Corte, ministro Fachin, Dino ironizou eficiência do colegiado.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-24",
-      "url": "https://www.migalhas.com.br/quentes/454528/stf-julga-8-acoes-em-uma-sessao-e-dino-alfineta--ativismo-judicial"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.abr.2026Ao defender intervenção econômica, Dino cita fraudes em postos e betsPara ministro, ausência de regulação em setores econômicos pode abrir espaço para atuação de organizações criminosas.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-24",
-      "url": "https://www.migalhas.com.br/quentes/454527/ao-defender-intervencao-economica-dino-cita-fraudes-em-postos-e-bets"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.abr.2026OAB cria comissão para articular propostas de reforma do JudiciárioComissão de mobilização para a reforma do Poder Judiciário irá coordenar propostas aprovadas pela entidade, mobilizar a advocacia e reunir contribuições das seccionais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-24",
-      "url": "https://www.migalhas.com.br/quentes/454525/oab-cria-comissao-para-articular-propostas-de-reforma-do-judiciario"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.abr.2026STF: Moraes cita autores tradicionais e diz que Gilmar é \"um jovem\" perto delesEm voto, Moraes se referiu aos professores Celso Bastos, Manoel Gonçalves Ferreira Filho e Pinto Ferreira como \"a escola tradicional mais antiga do constitucionalismo brasileiro\".",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-24",
-      "url": "https://www.migalhas.com.br/quentes/454524/moraes-cita-autores-tradicionais-e-diz-que-gilmar-e-jovem-perto-deles"
     }
   ]
 }

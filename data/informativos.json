@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-28T10:09:52.754540+00:00",
+  "updated_at": "2026-04-28T14:41:42.714798+00:00",
   "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Presidente do STF destaca protagonismo indígena em congresso internacional sobre justiça e povos originários",
+      "summary": "Ministro Edson Fachin falou na abertura do I Congresso Internacional Justiça Originária: Povos Indígenas, Territórios e Sistema de Justiça",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-destaca-protagonismo-indigena-em-congresso-internacional-sobre-justica-e-povos-originarios/",
+      "date": "2026-04-28",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Centro de Estudos Constitucionais do STF divulga dois novos editais para coleta de contribuições",
@@ -11,50 +19,42 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Rede questiona no STF operações com empresa de mineração de terras raras",
-      "summary": "Partido pede a adoção de mecanismos mais rigorosos para avaliar impacto econômico e soberania nacional",
-      "url": "https://noticias.stf.jus.br/postsnoticias/rede-questiona-no-stf-operacoes-com-empresa-de-mineracao-de-terras-raras/",
-      "date": "2026-04-28",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Descriminalização da posse de maconha para uso pessoal não afasta falta grave no âmbito da execução penal",
-      "summary": "No entendimento da Quinta Turma, a posse de droga no presídio compromete a disciplina e influencia negativamente o comportamento de outros detentos, o que justifica a classificação como falta grave.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Descriminalizacao-da-posse-de-maconha-para-uso-pessoal-nao-afasta-falta-grave-no-ambito-da-execucao-penal.aspx",
+      "title": "Competência para julgar casos de injúria racial contra adolescente é destaque no STJ Notícias",
+      "summary": "Competência para julgar casos de injúria racial contra adolescente é destaque no STJ Notícias",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Competencia-para-julgar-casos-de-injuria-racial-contra-adolescente-e-destaque-no-STJ-Noticias.aspx",
       "date": "2026-04-28",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Cejusc/STJ comemora um ano de trabalho com mais de 80 processos recebidos",
-      "summary": "Cejusc/STJ comemora um ano de trabalho com mais de 80 processos recebidos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-CejuscSTJ-comemora-um-ano-de-trabalho-com-mais-de-80-processos-recebidos.aspx",
+      "title": "Primeira Seção ajusta tese repetitiva e inclui teto para taifeiros da Aeronáutica com benefícios acumulados",
+      "summary": "Primeira Seção ajusta tese repetitiva e inclui teto para taifeiros da Aeronáutica com benefícios acumulados",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Primeira-Secao-ajusta-tese-repetitiva-e-inclui-teto-para-taifeiros-da-Aeronautica-com-beneficios-acumulados.aspx",
       "date": "2026-04-28",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Informativo traz direito à remoção de servidor por motivo de saúde e identificação de conteúdo ilícito na internet",
-      "summary": "Informativo traz direito à remoção de servidor por motivo de saúde e identificação de conteúdo ilícito na internet",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Informativo-traz-direito-a-remocao-de-servidor-por-motivo-de-saude-e-identificacao-de-conteudo-ilicito-na-internet.aspx",
+      "title": "Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió",
+      "summary": "Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Quarta-Turma-condena-Braskem-a-indenizar-porteiro-demitido-apos-desastre-ambiental-em-Maceio.aspx",
       "date": "2026-04-28",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 inaugura projeto “Sextou com Acordo” e alcança mais de 40% de conciliações na primeira edição",
-      "summary": "Das 24 audiências agendadas, 10 resultaram em acordos homologados.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11300-trt-11-inaugura-projeto-sextou-com-acordo-e-alcanca-mais-de-40-de-conciliacoes-na-primeira-edicao",
+      "title": "Moradores de 16 municípios do Amazonas e cinco de Roraima receberão itinerâncias no mês de maio",
+      "summary": "Justiça Itinerante estará presente nas localidades para esclarecer dúvidas e orientar a população sobre seus direitos como trabalhador",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11305-moradores-de-16-municipios-do-amazonas-e-cinco-de-roraima-receberam-itinerancias-no-mes-de-maio",
       "date": "2026-04-28",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Café com Cejusc-JT em Boa Vista ocorre nesta terça-feira (28)",
-      "summary": "Evento é uma das ações preparatórias para a 10ª Semana Nacional da Conciliação Trabalhista",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11299-cafe-com-cejusc-jt-em-boa-vista-ocorre-nesta-terca-feira-28",
+      "title": "Justiça do Trabalho debate fortalecimento da aprendizagem no Amazonas",
+      "summary": "Evento alusivo ao Dia Internacional do Aprendiz reuniu autoridades que abordaram conquistas da política de aprendizagem, alertaram para riscos de retrocesso e reforçaram a necessidade de ampliar vagas para jovens no interior do Amazonas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11303-justica-do-trabalho-debate-fortalecimento-da-aprendizagem-no-amazonas",
       "date": "2026-04-28",
       "category": "Trabalhista"
     },

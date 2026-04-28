@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-27T10:10:51.307475+00:00",
+  "updated_at": "2026-04-28T10:09:56.206649+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "28.abr.2026Livro \"Transações Tributárias Sustentáveis\" é lançado na OAB NacionalA publicação dos juristas Alexandre Arnone e Sóstenes Marchezine, da Arnone Advogados, amplia o debate nacional sobre o papel da advocacia no desenvolvimento sustentável.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-28",
+      "url": "https://www.migalhas.com.br/quentes/454676/livro-transacoes-tributarias-sustentaveis-e-lancado-na-oab-nacional"
+    },
+    {
+      "setor": "empresarial",
+      "title": "28.abr.2026Ives Gandra Martins é homenageado em estreia de talk show jurídico Professor participou da estreia do talk show \"Direito ao Ponto\", da EPD.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-28",
+      "url": "https://www.migalhas.com.br/quentes/454767/ives-gandra-martins-e-homenageado-em-estreia-de-talk-show-juridico"
+    },
+    {
+      "setor": "empresarial",
+      "title": "27.abr.2026Juíza mantém teletrabalho de advogados da Casa da Moeda do BrasilMagistrada suspendeu regime híbrido 4x1 e apontou possível ilegalidade em alteração unilateral das condições de trabalho.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-28",
+      "url": "https://www.migalhas.com.br/quentes/454755/juiza-mantem-teletrabalho-de-advogados-da-casa-da-moeda-do-brasil"
+    },
+    {
+      "setor": "empresarial",
+      "title": "27.abr.2026Culpa exclusiva da vítima: Seguradora não indenizará por atropelamentoAo analisar provas testemunhais e periciais, magistrada concluiu que vítima atravessou a via de forma repentina, afastando a culpa do motorista e o dever de indenizar.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-28",
+      "url": "https://www.migalhas.com.br/quentes/454756/culpa-exclusiva-da-vitima-seguradora-nao-indenizara-por-atropelamento"
+    },
+    {
+      "setor": "ambiental",
+      "title": "27.abr.2026CNJ: Badaró invalida proibição de registro de inventário arbitral em cartórioConselheiro entendeu que corregedoria estadual extrapolou limites da qualificação registral ao vedar, de forma genérica, registro de sentenças arbitrais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-28",
+      "url": "https://www.migalhas.com.br/quentes/454762/cnj-badaro-invalida-proibicao-de-inventario-arbitral-em-cartorio"
+    },
+    {
+      "setor": "empresarial",
+      "title": "27.abr.2026Kassio anula vínculo e pausa execução até STF decidir tema da pejotizaçãoMinistro cassou decisão do TRT da 15ª região que reconheceu vínculo empregatício entre corretor de imóveis e empresa.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-04-28",
+      "url": "https://www.migalhas.com.br/quentes/454750/kassio-anula-vinculo-e-pausa-execucao-ate-stf-decidir-pejotizacao"
+    },
     {
       "setor": "empresarial",
       "title": "27.abr.2026Fim da escala 6x1 reacende debate econômico e social, diz advogadoPlaton Neto acredita que o projeto trará uma transformação cultural no país e, por isso, não deve ser aprovado de forma apressada.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-04-26",
       "url": "https://www.migalhas.com.br/quentes/454608/dona-de-veiculo-sera-indenizada-apos-seguro-cancelado-indevidamente"
-    },
-    {
-      "setor": "empresarial",
-      "title": "25.abr.2026Juíza afasta IR de gratificação de professor e Estado devolverá valoresMagistrada reconheceu natureza indenizatória das verbas e mandou restituir descontos indevidos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-26",
-      "url": "https://www.migalhas.com.br/quentes/454450/juiza-afasta-ir-de-gratificacao-de-professor-e-estado-devolvera-valor"
-    },
-    {
-      "setor": "empresarial",
-      "title": "25.abr.2026Merendeira receberá adicional de insalubridade por exposição ao calor excessivoA decisão foi baseada em laudo pericial que comprovou a inadequação das condições de trabalho.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-26",
-      "url": "https://www.migalhas.com.br/quentes/454425/merendeira-recebera-insalubridade-por-exposicao-ao-calor-excessivo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.abr.2026Cade mantém multa diária à Meta por cobrança de mensagens por chatbotsMeta não restabeleceu condições concorrenciais e manteve cobrança a chatbots de IA no WhatsApp Business, em descumprimento de ordem do Cade; multa é de R$ 250 mil por dia.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-25",
-      "url": "https://www.migalhas.com.br/quentes/454611/cade-mantem-multa-diaria-a-meta-por-cobranca-de-mensagens-por-chatbots"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.abr.2026Zanin mantém presidente do TJ no governo do Rio mesmo após eleição de Ruas na AlerjPara o ministro, a escolha do novo comando da Assembleia não altera decisão já tomada pelo plenário da Corte.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-25",
-      "url": "https://www.migalhas.com.br/quentes/454618/zanin-mantem-governador-do-rio-mesmo-apos-eleicao-de-ruas-na-alerj"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.abr.2026Brasil Salomão grava podcast com pentacampeão mundial de futebolEpisódio especial teve a participação de Júnior, ex-lateral-esquerdo da Seleção Brasileira e integrante do elenco pentacampeão mundial em 2002.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-25",
-      "url": "https://www.migalhas.com.br/quentes/454627/brasil-salomao-grava-podcast-com-pentacampeao-mundial-de-futebol"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.abr.2026Estado de SP é condenado em R$ 258 mil por tortura em presídioDecisão reconhece dano moral coletivo por agressões a detentos durante operação do GIR em Presidente Prudente.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-25",
-      "url": "https://www.migalhas.com.br/quentes/454573/estado-de-sp-e-condenado-em-r-258-mil-por-tortura-em-presidio"
     }
   ]
 }

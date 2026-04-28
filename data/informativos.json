@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-27T19:48:25.533734+00:00",
-  "total": 7,
+  "updated_at": "2026-04-28T04:05:58.377857+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF concede prisão domiciliar humanitária a 19 condenados por atos ligados à tentativa de golpe de Estado",
-      "summary": "Decisões beneficiam pessoas condenadas com mais de 60 anos e levam em consideração a vulnerabilidade etária e os riscos à saúde no sistema prisional",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-concede-prisao-domiciliar-humanitaria-a-19-condenados-por-atos-ligados-a-tentativa-de-golpe-de-estado/",
-      "date": "2026-04-27",
+      "title": "Centro de Estudos Constitucionais do STF divulga dois novos editais para coleta de contribuições",
+      "summary": "CESTF também divulgou etapa de audiências regionais do edital “O ensino do Direito Constitucional no século XXI”",
+      "url": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-divulga-dois-novos-editais-para-coleta-de-contribuicoes/",
+      "date": "2026-04-28",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Pioneira: há 20 anos, a ministra Ellen Gracie assumia a Presidência do STF",
-      "summary": "Primeira mulher a ocupar o cargo, ela deixou um legado de pioneirismo, modernização e fortalecimento institucional",
-      "url": "https://noticias.stf.jus.br/postsnoticias/pioneira-ha-20-anos-a-ministra-ellen-gracie-assumia-a-presidencia-do-stf/",
-      "date": "2026-04-27",
+      "title": "Rede questiona no STF operações com empresa de mineração de terras raras",
+      "summary": "Partido pede a adoção de mecanismos mais rigorosos para avaliar impacto econômico e soberania nacional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/rede-questiona-no-stf-operacoes-com-empresa-de-mineracao-de-terras-raras/",
+      "date": "2026-04-28",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Cejusc/STJ comemora um ano de trabalho com mais de 80 processos recebidos",
       "summary": "Cejusc/STJ comemora um ano de trabalho com mais de 80 processos recebidos",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-CejuscSTJ-comemora-um-ano-de-trabalho-com-mais-de-80-processos-recebidos.aspx",
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Informativo traz direito à remoção de servidor por motivo de saúde e identificação de conteúdo ilícito na internet",
       "summary": "Informativo traz direito à remoção de servidor por motivo de saúde e identificação de conteúdo ilícito na internet",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Informativo-traz-direito-a-remocao-de-servidor-por-motivo-de-saude-e-identificacao-de-conteudo-ilicito-na-internet.aspx",
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Terceira Seção começa às 9h30 no dia 13 de maio",
       "summary": "Terceira Seção começa às 9h30 no dia 13 de maio",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27042026-Terceira-Secao-comeca-as-9h30-no-dia-13-de-maio.aspx",
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "TRT-11 inaugura projeto “Sextou com Acordo” e alcança mais de 40% de conciliações na primeira edição",
       "summary": "Das 24 audiências agendadas, 10 resultaram em acordos homologados.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11300-trt-11-inaugura-projeto-sextou-com-acordo-e-alcanca-mais-de-40-de-conciliacoes-na-primeira-edicao",
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,15 @@
       "title": "Café com Cejusc-JT em Boa Vista ocorre nesta terça-feira (28)",
       "summary": "Evento é uma das ações preparatórias para a 10ª Semana Nacional da Conciliação Trabalhista",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11299-cafe-com-cejusc-jt-em-boa-vista-ocorre-nesta-terca-feira-28",
-      "date": "2026-04-27",
+      "date": "2026-04-28",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-04-28",
       "category": "Trabalhista"
     }
   ]

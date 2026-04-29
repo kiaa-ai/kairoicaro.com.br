@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-04-28T19:56:21.522895+00:00",
-  "total": 8,
+  "updated_at": "2026-04-29T04:02:41.637299+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF convoca audiência para discutir eficiência da destinação de emendas para realização de políticas públicas",
-      "summary": "Marcada para 13/5 pelo relator, ministro Flávio Dino, a reunião visa ampliar o debate sobre a supervisão do cumprimento de decisão do STF sobre a transparência das emendas parlamentares",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-convoca-audiencia-para-discutir-eficiencia-da-destinacao-de-emendas-para-a-realizacao-de-politicas-publicas/",
-      "date": "2026-04-28",
+      "title": "Representantes do STF participam de painel sobre povos indígenas isolados",
+      "summary": "Painel encerrou primeiro dia de congresso sobre Justiça Originária; programação de amanhã será no STF",
+      "url": "https://noticias.stf.jus.br/postsnoticias/representantes-do-stf-participam-de-painel-sobre-povos-indigenas-isolados/",
+      "date": "2026-04-29",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF e Congresso Nacional promovem ciclo de conferências para debater processo legislativo e jurisdição constitucional",
-      "summary": "Iniciativa busca fortalecer a cooperação entre os Poderes, promover o diálogo institucional e aprofundar reflexões sobre controle de constitucionalidade e produção normativa",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-e-congresso-nacional-promovem-ciclo-de-conferencias-para-debater-processo-legislativo-e-jurisdicao-constitucional/",
-      "date": "2026-04-28",
+      "title": "STF homologa acordo entre União e Roraima sobre despesas com imigração venezuelana",
+      "summary": "Acordo prevê repasse de R$ 115 milhões ao estado para custos nas áreas de saúde, educação, segurança pública e sistema prisional. Homologação encerra processo sobre a matéria",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-homologa-acordo-entre-uniao-e-roraima-sobre-despesas-com-imigracao-venezuelana/",
+      "date": "2026-04-29",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Tribunal do júri julgará tenente-coronel da PM de São Paulo acusado de feminicídio",
+      "summary": "O relator, ministro Reynaldo Soares da Fonseca, aplicou o recente entendimento da Terceira Seção sobre competência para julgamento de crimes dolosos contra a vida praticados por militares.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Tribunal-do-juri-julgara-tenente-coronel-da-PM-de-Sao-Paulo-acusado-de-feminicidio.aspx",
+      "date": "2026-04-29",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Competência para julgar casos de injúria racial contra adolescente é destaque no STJ Notícias",
       "summary": "Competência para julgar casos de injúria racial contra adolescente é destaque no STJ Notícias",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Competencia-para-julgar-casos-de-injuria-racial-contra-adolescente-e-destaque-no-STJ-Noticias.aspx",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Primeira Seção ajusta tese repetitiva e inclui teto para taifeiros da Aeronáutica com benefícios acumulados",
       "summary": "Primeira Seção ajusta tese repetitiva e inclui teto para taifeiros da Aeronáutica com benefícios acumulados",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Primeira-Secao-ajusta-tese-repetitiva-e-inclui-teto-para-taifeiros-da-Aeronautica-com-beneficios-acumulados.aspx",
-      "date": "2026-04-28",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió",
-      "summary": "Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28042026-Quarta-Turma-condena-Braskem-a-indenizar-porteiro-demitido-apos-desastre-ambiental-em-Maceio.aspx",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "NR-1: TRT-11 alerta para impactos dos riscos psicossociais no ambiente de trabalho",
       "summary": "Com a atualização da norma, empresas passam a ter obrigação legal de prevenir riscos psicossociais, como sobrecarga de trabalho e assédio, sob pena de fiscalização e multa",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11307-nr-1-trt-11-alerta-para-impactos-dos-riscos-psicossociais-no-ambiente-de-trabalho",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "category": "Trabalhista"
     },
     {
@@ -55,15 +55,7 @@
       "title": "Dia Nacional em Memória das Vítimas de Acidentes e Doenças do Trabalho: precarização, riscos psicossociais e desigualdade são os novos desafios",
       "summary": "“Trabalho mais saudável e seguro para todos” é o slogan de 2026 da campanha Abril Verde da Justiça do Trabalho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11306-dia-nacional-em-memoria-das-vitimas-de-acidentes-e-doencas-do-trabalho-precarizacao-riscos-psicossociais-e-desigualdade-sao-os-novos-desafios",
-      "date": "2026-04-28",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "category": "Trabalhista"
     }
   ]

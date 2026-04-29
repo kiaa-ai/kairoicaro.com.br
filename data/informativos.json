@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-04-29T14:30:47.220437+00:00",
+  "updated_at": "2026-04-29T19:53:58.246317+00:00",
   "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quarta-feira (29)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-29-2/",
+      "title": "STF inaugura Ouvidoria dos Povos Indígenas, Quilombolas e Comunidades Tradicionais",
+      "summary": "Juíza-ouvidora do STF, Flávia da Costa Viana ressaltou que o espaço representa um passo importante na promoção da inclusão institucional e no fortalecimento do diálogo com a sociedade.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inaugura-ouvidoria-dos-povos-indigenas-quilombolas-e-comunidades-tradicionais/",
       "date": "2026-04-29",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Participação do Poder Judiciário na Voz do Brasil completa 30 anos",
-      "summary": "Programa tem a função de informar, com linguagem simples, decisões e atividades judiciais que impactam diretamente a vida das pessoas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/participacao-do-poder-judiciario-na-voz-do-brasil-completa-30-anos/",
+      "title": "Congresso Internacional Justiça Originária apresenta pesquisa de 15 anos sobre cartas indígenas",
+      "summary": "Primeiro painel desta quarta-feira reuniu pesquisadores dedicados à temática",
+      "url": "https://noticias.stf.jus.br/postsnoticias/congresso-internacional-justica-originaria-apresenta-pesquisa-de-15-anos-sobre-cartas-indigenas/",
       "date": "2026-04-29",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Decisões do STJ mostram que a vida animal importa",
+      "summary": "Decisões do STJ mostram que a vida animal importa",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29042026-Decisoes-do-STJ-mostram-que-a-vida-animal-importa.aspx",
+      "date": "2026-04-29",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Entenda a Decisão destaca tese sobre custeio de medicamento sem registro na Anvisa",
-      "summary": "Entenda a Decisão destaca tese sobre custeio de medicamento sem registro na Anvisa",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29042026-Entenda-a-Decisao-destaca-tese-sobre-custeio-de-medicamento-sem-registro-na-Anvisa.aspx",
+      "tribunal": "TRT11",
+      "title": "Desembargador do TRT-11 palestra no 3º Encontro Estadual de Segurança e Saúde no Trabalho – CANPAT 2026, em Manaus",
+      "summary": "Magistrado integrou a programação do evento promovido pela SRTE/AM e destacou a importância da prevenção de acidentes e dos riscos psicossociais no ambiente de trabalho",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11312-desembargador-do-trt-11-palestra-no-3-encontro-estadual-de-seguranca-e-saude-no-trabalho-canpat-2026-em-manaus",
       "date": "2026-04-29",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "TRT-11 promove Bazar celebrando o Dia das Mães",
       "summary": "Evento ocorre na Sede Administrativa do Tribunal e busca valorizar o trabalho de artesãs locais",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11311-trt-11-promove-bazar-celebrando-o-dia-das-maes",
-      "date": "2026-04-29",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Ouvidoria da Justiça do Trabalho participa de mutirão no Centro de Manaus",
-      "summary": "Evento voltado a pessoas em situação de rua ocorre no dia 5/5, como parte da programação do PopRuaJud",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11310-ouvidoria-da-justica-do-trabalho-participa-de-mutirao-no-centro-de-manaus",
       "date": "2026-04-29",
       "category": "Trabalhista"
     },

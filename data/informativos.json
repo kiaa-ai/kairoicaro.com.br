@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-30T14:23:49.543858+00:00",
+  "updated_at": "2026-04-30T19:50:14.151062+00:00",
   "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Feriado do Dia do Trabalhador altera expediente no STF",
+      "summary": "Prazos processuais que começam ou terminam nesta sexta-feira (1º/5) serão automaticamente prorrogados",
+      "url": "https://noticias.stf.jus.br/postsnoticias/feriado-do-dia-do-trabalhador-altera-expediente-no-stf/",
+      "date": "2026-04-30",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Confira a pauta do STF desta quinta-feira (30)",
@@ -11,12 +19,12 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF suspende julgamento sobre atuação do TCU em conciliações",
-      "summary": "Ministro Cristiano Zanin pediu vista para analisar divergência entre os votos apresentados",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-julgamento-sobre-atuacao-do-tcu-em-conciliacoes/",
+      "tribunal": "STJ",
+      "title": "SEI ficará indisponível neste domingo (3)",
+      "summary": "SEI ficará indisponível neste domingo (3)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-SEI-ficara-indisponivel-neste-domingo--3-.aspx",
       "date": "2026-04-30",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Interesse do menor autoriza descumprimento provisório de acordo de guarda homologado na Justiça",
-      "summary": "Interesse do menor autoriza descumprimento provisório de acordo de guarda homologado na Justiça",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-Interesse-do-menor-autoriza-descumprimento-provisorio-de-acordo-de-guarda-homologado-na-Justica.aspx",
-      "date": "2026-04-30",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "Desembargador do TRT-11 palestra no 3º Encontro Estadual de Segurança e Saúde no Trabalho – CANPAT 2026, em Manaus",
-      "summary": "Magistrado integrou a programação do evento promovido pela SRTE/AM e destacou a importância da prevenção de acidentes e dos riscos psicossociais no ambiente de trabalho",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11312-desembargador-do-trt-11-palestra-no-3-encontro-estadual-de-seguranca-e-saude-no-trabalho-canpat-2026-em-manaus",
+      "title": "Café com Cejusc-JT reúne magistratura e advocacia em Boa Vista para reforçar a cultura da conciliação",
+      "summary": "Evento reuniu especialistas para debater práticas consensuais, apresentou resultados da conciliação no TRT-11 e homenageou advogados pela atuação na pacificação de conflitos trabalhistas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11313-cafe-com-cejusc-jt-reune-magistratura-e-advocacia-em-boa-vista-para-reforcar-a-cultura-da-conciliacao",
       "date": "2026-04-30",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 promove Bazar celebrando o Dia das Mães",
-      "summary": "Evento ocorre na Sede Administrativa do Tribunal e busca valorizar o trabalho de artesãs locais",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11311-trt-11-promove-bazar-celebrando-o-dia-das-maes",
+      "title": "Choque elétrico resulta em condenação solidária de empresas por amputações e incapacidade permanente de trabalhador",
+      "summary": "Decisão da 10ª Vara do Trabalho de Manaus, mantida pelo TRT-11, reconheceu negligência na cadeia produtiva e fixou indenização superior a R$ 1,1 milhão",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11316-choque-eletrico-resulta-em-condenacao-solidaria-de-empresas-por-amputacoes-e-incapacidade-permanente-de-trabalhador",
       "date": "2026-04-30",
       "category": "Trabalhista"
     },

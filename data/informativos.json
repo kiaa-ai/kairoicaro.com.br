@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-30T10:03:01.669853+00:00",
-  "total": 7,
+  "updated_at": "2026-04-30T14:23:49.543858+00:00",
+  "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quinta-feira (30)",
+      "summary": "Sessão plenária terá transmissão ao vivo pela TV Justiça e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-30-2/",
+      "date": "2026-04-30",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF suspende julgamento sobre atuação do TCU em conciliações",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Ministério Público não tem de pagar despesas processuais e honorários advocatícios, decide STF",
-      "summary": "Para o Plenário, atribuir ao órgão o pagamento dessas obrigações afetaria sua independência e autonomia institucional. Ele deverá, contudo, arcar com custos de perícias",
-      "url": "https://noticias.stf.jus.br/postsnoticias/ministerio-publico-nao-tem-de-pagar-despesas-processuais-e-honorarios-advocaticios-decide-stf/",
-      "date": "2026-04-30",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Decisões do STJ mostram que a vida animal importa",
-      "summary": "Decisões do STJ mostram que a vida animal importa",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29042026-Decisoes-do-STJ-mostram-que-a-vida-animal-importa.aspx",
+      "title": "Pesquisa Pronta traz incomunicabilidade de qualificadora no homicídio",
+      "summary": "Pesquisa Pronta traz incomunicabilidade de qualificadora no homicídio",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-Pesquisa-Pronta-traz-incomunicabilidade-de-qualificadora-no-homicidio.aspx",
       "date": "2026-04-30",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "SEI ficará indisponível nesta sexta-feira (1º)",
-      "summary": "SEI ficará indisponível nesta sexta-feira (1º)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29042026-SEI-ficara-indisponivel-nesta-sexta-feira--1o-.aspx",
+      "title": "Livro em homenagem aos 15 anos de atuação do ministro Raul Araújo será lançado no dia 12 de maio",
+      "summary": "Livro em homenagem aos 15 anos de atuação do ministro Raul Araújo será lançado no dia 12 de maio",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-Livro-em-homenagem-aos-15-anos-de-atuacao-do-ministro-Raul-Araujo-sera-lancado-no-dia-12-de-maio.aspx",
       "date": "2026-04-30",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Jurisprudência em Teses traz novos entendimentos sobre ilicitude de acesso a dados de celular sem ordem judicial",
-      "summary": "Jurisprudência em Teses traz novos entendimentos sobre ilicitude de acesso a dados de celular sem ordem judicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29042026-Jurisprudencia-em-Teses-traz-novos-entendimentos-sobre-ilicitude-de-acesso-a-dados-de-celular-sem-ordem-judicial.aspx",
+      "title": "Interesse do menor autoriza descumprimento provisório de acordo de guarda homologado na Justiça",
+      "summary": "Interesse do menor autoriza descumprimento provisório de acordo de guarda homologado na Justiça",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-Interesse-do-menor-autoriza-descumprimento-provisorio-de-acordo-de-guarda-homologado-na-Justica.aspx",
       "date": "2026-04-30",
       "category": "Jurisprudencia"
     },
@@ -55,6 +55,14 @@
       "title": "TRT-11 promove Bazar celebrando o Dia das Mães",
       "summary": "Evento ocorre na Sede Administrativa do Tribunal e busca valorizar o trabalho de artesãs locais",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11311-trt-11-promove-bazar-celebrando-o-dia-das-maes",
+      "date": "2026-04-30",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-04-30",
       "category": "Trabalhista"
     }

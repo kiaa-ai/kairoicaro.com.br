@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-01T09:29:29.073814+00:00",
+  "updated_at": "2026-05-01T13:54:19.412513+00:00",
   "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "‘Direito sem juridiquês’: novo episódio explica o que é o habeas corpus",
+      "summary": "Vídeo da série educativa apresenta, de forma simples, quando e como o instrumento pode ser utilizado.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-novo-episodio-explica-o-que-e-habeas-corpus/",
+      "date": "2026-05-01",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF sediará debate internacional sobre direitos do trabalho no âmbito do sistema interamericano",
@@ -11,12 +19,12 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF fixa prazo de 24 meses para Estado de MG regulamentar subsídio de delegados",
-      "summary": "Por unanimidade, Corte considerou que ano eleitoral altera o funcionamento normal das casas legislativas e limitaria a tramitação de novas propostas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-prazo-de-24-meses-para-estado-de-mg-regulamentar-subsidio-de-delegados/",
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia trata da distribuição de superávit em previdência privada complementar",
+      "summary": "Podcast STJ No Seu Dia trata da distribuição de superávit em previdência privada complementar",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01052026-Podcast-STJ-No-Seu-Dia-trata-da-distribuicao-de-superavit-em-previdencia-privada-complementar.aspx",
       "date": "2026-05-01",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -31,14 +39,6 @@
       "title": "SEI ficará indisponível neste domingo (3)",
       "summary": "SEI ficará indisponível neste domingo (3)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-SEI-ficara-indisponivel-neste-domingo--3-.aspx",
-      "date": "2026-05-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Pesquisa Pronta traz incomunicabilidade de qualificadora no homicídio",
-      "summary": "Pesquisa Pronta traz incomunicabilidade de qualificadora no homicídio",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-Pesquisa-Pronta-traz-incomunicabilidade-de-qualificadora-no-homicidio.aspx",
       "date": "2026-05-01",
       "category": "Jurisprudencia"
     },

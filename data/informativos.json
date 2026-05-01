@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-01T13:54:19.412513+00:00",
-  "total": 8,
+  "updated_at": "2026-05-01T19:38:24.544471+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "‘Direito sem juridiquês’: novo episódio explica o que é o habeas corpus",
-      "summary": "Vídeo da série educativa apresenta, de forma simples, quando e como o instrumento pode ser utilizado.",
-      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-novo-episodio-explica-o-que-e-habeas-corpus/",
+      "title": "Confira os destaques do Plenário Virtual",
+      "summary": "Sessão começou às 11h desta sexta-feira (1º) e termina em 11 de maio, às 23h59",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-14/",
       "date": "2026-05-01",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF sediará debate internacional sobre direitos do trabalho no âmbito do sistema interamericano",
-      "summary": "Inscrições estão abertas para evento que ocorrerá na segunda-feira (4); haverá transmissão no canal do STF no Youtube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-sediara-debate-internacional-sobre-direitos-do-trabalho-no-ambito-do-sistema-interamericano/",
+      "title": "‘Direito sem juridiquês’: novo episódio explica o que é o habeas corpus",
+      "summary": "Vídeo da série educativa apresenta, de forma simples, quando e como o instrumento pode ser utilizado.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-novo-episodio-explica-o-que-e-habeas-corpus/",
       "date": "2026-05-01",
       "category": "Constitucional"
     },
@@ -55,14 +55,6 @@
       "title": "Choque elétrico resulta em condenação solidária de empresas por amputações e incapacidade permanente de trabalhador",
       "summary": "Decisão da 10ª Vara do Trabalho de Manaus, mantida pelo TRT-11, reconheceu negligência na cadeia produtiva e fixou indenização superior a R$ 1,1 milhão",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11316-choque-eletrico-resulta-em-condenacao-solidaria-de-empresas-por-amputacoes-e-incapacidade-permanente-de-trabalhador",
-      "date": "2026-05-01",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-01",
       "category": "Trabalhista"
     }

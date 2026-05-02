@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-05-01T19:38:24.544471+00:00",
-  "total": 7,
+  "updated_at": "2026-05-02T03:50:43.452705+00:00",
+  "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF promove nesta segunda (4) audiência pública sobre taxa e atuação da CVM",
+      "summary": "Convocada pelo relator do caso, ministro Flávio Dino, audiência será realizada das 14h às 19h, com transmissão ao vivo",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-promove-nesta-segunda-4-5-audiencia-publica-sobre-atuacao-da-cvm/",
+      "date": "2026-05-02",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Confira os destaques do Plenário Virtual",
       "summary": "Sessão começou às 11h desta sexta-feira (1º) e termina em 11 de maio, às 23h59",
       "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-14/",
-      "date": "2026-05-01",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "‘Direito sem juridiquês’: novo episódio explica o que é o habeas corpus",
-      "summary": "Vídeo da série educativa apresenta, de forma simples, quando e como o instrumento pode ser utilizado.",
-      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-novo-episodio-explica-o-que-e-habeas-corpus/",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Podcast STJ No Seu Dia trata da distribuição de superávit em previdência privada complementar",
       "summary": "Podcast STJ No Seu Dia trata da distribuição de superávit em previdência privada complementar",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01052026-Podcast-STJ-No-Seu-Dia-trata-da-distribuicao-de-superavit-em-previdencia-privada-complementar.aspx",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Sistemas podem ter indisponibilidade temporária entre sexta (1º) e domingo (3)",
       "summary": "Sistemas podem ter indisponibilidade temporária entre sexta (1º) e domingo (3)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-Sistemas-podem-ter-indisponibilidade-temporaria-entre-sexta--1o--e-domingo--3-.aspx",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "SEI ficará indisponível neste domingo (3)",
       "summary": "SEI ficará indisponível neste domingo (3)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30042026-SEI-ficara-indisponivel-neste-domingo--3-.aspx",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Café com Cejusc-JT reúne magistratura e advocacia em Boa Vista para reforçar a cultura da conciliação",
       "summary": "Evento reuniu especialistas para debater práticas consensuais, apresentou resultados da conciliação no TRT-11 e homenageou advogados pela atuação na pacificação de conflitos trabalhistas",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11313-cafe-com-cejusc-jt-reune-magistratura-e-advocacia-em-boa-vista-para-reforcar-a-cultura-da-conciliacao",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,15 @@
       "title": "Choque elétrico resulta em condenação solidária de empresas por amputações e incapacidade permanente de trabalhador",
       "summary": "Decisão da 10ª Vara do Trabalho de Manaus, mantida pelo TRT-11, reconheceu negligência na cadeia produtiva e fixou indenização superior a R$ 1,1 milhão",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11316-choque-eletrico-resulta-em-condenacao-solidaria-de-empresas-por-amputacoes-e-incapacidade-permanente-de-trabalhador",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-05-02",
       "category": "Trabalhista"
     }
   ]

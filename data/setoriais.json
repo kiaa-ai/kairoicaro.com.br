@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-02T09:01:49.190217+00:00",
+  "updated_at": "2026-05-03T09:19:16.387664+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "ambiental",
+      "title": "2.mai.2026Banco deve suspender encargos controvertidos em contratos de crédito ruralMagistrada também determinou que instituição finaneira não negative nome da produtora rural.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-03",
+      "url": "https://www.migalhas.com.br/quentes/454738/banco-deve-suspender-encargos-em-contratos-de-credito-rural"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.mai.2026Venda emocional: Juíza rescinde multipropriedade e fixa R$ 10 mil de danosMagistrada reconheceu forte pressão e falta de informações claras na contratação, determinando a devolução dos valores pagos, com retenção de 20%, e indenização por danos morais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-03",
+      "url": "https://www.migalhas.com.br/quentes/454708/venda-emocional-juiza-anula-multipropriedade-e-fixa-r-10-mil-de-dano"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.mai.2026IPTU retroativo por nova metragem é suspenso após indícios de decadênciaMagistrada considerou indícios de que município extrapolou prazo decadencial de cinco anos para cobrança.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-03",
+      "url": "https://www.migalhas.com.br/quentes/454701/iptu-retroativo-por-nova-metragem-e-suspenso-por-suposta-decadencia"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.mai.2026TJ/MG: Cliente agredido após ser acusado de furtar limões será indenizadoRéus acusaram vítima injustamente e a agrediram em seu local de trabalho; tribunal reconheceu dano moral e fixou indenização de R$ 5 mil.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-03",
+      "url": "https://www.migalhas.com.br/quentes/454741/cliente-agredido-apos-ser-acusado-de-furtar-limoes-sera-indenizado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.mai.2026Mendonça vota para validar lei que permite veto de pais a conteúdo de gêneroMinistro entendeu que norma garante participação familiar e não interfere no conteúdo obrigatório.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-03",
+      "url": "https://www.migalhas.com.br/quentes/455058/mendonca-vota-por-validar-lei-que-libera-veto-de-pais-a-aula-de-genero"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.mai.2026Servidora trans constrangida por colega ao ir ao banheiro será indenizadaTJ/SP considerou que abordagem violou dignidade, honra e identidade de gênero da trabalhadora.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-03",
+      "url": "https://www.migalhas.com.br/quentes/455056/mulher-trans-constrangida-por-colega-ao-ir-ao-banheiro-sera-indenizada"
+    },
     {
       "setor": "empresarial",
       "title": "1.mai.2026Por ilegalidade em PAD, TJ/GO determina retorno de servidor afastadoColegiado identificou indícios de vício de competência e possível cerceamento de defesa, mas manteve andamento do processo administrativo.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-01",
       "url": "https://www.migalhas.com.br/quentes/455049/exercicio-de-crenca-stf-nega-penhora-de-templo-da-assembleia-de-deus"
-    },
-    {
-      "setor": "ambiental",
-      "title": "30.abr.2026OAB/SP recebe lançamento de obra com coautoria de Carlos Barbosa\"Direito Aeronáutico - Aplicação e Debates Necessários\" aborda temas como drones, eVTOLs, IA, LGPD e responsabilidade civil.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-01",
-      "url": "https://www.migalhas.com.br/quentes/455047/oab-sp-recebe-lancamento-de-obra-com-coautoria-de-carlos-barbosa"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.abr.2026Dino é parabenizado por aniversário e Cármen brinca: \"36 anos\"Aniversariante do dia, Dino recebeu felicitações de ministros durante sessão no STF.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-01",
-      "url": "https://www.migalhas.com.br/quentes/455041/dino-e-parabenizado-por-aniversario-e-carmen-brinca--36-anos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.abr.2026Sorteio da obra \"Cadeados Mentais: a prisão nossa de cada dia\"Em narrativa ficcional, a publicação expõe a realidade prisional e reforça a ideia de que a mente também pode aprisionar.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-30",
-      "url": "https://www.migalhas.com.br/quentes/454907/sorteio-da-obra-cadeados-mentais-a-prisao-nossa-de-cada-dia"
-    },
-    {
-      "setor": "ambiental",
-      "title": "30.abr.2026Análise: Caso Anita Harley mostra importância de cartório em testamento vitalFé pública do tabelião garante verificação da capacidade e diminui risco de questionamentos, diz tabeliã titular.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-30",
-      "url": "https://www.migalhas.com.br/quentes/454854/caso-anita-harley-mostra-importancia-de-cartorio-em-testamento-vital"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.abr.2026Curatela em disputa: herdeira da Pernambucanas em coma há 10 anos mobiliza batalha bilionáriaEspecialista explica disputa judicial envolvendo decisões e patrimônio de Anita Harley; caso ganhou repercussão com a série O Testamento, do Globoplay.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-30",
-      "url": "https://www.migalhas.com.br/quentes/454612/veja-disputa-por-curatela-de-anita-harley-herdeira-da-pernambucanas"
-    },
-    {
-      "setor": "empresarial",
-      "title": "29.abr.2026Após rejeição de Messias, Fachin diz que prerrogativa do Senado deve ser respeitadaPresidente também declarou respeito à história pessoal e institucional dos envolvidos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-04-30",
-      "url": "https://www.migalhas.com.br/quentes/454970/fachin-prerrogativa-do-senado-sobre-nome-ao-stf-deve-ser-respeitada"
     }
   ]
 }

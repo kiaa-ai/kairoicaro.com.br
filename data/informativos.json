@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T09:19:12.427866+00:00",
-  "total": 7,
+  "updated_at": "2026-05-03T13:49:11.772492+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "Choque elétrico resulta em condenação solidária de empresas por amputações e incapacidade permanente de trabalhador",
       "summary": "Decisão da 10ª Vara do Trabalho de Manaus, mantida pelo TRT-11, reconheceu negligência na cadeia produtiva e fixou indenização superior a R$ 1,1 milhão",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11316-choque-eletrico-resulta-em-condenacao-solidaria-de-empresas-por-amputacoes-e-incapacidade-permanente-de-trabalhador",
+      "date": "2026-05-03",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-03",
       "category": "Trabalhista"
     }

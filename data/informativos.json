@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-04T14:30:39.188166+00:00",
+  "updated_at": "2026-05-04T19:55:24.272823+00:00",
   "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira os destaques da pauta do STF em maio",
-      "summary": "Um dos destaques são as ações sobre a distribuição dos royalties do petróleo",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-da-pauta-do-stf-em-maio/",
+      "title": "Ministros do STF abrem audiência pública sobre atuação da CVM",
+      "summary": "Convocada pelo ministro Flávio Dino, audiência visa colher informações qualificadas para subsidiar a decisão do Supremo sobre a matéria",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ministros-do-stf-abrem-audiencia-publica-sobre-a-atuacao-da-cvm/",
       "date": "2026-05-04",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Exigência de inscrição na OAB para advogado público é destaque no Supremo na Semana",
-      "summary": "Episódio #188 está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/exigencia-de-inscricao-na-oab-para-advogado-publico-e-destaque-no-supremo-na-semana/",
+      "title": "Presidente do STF defende direitos sociais e proteção ao trabalho em seminário internacional",
+      "summary": "Encontro reuniu especialistas para discutir papel do direito internacional na garantia do trabalho decente",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-direitos-sociais-e-protecao-ao-trabalho-em-seminario-internacional/",
       "date": "2026-05-04",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Café com Cejusc-JT reúne magistratura e advocacia em Boa Vista para reforçar a cultura da conciliação",
-      "summary": "Evento reuniu especialistas para debater práticas consensuais, apresentou resultados da conciliação no TRT-11 e homenageou advogados pela atuação na pacificação de conflitos trabalhistas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11313-cafe-com-cejusc-jt-reune-magistratura-e-advocacia-em-boa-vista-para-reforcar-a-cultura-da-conciliacao",
+      "title": "TRT-11 sediará 1º Encontro dos Tribunais do Trabalho da Região Norte em Manaus",
+      "summary": "Programação inclui painéis sobre Justiça Itinerante, inclusão digital e impactos das mudanças climáticas nas relações de trabalho na Amazônia",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11322-trt-11-sediara-1-encontro-dos-tribunais-do-trabalho-da-regiao-norte-em-manaus",
       "date": "2026-05-04",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Choque elétrico resulta em condenação solidária de empresas por amputações e incapacidade permanente de trabalhador",
-      "summary": "Decisão da 10ª Vara do Trabalho de Manaus, mantida pelo TRT-11, reconheceu negligência na cadeia produtiva e fixou indenização superior a R$ 1,1 milhão",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11316-choque-eletrico-resulta-em-condenacao-solidaria-de-empresas-por-amputacoes-e-incapacidade-permanente-de-trabalhador",
+      "title": "Café com Cejusc-JT reúne magistratura e advocacia em Boa Vista para reforçar a cultura da conciliação",
+      "summary": "Evento reuniu especialistas para debater práticas consensuais, apresentou resultados da conciliação no TRT-11 e homenageou advogados pela atuação na pacificação de conflitos trabalhistas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11313-cafe-com-cejusc-jt-reune-magistratura-e-advocacia-em-boa-vista-para-reforcar-a-cultura-da-conciliacao",
       "date": "2026-05-04",
       "category": "Trabalhista"
     },

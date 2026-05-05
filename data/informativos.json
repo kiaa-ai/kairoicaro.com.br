@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-05-05T14:23:53.955870+00:00",
+  "updated_at": "2026-05-05T19:52:32.175495+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Decisão do STF que reconheceu união homoafetiva completa 15 anos",
-      "summary": "Corte entendeu que a Constituição não limita o conceito de “família” nem sua formação a casais heteroafetivos",
-      "url": "https://noticias.stf.jus.br/postsnoticias/decisao-do-stf-que-reconheceu-uniao-homoafetiva-completa-15-anos/",
+      "title": "STF assegura à CVM aumento na destinação de recursos da taxa de fiscalização do mercado de capitais",
+      "summary": "Em liminar, ministro Flávio Dino também determina que União elabore planos para reestruturação da autarquia",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-assegura-a-cvm-aumento-na-destinacao-de-recursos-da-taxa-de-fiscalizacao-do-mercado-de-capitais/",
       "date": "2026-05-05",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Representantes de órgãos públicos e entidades setoriais defendem pontos de vista no STF sobre atuação da CVM",
-      "summary": "Expositores destacaram as limitações estruturais da autarquia diante da expansão do mercado de capitais",
-      "url": "https://noticias.stf.jus.br/postsnoticias/representantes-de-orgaos-publicos-e-entidades-setoriais-defendem-pontos-de-vista-no-stf-sobre-atuacao-da-cvm/",
+      "title": "Regras do Tocantins e de Rondônia para setor agroindustrial são questionadas no STF",
+      "summary": "Confederação da Agricultura e Pecuária argumenta que normas estaduais impõem restrições excessivas e podem prejudicar a atividade econômica",
+      "url": "https://noticias.stf.jus.br/postsnoticias/regras-do-tocantins-e-de-rondonia-para-setor-agroindustrial-sao-questionadas-no-stf/",
       "date": "2026-05-05",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Publicado edital de chamamento de juízes para auxílio temporário às seções de direito público, privado e penal",
+      "summary": "A atuação dos magistrados selecionados será remota, terá o prazo de seis meses – com possibilidade de prorrogação – e não prejudicará suas atividades na jurisdição originária.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05052026-Publicado-edital-de-chamamento-de-juizes-para-auxilio-temporario-as-secoes-de-direito-publico--privado-e-penal.aspx",
+      "date": "2026-05-05",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Repetitivo definirá quem paga honorários e se há direito à restituição após modulação no Tema 986",
-      "summary": "Repetitivo definirá quem paga honorários e se há direito à restituição após modulação no Tema 986",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05052026-Repetitivo-definira-quem-paga-honorarios-e-se-ha-direito-a-restituicao-apos-modulacao-no-Tema-986.aspx",
+      "tribunal": "TRT11",
+      "title": "PopruaJud realiza ação em Pacaraima (RR) para ampliar acesso à justiça e cidadania",
+      "summary": "A iniciativa levou atendimento jurídico, emissão de documentos e oferta de serviços básicos a pessoas em situação de vulnerabilidade social",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11325-popruajud-realiza-acao-em-pacaraima-rr-para-ampliar-acesso-a-justica-e-cidadania",
       "date": "2026-05-05",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "TRT-11 sediará 1º Encontro dos Tribunais do Trabalho da Região Norte em Manaus",
       "summary": "Programação inclui painéis sobre Justiça Itinerante, inclusão digital e impactos das mudanças climáticas nas relações de trabalho na Amazônia",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11322-trt-11-sediara-1-encontro-dos-tribunais-do-trabalho-da-regiao-norte-em-manaus",
-      "date": "2026-05-05",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Café com Cejusc-JT reúne magistratura e advocacia em Boa Vista para reforçar a cultura da conciliação",
-      "summary": "Evento reuniu especialistas para debater práticas consensuais, apresentou resultados da conciliação no TRT-11 e homenageou advogados pela atuação na pacificação de conflitos trabalhistas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11313-cafe-com-cejusc-jt-reune-magistratura-e-advocacia-em-boa-vista-para-reforcar-a-cultura-da-conciliacao",
       "date": "2026-05-05",
       "category": "Trabalhista"
     }

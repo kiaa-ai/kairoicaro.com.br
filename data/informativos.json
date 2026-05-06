@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-05-05T19:52:32.175495+00:00",
+  "updated_at": "2026-05-06T04:05:06.677114+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF assegura à CVM aumento na destinação de recursos da taxa de fiscalização do mercado de capitais",
-      "summary": "Em liminar, ministro Flávio Dino também determina que União elabore planos para reestruturação da autarquia",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-assegura-a-cvm-aumento-na-destinacao-de-recursos-da-taxa-de-fiscalizacao-do-mercado-de-capitais/",
-      "date": "2026-05-05",
+      "title": "STF promove curso nacional para fortalecer atuação de mulheres na segurança institucional",
+      "summary": "Na abertura, ministra Cármen Lúcia destacou importância de ampliar protagonismo feminino em todas as áreas do Judiciário, especialmente na segurança institucional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-promove-curso-nacional-para-fortalecer-atuacao-de-mulheres-na-seguranca-institucional/",
+      "date": "2026-05-06",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Regras do Tocantins e de Rondônia para setor agroindustrial são questionadas no STF",
-      "summary": "Confederação da Agricultura e Pecuária argumenta que normas estaduais impõem restrições excessivas e podem prejudicar a atividade econômica",
-      "url": "https://noticias.stf.jus.br/postsnoticias/regras-do-tocantins-e-de-rondonia-para-setor-agroindustrial-sao-questionadas-no-stf/",
-      "date": "2026-05-05",
+      "title": "Nova edição do ‘STF Escuta’ vai debater papel das ouvidorias judiciais",
+      "summary": "Evento ocorrerá na quinta (7) e na sexta-feira (8) na sala de sessões da Primeira Turma",
+      "url": "https://noticias.stf.jus.br/postsnoticias/nova-edicao-do-stf-escuta-vai-debater-papel-das-ouvidorias-judiciais/",
+      "date": "2026-05-06",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Seminário no STJ debate desafios atuais do direito internacional",
+      "summary": "Seminário no STJ debate desafios atuais do direito internacional",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05052026-Seminario-no-STJ-debate-desafios-atuais-do-direito-internacional.aspx",
+      "date": "2026-05-06",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Publicado edital de chamamento de juízes para auxílio temporário às seções de direito público, privado e penal",
       "summary": "A atuação dos magistrados selecionados será remota, terá o prazo de seis meses – com possibilidade de prorrogação – e não prejudicará suas atividades na jurisdição originária.",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05052026-Publicado-edital-de-chamamento-de-juizes-para-auxilio-temporario-as-secoes-de-direito-publico--privado-e-penal.aspx",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Informativo traz competência do STJ para julgar ocupantes de cargos vitalícios mesmo em crimes fora da função",
       "summary": "Informativo traz competência do STJ para julgar ocupantes de cargos vitalícios mesmo em crimes fora da função",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05052026-Informativo-traz-competencia-do-STJ-para-julgar-ocupantes-de-cargos-vitalicios-mesmo-em-crimes-fora-da-funcao.aspx",
-      "date": "2026-05-05",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Decisão sobre nulidade de citação por WhatsApp é destaque no STJ Notícias",
-      "summary": "Decisão sobre nulidade de citação por WhatsApp é destaque no STJ Notícias",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05052026-Decisao-sobre-nulidade-de-citacao-por-WhatsApp-e-destaque-no STJ-Noticias.aspx",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "PopruaJud realiza ação em Pacaraima (RR) para ampliar acesso à justiça e cidadania",
       "summary": "A iniciativa levou atendimento jurídico, emissão de documentos e oferta de serviços básicos a pessoas em situação de vulnerabilidade social",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11325-popruajud-realiza-acao-em-pacaraima-rr-para-ampliar-acesso-a-justica-e-cidadania",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "TRT-11 sediará 1º Encontro dos Tribunais do Trabalho da Região Norte em Manaus",
       "summary": "Programação inclui painéis sobre Justiça Itinerante, inclusão digital e impactos das mudanças climáticas nas relações de trabalho na Amazônia",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11322-trt-11-sediara-1-encontro-dos-tribunais-do-trabalho-da-regiao-norte-em-manaus",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "category": "Trabalhista"
     }
   ]

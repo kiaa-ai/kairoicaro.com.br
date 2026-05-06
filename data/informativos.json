@@ -1,46 +1,22 @@
 {
-  "updated_at": "2026-05-06T14:46:10.946327+00:00",
-  "total": 7,
+  "updated_at": "2026-05-06T20:00:56.332909+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quarta-feira (6)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-6/",
+      "title": "Deputado Thiago Rangel deve permanecer preso independentemente de deliberação da Alerj",
+      "summary": "Ministro Alexandre de Moraes afastou, no caso concreto, a imunidade parlamentar que garante às Casas Legislativas decidir sobre prisão de parlamentares; decisão será submetida a referendo da 1ª Turma",
+      "url": "https://noticias.stf.jus.br/postsnoticias/deputado-thiago-rangel-deve-permanecer-preso-independentemente-de-deliberacao-da-alerj/",
       "date": "2026-05-06",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF promove curso nacional para fortalecer atuação de mulheres na segurança institucional",
-      "summary": "Na abertura, ministra Cármen Lúcia destacou importância de ampliar protagonismo feminino em todas as áreas do Judiciário, especialmente na segurança institucional",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-promove-curso-nacional-para-fortalecer-atuacao-de-mulheres-na-seguranca-institucional/",
+      "title": "Presidente do STF reforça papel do Parlamento ao celebrar 200 anos da Câmara",
+      "summary": "Em sessão solene, ministro ressaltou a importância da harmonia entre os Poderes e a responsabilidade democrática das instituições",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-reforca-papel-do-parlamento-ao-celebrar-200-anos-da-camara/",
       "date": "2026-05-06",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre recusa discriminatória de contratação de plano de saúde",
-      "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre recusa discriminatória de contratação de plano de saúde",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-recusa-discriminatoria-de-contratacao-de-plano-de-saude.aspx",
-      "date": "2026-05-06",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Novo vídeo no YouTube do STJ explica os embargos de declaração",
-      "summary": "Novo vídeo no YouTube do STJ explica os embargos de declaração",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Novo-video-no-YouTube-do-STJ-explica-os-embargos-de-declaracao.aspx",
-      "date": "2026-05-06",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Novo encontro sobre admissibilidade de recursos em cortes superiores acontece na próxima terça (12)",
-      "summary": "Novo encontro sobre admissibilidade de recursos em cortes superiores acontece na próxima terça (12)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Novo-encontro-sobre-admissibilidade-de-recursos-em-cortes-superiores-acontece-na-proxima-terca--12-.aspx",
-      "date": "2026-05-06",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

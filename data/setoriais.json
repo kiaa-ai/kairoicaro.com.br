@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-06T10:13:14.123754+00:00",
+  "updated_at": "2026-05-07T10:21:20.653551+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "7.mai.2026OAB/RJ promove treinamento sobre sistema eletrônico do TJ/RJ para idososIniciativa reuniu orientações práticas sobre o uso da plataforma Eproc com materiais disponíveis para consulta.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-07",
+      "url": "https://www.migalhas.com.br/quentes/455361/oabrj-promove-treinamento-sobre-sistema-eletronico-do-tjrj-para-idosos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "6.mai.2026Corte Especial do STJ recebe nova denúncia da Operação Faroeste por corrupção e lavagemInvestigação apura suposto esquema de venda de decisões judiciais para regularizar terras na região oeste da Bahia.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-07",
+      "url": "https://www.migalhas.com.br/quentes/455388/stj-recebe-nova-denuncia-da-operacao-faroeste-por-corrupcao-e-lavagem"
+    },
+    {
+      "setor": "empresarial",
+      "title": "6.mai.2026Dino questiona procurador do PR sobre concentração de royalties hídricosIndagação ocorreu após procurador do Estado defender distribuição de royalties do petróleo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-07",
+      "url": "https://www.migalhas.com.br/quentes/455386/dino-questiona-parana-sobre-concentracao-de-royalties-hidricos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "6.mai.2026Flávio Dino proíbe novos penduricalhos fora de limites fixados pelo STFMinistro reforçou cumprimento do teto remuneratório e determinou transparência na divulgação de pagamentos do Judiciário e órgãos públicos.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-07",
+      "url": "https://www.migalhas.com.br/quentes/455391/flavio-dino-proibe-penduricalhos-fora-de-limites-fixados-pelo-stf"
+    },
+    {
+      "setor": "ambiental",
+      "title": "6.mai.2026\"Elogio não significa voto\", brinca Dino sobre sustentação no STFComentários de Fachin e Dino após elogio a procurador arrancaram risos durante sessão do Supremo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-07",
+      "url": "https://www.migalhas.com.br/quentes/455389/elogio-nao-significa-voto--brinca-dino-sobre-sustentacao-no-stf"
+    },
+    {
+      "setor": "empresarial",
+      "title": "6.mai.2026Lula nomeia Margareth Rodrigues Costa como ministra do TSTDesembargadora do TRT-5 ocupará vaga aberta com a aposentadoria do ministro Aloysio Corrêa da Veiga.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-07",
+      "url": "https://www.migalhas.com.br/quentes/455382/lula-nomeia-margareth-rodrigues-costa-como-ministra-do-tst"
+    },
     {
       "setor": "ambiental",
       "title": "6.mai.2026Ricardo Fernandes publica estudo sobre ética e poder na obra LeviatãO advogado analisa como ética, razão e poder soberano se articulam no livro de Thomas Hobbes, ligando lei natural e contrato social à ordem e à convivência civil.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-05",
       "url": "https://www.migalhas.com.br/quentes/455167/voto-de-juiz-do-trt-1-e-publicado-com-resposta-de-ia"
-    },
-    {
-      "setor": "empresarial",
-      "title": "4.mai.2026Câmara aprova PL que amplia rol de crimes hediondos de natureza sexualTexto inclui novas condutas ligadas à exploração sexual de crianças e adolescentes e restringe fiança.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-05",
-      "url": "https://www.migalhas.com.br/quentes/455163/camara-aprova-pl-que-amplia-rol-de-crimes-hediondos-de-natureza-sexual"
-    },
-    {
-      "setor": "ambiental",
-      "title": "4.mai.2026FCAR Advogados amplia atuação em Societário com foco em M&AAlém de comandar a área, a nova sócia Camila Borba Lefèvre irá ampliar a assessoria internacional focada em negócios com a Holanda.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-05",
-      "url": "https://www.migalhas.com.br/quentes/455168/fcar-advogados-amplia-atuacao-em-societario-com-foco-em-m-a"
-    },
-    {
-      "setor": "empresarial",
-      "title": "4.mai.2026STJ: Ministro mantém HC preventivo a advogado que falou \"impostora\" em audiênciaDecisão do ministro Herman Benjamin manteve liminar do TJ/SP que suspendeu medidas contra o advogado.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-05",
-      "url": "https://www.migalhas.com.br/quentes/454815/stj-mantem-hc-preventivo-a-advogado-que-falou-impostora-em-audiencia"
-    },
-    {
-      "setor": "empresarial",
-      "title": "4.mai.2026A música que movimenta o Brasil tem donoExecução pública de música exige autorização e pagamento de direitos autorais, com responsabilidade de quem promove o evento.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-04",
-      "url": "https://www.migalhas.com.br/quentes/454959/a-musica-que-movimenta-o-brasil-tem-dono"
-    },
-    {
-      "setor": "varejo",
-      "title": "3.mai.2026Gilmar Mendes pede destaque em ação que discute aditivos em cigarrosCorte analisa se Anvisa pode restringir aditivos em cigarros sem previsão legal específica.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-04",
-      "url": "https://www.migalhas.com.br/quentes/455062/gilmar-mendes-pede-destaque-em-acao-que-discute-aditivos-em-cigarros"
-    },
-    {
-      "setor": "empresarial",
-      "title": "3.mai.2026Juíza determina desmembramento de contrato de plano de saúde familiarMagistrada reconheceu que mudança na estrutura familiar autoriza divisão de contrato de plano de saúde, com base nos princípios da boa-fé e da função social do contrato.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-04",
-      "url": "https://www.migalhas.com.br/quentes/454853/juiza-determina-desmembramento-de-contrato-de-plano-de-saude-familiar"
     }
   ]
 }

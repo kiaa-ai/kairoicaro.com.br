@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T08:47:36.783319+00:00",
-  "total": 7,
+  "updated_at": "2026-05-07T10:21:17.877450+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
@@ -17,30 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-julgamento-sobre-distribuicao-dos-royalties-do-petroleo-entre-uniao-estados-e-municipios/",
       "date": "2026-05-07",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Ex-governador do Acre, Gladson Cameli é condenado a 25 anos de prisão, maior pena já aplicada pelo STJ",
-      "summary": "Ex-governador do Acre, Gladson Cameli é condenado a 25 anos de prisão, maior pena já aplicada pelo STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-STJ-condena-ex-governador-do-Acre--Gladson-Cameli--a-25-anos-de-prisao-por-esquema-de-corrupcao.aspx",
-      "date": "2026-05-07",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Reinaugurada, Biblioteca STJ-Enfam une acervo histórico, novas doações e valorização da cultura jurídica",
-      "summary": "A biblioteca, que tem o maior acervo jurídico do Poder Judiciário, passou por reformas voltadas à preservação das obras, à ampliação da acessibilidade e à melhoria das condições de estudo e pesquisa.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Reinaugurada--Biblioteca-STJ-Enfam-une-acervo-historico--novas-doacoes-e-valorizacao-da-cultura-juridica.aspx",
-      "date": "2026-05-07",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre recusa discriminatória de contratação de plano de saúde",
-      "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre recusa discriminatória de contratação de plano de saúde",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-recusa-discriminatoria-de-contratacao-de-plano-de-saude.aspx",
-      "date": "2026-05-07",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

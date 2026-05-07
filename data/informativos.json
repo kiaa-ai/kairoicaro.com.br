@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-05-06T20:00:56.332909+00:00",
-  "total": 4,
+  "updated_at": "2026-05-07T04:05:04.689694+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Deputado Thiago Rangel deve permanecer preso independentemente de deliberação da Alerj",
-      "summary": "Ministro Alexandre de Moraes afastou, no caso concreto, a imunidade parlamentar que garante às Casas Legislativas decidir sobre prisão de parlamentares; decisão será submetida a referendo da 1ª Turma",
-      "url": "https://noticias.stf.jus.br/postsnoticias/deputado-thiago-rangel-deve-permanecer-preso-independentemente-de-deliberacao-da-alerj/",
-      "date": "2026-05-06",
+      "title": "STF recebe lançamento de livro sobre constitucionalismo digital em homenagem ao decano da Corte",
+      "summary": "No evento, o presidente do STF, ministro Edson Fachin, e o homenageado, ministro Gilmar Mendes, falaram sobre desafios do direito diante das transformações da era digital",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-lancamento-de-livro-sobre-constitucionalismo-digital-em-homenagem-ao-decano-da-corte/",
+      "date": "2026-05-07",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Presidente do STF reforça papel do Parlamento ao celebrar 200 anos da Câmara",
-      "summary": "Em sessão solene, ministro ressaltou a importância da harmonia entre os Poderes e a responsabilidade democrática das instituições",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-reforca-papel-do-parlamento-ao-celebrar-200-anos-da-camara/",
-      "date": "2026-05-06",
+      "title": "STF inicia julgamento sobre distribuição dos royalties do petróleo entre União, estados e municípios",
+      "summary": "Plenário analisa cinco ações que discutem se a divisão dos recursos deve priorizar estados produtores ou alcançar todos os entes federativos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-julgamento-sobre-distribuicao-dos-royalties-do-petroleo-entre-uniao-estados-e-municipios/",
+      "date": "2026-05-07",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Ex-governador do Acre, Gladson Cameli é condenado a 25 anos de prisão, maior pena já aplicada pelo STJ",
+      "summary": "Ex-governador do Acre, Gladson Cameli é condenado a 25 anos de prisão, maior pena já aplicada pelo STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-STJ-condena-ex-governador-do-Acre--Gladson-Cameli--a-25-anos-de-prisao-por-esquema-de-corrupcao.aspx",
+      "date": "2026-05-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Reinaugurada, Biblioteca STJ-Enfam une acervo histórico, novas doações e valorização da cultura jurídica",
+      "summary": "A biblioteca, que tem o maior acervo jurídico do Poder Judiciário, passou por reformas voltadas à preservação das obras, à ampliação da acessibilidade e à melhoria das condições de estudo e pesquisa.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Reinaugurada--Biblioteca-STJ-Enfam-une-acervo-historico--novas-doacoes-e-valorizacao-da-cultura-juridica.aspx",
+      "date": "2026-05-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre recusa discriminatória de contratação de plano de saúde",
+      "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre recusa discriminatória de contratação de plano de saúde",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06052026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-recusa-discriminatoria-de-contratacao-de-plano-de-saude.aspx",
+      "date": "2026-05-07",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "PopruaJud realiza ação em Pacaraima (RR) para ampliar acesso à justiça e cidadania",
       "summary": "A iniciativa levou atendimento jurídico, emissão de documentos e oferta de serviços básicos a pessoas em situação de vulnerabilidade social",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11325-popruajud-realiza-acao-em-pacaraima-rr-para-ampliar-acesso-a-justica-e-cidadania",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "TRT-11 sediará 1º Encontro dos Tribunais do Trabalho da Região Norte em Manaus",
       "summary": "Programação inclui painéis sobre Justiça Itinerante, inclusão digital e impactos das mudanças climáticas nas relações de trabalho na Amazônia",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11322-trt-11-sediara-1-encontro-dos-tribunais-do-trabalho-da-regiao-norte-em-manaus",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "category": "Trabalhista"
     }
   ]

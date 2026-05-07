@@ -1,36 +1,60 @@
 {
-  "updated_at": "2026-05-07T10:21:17.877450+00:00",
-  "total": 4,
+  "updated_at": "2026-05-07T14:49:56.452926+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF recebe lançamento de livro sobre constitucionalismo digital em homenagem ao decano da Corte",
-      "summary": "No evento, o presidente do STF, ministro Edson Fachin, e o homenageado, ministro Gilmar Mendes, falaram sobre desafios do direito diante das transformações da era digital",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-lancamento-de-livro-sobre-constitucionalismo-digital-em-homenagem-ao-decano-da-corte/",
+      "title": "STF autoriza nova fase da Operação Compliance Zero",
+      "summary": "Ministro André Mendonça atendeu a pedido da PF que aponta indícios de atuação parlamentar em benefício de interesses privados do principal investigado na operação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-nova-fase-da-operacao-compliance-zero/",
       "date": "2026-05-07",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF inicia julgamento sobre distribuição dos royalties do petróleo entre União, estados e municípios",
-      "summary": "Plenário analisa cinco ações que discutem se a divisão dos recursos deve priorizar estados produtores ou alcançar todos os entes federativos",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-julgamento-sobre-distribuicao-dos-royalties-do-petroleo-entre-uniao-estados-e-municipios/",
+      "title": "Confira a pauta do STF desta quinta-feira (7)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-7/",
       "date": "2026-05-07",
       "category": "Constitucional"
     },
     {
+      "tribunal": "STJ",
+      "title": "Rádio Decidendi discute precedente qualificado sobre combate à litigância abusiva",
+      "summary": "Rádio Decidendi discute precedente qualificado sobre combate à litigância abusiva",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07052026-Radio-Decidendi-discute-precedente-qualificado-sobre-combate-a-litigancia-abusiva.aspx",
+      "date": "2026-05-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Complementação de valores em cumprimento de sentença contra a Fazenda Pública é tema de repetitivo",
+      "summary": "Complementação de valores em cumprimento de sentença contra a Fazenda Pública é tema de repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07052026-Complementacao-de-valores-em-cumprimento-de-sentenca-contra-a-Fazenda-Publica-e-tema-de-repetitivo.aspx",
+      "date": "2026-05-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Agravo de instrumento é o recurso adequado contra decisão em incidente de suspeição, decide Terceira Turma",
+      "summary": "Agravo de instrumento é o recurso adequado contra decisão em incidente de suspeição, decide Terceira Turma",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07052026-Agravo-de-instrumento-e-o-recurso-adequado-contra-decisao-em-incidente-de-suspeicao--decide-Terceira-Turma.aspx",
+      "date": "2026-05-07",
+      "category": "Jurisprudencia"
+    },
+    {
       "tribunal": "TRT11",
-      "title": "PopruaJud realiza ação em Pacaraima (RR) para ampliar acesso à justiça e cidadania",
-      "summary": "A iniciativa levou atendimento jurídico, emissão de documentos e oferta de serviços básicos a pessoas em situação de vulnerabilidade social",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11325-popruajud-realiza-acao-em-pacaraima-rr-para-ampliar-acesso-a-justica-e-cidadania",
+      "title": "Justiça do Trabalho uniformiza comunicações processuais envolvendo os Correios",
+      "summary": "Orientação do CSJT estabelece critérios para uso do Diário Eletrônico (DJEN) e do Domicílio Judicial Eletrônico (DJE) nos TRTs",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11336-justica-do-trabalho-uniformiza-comunicacoes-processuais-envolvendo-os-correios",
       "date": "2026-05-07",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 sediará 1º Encontro dos Tribunais do Trabalho da Região Norte em Manaus",
-      "summary": "Programação inclui painéis sobre Justiça Itinerante, inclusão digital e impactos das mudanças climáticas nas relações de trabalho na Amazônia",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11322-trt-11-sediara-1-encontro-dos-tribunais-do-trabalho-da-regiao-norte-em-manaus",
+      "title": "Justiça do Trabalho fortalece cooperação na Amazônia",
+      "summary": "Evento consolida avanços práticos com a assinatura de termo de cooperação para melhorar atendimento aos trabalhadores de Guajará/AM e da Carta de Manaus para fortalecer cooperação na Região Norte",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11335-justica-do-trabalho-fortalece-cooperacao-na-amazonia",
       "date": "2026-05-07",
       "category": "Trabalhista"
     }

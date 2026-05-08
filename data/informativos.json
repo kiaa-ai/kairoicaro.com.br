@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-08T09:13:48.508646+00:00",
-  "total": 8,
+  "updated_at": "2026-05-08T14:16:32.218150+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira os destaques do Plenário Virtual",
+      "summary": "Sessão começou às 11h desta sexta-feira (8) e termina em 15 de maio, às 23h59",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-15/",
+      "date": "2026-05-08",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "135 anos do STF: a garantia de direitos constitucionais em meio à Revolta da Armada",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF autoriza progressão de Walter Delgatti Neto para regime aberto",
-      "summary": "Na decisão, ministro Alexandre de Moraes verificou que o condenado cumpriu os requisitos legais para a mudança de regime",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-progressao-de-walter-delgatti-neto-para-regime-aberto/",
-      "date": "2026-05-08",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Ministro Joel Ilan Paciornik assume presidência da Terceira Seção",
-      "summary": "Ministro Joel Ilan Paciornik assume presidência da Terceira Seção",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07052026-Ministro-Joel-Ilan-Paciornik-assume-presidencia-da-Terceira-Secao.aspx",
+      "title": "Podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
+      "summary": "Podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Podcast-aborda-homologacao-de-atos-estrangeiros-e-competencia-da-Justica-brasileira-em-materia-sucessoria.aspx",
       "date": "2026-05-08",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Oferta de imóvel em plataformas como Airbnb exige aprovação do condomínio, define Segunda Seção",
-      "summary": "Oferta de imóvel em plataformas como Airbnb exige aprovação do condomínio, define Segunda Seção",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07052026-Oferta-de-imovel-em-plataformas-como-Airbnb-exige-aprovacao-do-condominio--define-Segunda-Secao.aspx",
+      "title": "Informativo traz desconsideração de laudo pericial e prazo peremptório para oferecimento de queixa",
+      "summary": "Informativo traz desconsideração de laudo pericial e prazo peremptório para oferecimento de queixa",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Informativo-traz-desconsideracao-de-laudo-pericial-e-prazo-peremptorio-para-oferecimento-de-queixa.aspx",
       "date": "2026-05-08",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "2º Congresso STJ da Primeira Instância Federal e Estadual tem 202 Propostas de Enunciado admitidas",
-      "summary": "2º Congresso STJ da Primeira Instância Federal e Estadual tem 202 Propostas de Enunciado admitidas",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07052026-2o-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual-tem-202-Propostas-de-Enunciado-admitidas.aspx",
+      "title": "Livro sobre confissão e literatura, do ministro Ribeiro Dantas, será lançado na próxima quarta (13)",
+      "summary": "Livro sobre confissão e literatura, do ministro Ribeiro Dantas, será lançado na próxima quarta (13)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Livro-sobre-confissao-e-literatura--do-ministro-Ribeiro-Dantas--sera-lancado-na-proxima-quarta--13-.aspx",
       "date": "2026-05-08",
       "category": "Jurisprudencia"
     },
@@ -55,14 +55,6 @@
       "title": "TRT-11 realizará parada programada nos sistemas de Tecnologia da Informação e Comunicação",
       "summary": "Atualização da infraestrutura do data center deixará sistemas temporariamente indisponíveis no período de 9 a 10 de maio",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11337-trt-11-realizara-parada-programada-nos-sistemas-de-tecnologia-da-informacao-e-comunicacao",
-      "date": "2026-05-08",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-08",
       "category": "Trabalhista"
     }

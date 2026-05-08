@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-08T14:16:32.218150+00:00",
+  "updated_at": "2026-05-08T19:44:44.072335+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira os destaques do Plenário Virtual",
-      "summary": "Sessão começou às 11h desta sexta-feira (8) e termina em 15 de maio, às 23h59",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-15/",
+      "title": "Publicado acórdão do julgamento que definiu regras para pagamento de verbas indenizatórias",
+      "summary": "Documento publicado nesta sexta-feira (8), no DJe, traz a decisão final da análise conjunta de cinco processo sobre o tema",
+      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-publica-acordao-do-julgamento-que-definiu-regras-para-o-pagamento-de-verbas-indenizatorias/",
       "date": "2026-05-08",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "135 anos do STF: a garantia de direitos constitucionais em meio à Revolta da Armada",
-      "summary": "Série “Tá na Nossa História” revisita os primórdios da Corte, seus marcos institucionais, a evolução de suas competências e o papel desempenhado na consolidação da República, da democracia e dos direitos fundamentais no Brasil",
-      "url": "https://noticias.stf.jus.br/postsnoticias/135-anos-do-stf-a-garantia-de-direitos-constitucionais-em-meio-a-revolta-da-armada/",
+      "title": "STF esclarece alcance de decisão sobre teto remuneratório e proíbe novos mecanismos de pagamento",
+      "summary": "Os despachos conjuntos foram assinados pelos ministros Cristiano Zanin, Gilmar Mendes, Flavio Dino e Alexandre de Moraes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-esclarece-alcance-de-decisao-sobre-teto-remuneratorio-e-proibe-novos-mecanismos-de-pagamento/",
       "date": "2026-05-08",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Trabalhadora gestante em contrato temporário tem direito à estabilidade",
-      "summary": "Sentença da 16ª VT de Manaus afasta a tese de que esse tipo de vínculo impediria a aplicação da garantia constitucional",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11339-trabalhadora-gestante-em-contrato-temporario-tem-direito-a-estabilidade",
+      "title": "Justiça do Trabalho da Região Norte debate inclusão digital, sustentabilidade e acesso à Justiça em encontro inédito em Manaus",
+      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) sediou, nesta quarta-feira (6/5), em Manaus, o 1º Encontro dos Tribunais do Trabalho da Região Norte. Com o tema “Desafios Contemporâneos da Justiça do Trabalho e o Papel dos Tribunais Regionais na Consolidação da Jurisprudência”, o evento reuniu",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11342-justica-do-trabalho-da-regiao-norte-debate-inclusao-digital-sustentabilidade-e-acesso-a-justica-em-encontro-inedito-em-manaus",
       "date": "2026-05-08",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 realizará parada programada nos sistemas de Tecnologia da Informação e Comunicação",
-      "summary": "Atualização da infraestrutura do data center deixará sistemas temporariamente indisponíveis no período de 9 a 10 de maio",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11337-trt-11-realizara-parada-programada-nos-sistemas-de-tecnologia-da-informacao-e-comunicacao",
+      "title": "TRT-11 suspende julgamento de processos sobre estabilidade acidentária sem comprovação de incapacidade para o trabalho",
+      "summary": "A decisão atinge as causas sobre o assunto, que vão ficar paradas até que o tema seja decidido.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11340-trt-11-suspende-julgamento-de-processos-sobre-estabilidade-acidentaria-sem-comprovacao-de-incapacidade-para-o-trabalho",
       "date": "2026-05-08",
       "category": "Trabalhista"
     }

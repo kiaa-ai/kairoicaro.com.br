@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T03:53:24.946622+00:00",
-  "total": 7,
+  "updated_at": "2026-05-08T07:57:22.313274+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "TRT-11 realizará parada programada nos sistemas de Tecnologia da Informação e Comunicação",
       "summary": "Atualização da infraestrutura do data center deixará sistemas temporariamente indisponíveis no período de 9 a 10 de maio",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11337-trt-11-realizara-parada-programada-nos-sistemas-de-tecnologia-da-informacao-e-comunicacao",
+      "date": "2026-05-08",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-08",
       "category": "Trabalhista"
     }

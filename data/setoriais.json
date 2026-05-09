@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-08T09:13:51.839684+00:00",
+  "updated_at": "2026-05-09T09:15:14.582165+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "ambiental",
+      "title": "8.mai.2026Juiz manda contratar professora concursada após GO chamar temporáriaMagistrado entendeu que vínculo precário para o mesmo cargo demonstrou necessidade permanente do serviço.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-09",
+      "url": "https://www.migalhas.com.br/quentes/455569/juiz-manda-contratar-professora-concursada-apos-go-chamar-temporaria"
+    },
+    {
+      "setor": "ambiental",
+      "title": "8.mai.2026Mendonça autoriza transferência de ex-presidente do BRB para PapudinhaPaulo Henrique Costa foi preso na operação Compliance Zero, que apura suposto esquema bilionário envolvendo carteiras de crédito fictícias.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-09",
+      "url": "https://www.migalhas.com.br/quentes/455579/mendonca-autoriza-transferencia-de-ex-presidente-do-brb-para-papudinha"
+    },
+    {
+      "setor": "ambiental",
+      "title": "8.mai.2026STJ fixa teses sobre manutenção do foro por prerrogativa após saída do cargoCorte Especial definiu que a competência deve ser deslocada ao tribunal competente mesmo após o encerramento da instrução processual ou sentença condenatória no juízo de origem.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-09",
+      "url": "https://www.migalhas.com.br/quentes/455363/stj-fixa-teses-sobre-manutencao-do-foro-apos-saida-do-cargo"
+    },
+    {
+      "setor": "empresarial",
+      "title": "8.mai.2026TJ/SP manda operadora devolver R$ 28 mil por reajustes abusivos em plano de saúdePerícia apontou inconsistências nos índices aplicados e ausência de comprovação técnica para aumentos anuais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-09",
+      "url": "https://www.migalhas.com.br/quentes/455576/tj-sp-manda-operadora-devolver-r-28-mil-por-reajuste-abusivo-em-plano"
+    },
+    {
+      "setor": "empresarial",
+      "title": "8.mai.2026STJ: Motoristas e cobradores têm direito à aposentadoria por penosidade1ª seção fixou tese que admite o reconhecimento da atividade especial de motoristas, cobradores e caminhoneiros mediante perícia técnica individualizada.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-09",
+      "url": "https://www.migalhas.com.br/quentes/455577/stj-motoristas-e-cobradores-tem-direito-a-aposentadoria-especial"
+    },
+    {
+      "setor": "varejo",
+      "title": "8.mai.2026Troca ou reembolso? Saiba quais os direitos do consumidor no caso YpêEspecialista explica direitos de consumidores após Anvisa determinar recolhimento de produtos Ypê por risco sanitário.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-09",
+      "url": "https://www.migalhas.com.br/quentes/455528/troca-ou-reembolso-saiba-quais-os-direitos-do-consumidor-no-caso-ype"
+    },
     {
       "setor": "empresarial",
       "title": "7.mai.2026STJ julga se associação ao tráfico impede progressão especial de regime a gestanteRelator, ministro Sebastião Reis Jr., votou para que associação para o tráfico não seja equiparada a organização criminosa para impedir benefício previsto a gestante, mãe ou responsável por crianças com deficiência.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-07",
       "url": "https://www.migalhas.com.br/quentes/455391/flavio-dino-proibe-penduricalhos-fora-de-limites-fixados-pelo-stf"
-    },
-    {
-      "setor": "ambiental",
-      "title": "6.mai.2026\"Elogio não significa voto\", brinca Dino sobre sustentação no STFComentários de Fachin e Dino após elogio a procurador arrancaram risos durante sessão do Supremo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-07",
-      "url": "https://www.migalhas.com.br/quentes/455389/elogio-nao-significa-voto--brinca-dino-sobre-sustentacao-no-stf"
-    },
-    {
-      "setor": "empresarial",
-      "title": "6.mai.2026Lula nomeia Margareth Rodrigues Costa como ministra do TSTDesembargadora do TRT-5 ocupará vaga aberta com a aposentadoria do ministro Aloysio Corrêa da Veiga.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-07",
-      "url": "https://www.migalhas.com.br/quentes/455382/lula-nomeia-margareth-rodrigues-costa-como-ministra-do-tst"
-    },
-    {
-      "setor": "ambiental",
-      "title": "6.mai.2026Ricardo Fernandes publica estudo sobre ética e poder na obra LeviatãO advogado analisa como ética, razão e poder soberano se articulam no livro de Thomas Hobbes, ligando lei natural e contrato social à ordem e à convivência civil.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-06",
-      "url": "https://www.migalhas.com.br/quentes/455140/ricardo-fernandes-publica-estudo-sobre-etica-e-poder-na-obra-leviata"
-    },
-    {
-      "setor": "empresarial",
-      "title": "6.mai.2026OAB/SP vai à Justiça contra instituto por exercício ilegal da advocaciaEntidade ajuizou ação civil pública contra Instituto Mãe Polvo, que oferece mutirão jurídico a mães solo que queiram fazer requerimento de pensão alimentícia.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-06",
-      "url": "https://www.migalhas.com.br/quentes/455243/oabsp-vai-a-justica-contra-instituto-por-exercicio-ilegal-da-advocacia"
-    },
-    {
-      "setor": "empresarial",
-      "title": "6.mai.2026Preâmbulo Tech participa da AB2L Lawtech Experience 2026Empresa aposta em lançamentos, case com a Light e estrutura ampliada para fortalecer marca e gerar negócios no principal evento de inovação jurídica do país.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-06",
-      "url": "https://www.migalhas.com.br/quentes/455196/preambulo-tech-participa-da-ab2l-lawtech-experience-2026"
-    },
-    {
-      "setor": "empresarial",
-      "title": "5.mai.2026No STJ, Nancy pergunta nome de app de namoro e Daniela responde: \"sou casada\"Brincadeira ocorreu durante julgamento que trata da linha tênue entre \"namoro qualificado\" e \"união estável\".",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-06",
-      "url": "https://www.migalhas.com.br/quentes/455287/nancy-pergunta-nome-de-app-de-namoro-e-daniela-responde--sou-casada"
     }
   ]
 }

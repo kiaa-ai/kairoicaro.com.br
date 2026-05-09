@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-05-08T19:44:44.072335+00:00",
+  "updated_at": "2026-05-09T03:55:45.748143+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Publicado acórdão do julgamento que definiu regras para pagamento de verbas indenizatórias",
-      "summary": "Documento publicado nesta sexta-feira (8), no DJe, traz a decisão final da análise conjunta de cinco processo sobre o tema",
-      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-publica-acordao-do-julgamento-que-definiu-regras-para-o-pagamento-de-verbas-indenizatorias/",
-      "date": "2026-05-08",
+      "title": "STF recebe primeiras ações contra Lei da Dosimetria",
+      "summary": "ABI e federação partidária PSOL-Rede questionam tratamento conferido a crimes voltados à ruptura constitucional e alegam violações na forma como matéria tramitou no Congresso",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-primeiras-acoes-contra-lei-da-dosimetria/",
+      "date": "2026-05-09",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF esclarece alcance de decisão sobre teto remuneratório e proíbe novos mecanismos de pagamento",
-      "summary": "Os despachos conjuntos foram assinados pelos ministros Cristiano Zanin, Gilmar Mendes, Flavio Dino e Alexandre de Moraes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-esclarece-alcance-de-decisao-sobre-teto-remuneratorio-e-proibe-novos-mecanismos-de-pagamento/",
-      "date": "2026-05-08",
+      "title": "STF promove I Encontro de Centros de Estudos Constitucionais da Iberoamérica",
+      "summary": "Evento ocorrerá na terça-feira (12/5), em Brasília, com debates sobre democracia e ensino jurídico",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-promove-i-encontro-de-centros-de-estudos-constitucionais-da-iberoamerica/",
+      "date": "2026-05-09",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Encontro sobre propriedade industrial e a jurisprudência do STJ acontece na próxima quinta (14)",
+      "summary": "Encontro sobre propriedade industrial e a jurisprudência do STJ acontece na próxima quinta (14)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Evento-sobre-propriedade-industrial-na-jurisprudencia-do-STJ-acontece-na-proxima-quinta--14-.aspx",
+      "date": "2026-05-09",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
       "summary": "Podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Podcast-aborda-homologacao-de-atos-estrangeiros-e-competencia-da-Justica-brasileira-em-materia-sucessoria.aspx",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Informativo traz desconsideração de laudo pericial e prazo peremptório para oferecimento de queixa",
       "summary": "Informativo traz desconsideração de laudo pericial e prazo peremptório para oferecimento de queixa",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Informativo-traz-desconsideracao-de-laudo-pericial-e-prazo-peremptorio-para-oferecimento-de-queixa.aspx",
-      "date": "2026-05-08",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Livro sobre confissão e literatura, do ministro Ribeiro Dantas, será lançado na próxima quarta (13)",
-      "summary": "Livro sobre confissão e literatura, do ministro Ribeiro Dantas, será lançado na próxima quarta (13)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Livro-sobre-confissao-e-literatura--do-ministro-Ribeiro-Dantas--sera-lancado-na-proxima-quarta--13-.aspx",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Justiça do Trabalho da Região Norte debate inclusão digital, sustentabilidade e acesso à Justiça em encontro inédito em Manaus",
       "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) sediou, nesta quarta-feira (6/5), em Manaus, o 1º Encontro dos Tribunais do Trabalho da Região Norte. Com o tema “Desafios Contemporâneos da Justiça do Trabalho e o Papel dos Tribunais Regionais na Consolidação da Jurisprudência”, o evento reuniu",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11342-justica-do-trabalho-da-regiao-norte-debate-inclusao-digital-sustentabilidade-e-acesso-a-justica-em-encontro-inedito-em-manaus",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "TRT-11 suspende julgamento de processos sobre estabilidade acidentária sem comprovação de incapacidade para o trabalho",
       "summary": "A decisão atinge as causas sobre o assunto, que vão ficar paradas até que o tema seja decidido.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11340-trt-11-suspende-julgamento-de-processos-sobre-estabilidade-acidentaria-sem-comprovacao-de-incapacidade-para-o-trabalho",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "category": "Trabalhista"
     }
   ]

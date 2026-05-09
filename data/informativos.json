@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-09T13:52:25.157328+00:00",
-  "total": 6,
+  "updated_at": "2026-05-09T19:32:55.991467+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Relator pede informações em ações contra Lei da Dosimetria",
-      "summary": "As ADIs foram apresentadas pela Associação Brasileira de Imprensa (ABI) e pela federação partidária PSOL-Rede",
-      "url": "https://noticias.stf.jus.br/postsnoticias/relator-pede-informacoes-em-acoes-contra-lei-da-dosimetria/",
+      "title": "Nota da Presidência",
+      "summary": "Ministro Edson Fachin manifesta profundo pesar pelo falecimento da magistrada Mariana Francisco Ferreira",
+      "url": "https://noticias.stf.jus.br/postsnoticias/nota-da-presidencia-3/",
       "date": "2026-05-09",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF recebe primeiras ações contra Lei da Dosimetria",
-      "summary": "ABI e federação partidária PSOL-Rede questionam tratamento conferido a crimes voltados à ruptura constitucional e alegam violações na forma como matéria tramitou no Congresso",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-primeiras-acoes-contra-lei-da-dosimetria/",
+      "title": "STF valida lei da PB que permite ao usuário usar cartão físico para identificação em planos de saúde",
+      "summary": "Por unanimidade, Corte entendeu que norma estadual protege consumidor sem invadir competência da União",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-da-pb-que-permite-ao-usuario-usar-cartao-fisico-para-identificacao-em-planos-de-saude/",
       "date": "2026-05-09",
       "category": "Constitucional"
     },
@@ -41,6 +41,22 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Informativo-traz-desconsideracao-de-laudo-pericial-e-prazo-peremptorio-para-oferecimento-de-queixa.aspx",
       "date": "2026-05-09",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho da Região Norte debate inclusão digital, sustentabilidade e acesso à Justiça em encontro inédito em Manaus",
+      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) sediou, nesta quarta-feira (6/5), em Manaus, o 1º Encontro dos Tribunais do Trabalho da Região Norte. Com o tema “Desafios Contemporâneos da Justiça do Trabalho e o Papel dos Tribunais Regionais na Consolidação da Jurisprudência”, o evento reuniu",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11342-justica-do-trabalho-da-regiao-norte-debate-inclusao-digital-sustentabilidade-e-acesso-a-justica-em-encontro-inedito-em-manaus",
+      "date": "2026-05-09",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "TRT-11 suspende julgamento de processos sobre estabilidade acidentária sem comprovação de incapacidade para o trabalho",
+      "summary": "A decisão atinge as causas sobre o assunto, que vão ficar paradas até que o tema seja decidido.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11340-trt-11-suspende-julgamento-de-processos-sobre-estabilidade-acidentaria-sem-comprovacao-de-incapacidade-para-o-trabalho",
+      "date": "2026-05-09",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TST",

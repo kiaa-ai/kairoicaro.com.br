@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-10T09:25:28.130087+00:00",
-  "total": 7,
+  "updated_at": "2026-05-10T13:55:53.123681+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -20,6 +20,14 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Fundo Garantidor de Créditos: a proteção dos investidores em debate no STJ",
+      "summary": "Trazido ao noticiário recente devido à crise do Banco Master, o FGC tem sido objeto de controvérsias jurídicas que, muitas vezes, acabam chegando aos colegiados de direito privado do STJ.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10052026-Fundo-Garantidor-de-Creditos-a-protecao-dos-investidores-em-debate-no-STJ.aspx",
+      "date": "2026-05-10",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "Encontro sobre propriedade industrial e a jurisprudência do STJ acontece na próxima quinta (14)",
       "summary": "Encontro sobre propriedade industrial e a jurisprudência do STJ acontece na próxima quinta (14)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Evento-sobre-propriedade-industrial-na-jurisprudencia-do-STJ-acontece-na-proxima-quinta--14-.aspx",
@@ -31,14 +39,6 @@
       "title": "Podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
       "summary": "Podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Podcast-aborda-homologacao-de-atos-estrangeiros-e-competencia-da-Justica-brasileira-em-materia-sucessoria.aspx",
-      "date": "2026-05-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Informativo traz desconsideração de laudo pericial e prazo peremptório para oferecimento de queixa",
-      "summary": "Informativo traz desconsideração de laudo pericial e prazo peremptório para oferecimento de queixa",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Informativo-traz-desconsideracao-de-laudo-pericial-e-prazo-peremptorio-para-oferecimento-de-queixa.aspx",
       "date": "2026-05-10",
       "category": "Jurisprudencia"
     },
@@ -55,6 +55,14 @@
       "title": "TRT-11 suspende julgamento de processos sobre estabilidade acidentária sem comprovação de incapacidade para o trabalho",
       "summary": "A decisão atinge as causas sobre o assunto, que vão ficar paradas até que o tema seja decidido.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11340-trt-11-suspende-julgamento-de-processos-sobre-estabilidade-acidentaria-sem-comprovacao-de-incapacidade-para-o-trabalho",
+      "date": "2026-05-10",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-10",
       "category": "Trabalhista"
     }

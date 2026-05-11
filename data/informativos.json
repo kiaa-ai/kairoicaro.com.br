@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T15:35:30.672539+00:00",
+  "updated_at": "2026-05-11T20:03:39.810908+00:00",
   "total": 8,
   "items": [
     {
@@ -12,11 +12,19 @@
     },
     {
       "tribunal": "STF",
-      "title": "Nota da Presidência",
-      "summary": "Ministro Edson Fachin manifesta profundo pesar pelo falecimento da magistrada Mariana Francisco Ferreira",
+      "title": "Nota da Presidência pelo falecimento da juíza Mariana Ferreira",
+      "summary": "Ministro Edson Fachin repudia publicações que associaram a morte da magistrada à questões de remuneração",
       "url": "https://noticias.stf.jus.br/postsnoticias/nota-da-presidencia-3/",
       "date": "2026-05-11",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Delegação de Angola vem ao Brasil para diálogo judicial entre os dois países",
+      "summary": "Delegação de Angola vem ao Brasil para diálogo judicial entre os dois países",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11052026-Delegacao-de-Angola-vem-ao-Brasil-para-dialogo-judicial-entre-os-dois-paises.aspx",
+      "date": "2026-05-11",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -31,14 +39,6 @@
       "title": "Agravo de instrumento contra decisão que homologa cálculos no cumprimento de sentença não é erro grosseiro",
       "summary": "Agravo de instrumento contra decisão que homologa cálculos no cumprimento de sentença não é erro grosseiro",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11052026-Agravo-de-instrumento-contra-decisao-que-homologa-calculos-no-cumprimento-de-sentenca-nao-e-erro-grosseiro.aspx",
-      "date": "2026-05-11",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Fundo Garantidor de Créditos: a proteção dos investidores em debate no STJ",
-      "summary": "Trazido ao noticiário recente devido à crise do Banco Master, o FGC tem sido objeto de controvérsias jurídicas que, muitas vezes, acabam chegando aos colegiados de direito privado do STJ.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10052026-Fundo-Garantidor-de-Creditos-a-protecao-dos-investidores-em-debate-no-STJ.aspx",
       "date": "2026-05-11",
       "category": "Jurisprudencia"
     },

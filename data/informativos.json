@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-11T10:57:19.711112+00:00",
-  "total": 7,
+  "updated_at": "2026-05-11T15:35:30.672539+00:00",
+  "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF vai discutir possibilidade de município fixar alíquotas de IPTU em função da área do imóvel",
+      "summary": "Matéria teve repercussão geral reconhecida; ministro Dias Toffoli (relator) determinou a suspensão nacional dos processos similares até definição do tema pelo STF",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-discutir-possibilidade-de-municipio-fixar-aliquotas-de-iptu-em-funcao-da-area-do-imovel/",
+      "date": "2026-05-11",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Nota da Presidência",
@@ -11,12 +19,12 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF valida lei da PB que permite ao usuário usar cartão físico para identificação em planos de saúde",
-      "summary": "Por unanimidade, Corte entendeu que norma estadual protege consumidor sem invadir competência da União",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-da-pb-que-permite-ao-usuario-usar-cartao-fisico-para-identificacao-em-planos-de-saude/",
+      "tribunal": "STJ",
+      "title": "Terceiro volume do livro virtual MomentoArquivo reúne julgamentos que marcaram a história do tribunal",
+      "summary": "Terceiro volume do livro virtual MomentoArquivo reúne julgamentos que marcaram a história do tribunal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11052026-Terceiro-volume-do-livro-virtual-MomentoArquivo-reune-julgamentos-que-marcaram-a-historia-do-tribunal.aspx",
       "date": "2026-05-11",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,26 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Encontro sobre propriedade industrial e a jurisprudência do STJ acontece na próxima quinta (14)",
-      "summary": "Encontro sobre propriedade industrial e a jurisprudência do STJ acontece na próxima quinta (14)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08052026-Evento-sobre-propriedade-industrial-na-jurisprudencia-do-STJ-acontece-na-proxima-quinta--14-.aspx",
-      "date": "2026-05-11",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho da Região Norte debate inclusão digital, sustentabilidade e acesso à Justiça em encontro inédito em Manaus",
-      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) sediou, nesta quarta-feira (6/5), em Manaus, o 1º Encontro dos Tribunais do Trabalho da Região Norte. Com o tema “Desafios Contemporâneos da Justiça do Trabalho e o Papel dos Tribunais Regionais na Consolidação da Jurisprudência”, o evento reuniu",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11342-justica-do-trabalho-da-regiao-norte-debate-inclusao-digital-sustentabilidade-e-acesso-a-justica-em-encontro-inedito-em-manaus",
+      "title": "Ainda dá tempo de incluir seu processo na Semana Nacional da Conciliação Trabalhista 2026",
+      "summary": "O mutirão de acordos será realizado de 25 a 29 de maio, em toda a Justiça do Trabalho. No TRT-11 os processos podem ser incluídos na pauta até 15 de maio.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11345-ainda-da-tempo-de-incluir-seu-processo-na-semana-nacional-da-conciliacao-trabalhista-2026",
       "date": "2026-05-11",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 suspende julgamento de processos sobre estabilidade acidentária sem comprovação de incapacidade para o trabalho",
-      "summary": "A decisão atinge as causas sobre o assunto, que vão ficar paradas até que o tema seja decidido.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11340-trt-11-suspende-julgamento-de-processos-sobre-estabilidade-acidentaria-sem-comprovacao-de-incapacidade-para-o-trabalho",
+      "title": "16ª Vara do Trabalho de Manaus é premiada pelo desempenho na execução trabalhista em 2025",
+      "summary": "Premiação foi entregue pelo TST e CSJT durante evento realizado em Brasília.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11343-16-vara-do-trabalho-de-manaus-e-premiada-pelo-desempenho-na-execucao-trabalhista-em-2025",
+      "date": "2026-05-11",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-11",
       "category": "Trabalhista"
     }

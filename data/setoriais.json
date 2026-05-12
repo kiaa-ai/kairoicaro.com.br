@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-11T10:57:22.864427+00:00",
+  "updated_at": "2026-05-12T10:27:49.489954+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "12.mai.2026Campanha da ACSP orienta MEIs sobre a declaração do Imposto de RendaIniciativa combina gratuitamente conteúdo educativo, mobilização digital e plantão presencial em São Paulo/SP.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-12",
+      "url": "https://www.migalhas.com.br/quentes/455638/campanha-da-acsp-orienta-meis-sobre-a-declaracao-do-imposto-de-renda"
+    },
+    {
+      "setor": "empresarial",
+      "title": "11.mai.2026IA nas campanhas eleitorais 2026: veja o que TSE autoriza ou proíbeNormas exigem aviso em conteúdos criados ou alterados por IA, proíbem deepfakes e impedem que sistemas automatizados recomendem candidatos ao eleitorado.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-12",
+      "url": "https://www.migalhas.com.br/quentes/455672/ia-nas-campanhas-eleitorais-2026-veja-o-que-tse-autoriza-ou-proibe"
+    },
+    {
+      "setor": "empresarial",
+      "title": "11.mai.2026Defesa de \"Débora do Batom\" recorre para obter benefícios da lei da dosimetriaMoraes suspendeu a aplicação da lei 15.402/26 na execução penal de Débora do Batom até julgamento de ADIns; defesa recorre e pede aplicação imediata da norma.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-12",
+      "url": "https://www.migalhas.com.br/quentes/455691/debora-do-batom-recorre-para-obter-beneficios-da-lei-da-dosimetria"
+    },
+    {
+      "setor": "ambiental",
+      "title": "11.mai.2026Nunes Marques assume comando do TSE nesta terça-feira; Mendonça será viceMinistros tomam posse em cerimônia às 19h, em Brasília, e ficarão à frente da Justiça Eleitoral nas eleições gerais de 2026.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-12",
+      "url": "https://www.migalhas.com.br/quentes/455657/nunes-marques-assume-comando-do-tse-na-terca-feira-mendonca-sera-vice"
+    },
+    {
+      "setor": "ambiental",
+      "title": "11.mai.2026Volkswagen é condenada a pagar R$ 15 mi por fraude ambiental em AmarokSentença reconheceu uso de software para burlar testes de emissão de poluentes em mais de 17 mil picapes Amarok produzidas no Brasil.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-12",
+      "url": "https://www.migalhas.com.br/quentes/455690/volkswagen-e-condenada-a-pagar-r-15-mi-por-fraude-ambiental-em-amarok"
+    },
+    {
+      "setor": "empresarial",
+      "title": "11.mai.2026STF: Gilmar adia análise de devolução de tributos inconstitucionais ADPF discute o marco inicial da prescrição para restituição de tributos declarados inconstitucionais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-12",
+      "url": "https://www.migalhas.com.br/quentes/455675/stf-gilmar-adia-analise-de-devolucao-de-tributos-inconstitucionais"
+    },
     {
       "setor": "empresarial",
       "title": "11.mai.2026Hospital indenizará analista após chefe acessar WhatsApp e divulgar conteúdoTRT-3 entendeu que leitura, fotos e divulgação de mensagens pessoais violaram intimidade da trabalhadora.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-10",
       "url": "https://www.migalhas.com.br/quentes/455575/plano-deve-custear-quimioterapia-a-paciente-com-cancer-de-mama"
-    },
-    {
-      "setor": "empresarial",
-      "title": "9.mai.2026Juíza rescinde contrato de multipropriedade e manda restituir 80% a clientePercentual previsto em contrato era de 50%, mas foi considerado abusivo e reduzido para 20% pela magistrada.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-10",
-      "url": "https://www.migalhas.com.br/quentes/455141/juiza-rescinde-multipropriedade-e-manda-restituir-80-a-cliente"
-    },
-    {
-      "setor": "ambiental",
-      "title": "8.mai.2026Juiz manda contratar professora concursada após GO chamar temporáriaMagistrado entendeu que vínculo precário para o mesmo cargo demonstrou necessidade permanente do serviço.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-09",
-      "url": "https://www.migalhas.com.br/quentes/455569/juiz-manda-contratar-professora-concursada-apos-go-chamar-temporaria"
-    },
-    {
-      "setor": "ambiental",
-      "title": "8.mai.2026Mendonça autoriza transferência de ex-presidente do BRB para PapudinhaPaulo Henrique Costa foi preso na operação Compliance Zero, que apura suposto esquema bilionário envolvendo carteiras de crédito fictícias.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-09",
-      "url": "https://www.migalhas.com.br/quentes/455579/mendonca-autoriza-transferencia-de-ex-presidente-do-brb-para-papudinha"
-    },
-    {
-      "setor": "ambiental",
-      "title": "8.mai.2026STJ fixa teses sobre manutenção do foro por prerrogativa após saída do cargoCorte Especial definiu que a competência deve ser deslocada ao tribunal competente mesmo após o encerramento da instrução processual ou sentença condenatória no juízo de origem.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-09",
-      "url": "https://www.migalhas.com.br/quentes/455363/stj-fixa-teses-sobre-manutencao-do-foro-apos-saida-do-cargo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "8.mai.2026TJ/SP manda operadora devolver R$ 28 mil por reajustes abusivos em plano de saúdePerícia apontou inconsistências nos índices aplicados e ausência de comprovação técnica para aumentos anuais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-09",
-      "url": "https://www.migalhas.com.br/quentes/455576/tj-sp-manda-operadora-devolver-r-28-mil-por-reajuste-abusivo-em-plano"
-    },
-    {
-      "setor": "empresarial",
-      "title": "8.mai.2026STJ: Motoristas e cobradores têm direito à aposentadoria por penosidade1ª seção fixou tese que admite o reconhecimento da atividade especial de motoristas, cobradores e caminhoneiros mediante perícia técnica individualizada.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-09",
-      "url": "https://www.migalhas.com.br/quentes/455577/stj-motoristas-e-cobradores-tem-direito-a-aposentadoria-especial"
     }
   ]
 }

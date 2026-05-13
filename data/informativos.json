@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-05-12T20:07:35.210858+00:00",
+  "updated_at": "2026-05-13T04:12:08.133820+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF pede novas providências de órgãos para aprimorar transparência das emendas parlamentares",
-      "summary": "Ministro Flávio Dino abriu prazo para órgãos e autoridades adotarem providências e repassarem informações",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-pede-novas-providencias-de-orgaos-para-aprimorar-transparencia-das-emendas-parlamentares/",
-      "date": "2026-05-12",
+      "title": "Ex-presidente Bolsonaro apresenta revisão criminal contra condenação por tentativa de golpe de Estado",
+      "summary": "Instrumento processual é utilizado contra condenações definitivas, e competência para julgamento é do Plenário; ministro Nunes Marques foi sorteado relator",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/",
+      "date": "2026-05-13",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF abre I Encontro de Centros de Estudos Constitucionais da Iberoamérica",
-      "summary": "Evento busca fortalecer a cooperação entre centros de estudos constitucionais e incentivar a criação dessas estruturas em outros países",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-abre-i-encontro-de-centros-de-estudos-constitucionais-da-iberoamerica/",
-      "date": "2026-05-12",
+      "title": "STF rejeita recursos de jornalista condenado por injúria e difamação contra Silas Malafaia",
+      "summary": "Análise do caso pela 2ª Turma exigiria reexame de provas, vedado em recurso extraordinário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-recursos-de-jornalista-condenado-por-criticas-a-silas-malafaia/",
+      "date": "2026-05-13",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Encontro no STJ aprova 28 enunciados sobre admissibilidade de recursos para cortes superiores",
+      "summary": "Ao todo, o STJ havia selecionado 54 propostas de enunciados para discussão durante o evento, que culminou com a aprovação de 28 delas na sessão plenária de encerramento.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Encontro-no-STJ-aprova-28-enunciados-sobre-admissibilidade-de-recursos-para-cortes-superiores.aspx",
+      "date": "2026-05-13",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Aumento de pena para roubo contra motorista de aplicativo é destaque no STJ Notícias",
       "summary": "Aumento de pena para roubo contra motorista de aplicativo é destaque no STJ Notícias",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Aumento-de-pena-para-roubo-contra-motorista-de-aplicativo-e-destaque-no-STJ-Noticias.aspx",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Primeira parte da audiência sobre interesse de agir em ações de consumo acontece quinta-feira (14)",
       "summary": "Primeira parte da audiência sobre interesse de agir em ações de consumo acontece quinta-feira (14)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Primeira-parte-da-audiencia-sobre-interesse-de-agir-em-acoes-de-consumo-acontece-quinta-feira--14-.aspx",
-      "date": "2026-05-12",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Encontro sobre admissibilidade de recursos para cortes superiores começa às 9h desta terça (12)",
-      "summary": "Encontro sobre admissibilidade de recursos para cortes superiores começa às 9h desta terça (12)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Encontro-sobre-admissibilidade-de-recursos-para-cortes-superiores-acontece-nesta-terca--12-.aspx",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Ouvidoria da Justiça do Trabalho coordena em Manaus mutirão para pessoas em situação de rua",
       "summary": "Evento ocorre nesta sexta-feira (15), com serviços de saúde, cidadania e justiça",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11349-ouvidoria-da-justica-do-trabalho-coordena-em-manaus-mutirao-para-pessoas-em-situacao-de-rua-2",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "PJe e outros serviços da Plataforma Digital do Judiciário vão exigir autenticação em dois fatores a partir de 18 de maio",
       "summary": "Autenticação multifator substituirá o envio de códigos por e-mail, garantindo maior segurança",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11348-pje-e-outros-servicos-da-plataforma-digital-do-judiciario-vao-exigir-autenticacao-em-dois-fatores-a-partir-de-18-de-maio",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "category": "Trabalhista"
     }
   ]

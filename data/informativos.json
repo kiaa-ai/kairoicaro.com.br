@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-05-13T10:21:11.251569+00:00",
+  "updated_at": "2026-05-13T15:13:43.593866+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Ex-presidente Bolsonaro apresenta revisão criminal contra condenação por tentativa de golpe de Estado",
-      "summary": "Instrumento processual é utilizado contra condenações definitivas, e competência para julgamento é do Plenário; ministro Nunes Marques foi sorteado relator",
-      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/",
+      "title": "Presidente do STF defende diálogo entre cortes constitucionais na abertura da 16ª Conferência Ibero-Americana",
+      "summary": "Evento reúne representantes de diversos países para debater democracia, direitos humanos, inteligência artificial e justiça climática",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-dialogo-entre-cortes-constitucionais-na-abertura-da-16a-conferencia-ibero-americana/",
       "date": "2026-05-13",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF rejeita recursos de jornalista condenado por injúria e difamação contra Silas Malafaia",
-      "summary": "Análise do caso pela 2ª Turma exigiria reexame de provas, vedado em recurso extraordinário",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-recursos-de-jornalista-condenado-por-criticas-a-silas-malafaia/",
+      "title": "Confira a pauta do STF desta quarta-feira (13)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-13/",
       "date": "2026-05-13",
       "category": "Constitucional"
     },
     {
       "tribunal": "STJ",
-      "title": "Encontro no STJ aprova 28 enunciados sobre admissibilidade de recursos para cortes superiores",
-      "summary": "Ao todo, o STJ havia selecionado 54 propostas de enunciados para discussão durante o evento, que culminou com a aprovação de 28 delas na sessão plenária de encerramento.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Encontro-no-STJ-aprova-28-enunciados-sobre-admissibilidade-de-recursos-para-cortes-superiores.aspx",
+      "title": "Podcast debate decisão sobre ação social de responsabilidade e efeitos do “quitus” na Lei das S/A",
+      "summary": "Podcast debate decisão sobre ação social de responsabilidade e efeitos do “quitus” na Lei das S/A",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13052026-Podcast-debate-decisao-sobre-acao-social-de-responsabilidade-e-efeitos-do-“quitus”-na-Lei-das-SA.aspx",
       "date": "2026-05-13",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Aumento de pena para roubo contra motorista de aplicativo é destaque no STJ Notícias",
-      "summary": "Aumento de pena para roubo contra motorista de aplicativo é destaque no STJ Notícias",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Aumento-de-pena-para-roubo-contra-motorista-de-aplicativo-e-destaque-no-STJ-Noticias.aspx",
+      "title": "Livro do ministro Ribeiro Dantas sobre confissão e literatura será lançado nesta quarta (13)",
+      "summary": "Livro do ministro Ribeiro Dantas sobre confissão e literatura será lançado nesta quarta (13)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13052026-Livro-do-ministro-Ribeiro-Dantas-sobre-confissao-e-literatura-sera-lancado-nesta-quarta--13-.aspx",
       "date": "2026-05-13",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Primeira parte da audiência sobre interesse de agir em ações de consumo acontece quinta-feira (14)",
-      "summary": "Primeira parte da audiência sobre interesse de agir em ações de consumo acontece quinta-feira (14)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12052026-Primeira-parte-da-audiencia-sobre-interesse-de-agir-em-acoes-de-consumo-acontece-quinta-feira--14-.aspx",
+      "title": "Sessão da Corte Especial no dia 20 de maio terá início às 9h",
+      "summary": "Sessão da Corte Especial no dia 20 de maio terá início às 9h",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13052026-Corte-Especial-do-dia-20-de-maio-tera-inicio-as-9h.aspx",
       "date": "2026-05-13",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho realiza ação itinerante em Manacapuru com serviços gratuitos de cidadania e saúde em 22 de maio",
+      "summary": "A iniciativa do Cejusc-JT em parceria com a prefeitura local, oferecerá atendimentos trabalhistas, além da emissão da carteira de identidade, consultas odontológicas, médicas e de enfermagem, entre outras atividades",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11353-justica-do-trabalho-realiza-acao-itinerante-em-manacapuru-com-servicos-gratuitos-de-cidadania-e-saude-em-22-de-maio",
+      "date": "2026-05-13",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Ouvidoria da Justiça do Trabalho coordena em Manaus mutirão para pessoas em situação de rua",
       "summary": "Evento ocorre nesta sexta-feira (15), com serviços de saúde, cidadania e justiça",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11349-ouvidoria-da-justica-do-trabalho-coordena-em-manaus-mutirao-para-pessoas-em-situacao-de-rua-2",
-      "date": "2026-05-13",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "PJe e outros serviços da Plataforma Digital do Judiciário vão exigir autenticação em dois fatores a partir de 18 de maio",
-      "summary": "Autenticação multifator substituirá o envio de códigos por e-mail, garantindo maior segurança",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11348-pje-e-outros-servicos-da-plataforma-digital-do-judiciario-vao-exigir-autenticacao-em-dois-fatores-a-partir-de-18-de-maio",
       "date": "2026-05-13",
       "category": "Trabalhista"
     }

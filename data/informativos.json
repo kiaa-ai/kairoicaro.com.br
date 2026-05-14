@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-14T14:40:25.513416+00:00",
+  "updated_at": "2026-05-14T20:01:16.503140+00:00",
   "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (14)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-14/",
+      "title": "Justiça climática e proteção ambiental marcam úlimos debates da Conferência Ibero-Americana no STF",
+      "summary": "Painel reuniu magistradas da Bolívia, Chile e Honduras para discutir respostas institucionais à crise climática",
+      "url": "https://noticias.stf.jus.br/postsnoticias/justica-climatica-e-protecao-ambiental-marcam-encerramento-da-conferencia-ibero-americana-no-st/",
       "date": "2026-05-14",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Independência e inovação tecnológica no Judiciário são temas de painéis na 16ª Conferência Ibero-Americana",
-      "summary": "Realizada pela primeira vez no Brasil, conferência segue até esta quinta-feira (14)",
-      "url": "https://noticias.stf.jus.br/postsnoticias/independencia-judicial-e-inovacao-tecnologica-no-judiciario-sao-temas-de-paineis-na-16a-conferencia-ibero-americana/",
+      "title": "STF autoriza prisões e medidas cautelares na 6ª fase da Operação Compliance Zero",
+      "summary": "Ministro André Mendonça atendeu a pedido da PF e determinou a prisão do pai de Daniel Vorcaro e outros seis investigados",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-prisoes-e-medidas-cautelares-na-6a-fase-da-operacao-compliance-zero/",
       "date": "2026-05-14",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho realiza ação itinerante em Manacapuru com serviços gratuitos de cidadania e saúde em 22 de maio",
-      "summary": "A iniciativa do Cejusc-JT em parceria com a prefeitura local, oferecerá atendimentos trabalhistas, além da emissão da carteira de identidade, consultas odontológicas, médicas e de enfermagem, entre outras atividades",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11353-justica-do-trabalho-realiza-acao-itinerante-em-manacapuru-com-servicos-gratuitos-de-cidadania-e-saude-em-22-de-maio",
+      "title": "Distribuidora de medicamentos é condenada por assédio moral após humilhar e constranger trabalhadora",
+      "summary": "Para o juiz da 4ª Vara do Trabalho de Manaus, houve a violação da dignidade da empregada",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11358-distribuidora-de-medicamentos-e-condenada-por-assedio-moral-apos-humilhar-e-constranger-trabalhadora",
       "date": "2026-05-14",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Ouvidoria da Justiça do Trabalho coordena em Manaus mutirão para pessoas em situação de rua",
-      "summary": "Evento ocorre nesta sexta-feira (15), com serviços de saúde, cidadania e justiça",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11349-ouvidoria-da-justica-do-trabalho-coordena-em-manaus-mutirao-para-pessoas-em-situacao-de-rua-2",
+      "title": "Justiça do Trabalho realiza ação itinerante em Manacapuru com serviços gratuitos de cidadania e saúde em 22 de maio",
+      "summary": "A iniciativa do Cejusc-JT em parceria com a prefeitura local, oferecerá atendimentos trabalhistas, além da emissão da carteira de identidade, consultas odontológicas, médicas e de enfermagem, entre outras atividades",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11353-justica-do-trabalho-realiza-acao-itinerante-em-manacapuru-com-servicos-gratuitos-de-cidadania-e-saude-em-22-de-maio",
       "date": "2026-05-14",
       "category": "Trabalhista"
     },

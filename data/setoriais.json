@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-13T10:21:13.945358+00:00",
+  "updated_at": "2026-05-14T10:11:29.702115+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "13.mai.2026Dino diz que, há 30 anos, falar de urna eletrônica era \"falar de óvni\"Ministro foi eleito substituto no TSE e lembrou atuação no TRE/MA, quando participou da primeira eleição com urna eletrônica, em 1996.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-14",
+      "url": "https://www.migalhas.com.br/quentes/455900/dino-diz-que-ha-30-anos-falar-de-urna-eletronica-era-falar-de-ovni"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.mai.2026Dino é eleito substituto no TSE e brinca: \"maior votação que já tive\"Ministro recebeu 9 dos 10 votos registrados em eleição formal no STF para vaga de substituto na Corte Eleitoral.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-14",
+      "url": "https://www.migalhas.com.br/quentes/455899/dino-e-eleito-substituto-no-tse-e-brinca--maior-votacao-que-ja-tive"
+    },
+    {
+      "setor": "ambiental",
+      "title": "13.mai.2026STJ afasta conflito de competência em ação sem interesse da União Durante julgamento, ministros da 1ª seção criticaram desvio de finalidade na instauração de incidentes.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-14",
+      "url": "https://www.migalhas.com.br/quentes/455896/stj-afasta-conflito-de-competencia-em-acao-sem-interesse-da-uniao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.mai.2026STF: Para CNC, lei da igualdade salarial põe dados de empregados em riscoEntidade sustenta que a publicação de relatórios salariais pode permitir a identificação de trabalhadores.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-14",
+      "url": "https://www.migalhas.com.br/quentes/455895/para-cnc-lei-da-igualdade-salarial-poe-dados-de-empregados-em-risco"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.mai.2026STJ fixa prazo de 10 anos para pedir restituição em previdência privada2ª seção afastou prescrição por enriquecimento sem causa e reconheceu natureza contratual da controvérsia.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-14",
+      "url": "https://www.migalhas.com.br/quentes/455893/stj-fixa-prazo-de-10-anos-para-pedir-restituicao-a-previdencia-privada"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.mai.2026No STF, advogada cita Cecília Meireles ao defender igualdade salarialDurante sustentação oral, causídica usou poesia para reforçar o argumento de que mulheres esperam resposta da Corte.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-14",
+      "url": "https://www.migalhas.com.br/quentes/455889/no-stf-advogada-cita-cecilia-meireles-ao-defender-igualdade-salarial"
+    },
     {
       "setor": "empresarial",
       "title": "13.mai.2026Verifact leva bastidores jurídicos da internet ao AB2L ExperienceAntes do congresso, plataforma promove encontro com advogado do influenciador Felca.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-12",
       "url": "https://www.migalhas.com.br/quentes/455691/debora-do-batom-recorre-para-obter-beneficios-da-lei-da-dosimetria"
-    },
-    {
-      "setor": "ambiental",
-      "title": "11.mai.2026Nunes Marques assume comando do TSE nesta terça-feira; Mendonça será viceMinistros tomam posse em cerimônia às 19h, em Brasília, e ficarão à frente da Justiça Eleitoral nas eleições gerais de 2026.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-12",
-      "url": "https://www.migalhas.com.br/quentes/455657/nunes-marques-assume-comando-do-tse-na-terca-feira-mendonca-sera-vice"
-    },
-    {
-      "setor": "ambiental",
-      "title": "11.mai.2026Volkswagen é condenada a pagar R$ 15 mi por fraude ambiental em AmarokSentença reconheceu uso de software para burlar testes de emissão de poluentes em mais de 17 mil picapes Amarok produzidas no Brasil.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-12",
-      "url": "https://www.migalhas.com.br/quentes/455690/volkswagen-e-condenada-a-pagar-r-15-mi-por-fraude-ambiental-em-amarok"
-    },
-    {
-      "setor": "empresarial",
-      "title": "11.mai.2026STF: Gilmar adia análise de devolução de tributos inconstitucionais ADPF discute o marco inicial da prescrição para restituição de tributos declarados inconstitucionais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-12",
-      "url": "https://www.migalhas.com.br/quentes/455675/stf-gilmar-adia-analise-de-devolucao-de-tributos-inconstitucionais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "11.mai.2026Hospital indenizará analista após chefe acessar WhatsApp e divulgar conteúdoTRT-3 entendeu que leitura, fotos e divulgação de mensagens pessoais violaram intimidade da trabalhadora.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-11",
-      "url": "https://www.migalhas.com.br/quentes/455591/hospital-pagara-mulher-apos-chefe-acessar-whatsapp-e-divulgar-conteudo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "11.mai.2026FGV Direito SP realiza pesquisa sobre uso de IA no setor jurídico80% dos profissionais no setor jurídico usam a Inteligência Artificial generativa com alta frequência.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-11",
-      "url": "https://www.migalhas.com.br/quentes/455524/fgv-direito-sp-realiza-pesquisa-sobre-uso-de-ia-no-setor-juridico"
-    },
-    {
-      "setor": "empresarial",
-      "title": "11.mai.2026CEO da e-Xyon fará palestra sobre IA e Direito em congresso jurídicoMauro Sampaio apresenta, na AB2L Lawtech Experience 2026 - maior ecossistema de inovação jurídica do mundo -, como dados e inteligência artificial transformam o jurídico em uma área estratégica.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-11",
-      "url": "https://www.migalhas.com.br/quentes/455510/ceo-da-e-xyon-fara-palestra-sobre-ia-e-direito-em-congresso-juridico"
     }
   ]
 }

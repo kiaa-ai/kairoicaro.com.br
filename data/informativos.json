@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T09:24:19.106765+00:00",
-  "total": 8,
+  "updated_at": "2026-05-15T10:17:50.006239+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -20,25 +20,25 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Especialistas debatem exigência de tentativa de solução extrajudicial em ações de consumo",
+      "summary": "Especialistas debatem exigência de tentativa de solução extrajudicial em ações de consumo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Especialistas-debatem-exigencia-de-tentativa-de-solucao-extrajudicial-nas-acoes-de-consumo.aspx",
+      "date": "2026-05-15",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Debates sobre propriedade industrial e jurisprudência marcam encontro no STJ",
+      "summary": "Debates sobre propriedade industrial e jurisprudência marcam encontro no STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Debates-sobre-propriedade-industrial-e-jurisprudencia-marcam-encontro-no-STJ.aspx",
+      "date": "2026-05-15",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "Rádio Decidendi aborda repetitivo sobre fiança bancária e seguro-garantia em execuções fiscais",
       "summary": "Rádio Decidendi aborda repetitivo sobre fiança bancária e seguro-garantia em execuções fiscais",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Radio-Decidendi-aborda-repetitivo-sobre-fianca-bancaria-e-seguro-garantia-em-execucoes-fiscais.aspx",
-      "date": "2026-05-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Prescrição de efeitos financeiros do abono de permanência especial é contada da comprovação do direito",
-      "summary": "Prescrição de efeitos financeiros do abono de permanência especial é contada da comprovação do direito",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Prescricao-de-efeitos-financeiros-do-abono-de-permanencia-especial-e-contada-da-comprovacao-do-direito.aspx",
-      "date": "2026-05-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Prova obtida em ação cível extinta por falta de interesse de agir pode ser usada em investigação criminal",
-      "summary": "Para o ministro Sebastião Reis Júnior, a extinção da ação cível não invalidou automaticamente as provas, já que não houve reconhecimento de ilicitude, nulidade ou irregularidade na sua obtenção.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Prova-obtida-em-acao-civel-extinta-por-falta-do-interesse-de-agir-pode-ser-usada-em-investigacao-criminal.aspx",
       "date": "2026-05-15",
       "category": "Jurisprudencia"
     },
@@ -55,14 +55,6 @@
       "title": "Justiça do Trabalho realiza ação itinerante em Manacapuru com serviços gratuitos de cidadania e saúde em 22 de maio",
       "summary": "A iniciativa do Cejusc-JT em parceria com a prefeitura local, oferecerá atendimentos trabalhistas, além da emissão da carteira de identidade, consultas odontológicas, médicas e de enfermagem, entre outras atividades",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11353-justica-do-trabalho-realiza-acao-itinerante-em-manacapuru-com-servicos-gratuitos-de-cidadania-e-saude-em-22-de-maio",
-      "date": "2026-05-15",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-15",
       "category": "Trabalhista"
     }

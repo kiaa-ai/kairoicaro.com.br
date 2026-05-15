@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-15T10:17:50.006239+00:00",
+  "updated_at": "2026-05-15T14:35:04.100525+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "‘Direito sem juridiquês’: entenda como funciona o habeas data",
+      "summary": "Novo vídeo da série educativa apresenta, de forma simples, quando e como o instrumento constitucional do habeas data pode ser utilizado.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-como-funciona-o-habeas-data/",
+      "date": "2026-05-15",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Lei que institui igualdade salarial entre homens e mulheres é constitucional, decide STF",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Rádio Justiça: entrevista sobre regras condominiais é um dos destaques desta sexta-feira (15)",
-      "summary": "Programa Capital do Rock apresenta um especial com a banda Steve Miller Band",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-entrevista-sobre-regras-condominiais-e-um-dos-destaques-desta-sexta-feira-15/",
-      "date": "2026-05-15",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Especialistas debatem exigência de tentativa de solução extrajudicial em ações de consumo",
-      "summary": "Especialistas debatem exigência de tentativa de solução extrajudicial em ações de consumo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Especialistas-debatem-exigencia-de-tentativa-de-solucao-extrajudicial-nas-acoes-de-consumo.aspx",
+      "title": "Página de Repetitivos inclui tese sobre cumprimento de pena em caso de crime cometido durante condicional",
+      "summary": "Página de Repetitivos inclui tese sobre cumprimento de pena em caso de crime cometido durante condicional",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Pagina-de-Repetitivos-inclui-tese-sobre-cumprimento-de-pena-em-caso-de-crime-cometido-durante-condicional.aspx",
       "date": "2026-05-15",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Debates sobre propriedade industrial e jurisprudência marcam encontro no STJ",
-      "summary": "Debates sobre propriedade industrial e jurisprudência marcam encontro no STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Debates-sobre-propriedade-industrial-e-jurisprudencia-marcam-encontro-no-STJ.aspx",
+      "title": "Podcast discute jurisprudência sobre filiação socioafetiva e reconhecimento póstumo de paternidade",
+      "summary": "Podcast discute jurisprudência sobre filiação socioafetiva e reconhecimento póstumo de paternidade",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Podcast-discute-jurisprudencia-sobre-filiacao-socioafetiva-e-reconhecimento-postumo-de-paternidade.aspx",
       "date": "2026-05-15",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Rádio Decidendi aborda repetitivo sobre fiança bancária e seguro-garantia em execuções fiscais",
-      "summary": "Rádio Decidendi aborda repetitivo sobre fiança bancária e seguro-garantia em execuções fiscais",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14052026-Radio-Decidendi-aborda-repetitivo-sobre-fianca-bancaria-e-seguro-garantia-em-execucoes-fiscais.aspx",
+      "title": "Informativo destaca foro por prerrogativa de função e regras da prova oral em concurso para magistratura",
+      "summary": "Informativo destaca foro por prerrogativa de função e regras da prova oral em concurso para magistratura",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Informativo-destaca-foro-por-prerrogativa-de-funcao-e-regras-da-prova-oral-em-concurso-para-magistratura.aspx",
       "date": "2026-05-15",
       "category": "Jurisprudencia"
     },

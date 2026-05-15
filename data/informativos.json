@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-15T14:35:04.100525+00:00",
+  "updated_at": "2026-05-15T19:53:51.313929+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "‘Direito sem juridiquês’: entenda como funciona o habeas data",
-      "summary": "Novo vídeo da série educativa apresenta, de forma simples, quando e como o instrumento constitucional do habeas data pode ser utilizado.",
-      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-como-funciona-o-habeas-data/",
+      "title": "STF autoriza operação da PF contra esquema de fraude e sonegação fiscal no ramo de combustíveis no RJ",
+      "summary": "Ministro Alexandre de Moraes autorizou busca e apreensão contra ex-governador Cláudio Castro e outros agentes públicos e decretou a prisão de Ricardo Magro, dono da Refit",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-contra-esquema-de-fraude-e-sonegacao-fiscal-no-ramo-de-combustiveis-no-rj/",
       "date": "2026-05-15",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Lei que institui igualdade salarial entre homens e mulheres é constitucional, decide STF",
-      "summary": "Para o Tribunal, norma efetiva o comando constitucional de combate à discriminação de gênero",
-      "url": "https://noticias.stf.jus.br/postsnoticias/lei-que-institui-igualdade-salarial-entre-homens-e-mulheres-e-constitucional-decide-stf/",
+      "title": "Presidente do STF defende cooperação entre tribunais e fortalecimento do Judiciário em reunião do Consepre",
+      "summary": "Encontro realizado no TJSP reuniu magistrados de todo o país para debater modernização, governança e aprimoramento da prestação jurisdicional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-cooperacao-entre-tribunais-e-fortalecimento-do-judiciario-em-reuniao-do-consepre/",
       "date": "2026-05-15",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Distribuidora de medicamentos é condenada por assédio moral após humilhar e constranger trabalhadora",
-      "summary": "Para o juiz da 4ª Vara do Trabalho de Manaus, houve a violação da dignidade da empregada",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11358-distribuidora-de-medicamentos-e-condenada-por-assedio-moral-apos-humilhar-e-constranger-trabalhadora",
+      "title": "Nome social no trabalho: respeito à identidade e dever de prevenir discriminação",
+      "summary": "Decisões recentes do TST e protocolos do Judiciário reforçam que a adoção do nome social é medida de dignidade para pessoas trans.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11362-nome-social-no-trabalho-respeito-a-identidade-e-dever-de-prevenir-discriminacao",
       "date": "2026-05-15",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho realiza ação itinerante em Manacapuru com serviços gratuitos de cidadania e saúde em 22 de maio",
-      "summary": "A iniciativa do Cejusc-JT em parceria com a prefeitura local, oferecerá atendimentos trabalhistas, além da emissão da carteira de identidade, consultas odontológicas, médicas e de enfermagem, entre outras atividades",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11353-justica-do-trabalho-realiza-acao-itinerante-em-manacapuru-com-servicos-gratuitos-de-cidadania-e-saude-em-22-de-maio",
+      "title": "TRT-11 promove audiência pública para discutir Metas Nacionais para 2027",
+      "summary": "A iniciativa pretende ouvir contribuições para o aprimoramento dos serviços prestados pela Justiça do Trabalho",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11360-trt-11-promove-audiencia-publica-para-discutir-metas-nacionais-para-2027",
       "date": "2026-05-15",
       "category": "Trabalhista"
     }

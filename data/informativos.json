@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T04:17:24.072458+00:00",
-  "total": 7,
+  "updated_at": "2026-05-15T09:24:19.106765+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "Justiça do Trabalho realiza ação itinerante em Manacapuru com serviços gratuitos de cidadania e saúde em 22 de maio",
       "summary": "A iniciativa do Cejusc-JT em parceria com a prefeitura local, oferecerá atendimentos trabalhistas, além da emissão da carteira de identidade, consultas odontológicas, médicas e de enfermagem, entre outras atividades",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11353-justica-do-trabalho-realiza-acao-itinerante-em-manacapuru-com-servicos-gratuitos-de-cidadania-e-saude-em-22-de-maio",
+      "date": "2026-05-15",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-15",
       "category": "Trabalhista"
     }

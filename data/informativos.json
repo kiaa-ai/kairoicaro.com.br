@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-05-15T19:53:51.313929+00:00",
+  "updated_at": "2026-05-16T04:01:59.754889+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF autoriza operação da PF contra esquema de fraude e sonegação fiscal no ramo de combustíveis no RJ",
-      "summary": "Ministro Alexandre de Moraes autorizou busca e apreensão contra ex-governador Cláudio Castro e outros agentes públicos e decretou a prisão de Ricardo Magro, dono da Refit",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-contra-esquema-de-fraude-e-sonegacao-fiscal-no-ramo-de-combustiveis-no-rj/",
-      "date": "2026-05-15",
+      "title": "Confederação questiona benefício fiscal para refino de petróleo na Zona Franca de Manaus",
+      "summary": "Entidade afirma que regra cria vantagem concorrencial e favorece empresa instalada na região",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-questiona-beneficio-fiscal-para-refino-de-petroleo-na-zona-franca-de-manaus/",
+      "date": "2026-05-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Presidente do STF defende cooperação entre tribunais e fortalecimento do Judiciário em reunião do Consepre",
-      "summary": "Encontro realizado no TJSP reuniu magistrados de todo o país para debater modernização, governança e aprimoramento da prestação jurisdicional",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-cooperacao-entre-tribunais-e-fortalecimento-do-judiciario-em-reuniao-do-consepre/",
-      "date": "2026-05-15",
+      "title": "STF invalida lei do ES que permitia a pais vetar filhos em aulas sobre gênero e sexualidade",
+      "summary": "Na mesma sessão, o STF também declarou inconstitucional uma lei de Betim (MG) que proibia o uso da chamada linguagem neutra nas escolas",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-lei-do-es-que-permitia-a-pais-vetar-filhos-em-aulas-sobre-genero-e-sexualidade/",
+      "date": "2026-05-16",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Fortalecimento da cooperação e conexões históricas marcam abertura de encontro entre Brasil e Angola, no Rio",
+      "summary": "Fortalecimento da cooperação e conexões históricas marcam abertura de encontro entre Brasil e Angola, no Rio",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Fortalecimento-da-cooperacao-e-conexoes-historicas-marcam-abertura-de-encontro-entre-Brasil-e-Angola--no-Rio.aspx",
+      "date": "2026-05-16",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Página de Repetitivos inclui tese sobre cumprimento de pena em caso de crime cometido durante condicional",
       "summary": "Página de Repetitivos inclui tese sobre cumprimento de pena em caso de crime cometido durante condicional",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Pagina-de-Repetitivos-inclui-tese-sobre-cumprimento-de-pena-em-caso-de-crime-cometido-durante-condicional.aspx",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Podcast discute jurisprudência sobre filiação socioafetiva e reconhecimento póstumo de paternidade",
       "summary": "Podcast discute jurisprudência sobre filiação socioafetiva e reconhecimento póstumo de paternidade",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Podcast-discute-jurisprudencia-sobre-filiacao-socioafetiva-e-reconhecimento-postumo-de-paternidade.aspx",
-      "date": "2026-05-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Informativo destaca foro por prerrogativa de função e regras da prova oral em concurso para magistratura",
-      "summary": "Informativo destaca foro por prerrogativa de função e regras da prova oral em concurso para magistratura",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Informativo-destaca-foro-por-prerrogativa-de-funcao-e-regras-da-prova-oral-em-concurso-para-magistratura.aspx",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Nome social no trabalho: respeito à identidade e dever de prevenir discriminação",
       "summary": "Decisões recentes do TST e protocolos do Judiciário reforçam que a adoção do nome social é medida de dignidade para pessoas trans.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11362-nome-social-no-trabalho-respeito-a-identidade-e-dever-de-prevenir-discriminacao",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "TRT-11 promove audiência pública para discutir Metas Nacionais para 2027",
       "summary": "A iniciativa pretende ouvir contribuições para o aprimoramento dos serviços prestados pela Justiça do Trabalho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11360-trt-11-promove-audiencia-publica-para-discutir-metas-nacionais-para-2027",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "category": "Trabalhista"
     }
   ]

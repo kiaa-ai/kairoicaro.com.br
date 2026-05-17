@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-05-16T09:26:31.644955+00:00",
+  "updated_at": "2026-05-17T09:43:16.544344+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "16.mai.2026TJ/GO rescinde contrato de multipropriedade por ausência de escrituraColegiado reconheceu inadimplemento de incorporadoras por ausência de regularização de empreendimento imobiliário.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-17",
+      "url": "https://www.migalhas.com.br/quentes/455961/tj-go-rescinde-contrato-de-multipropriedade-por-ausencia-de-escritura"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.mai.2026Professor receberá salários por período de exoneração anuladaPara TRF-4, reintegração exige pagamento de valores pelo período do afastamento.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-17",
+      "url": "https://www.migalhas.com.br/quentes/456091/professor-recebera-salarios-por-periodo-de-exoneracao-anulada"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.mai.2026Banco deve restituir R$ 147 mil a imobiliária após transações fraudulentasMagistrada concluiu que houve falha na segurança do sistema e condenou instituição ao pagamento de danos morais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-17",
+      "url": "https://www.migalhas.com.br/quentes/455883/banco-devolvera-r-147-mil-a-imobiliaria-apos-transacoes-fraudulentas"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.mai.2026Banco pagará R$ 12 mil a cliente analfabeta por título de capitalização irregularInstituição financeira deverá pagar R$ 12 mil por danos morais, além de restituir valores descontados indevidamente.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-17",
+      "url": "https://www.migalhas.com.br/quentes/455682/banco-indenizara-analfabeta-por-titulo-de-capitalizacao-irregular"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.mai.2026Justiça aceita recuperação judicial da SAF Botafogo e suspende cobrançasDecisão suspende cobranças e execuções contra a sociedade que administra o futebol do clube; passivo soma cerca de R$ 2,5 bilhões.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-17",
+      "url": "https://www.migalhas.com.br/quentes/456101/justica-aceita-recuperacao-judicial-da-saf-botafogo"
+    },
     {
       "setor": "empresarial",
       "title": "15.mai.2026TRT-3: Dívida trabalhista alcança bens de cônjuge em comunhão universalBens de marido de devedora poderão ser alcançados para pagamento de dívidas trabalhistas.",
@@ -81,46 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-15",
       "url": "https://www.migalhas.com.br/quentes/455992/para-carmen-mulheres-sofrem-sobrecarga-de-trabalho-no-setor-publico"
-    },
-    {
-      "setor": "empresarial",
-      "title": "14.mai.2026Após quase 3 anos de lei de igualdade salarial, mulheres ainda ganham menosDados do ministério do Trabalho mostram que norma ampliou transparência, mas ainda não reduziu de forma expressiva diferença remuneratória entre homens e mulheres.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-15",
-      "url": "https://www.migalhas.com.br/quentes/455979/apos-3-anos-de-lei-de-igualdade-salarial-mulheres-ainda-ganham-menos"
-    },
-    {
-      "setor": "ambiental",
-      "title": "14.mai.2026\"Já estaria na reencarnação\", brinca Fux ao confundir voto de 2024 com 1924Durante julgamento da Suprema Corte, ministro citou voto pela igualdade salarial entre homens e mulheres.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-15",
-      "url": "https://www.migalhas.com.br/quentes/455993/estaria-na-reencarnacao-brinca-fux-ao-confundir-voto-de-2024-com-1924"
-    },
-    {
-      "setor": "empresarial",
-      "title": "13.mai.2026Dino diz que, há 30 anos, falar de urna eletrônica era \"falar de óvni\"Ministro foi eleito substituto no TSE e lembrou atuação no TRE/MA, quando participou da primeira eleição com urna eletrônica, em 1996.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-14",
-      "url": "https://www.migalhas.com.br/quentes/455900/dino-diz-que-ha-30-anos-falar-de-urna-eletronica-era-falar-de-ovni"
-    },
-    {
-      "setor": "empresarial",
-      "title": "13.mai.2026Dino é eleito substituto no TSE e brinca: \"maior votação que já tive\"Ministro recebeu 9 dos 10 votos registrados em eleição formal no STF para vaga de substituto na Corte Eleitoral.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-14",
-      "url": "https://www.migalhas.com.br/quentes/455899/dino-e-eleito-substituto-no-tse-e-brinca--maior-votacao-que-ja-tive"
-    },
-    {
-      "setor": "ambiental",
-      "title": "13.mai.2026STJ afasta conflito de competência em ação sem interesse da União Durante julgamento, ministros da 1ª seção criticaram desvio de finalidade na instauração de incidentes.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-14",
-      "url": "https://www.migalhas.com.br/quentes/455896/stj-afasta-conflito-de-competencia-em-acao-sem-interesse-da-uniao"
     }
   ]
 }

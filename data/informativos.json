@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-18T15:56:03.275200+00:00",
-  "total": 8,
+  "updated_at": "2026-05-18T20:00:57.231460+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "PT aciona STF contra restrição a recurso de assistente simples na Justiça Eleitoral",
+      "title": "Nota do Supremo Tribunal Federal",
       "summary": "Agremiação sustenta que interpretação do Código de Processo Civil compromete ampla defesa e soberania popular",
-      "url": "https://noticias.stf.jus.br/postsnoticias/pt-aciona-stf-contra-restricao-a-recurso-de-assistente-simples-na-justica-eleitoral/",
+      "url": "https://noticias.stf.jus.br/postsnoticias/nota-do-supremo-tribunal-federal/",
       "date": "2026-05-18",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF reitera que prescrição em casos de filhos separados por hanseníase é de cinco anos após julgamento de ADPF",
-      "summary": "Corte reconheceu repercussão geral da matéria e reafirmou jurisprudência dominante que delimita novo marco temporal para ajuizamento da ação",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reitera-que-prescricao-em-casos-de-filhos-separados-por-hanseniase-e-de-cinco-anos-apos-julgamento-de-adpf/",
+      "title": "PT aciona STF contra restrição a recurso de assistente simples na Justiça Eleitoral",
+      "summary": "Agremiação sustenta que interpretação do Código de Processo Civil compromete ampla defesa e soberania popular",
+      "url": "https://noticias.stf.jus.br/postsnoticias/pt-aciona-stf-contra-restricao-a-recurso-de-assistente-simples-na-justica-eleitoral/",
       "date": "2026-05-18",
       "category": "Constitucional"
     },
@@ -44,25 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Nome social no trabalho: respeito à identidade e dever de prevenir discriminação",
-      "summary": "Decisões recentes do TST e protocolos do Judiciário reforçam que a adoção do nome social é medida de dignidade para pessoas trans.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11362-nome-social-no-trabalho-respeito-a-identidade-e-dever-de-prevenir-discriminacao",
+      "title": "Galileu: Sistema identifica tentativa de manipulação em petição e alerta magistrado",
+      "summary": "O Galileu, ferramenta de inteligência artificial desenvolvida pelo Tribunal Regional do Trabalho da 4ª Região (TRT-RS) e nacionalizada pelo Conselho Superior da Justiça do Trabalho (CSJT), identificou uma tentativa de manipulação em petição inicial de processo julgado pela 3ª Vara do Trabalho de Par",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11368-galileu-sistema-identifica-tentativa-de-manipulacao-em-peticao-e-alerta-magistrado",
       "date": "2026-05-18",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 promove audiência pública para discutir Metas Nacionais para 2027",
-      "summary": "A iniciativa pretende ouvir contribuições para o aprimoramento dos serviços prestados pela Justiça do Trabalho",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11360-trt-11-promove-audiencia-publica-para-discutir-metas-nacionais-para-2027",
-      "date": "2026-05-18",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
+      "title": "Presidência do TRT-11 visita Vara de Manacapuru e acompanha melhorias no interior do Amazonas",
+      "summary": "Ação faz parte do plano de modernização das unidades do TRT-11, voltado a melhorar o atendimento prestado aos trabalhadores",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11367-presidencia-do-trt-11-visita-vara-de-manacapuru-e-acompanha-melhorias-no-interior-do-amazonas",
       "date": "2026-05-18",
       "category": "Trabalhista"
     }

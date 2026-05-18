@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-05-18T11:41:00.066991+00:00",
-  "total": 7,
+  "updated_at": "2026-05-18T15:56:03.275200+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Constitucionalidade de lei sobre igualdade salarial entre homens e mulheres é destaque no Supremo na Semana",
-      "summary": "Episódio #190 está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/constitucionalidade-de-lei-sobre-igualdade-salarial-entre-homens-e-mulheres-e-destaque-no-supremo-na-semana/",
+      "title": "PT aciona STF contra restrição a recurso de assistente simples na Justiça Eleitoral",
+      "summary": "Agremiação sustenta que interpretação do Código de Processo Civil compromete ampla defesa e soberania popular",
+      "url": "https://noticias.stf.jus.br/postsnoticias/pt-aciona-stf-contra-restricao-a-recurso-de-assistente-simples-na-justica-eleitoral/",
       "date": "2026-05-18",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Confederação questiona benefício fiscal para refino de petróleo na Zona Franca de Manaus",
-      "summary": "Entidade afirma que regra cria vantagem concorrencial e favorece empresa instalada na região",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-questiona-beneficio-fiscal-para-refino-de-petroleo-na-zona-franca-de-manaus/",
+      "title": "STF reitera que prescrição em casos de filhos separados por hanseníase é de cinco anos após julgamento de ADPF",
+      "summary": "Corte reconheceu repercussão geral da matéria e reafirmou jurisprudência dominante que delimita novo marco temporal para ajuizamento da ação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reitera-que-prescricao-em-casos-de-filhos-separados-por-hanseniase-e-de-cinco-anos-apos-julgamento-de-adpf/",
       "date": "2026-05-18",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Tribunal entrega a bibliotecas do Pará seis mil livros arrecadados no Programa Esperança Garcia",
+      "summary": "Tribunal entrega a bibliotecas do Pará seis mil livros arrecadados no Programa Esperança Garcia",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18052026-Tribunal-entrega-a-bibliotecas-do-Para-seis-mil-livros-arrecadados-no-Programa-Esperanca-Garcia.aspx",
+      "date": "2026-05-18",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,14 +43,6 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Fortalecimento da cooperação e conexões históricas marcam abertura de encontro entre Brasil e Angola, no Rio",
-      "summary": "Fortalecimento da cooperação e conexões históricas marcam abertura de encontro entre Brasil e Angola, no Rio",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15052026-Fortalecimento-da-cooperacao-e-conexoes-historicas-marcam-abertura-de-encontro-entre-Brasil-e-Angola--no-Rio.aspx",
-      "date": "2026-05-18",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
       "title": "Nome social no trabalho: respeito à identidade e dever de prevenir discriminação",
       "summary": "Decisões recentes do TST e protocolos do Judiciário reforçam que a adoção do nome social é medida de dignidade para pessoas trans.",
@@ -55,6 +55,14 @@
       "title": "TRT-11 promove audiência pública para discutir Metas Nacionais para 2027",
       "summary": "A iniciativa pretende ouvir contribuições para o aprimoramento dos serviços prestados pela Justiça do Trabalho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11360-trt-11-promove-audiencia-publica-para-discutir-metas-nacionais-para-2027",
+      "date": "2026-05-18",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-18",
       "category": "Trabalhista"
     }

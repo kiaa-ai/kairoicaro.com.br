@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-19T15:48:05.922722+00:00",
+  "updated_at": "2026-05-19T20:03:26.573787+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Presidente do STF lamenta falecimento do professor João Adeodato, integrante do Centro de Estudos Constitucionais",
-      "summary": "Ministro Edson Fachin enalteceu contribuição jurídica e constitucional do professor do CESTF",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-lamenta-falecimento-do-professor-joao-adeodato-integrante-do-centro-de-estudos-constitucionais/",
+      "title": "‘Cuidados como Direito Humano e Fundamental’: STF promove diálogo sobre inclusão e políticas públicas de cuidado",
+      "summary": "Evento reunirá especialistas e pesquisadoras para discutir o cuidado e a responsabilidade compartilhada entre Estado, famílias e sociedade",
+      "url": "https://noticias.stf.jus.br/postsnoticias/cuidados-como-direito-humano-e-fundamental-stf-promove-dialogo-sobre-inclusao-e-politicas-publicas-de-cuidado/",
       "date": "2026-05-19",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Nota à imprensa sobre a Operação Compliance Zero",
-      "summary": "Ministro André Mendonça autorizou apuração de eventual crime de violação de sigilo funcional no âmbito da operação",
-      "url": "https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-44/",
+      "title": "Ministro Fachin anuncia acordo entre CNJ e DPU para proteger órfãos do feminicídio",
+      "summary": "No evento, também foi assinada portaria que institui grupo de trabalho voltado à ampliação do acesso à Justiça e ao incentivo a políticas de desjudicialização",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ministro-fachin-anuncia-acordo-do-cnj-com-a-dpu-para-proteger-orfaos-do-feminicidio/",
       "date": "2026-05-19",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Mutirão “Abril Verde” 2026 do TRT-11 arrecada R$ 312 mil em acordos",
-      "summary": "Valores serão destinados diretamente aos trabalhadores em processos relacionados à saúde e segurança",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11370-mutirao-abril-verde-2026-do-trt-11-arrecada-r-312-mil-em-acordos",
+      "title": "Casa, apartamentos, bicicletas, embarcação e armas de airsoft estão disponíveis no leilão do TRT-11",
+      "summary": "Os valores arrecadados com o leilão serão destinados à quitação de dívidas trabalhistas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11372-casa-apartamentos-bicicletas-embarcacao-e-armas-de-airsoft-estao-disponiveis-no-leilao-do-trt-11",
       "date": "2026-05-19",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Galileu: Sistema identifica tentativa de manipulação em petição e alerta magistrado",
-      "summary": "O Galileu, ferramenta de inteligência artificial desenvolvida pelo Tribunal Regional do Trabalho da 4ª Região (TRT-RS) e nacionalizada pelo Conselho Superior da Justiça do Trabalho (CSJT), identificou uma tentativa de manipulação em petição inicial de processo julgado pela 3ª Vara do Trabalho de Par",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11368-galileu-sistema-identifica-tentativa-de-manipulacao-em-peticao-e-alerta-magistrado",
+      "title": "Mutirão “Abril Verde” 2026 do TRT-11 arrecada R$ 312 mil em acordos",
+      "summary": "Valores serão destinados diretamente aos trabalhadores em processos relacionados à saúde e segurança",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11370-mutirao-abril-verde-2026-do-trt-11-arrecada-r-312-mil-em-acordos",
       "date": "2026-05-19",
       "category": "Trabalhista"
     }

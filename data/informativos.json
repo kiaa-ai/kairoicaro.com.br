@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T04:36:00.314653+00:00",
-  "total": 7,
+  "updated_at": "2026-05-20T09:54:11.183366+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "Mutirão “Abril Verde” 2026 do TRT-11 arrecada R$ 312 mil em acordos",
       "summary": "Valores serão destinados diretamente aos trabalhadores em processos relacionados à saúde e segurança",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11370-mutirao-abril-verde-2026-do-trt-11-arrecada-r-312-mil-em-acordos",
+      "date": "2026-05-20",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-20",
       "category": "Trabalhista"
     }

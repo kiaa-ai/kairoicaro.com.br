@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-19T10:58:37.418266+00:00",
+  "updated_at": "2026-05-20T10:46:54.629213+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "20.mai.2026OAB/RJ promove obra coletiva sobre direitos e identidades LGBTQIAPN+O livro será apresentado em celebração ao Dia Internacional de Combate à LGBTfobia.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-20",
+      "url": "https://www.migalhas.com.br/quentes/456278/oab-rj-promove-obra-coletiva-sobre-direitos-e-identidades-lgbtqiapn"
+    },
+    {
+      "setor": "ambiental",
+      "title": "19.mai.2026STJ reduz de 55 para 33 anos pena de policial condenado por extorsões no RJ6ª turma validou atuação de órgão de inteligência na investigação, mas acolheu parcialmente habeas corpus para afastar imputação, reclassificar um dos crimes e readequar a pena.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-20",
+      "url": "https://www.migalhas.com.br/quentes/456320/stj-reduz-de-55-para-33-anos-pena-de-policial-condenado-por-extorsoes"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.mai.2026STJ: Valor depositado em arbitragem não pode ser devolvido por precatórioNo caso concreto, valores foram depositados por empresa em fundo municipal durante tramitação de arbitragem.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-20",
+      "url": "https://www.migalhas.com.br/quentes/456323/valor-depositado-em-arbitragem-nao-pode-ser-devolvido-por-precatorio"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.mai.2026Desembargador federal desaparecido há um mês é encontrado morto no RJMagistrado do TRF da 2ª região estava desaparecido desde 14 de abril; corpo foi localizado na região da Vista Chinesa, sem sinais aparentes de violência.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-20",
+      "url": "https://www.migalhas.com.br/quentes/456324/desembargador-federal-desaparecido-ha-um-mes-e-encontrado-morto-no-rj"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.mai.2026STJ julga se cabe agravo de instrumento contra decisão que defere produção de provaRelator votou pela impossibilidade do recurso, ao entender que o CPC afasta expressamente a possibilidade nessa hipótese.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-20",
+      "url": "https://www.migalhas.com.br/quentes/456325/stj-julga-se-cabe-agravo-contra-decisao-que-defere-producao-de-prova"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.mai.2026STJ reconhece erro em expropriação, mas afasta devolução de fazenda1ª turma converteu devolução da área expropriada em perdas e danos.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-05-20",
+      "url": "https://www.migalhas.com.br/quentes/456319/stj-reconhece-erro-em-expropriacao-mas-afasta-devolucao-de-fazenda"
+    },
     {
       "setor": "empresarial",
       "title": "19.mai.2026Após pedido da OAB/RJ, TJ/RJ cria canal para ações urgentes de saúdeHavia queixas de advogados sobre morosidade processual, principalmente em casos graves e pedidos de tutela antecipada.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-05-18",
       "url": "https://www.migalhas.com.br/quentes/456109/tj-sp-mantem-condenacao-de-homem-que-ateou-fogo-em-morador-de-rua"
-    },
-    {
-      "setor": "empresarial",
-      "title": "18.mai.2026Obra homenageia ministro Raul Araújo Filho no Espaço Cultural do STJO livro reúne análises de juristas sobre decisões e fundamentos do ministro Raul Araújo Filho no STJ.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-18",
-      "url": "https://www.migalhas.com.br/quentes/456053/obra-homenageia-ministro-raul-araujo-filho-no-espaco-cultural-do-stj"
-    },
-    {
-      "setor": "empresarial",
-      "title": "17.mai.2026Juiz valida empréstimo na boca do caixa e banco não indenizará idosaMagistrado concluiu que descontos mensais decorriam de contrato regular e afastou restituição e danos morais a aposentada.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-18",
-      "url": "https://www.migalhas.com.br/quentes/455676/juiz-valida-emprestimo-na-boca-do-caixa-e-banco-nao-indenizara-idosa"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.mai.2026TJ/GO rescinde contrato de multipropriedade por ausência de escrituraColegiado reconheceu inadimplemento de incorporadoras por ausência de regularização de empreendimento imobiliário.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-17",
-      "url": "https://www.migalhas.com.br/quentes/455961/tj-go-rescinde-contrato-de-multipropriedade-por-ausencia-de-escritura"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.mai.2026Professor receberá salários por período de exoneração anuladaPara TRF-4, reintegração exige pagamento de valores pelo período do afastamento.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-17",
-      "url": "https://www.migalhas.com.br/quentes/456091/professor-recebera-salarios-por-periodo-de-exoneracao-anulada"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.mai.2026Banco deve restituir R$ 147 mil a imobiliária após transações fraudulentasMagistrada concluiu que houve falha na segurança do sistema e condenou instituição ao pagamento de danos morais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-17",
-      "url": "https://www.migalhas.com.br/quentes/455883/banco-devolvera-r-147-mil-a-imobiliaria-apos-transacoes-fraudulentas"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.mai.2026Banco pagará R$ 12 mil a cliente analfabeta por título de capitalização irregularInstituição financeira deverá pagar R$ 12 mil por danos morais, além de restituir valores descontados indevidamente.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-17",
-      "url": "https://www.migalhas.com.br/quentes/455682/banco-indenizara-analfabeta-por-titulo-de-capitalizacao-irregular"
     }
   ]
 }

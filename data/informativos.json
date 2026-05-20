@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-05-20T15:56:41.179358+00:00",
-  "total": 7,
+  "updated_at": "2026-05-20T20:30:19.431189+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quarta-feira (20)",
-      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-20/",
+      "title": "STF Educa abre inscrições para cursos gratuitos do ciclo 2026",
+      "summary": "Gratuitos e abertos ao público em geral, cursos são autoinstrucionais e permitem que cada participante organize seus estudos conforme a própria rotina",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-educa-abre-inscricoes-para-cursos-gratuitos-do-ciclo-2026/",
       "date": "2026-05-20",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Rádio Justiça: liberdade de manifestação de pensamento é tema de debate nesta quarta-feira (20)",
-      "summary": "Programa Entretexto apresenta o livro ‘Democratização da Linguagem e Acesso à Justiça’",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-liberdade-de-manifestacao-de-pensamento-e-tema-de-debate-nesta-quarta-feira-20/",
+      "title": "Presidente do STF e do CNJ anuncia avanços na concessão de medidas protetivas para mulheres",
+      "summary": "Em cerimônia que marcou os 100 dias do Pacto Nacional Brasil contra o Feminicídio, Fachin destacou que integração entre órgãos reduziu intervalo entre registro de ocorrências e análise judicial dos pedidos de proteção",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-anuncia-avancos-na-concessao-de-medidas-protetivas-para-mulheres/",
       "date": "2026-05-20",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Tentativas de uso de prompt injection no STJ serão investigadas",
+      "summary": "Tentativas de uso de prompt injection no STJ serão investigadas",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20052026-Tentativas-de-uso-de-prompt-injection-no-STJ-serao-investigadas.aspx",
+      "date": "2026-05-20",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,12 +43,12 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Mantida anulação de sentença de árbitro que omitiu relação profissional com advogados de parte",
-      "summary": "Mantida anulação de sentença de árbitro que omitiu relação profissional com advogados de parte",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20052026-Mantida-anulacao-de-sentenca-de-arbitro-que-omitiu-relacao-profissional-com-advogados-de-parte.aspx",
+      "tribunal": "TRT11",
+      "title": "Assédio moral: Justiça do Trabalho da 11ª Região recebeu 447 novas ações de janeiro a abril de 2026",
+      "summary": "Nos últimos cinco anos, o TRT-11 registrou 4.166 casos envolvendo assédio moral no trabalho",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11379-assedio-moral-justica-do-trabalho-da-11-regiao-recebeu-447-novas-acoes-de-janeiro-a-abril-de-2026",
       "date": "2026-05-20",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
@@ -51,10 +59,10 @@
       "category": "Trabalhista"
     },
     {
-      "tribunal": "TRT11",
-      "title": "Casa, apartamentos, bicicletas, embarcação e armas de airsoft estão disponíveis no leilão do TRT-11",
-      "summary": "Os valores arrecadados com o leilão serão destinados à quitação de dívidas trabalhistas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11372-casa-apartamentos-bicicletas-embarcacao-e-armas-de-airsoft-estao-disponiveis-no-leilao-do-trt-11",
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-20",
       "category": "Trabalhista"
     }

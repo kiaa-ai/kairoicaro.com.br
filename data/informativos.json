@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-20T10:46:50.676257+00:00",
-  "total": 8,
+  "updated_at": "2026-05-20T15:56:41.179358+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Rádio Justiça: liberdade de manifestação de pensamento é tema de debate nesta quarta-feira (20)",
-      "summary": "Programa Entretexto apresenta o livro ‘Democratização da Linguagem e Acesso à Justiça’",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-liberdade-de-manifestacao-de-pensamento-e-tema-de-debate-nesta-quarta-feira-20/",
+      "title": "Confira a pauta do STF desta quarta-feira (20)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-20/",
       "date": "2026-05-20",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF determina que TJ-MT reexamine repasse de ICMS a municípios do estado",
-      "summary": "1ª Turma determinou que nova decisão considere precedentes do Supremo sobre compensação de ICMS",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-que-tj-mt-reexamine-repasse-de-icms-a-municipios-do-estado/",
+      "title": "Rádio Justiça: liberdade de manifestação de pensamento é tema de debate nesta quarta-feira (20)",
+      "summary": "Programa Entretexto apresenta o livro ‘Democratização da Linguagem e Acesso à Justiça’",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-liberdade-de-manifestacao-de-pensamento-e-tema-de-debate-nesta-quarta-feira-20/",
       "date": "2026-05-20",
       "category": "Constitucional"
     },
@@ -44,25 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Casa, apartamentos, bicicletas, embarcação e armas de airsoft estão disponíveis no leilão do TRT-11",
-      "summary": "Os valores arrecadados com o leilão serão destinados à quitação de dívidas trabalhistas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11372-casa-apartamentos-bicicletas-embarcacao-e-armas-de-airsoft-estao-disponiveis-no-leilao-do-trt-11",
+      "title": "PopRuaJud realiza mutirão em Manaus com atendimento médico, orientação jurídica e assistência social",
+      "summary": "Ação coordenada pelo TRT-11 levou atendimento a pessoas em situação de vulnerabilidade social",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11375-popruajud-realiza-mutirao-em-manaus-com-atendimento-medico-orientacao-juridica-e-assistencia-social",
       "date": "2026-05-20",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Mutirão “Abril Verde” 2026 do TRT-11 arrecada R$ 312 mil em acordos",
-      "summary": "Valores serão destinados diretamente aos trabalhadores em processos relacionados à saúde e segurança",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11370-mutirao-abril-verde-2026-do-trt-11-arrecada-r-312-mil-em-acordos",
-      "date": "2026-05-20",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
+      "title": "Casa, apartamentos, bicicletas, embarcação e armas de airsoft estão disponíveis no leilão do TRT-11",
+      "summary": "Os valores arrecadados com o leilão serão destinados à quitação de dívidas trabalhistas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11372-casa-apartamentos-bicicletas-embarcacao-e-armas-de-airsoft-estao-disponiveis-no-leilao-do-trt-11",
       "date": "2026-05-20",
       "category": "Trabalhista"
     }

@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-05-21T11:18:09.234412+00:00",
+  "updated_at": "2026-05-21T15:51:16.946102+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Obra sobre legado de Peter Messitte reforça diálogo jurídico entre Brasil e EUA",
-      "summary": "Ministro Edson Fachin, presidente do STF, participou do lançamento do livro; ministro aposentado Carlos Velloso é um dos organizações da obra",
-      "url": "https://noticias.stf.jus.br/postsnoticias/obra-sobre-legado-de-peter-messitte-reforca-dialogo-juridico-entre-brasil-e-eua/",
+      "title": "Dia Global de Conscientização sobre Acessibilidade: STF amplia recursos do Peticionamento Eletrônico",
+      "summary": "Entenda como funciona o sistema e confira o passo a passo para consultar peças de processos públicos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/dia-global-de-conscientizacao-sobre-acessibilidade-stf-amplia-recursos-do-peticionamento-eletronico/",
       "date": "2026-05-21",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF julga inconstitucional lei do DF que criou Selo Multinível Legal",
-      "summary": "Norma criava certificação para empresas que comprovassem não participar de esquemas de pirâmide financeira",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-julga-inconstitucional-lei-do-df-que-criou-selo-multinivel-legal/",
+      "title": "Confira a pauta do STF desta quinta-feira (21)",
+      "summary": "Sessão terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-21/",
       "date": "2026-05-21",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Congresso STJ da Segunda Instância Federal e Estadual conclui trabalhos com a aprovação de 127 enunciados",
+      "summary": "Debates realizados nos dois dias de congresso permitiram reflexão sobre diferentes temas da Justiça e aprovação de enunciados em vários eixos temáticos.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19052026-Congresso-STJ-da-Segunda-Instancia-Federal-e-Estadual-conclui-trabalhos-com-a-aprovacao-de-127-enunciados.aspx",
+      "date": "2026-05-21",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Página de Repetitivos destaca interesse de sindicato em pedir diferença de complementação do Fundeb em ação civil pública",
-      "summary": "Página de Repetitivos destaca interesse de sindicato em pedir diferença de complementação do Fundeb em ação civil pública",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21052026-Pagina-de-Repetitivos-destaca-interesse-de-sindicato-em-pedir-diferenca-de-complementacao-do-Fundeb-em-acao-civil.aspx",
-      "date": "2026-05-21",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "Assédio moral: Justiça do Trabalho da 11ª Região recebeu 447 novas ações de janeiro a abril de 2026",
-      "summary": "Nos últimos cinco anos, o TRT-11 registrou 4.166 casos envolvendo assédio moral no trabalho",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11379-assedio-moral-justica-do-trabalho-da-11-regiao-recebeu-447-novas-acoes-de-janeiro-a-abril-de-2026",
+      "title": "TRT-11 realiza capacitação sobre direitos humanos em Iranduba/AM",
+      "summary": "Ação realizada na última terça-feira (19) marcou o encerramento das atividades do PopRuaJud no primeiro semestre de 2026",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11381-trt-11-realiza-capacitacao-sobre-direitos-humanos-em-iranduba-am",
       "date": "2026-05-21",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "PopRuaJud realiza mutirão em Manaus com atendimento médico, orientação jurídica e assistência social",
-      "summary": "Ação coordenada pelo TRT-11 levou atendimento a pessoas em situação de vulnerabilidade social",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11375-popruajud-realiza-mutirao-em-manaus-com-atendimento-medico-orientacao-juridica-e-assistencia-social",
+      "title": "Retomada da obra do novo Fórum Trabalhista de Manaus ganha impulso com licitação eletrônica",
+      "summary": "Investimento de R$ 98,3 milhões permitirá economia anual superior a R$ 8 milhões ao eliminar gastos com aluguel de prédios",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11380-retomada-da-obra-do-novo-forum-trabalhista-de-manaus-ganha-impulso-com-licitacao-eletronica",
       "date": "2026-05-21",
       "category": "Trabalhista"
     }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-05-20T20:30:19.431189+00:00",
-  "total": 8,
+  "updated_at": "2026-05-21T04:43:41.487772+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF Educa abre inscrições para cursos gratuitos do ciclo 2026",
-      "summary": "Gratuitos e abertos ao público em geral, cursos são autoinstrucionais e permitem que cada participante organize seus estudos conforme a própria rotina",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-educa-abre-inscricoes-para-cursos-gratuitos-do-ciclo-2026/",
-      "date": "2026-05-20",
+      "title": "Obra sobre legado de Peter Messitte reforça diálogo jurídico entre Brasil e EUA",
+      "summary": "Ministro Edson Fachin, presidente do STF, participou do lançamento do livro; ministro aposentado Carlos Velloso é um dos organizações da obra",
+      "url": "https://noticias.stf.jus.br/postsnoticias/obra-sobre-legado-de-peter-messitte-reforca-dialogo-juridico-entre-brasil-e-eua/",
+      "date": "2026-05-21",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Presidente do STF e do CNJ anuncia avanços na concessão de medidas protetivas para mulheres",
-      "summary": "Em cerimônia que marcou os 100 dias do Pacto Nacional Brasil contra o Feminicídio, Fachin destacou que integração entre órgãos reduziu intervalo entre registro de ocorrências e análise judicial dos pedidos de proteção",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-anuncia-avancos-na-concessao-de-medidas-protetivas-para-mulheres/",
-      "date": "2026-05-20",
+      "title": "STF julga inconstitucional lei do DF que criou Selo Multinível Legal",
+      "summary": "Norma criava certificação para empresas que comprovassem não participar de esquemas de pirâmide financeira",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-julga-inconstitucional-lei-do-df-que-criou-selo-multinivel-legal/",
+      "date": "2026-05-21",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Tentativas de uso de prompt injection no STJ serão investigadas",
       "summary": "Tentativas de uso de prompt injection no STJ serão investigadas",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20052026-Tentativas-de-uso-de-prompt-injection-no-STJ-serao-investigadas.aspx",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Podcast STJ No Seu Dia discute jurisprudência sobre contribuição religiosa e validade de pagamento de dízimo",
       "summary": "Podcast STJ No Seu Dia discute jurisprudência sobre contribuição religiosa e validade de pagamento de dízimo",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20052026-Podcast-STJ-No-Seu-Dia-discute-jurisprudencia-sobre-contribuicao-religiosa-e-validade-de-pagamento-de-dizimo.aspx",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Quarta Turma adia sessão do dia 2 para o dia 9 de junho, às 9h",
       "summary": "Quarta Turma adia sessão do dia 2 para o dia 9 de junho, às 9h",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20052026-Quarta-Turma-adia-sessao-do-dia-2-para-o-dia-9-de-junho--as-9h.aspx",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Assédio moral: Justiça do Trabalho da 11ª Região recebeu 447 novas ações de janeiro a abril de 2026",
       "summary": "Nos últimos cinco anos, o TRT-11 registrou 4.166 casos envolvendo assédio moral no trabalho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11379-assedio-moral-justica-do-trabalho-da-11-regiao-recebeu-447-novas-acoes-de-janeiro-a-abril-de-2026",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "Trabalhista"
     },
     {
@@ -55,15 +55,7 @@
       "title": "PopRuaJud realiza mutirão em Manaus com atendimento médico, orientação jurídica e assistência social",
       "summary": "Ação coordenada pelo TRT-11 levou atendimento a pessoas em situação de vulnerabilidade social",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11375-popruajud-realiza-mutirao-em-manaus-com-atendimento-medico-orientacao-juridica-e-assistencia-social",
-      "date": "2026-05-20",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "Trabalhista"
     }
   ]

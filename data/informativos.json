@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-05-21T20:09:57.789306+00:00",
-  "total": 8,
+  "updated_at": "2026-05-22T04:35:11.144577+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "OAB Nacional aciona STF contra lei sergipana que alterou incidência de ICMS para fundo social",
-      "summary": "Entidade alega violação à separação dos Poderes e às regras constitucionais que limitam aumento de tributos",
-      "url": "https://noticias.stf.jus.br/postsnoticias/oab-nacional-aciona-stf-contra-lei-sergipana-que-alterou-incidencia-de-icms-para-fundo-social/",
-      "date": "2026-05-21",
+      "title": "STF ouve manifestações sobre parâmetros para concessão de justiça gratuita",
+      "summary": "Plenário discute se autodeclaração de hipossuficiência econômica é suficiente para garantir benefício",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-ouve-manifestacoes-sobre-parametros-para-concessao-de-justica-gratuita/",
+      "date": "2026-05-22",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF suspende decisão que impedia aplicação do Código Tributário de Piracicaba (SP)",
-      "summary": "Decisão do presidente da Corte, ministro Edson Fachin, considera suspensão da norma um risco concreto à ordem administrativa e à economia pública do município",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-decisao-que-impedia-aplicacao-do-codigo-tributario-de-piracicaba-sp/",
-      "date": "2026-05-21",
+      "title": "STF valida lei que reduziu parque nacional no Pará para viabilizar Ferrogrão",
+      "summary": "Maioria entendeu que processo legislativo que resultou na edição da lei não violou a Constituição, e norma não representa retrocesso ambiental",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-que-reduziu-area-protegida-no-para-para-viabilizar-ferrograo/",
+      "date": "2026-05-22",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "STJ recebe exposição do fotógrafo Araquém Alcântara a partir de 1º de junho",
       "summary": "STJ recebe exposição do fotógrafo Araquém Alcântara a partir de 1º de junho",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21052026-STJ-recebe-exposicao-do-fotografo-Araquem-Alcantara-a-partir-de-1o-de-junho.aspx",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Congresso STJ da Segunda Instância Federal e Estadual conclui trabalhos com a aprovação de 127 enunciados",
       "summary": "Debates realizados nos dois dias de congresso permitiram reflexão sobre diferentes temas da Justiça e aprovação de enunciados em vários eixos temáticos.",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19052026-Congresso-STJ-da-Segunda-Instancia-Federal-e-Estadual-conclui-trabalhos-com-a-aprovacao-de-127-enunciados.aspx",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Rádio Decidendi discute limites da ação rescisória diante de precedentes qualificados no Tema 1299",
       "summary": "Rádio Decidendi discute limites da ação rescisória diante de precedentes qualificados no Tema 1299",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21052026-Radio-Decidendi-discute-limites-da-acao-rescisoria-diante-de-precedentes-qualificados-no-Tema-1299.aspx",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "TRT-11 determina circulação mínima de ônibus durante greve em Manaus",
       "summary": "Decisão obriga 80% da frota nos horários de pico e 50% nos demais períodos",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11382-trt-11-determina-circulacao-minima-de-onibus-durante-greve-em-manaus",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "category": "Trabalhista"
     },
     {
@@ -55,15 +55,7 @@
       "title": "TRT-11 realiza capacitação sobre direitos humanos em Iranduba/AM",
       "summary": "Ação realizada na última terça-feira (19) marcou o encerramento das atividades do PopRuaJud no primeiro semestre de 2026",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11381-trt-11-realiza-capacitacao-sobre-direitos-humanos-em-iranduba-am",
-      "date": "2026-05-21",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "category": "Trabalhista"
     }
   ]

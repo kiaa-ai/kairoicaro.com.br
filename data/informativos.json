@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T04:35:11.144577+00:00",
-  "total": 7,
+  "updated_at": "2026-05-22T09:49:11.881699+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "TRT-11 realiza capacitação sobre direitos humanos em Iranduba/AM",
       "summary": "Ação realizada na última terça-feira (19) marcou o encerramento das atividades do PopRuaJud no primeiro semestre de 2026",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11381-trt-11-realiza-capacitacao-sobre-direitos-humanos-em-iranduba-am",
+      "date": "2026-05-22",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-22",
       "category": "Trabalhista"
     }

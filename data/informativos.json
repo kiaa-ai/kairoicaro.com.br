@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-05-22T15:22:12.946102+00:00",
-  "total": 7,
+  "updated_at": "2026-05-22T20:10:29.384383+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF ouve manifestações sobre parâmetros para concessão de justiça gratuita",
-      "summary": "Plenário discute se autodeclaração de hipossuficiência econômica é suficiente para garantir benefício",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-ouve-manifestacoes-sobre-parametros-para-concessao-de-justica-gratuita/",
+      "title": "Associação questiona no STF novas regras para vale-alimentação e vale-refeição",
+      "summary": "ABBT alega que decreto do governo federal altera funcionamento do PAT sem previsão em lei",
+      "url": "https://noticias.stf.jus.br/postsnoticias/associacao-questiona-no-stf-novas-regras-para-vale-alimentacao-e-vale-refeicao/",
       "date": "2026-05-22",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF valida lei que reduziu parque nacional no Pará para viabilizar Ferrogrão",
-      "summary": "Maioria entendeu que processo legislativo que resultou na edição da lei não violou a Constituição, e norma não representa retrocesso ambiental",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-que-reduziu-area-protegida-no-para-para-viabilizar-ferrograo/",
+      "title": "Confira os destaques do Plenário Virtual",
+      "summary": "Sessão começou às 11h desta sexta-feira (22) e termina em 29/5, às 23h59",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-17/",
       "date": "2026-05-22",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ e Instituto Alana promovem evento no dia 26 para debater proteГ§ГЈo das meninas da infГўncia Г adolescГЄncia",
+      "summary": "STJ e Instituto Alana promovem evento no dia 26 para debater proteГ§ГЈo das meninas da infГўncia Г adolescГЄncia",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22052026-STJ-e-Instituto-Alana-promovem-evento-no-dia-26-para-debater-protecao-das-meninas-da-infancia-a-adolescencia.aspx",
+      "date": "2026-05-22",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -28,19 +36,19 @@
     },
     {
       "tribunal": "STJ",
-      "title": "Espaço Cultural apresenta obra em homenagem aos 20 anos de docência do professor Paulo Mendes",
-      "summary": "Espaço Cultural apresenta obra em homenagem aos 20 anos de docência do professor Paulo Mendes",
+      "title": "EspaГ§o Cultural apresenta obra em homenagem aos 20 anos de docГЄncia do professor Paulo Mendes",
+      "summary": "EspaГ§o Cultural apresenta obra em homenagem aos 20 anos de docГЄncia do professor Paulo Mendes",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22052026-Espaco-Cultural-apresenta-obra-em-homenagem-aos-20-anos-de-docencia-do-professor-Paulo-Mendes.aspx",
       "date": "2026-05-22",
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Informativo destaca uso de imóvel em contratos de curta estadia e validade de contrato bancário celebrado por analfabeto",
-      "summary": "Informativo destaca uso de imóvel em contratos de curta estadia e validade de contrato bancário celebrado por analfabeto",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22052026-Informativo-destaca-uso-de-imovel-em-contratos-de-curta-estadia.aspx",
+      "tribunal": "TRT11",
+      "title": "TRT-11 promove iniciativas participativas para discutir e alinhar as Metas Nacionais da Justiça do Trabalho para 2027",
+      "summary": "Processo envolveu consulta pública, reunião institucional e audiência aberta à sociedade",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11385-trt-11-promove-iniciativas-participativas-para-discutir-e-alinhar-as-metas-nacionais-da-justica-do-trabalho-para-2027",
       "date": "2026-05-22",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
@@ -51,10 +59,10 @@
       "category": "Trabalhista"
     },
     {
-      "tribunal": "TRT11",
-      "title": "TRT-11 determina circulação mínima de ônibus durante greve em Manaus",
-      "summary": "Decisão obriga 80% da frota nos horários de pico e 50% nos demais períodos",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11382-trt-11-determina-circulacao-minima-de-onibus-durante-greve-em-manaus",
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-22",
       "category": "Trabalhista"
     }

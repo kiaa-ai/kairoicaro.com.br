@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T09:50:55.996708+00:00",
+  "updated_at": "2026-05-24T13:59:22.493529+00:00",
   "total": 8,
   "items": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Tá no rótulo? A jurisprudência do STJ sobre informações nas embalagens",
+      "summary": "O Código de Defesa do Consumidor consagra o direito a informações claras e adequadas sobre os produtos colocados à venda, incluindo quantidade, composição, riscos e outras características.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24052026-Ta-no-rotulo-A-jurisprudencia-do-STJ-sobre-informacoes-nas-embalagens.aspx",
+      "date": "2026-05-24",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "STJ e Instituto Alana promovem evento no dia 26 para debater proteção das meninas da infância à adolescência",
       "summary": "STJ e Instituto Alana promovem evento no dia 26 para debater proteção das meninas da infância à adolescência",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22052026-STJ-e-Instituto-Alana-promovem-evento-no-dia-26-para-debater-protecao-das-meninas-da-infancia-a-adolescencia.aspx",
@@ -31,14 +39,6 @@
       "title": "Podcast STJ No Seu Dia discute penhorabilidade de valores resgatados de seguro de vida",
       "summary": "Podcast STJ No Seu Dia discute penhorabilidade de valores resgatados de seguro de vida",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22052026-Podcast-STJ-No-Seu-Dia-discute-penhorabilidade-de-valores-resgatados-de-seguro-de-vida.aspx",
-      "date": "2026-05-24",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Espaço Cultural apresenta obra em homenagem aos 20 anos de docência do professor Paulo Mendes",
-      "summary": "Espaço Cultural apresenta obra em homenagem aos 20 anos de docência do professor Paulo Mendes",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22052026-Espaco-Cultural-apresenta-obra-em-homenagem-aos-20-anos-de-docencia-do-professor-Paulo-Mendes.aspx",
       "date": "2026-05-24",
       "category": "Jurisprudencia"
     },

@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-05-26T16:08:53.312501+00:00",
-  "total": 7,
+  "updated_at": "2026-05-26T20:24:57.415558+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "CNI aciona STF contra isenção de imposto para compras internacionais de até US$ 50",
-      "summary": "Entidade afirma que medida favorece plataformas estrangeiras e prejudica indústria e pequenas empresas brasileiras",
-      "url": "https://noticias.stf.jus.br/postsnoticias/cni-aciona-stf-contra-isencao-de-imposto-para-compras-internacionais-de-ate-us-50/",
+      "title": "CNJ aprova contracheque único para cumprir decisões do STF sobre verbas indenizatórias",
+      "summary": "Medida, aprovada nesta terça-feira (26), visa dar transparência às remunerações; órgãos terão 60 dias para adequações",
+      "url": "https://noticias.stf.jus.br/postsnoticias/cnj-aprova-contracheque-unico-para-magistratura-e-membros-do-ministerio-publico/",
       "date": "2026-05-26",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Rádio Justiça: validade da lei que viabiliza a Ferrogrão é um dos destaques desta terça (26)",
-      "summary": "O programa A Hora do Maestro apresenta obras de Ludwig van Beethoven.",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-validade-da-lei-que-viabiliza-a-ferrograo-e-um-dos-destaques-desta-terca-26/",
+      "title": "Caso Master: STF autoriza busca e apreensão na casa do ex-governador Cláudio Castro",
+      "summary": "Medida foi tomada contra ex-governador do RJ pelo ministro André Mendonça, a pedido da Polícia Federal, em nova fase da Operação Compliance Zero",
+      "url": "https://noticias.stf.jus.br/postsnoticias/caso-master-stf-autoriza-busca-e-apreensao-na-casa-do-ex-governador-do-rj/",
       "date": "2026-05-26",
       "category": "Constitucional"
     },
     {
       "tribunal": "STJ",
-      "title": "Página de Repetitivos destaca prescrição do fundo de direito nas relações de trato sucessivo em que a Fazenda é devedora",
-      "summary": "Página de Repetitivos destaca prescrição do fundo de direito nas relações de trato sucessivo em que a Fazenda é devedora",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Pagina-de-Repetitivos-destaca-prescricao-do-fundo-de-direito-nas-relacoes-de-trato-sucessivo-em-que-a-Fazenda-e-.aspx",
+      "title": "Ministro Moura Ribeiro ressalta importância do debate sobre direito das coisas na X Jornada de Direito Civil",
+      "summary": "Ministro Moura Ribeiro ressalta importância do debate sobre direito das coisas na X Jornada de Direito Civil",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Ministro-Moura-Ribeiro-ressalta-importancia-do-debate-sobre-direito-das-coisas-na-X-Jornada-de-Direito-Civil-.aspx",
       "date": "2026-05-26",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Decisão que apontou possíveis falhas de IA em pedido de habeas corpus é destaque no STJ Notícias",
-      "summary": "Decisão que apontou possíveis falhas de IA em pedido de habeas corpus é destaque no STJ Notícias",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Decisao-que-apontou-possiveis-falhas-de-IA-em-pedido-de-habeas-corpus-e-destaque-no-STJ-Noticias.aspx",
+      "title": "Jornada reafirma papel do CJF na construção interpretativa do direito civil, afirma ministra Gallotti",
+      "summary": "Jornada reafirma papel do CJF na construção interpretativa do direito civil, afirma ministra Gallotti",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Jornada-reafirma-papel-do-CJF-na-construcao-interpretativa-do-direito-civil--afirma-ministra-Gallotti.aspx",
       "date": "2026-05-26",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Segunda parte da audiência sobre interesse de agir em ações de consumo acontece nesta quarta (27)",
-      "summary": "Segunda parte da audiência sobre interesse de agir em ações de consumo acontece nesta quarta (27)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Segunda-parte-da-audiencia-sobre-interesse-de-agir-em-acoes-de-consumo-acontece-nesta-quarta--27-.aspx",
+      "title": "Para o ministro Cueva, X Jornada de Direito Civil pretende harmonizar tecnologia com direitos fundamentais",
+      "summary": "Para o ministro Cueva, X Jornada de Direito Civil pretende harmonizar tecnologia com direitos fundamentais",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Para-o-ministro-Cueva--X-Jornada-de-Direito-Civil-pretende-harmonizar-tecnologia-com-direitos-fundamentais.aspx",
       "date": "2026-05-26",
       "category": "Jurisprudencia"
     },
@@ -55,6 +55,14 @@
       "title": "Justiça do Trabalho abre consulta pública sobre metas nacionais para o próximo ano",
       "summary": "Levantamento visa aperfeiçoar o Judiciário trabalhista com a opinião da sociedade e poderá ser respondido até 5 de junho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11388-justica-do-trabalho-abre-consulta-publica-sobre-metas-nacionais-para-o-proximo-ano",
+      "date": "2026-05-26",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-26",
       "category": "Trabalhista"
     }

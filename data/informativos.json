@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-05-26T20:24:57.415558+00:00",
-  "total": 8,
+  "updated_at": "2026-05-27T04:47:55.858528+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "CNJ aprova contracheque único para cumprir decisões do STF sobre verbas indenizatórias",
-      "summary": "Medida, aprovada nesta terça-feira (26), visa dar transparência às remunerações; órgãos terão 60 dias para adequações",
-      "url": "https://noticias.stf.jus.br/postsnoticias/cnj-aprova-contracheque-unico-para-magistratura-e-membros-do-ministerio-publico/",
-      "date": "2026-05-26",
+      "title": "STF rejeita arquivamento de inquérito contra ex-presidente do Detran-GO",
+      "summary": "Por maioria, colegiado afastou foro privilegiado e permitiu a continuidade das investigações sobre supostas fraudes em contratos do órgão",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-arquivamento-de-inquerito-sobre-ex-presidente-do-detran-go/",
+      "date": "2026-05-27",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Caso Master: STF autoriza busca e apreensão na casa do ex-governador Cláudio Castro",
-      "summary": "Medida foi tomada contra ex-governador do RJ pelo ministro André Mendonça, a pedido da Polícia Federal, em nova fase da Operação Compliance Zero",
-      "url": "https://noticias.stf.jus.br/postsnoticias/caso-master-stf-autoriza-busca-e-apreensao-na-casa-do-ex-governador-do-rj/",
-      "date": "2026-05-26",
+      "title": "STF dá prazo para que MEC analise autorização de curso de medicina em Sorocaba (SP)",
+      "summary": "2ª Turma reconheceu demora da União na conclusão de processo administrativo",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-da-prazo-para-que-mec-analise-autorizacao-de-curso-de-medicina-em-sorocaba-sp/",
+      "date": "2026-05-27",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Presidente da Corte abre o 1º Curso STJ-Interpol",
+      "summary": "Ministros do STJ (no centro, o presidente, Herman Benjamin), desembargadores e outros participantes do evento que começou nesta terça-feira (26), na sede da Interpol, em Lyon.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Presidente-da-Corte-abre-o-1o-Curso-STJ-Interpol.aspx",
+      "date": "2026-05-27",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Ministro Moura Ribeiro ressalta importância do debate sobre direito das coisas na X Jornada de Direito Civil",
       "summary": "Ministro Moura Ribeiro ressalta importância do debate sobre direito das coisas na X Jornada de Direito Civil",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Ministro-Moura-Ribeiro-ressalta-importancia-do-debate-sobre-direito-das-coisas-na-X-Jornada-de-Direito-Civil-.aspx",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Jornada reafirma papel do CJF na construção interpretativa do direito civil, afirma ministra Gallotti",
       "summary": "Jornada reafirma papel do CJF na construção interpretativa do direito civil, afirma ministra Gallotti",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Jornada-reafirma-papel-do-CJF-na-construcao-interpretativa-do-direito-civil--afirma-ministra-Gallotti.aspx",
-      "date": "2026-05-26",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Para o ministro Cueva, X Jornada de Direito Civil pretende harmonizar tecnologia com direitos fundamentais",
-      "summary": "Para o ministro Cueva, X Jornada de Direito Civil pretende harmonizar tecnologia com direitos fundamentais",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Para-o-ministro-Cueva--X-Jornada-de-Direito-Civil-pretende-harmonizar-tecnologia-com-direitos-fundamentais.aspx",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "TRT-11 realiza ação itinerante do Cejusc-JT em Manacapuru e atende 627 pessoas com serviços gratuitos de justiça, cidadania e saúde",
       "summary": "Iniciativa levou emissão de documentos, CadÚnico, atendimentos médico e odontológico, vacinação, orientações trabalhistas, e atividades educativas à população da zona rural de Manacapuru",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11393-trt-11-realiza-acao-itinerante-do-cejusc-jt-em-manacapuru-e-atende-627-pessoas-com-servicos-gratuitos-de-justica-cidadania-e-saude",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "category": "Trabalhista"
     },
     {
@@ -55,15 +55,7 @@
       "title": "Justiça do Trabalho abre consulta pública sobre metas nacionais para o próximo ano",
       "summary": "Levantamento visa aperfeiçoar o Judiciário trabalhista com a opinião da sociedade e poderá ser respondido até 5 de junho",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11388-justica-do-trabalho-abre-consulta-publica-sobre-metas-nacionais-para-o-proximo-ano",
-      "date": "2026-05-26",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "category": "Trabalhista"
     }
   ]

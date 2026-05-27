@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-27T11:33:56.158712+00:00",
+  "updated_at": "2026-05-27T16:12:04.700273+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quarta-feira (27)",
+      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-27/",
+      "date": "2026-05-27",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF rejeita arquivamento de inquérito contra ex-presidente do Detran-GO",
@@ -11,50 +19,42 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF dá prazo para que MEC analise autorização de curso de medicina em Sorocaba (SP)",
-      "summary": "2ª Turma reconheceu demora da União na conclusão de processo administrativo",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-da-prazo-para-que-mec-analise-autorizacao-de-curso-de-medicina-em-sorocaba-sp/",
-      "date": "2026-05-27",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Corte determina continuidade de curso de medicina para turma extra do Pronera em Caruaru (PE)",
-      "summary": "Corte determina continuidade de curso de medicina para turma extra do Pronera em Caruaru (PE)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Corte-determina-continuidade-de-curso-de-medicina-para-turma-extra-do-Pronera-em-Caruaru-(PE).aspx",
+      "title": "Regina Helena Costa torna-se professora titular de Direito Tributário da PUC-SP",
+      "summary": "Regina Helena Costa torna-se professora titular de Direito Tributário da PUC-SP",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Regina-Helena-Costa-torna-se-professora-titular-de-Direito-Tributario-da-PUC-SP.aspx",
       "date": "2026-05-27",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Parte não tem direito a segundo pedido escrito de esclarecimentos ao perito",
-      "summary": "Parte não tem direito a segundo pedido escrito de esclarecimentos ao perito",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Parte-nao-tem-direito-a-segundo-pedido-escrito-de-esclarecimentos-ao-perito.aspx",
+      "title": "Entender Direito aprofunda debate sobre como o STJ vem definindo os rumos do direito digital",
+      "summary": "Entender Direito aprofunda debate sobre como o STJ vem definindo os rumos do direito digital",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Entender-Direito-aprofunda-debate-sobre-como-o-STJ-vem-definindo-os-rumos-do-direito-digital--.aspx",
       "date": "2026-05-27",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Presidente da Corte abre o 1º Curso STJ-Interpol",
-      "summary": "Ministros do STJ (no centro, o presidente, Herman Benjamin), desembargadores e outros participantes do evento que começou nesta terça-feira (26), na sede da Interpol, em Lyon.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26052026-Presidente-da-Corte-abre-o-1o-Curso-STJ-Interpol.aspx",
+      "title": "Terceira Turma antecipa sessão do dia 9 de junho para as 13h",
+      "summary": "Terceira Turma antecipa sessão do dia 9 de junho para as 13h",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27062026-Terceira-Turma-antecipa-sessao-do-dia-9-de-junho-para-as-13h.aspx",
       "date": "2026-05-27",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "TRT-11 inicia a 10ª Semana Nacional da Conciliação Trabalhista e movimenta mais de R$ 2 milhões no primeiro dia",
+      "summary": "Com o slogan “Um acordo muda o jogo”, o mutirão segue até sexta-feira (29), com expectativa de ampliar o número de conciliações e fortalecer a pacificação social",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11395-trt-11-inicia-a-10-semana-nacional-da-conciliacao-trabalhista-e-movimenta-mais-de-r-2-milhoes-no-primeiro-dia",
+      "date": "2026-05-27",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "TRT-11 realiza ação itinerante do Cejusc-JT em Manacapuru e atende 627 pessoas com serviços gratuitos de justiça, cidadania e saúde",
       "summary": "Iniciativa levou emissão de documentos, CadÚnico, atendimentos médico e odontológico, vacinação, orientações trabalhistas, e atividades educativas à população da zona rural de Manacapuru",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11393-trt-11-realiza-acao-itinerante-do-cejusc-jt-em-manacapuru-e-atende-627-pessoas-com-servicos-gratuitos-de-justica-cidadania-e-saude",
-      "date": "2026-05-27",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Justiça do Trabalho abre consulta pública sobre metas nacionais para o próximo ano",
-      "summary": "Levantamento visa aperfeiçoar o Judiciário trabalhista com a opinião da sociedade e poderá ser respondido até 5 de junho",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11388-justica-do-trabalho-abre-consulta-publica-sobre-metas-nacionais-para-o-proximo-ano",
       "date": "2026-05-27",
       "category": "Trabalhista"
     }

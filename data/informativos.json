@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-05-27T16:12:04.700273+00:00",
+  "updated_at": "2026-05-27T20:28:48.246882+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quarta-feira (27)",
-      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-27/",
+      "title": "Falta de cadastro nacional de condenados por crimes sexuais é questionada no STF",
+      "summary": "Partido Novo sustenta que ausência de regulamentação e implementação das bases de dados viola deveres constitucionais de segurança e acesso à informação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/falta-de-cadastro-nacional-de-condenados-por-crimes-sexuais-e-questionada-no-stf/",
       "date": "2026-05-27",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF rejeita arquivamento de inquérito contra ex-presidente do Detran-GO",
-      "summary": "Por maioria, colegiado afastou foro privilegiado e permitiu a continuidade das investigações sobre supostas fraudes em contratos do órgão",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-arquivamento-de-inquerito-sobre-ex-presidente-do-detran-go/",
+      "title": "STF e bancada feminina do Congresso discutem ações de proteção a mulheres e crianças",
+      "summary": "Ministro Edson Fachin falou sobre medidas do STF e do CNJ para enfrentamento da violência de gênero, proteção da infância e ampliação da transparência no Judiciário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-e-bancada-feminina-do-congresso-discutem-acoes-de-protecao-a-mulheres-e-criancas/",
       "date": "2026-05-27",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "X Jornada de Direito Civil tem recorde de 940 propostas de enunciados",
+      "summary": "X Jornada de Direito Civil tem recorde de 940 propostas de enunciados",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-X-Jornada-de-Direito-Civil-tem-recorde-de-940-propostas-de-enunciados.aspx",
+      "date": "2026-05-27",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -31,14 +39,6 @@
       "title": "Entender Direito aprofunda debate sobre como o STJ vem definindo os rumos do direito digital",
       "summary": "Entender Direito aprofunda debate sobre como o STJ vem definindo os rumos do direito digital",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Entender-Direito-aprofunda-debate-sobre-como-o-STJ-vem-definindo-os-rumos-do-direito-digital--.aspx",
-      "date": "2026-05-27",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Terceira Turma antecipa sessão do dia 9 de junho para as 13h",
-      "summary": "Terceira Turma antecipa sessão do dia 9 de junho para as 13h",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27062026-Terceira-Turma-antecipa-sessao-do-dia-9-de-junho-para-as-13h.aspx",
       "date": "2026-05-27",
       "category": "Jurisprudencia"
     },

@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-05-27T20:28:48.246882+00:00",
+  "updated_at": "2026-05-28T04:39:08.221499+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Falta de cadastro nacional de condenados por crimes sexuais é questionada no STF",
-      "summary": "Partido Novo sustenta que ausência de regulamentação e implementação das bases de dados viola deveres constitucionais de segurança e acesso à informação",
-      "url": "https://noticias.stf.jus.br/postsnoticias/falta-de-cadastro-nacional-de-condenados-por-crimes-sexuais-e-questionada-no-stf/",
-      "date": "2026-05-27",
+      "title": "Shopping centers devem fornecer espaço de amamentação para empregadas das lojas, decide STF",
+      "summary": "Decisão unânime reconheceu que proteção à maternidade e à infância deve orientar interpretação da CLT; local deve oferecer vigilância e assistência durante o período de amamentação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/shopping-centers-devem-fornecer-espaco-de-amamentacao-para-empregadas-das-lojas-decide-stf/",
+      "date": "2026-05-28",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF e bancada feminina do Congresso discutem ações de proteção a mulheres e crianças",
-      "summary": "Ministro Edson Fachin falou sobre medidas do STF e do CNJ para enfrentamento da violência de gênero, proteção da infância e ampliação da transparência no Judiciário",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-e-bancada-feminina-do-congresso-discutem-acoes-de-protecao-a-mulheres-e-criancas/",
-      "date": "2026-05-27",
+      "title": "Fachin e ministra da Gestão e Inovação em Serviços Públicos discutem modernização do Estado brasileiro",
+      "summary": "Na reunião, presidente do STF e ministra reafirmaram compromisso comum com a construção de instituições públicas mais modernas, eficientes, transparentes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-e-ministra-da-gestao-e-inovacao-em-servicos-publicos-discutem-modernizacao-do-estado-brasileiro/",
+      "date": "2026-05-28",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Interesse de agir em ações de consumo: segunda parte da audiência debate mecanismos extrajudiciais",
+      "summary": "Interesse de agir em ações de consumo: segunda parte da audiência debate mecanismos extrajudiciais",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Interesse-de-agir-em-acoes-de-consumo-segunda-parte-da-audiencia-debate-mecanismos-extrajudiciais.aspx",
+      "date": "2026-05-28",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Segundo dia do inédito 1º Curso STJ-Interpol aborda temas chave da criminalidade",
+      "summary": "Segundo dia do inédito 1º Curso STJ-Interpol aborda temas chave da criminalidade",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Segundo-dia-do-inedito-1o-Curso-STJ-Interpol-aborda-temas-chave-da-criminalidade.aspx",
+      "date": "2026-05-28",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "X Jornada de Direito Civil tem recorde de 940 propostas de enunciados",
       "summary": "X Jornada de Direito Civil tem recorde de 940 propostas de enunciados",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-X-Jornada-de-Direito-Civil-tem-recorde-de-940-propostas-de-enunciados.aspx",
-      "date": "2026-05-27",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Regina Helena Costa torna-se professora titular de Direito Tributário da PUC-SP",
-      "summary": "Regina Helena Costa torna-se professora titular de Direito Tributário da PUC-SP",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Regina-Helena-Costa-torna-se-professora-titular-de-Direito-Tributario-da-PUC-SP.aspx",
-      "date": "2026-05-27",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Entender Direito aprofunda debate sobre como o STJ vem definindo os rumos do direito digital",
-      "summary": "Entender Direito aprofunda debate sobre como o STJ vem definindo os rumos do direito digital",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27052026-Entender-Direito-aprofunda-debate-sobre-como-o-STJ-vem-definindo-os-rumos-do-direito-digital--.aspx",
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "TRT-11 inicia a 10ª Semana Nacional da Conciliação Trabalhista e movimenta mais de R$ 2 milhões no primeiro dia",
       "summary": "Com o slogan “Um acordo muda o jogo”, o mutirão segue até sexta-feira (29), com expectativa de ampliar o número de conciliações e fortalecer a pacificação social",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11395-trt-11-inicia-a-10-semana-nacional-da-conciliacao-trabalhista-e-movimenta-mais-de-r-2-milhoes-no-primeiro-dia",
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "TRT-11 realiza ação itinerante do Cejusc-JT em Manacapuru e atende 627 pessoas com serviços gratuitos de justiça, cidadania e saúde",
       "summary": "Iniciativa levou emissão de documentos, CadÚnico, atendimentos médico e odontológico, vacinação, orientações trabalhistas, e atividades educativas à população da zona rural de Manacapuru",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11393-trt-11-realiza-acao-itinerante-do-cejusc-jt-em-manacapuru-e-atende-627-pessoas-com-servicos-gratuitos-de-justica-cidadania-e-saude",
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "category": "Trabalhista"
     }
   ]

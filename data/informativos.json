@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T10:13:42.923236+00:00",
-  "total": 8,
+  "updated_at": "2026-05-29T11:24:03.294421+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -20,25 +20,25 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada em 17 de junho no STJ",
+      "summary": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada em 17 de junho no STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Nova-edicao-da-obra-de-Amaro-Cavalcanti-sobre-regime-federativo-sera-lancada-em-17-de-junho-no-STJ-.aspx",
+      "date": "2026-05-29",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Repetitivo define que pena por crime cometido sob livramento condicional começa após fim do benefício",
+      "summary": "Segundo o ministro Sebastião Reis Júnior, o entendimento – já consolidado na jurisprudência da corte – evita a contagem simultânea do mesmo período de prisão em execuções penais distintas e não unificadas.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Repetitivo-define-que-pena-por-crime-cometido-sob-livramento-condicional-comeca-apos-fim-do-beneficio.aspx",
+      "date": "2026-05-29",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "Rádio Decidendi entrevista o ministro Paulo Sérgio Domingues sobre o Tema 1.124 dos repetitivos",
       "summary": "Rádio Decidendi entrevista o ministro Paulo Sérgio Domingues sobre o Tema 1.124 dos repetitivos",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28052026-Radio-Decidendi-entrevista-o-ministro-Paulo-Sergio-Domingues-sobre-o-Tema-1-124-dos-repetitivos.aspx",
-      "date": "2026-05-29",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Bibliotecas da Enfam e do CJF serão incorporadas à do STJ",
-      "summary": "Bibliotecas da Enfam e do CJF serão incorporadas à do STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28052026-Bibliotecas-da-Enfam-e-do-CJF-serao-incorporadas-a-do-STJ.aspx",
-      "date": "2026-05-29",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Reportagem especial traz tudo o que é importante saber sobre testamento",
-      "summary": "Reportagem especial traz tudo o que é importante saber sobre testamento",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28052026-Reportagem-especial-traz-tudo-o-que-e-importante-saber-sobre-testamento.aspx",
       "date": "2026-05-29",
       "category": "Jurisprudencia"
     },
@@ -55,14 +55,6 @@
       "title": "Projeto Justiça Verde promove plantio de 100 mudas nativas em Manacapuru",
       "summary": "O Projeto Justiça Verde, coordenado pelo Comitê de Sustentabilidade do Tribunal Regional do Trabalho da 11ª Região (AM/RR), realizou, em 22 de maio, Dia Internacional da Biodiversidade, mais uma ação de sustentabilidade e educação ambiental no município de Manacapuru, região metropolitana de Manaus.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11397-projeto-justica-verde-promove-plantio-de-100-mudas-nativas-em-manacapuru",
-      "date": "2026-05-29",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-29",
       "category": "Trabalhista"
     }

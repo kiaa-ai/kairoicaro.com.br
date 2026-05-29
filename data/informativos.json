@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-05-29T11:24:03.294421+00:00",
+  "updated_at": "2026-05-29T16:07:58.155843+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Supremo avança em discussão sobre mudanças na Lei de Improbidade Administrativa",
-      "summary": "Corte consolidou entendimento para exigir dolo em casos de improbidade e validou parte das mudanças feitas em 2021; outros dispositivos questionados ainda serão analisados",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-em-discussao-sobre-mudancas-na-lei-de-improbidade-administrativa/",
+      "title": "Confira os destaques do Plenário Virtual",
+      "summary": "Sessão começou às 11h desta sexta-feira (29) e termina em 9/6, às 23h59",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-18/",
       "date": "2026-05-29",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Governo do Ceará questiona no STF decisão do TST que extinguiu ação sobre empregados de estatal local",
-      "summary": "Estado alega violação de princípios constitucionais após extinção de processo que discutia programa de demissão voluntária",
-      "url": "https://noticias.stf.jus.br/postsnoticias/governo-do-ceara-questiona-no-stf-decisao-do-tst-que-extinguiu-acao-sobre-empregados-de-estatal-local/",
+      "title": "‘Direito sem juridiquês’: novo episódio detalha função do mandado de segurança",
+      "summary": "Vídeo da série educativa apresenta, de forma simples, quando esse instrumento constitucional pode ser utilizado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-novo-episodio-detalha-funcao-do-mandado-de-seguranca/",
       "date": "2026-05-29",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre responsabilidade civil por dano ambiental",
+      "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre responsabilidade civil por dano ambiental",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-responsabilidade-civil-por-dano-ambiental.aspx",
+      "date": "2026-05-29",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
+      "summary": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Espaco-Cultural-STJ-inaugura-exposicao-do-fotografo-Araquem-Alcantara-na-segunda-feira--1o-.aspx",
+      "date": "2026-05-29",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -27,34 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Repetitivo define que pena por crime cometido sob livramento condicional começa após fim do benefício",
-      "summary": "Segundo o ministro Sebastião Reis Júnior, o entendimento – já consolidado na jurisprudência da corte – evita a contagem simultânea do mesmo período de prisão em execuções penais distintas e não unificadas.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Repetitivo-define-que-pena-por-crime-cometido-sob-livramento-condicional-comeca-apos-fim-do-beneficio.aspx",
-      "date": "2026-05-29",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Rádio Decidendi entrevista o ministro Paulo Sérgio Domingues sobre o Tema 1.124 dos repetitivos",
-      "summary": "Rádio Decidendi entrevista o ministro Paulo Sérgio Domingues sobre o Tema 1.124 dos repetitivos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28052026-Radio-Decidendi-entrevista-o-ministro-Paulo-Sergio-Domingues-sobre-o-Tema-1-124-dos-repetitivos.aspx",
-      "date": "2026-05-29",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "TRT-11 anula justa causa de trabalhadora e condena empresa em R$ 155 mil por discriminação em demissão apenas de mulheres",
-      "summary": "Decisão apontou punição exagerada e indicou possível discriminação de gênero, pois apenas funcionárias mulheres foram dispensadas pelo mesmo motivo",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11398-trt-11-anula-justa-causa-de-trabalhadora-e-condena-empresa-em-r-155-mil-por-discriminacao-em-demissao-apenas-de-mulheres",
+      "title": "Justiça do Trabalho firma acordo de R$ 243 mil entre Boi Garantido e trabalhadores de Parintins",
+      "summary": "Compromisso reforça valorização dos que atuam no Festival Folclórico da Ilha Tupinambarana",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11405-justica-do-trabalho-firma-acordo-de-r-243-mil-entre-boi-garantido-e-trabalhadores-de-parintins",
       "date": "2026-05-29",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Projeto Justiça Verde promove plantio de 100 mudas nativas em Manacapuru",
-      "summary": "O Projeto Justiça Verde, coordenado pelo Comitê de Sustentabilidade do Tribunal Regional do Trabalho da 11ª Região (AM/RR), realizou, em 22 de maio, Dia Internacional da Biodiversidade, mais uma ação de sustentabilidade e educação ambiental no município de Manacapuru, região metropolitana de Manaus.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11397-projeto-justica-verde-promove-plantio-de-100-mudas-nativas-em-manacapuru",
+      "title": "STF confirma entendimento do TST que beneficia comerciárias que amamentam",
+      "summary": "Decisão sobre espaços para amamentação em shopping centers reforça posição do TST de priorizar proteção à maternidade, à infância e ao mercado de trabalho da mulher",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11404-stf-confirma-entendimento-do-tst-que-beneficia-comerciarias-que-amamentam",
       "date": "2026-05-29",
       "category": "Trabalhista"
     }

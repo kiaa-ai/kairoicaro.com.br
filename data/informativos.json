@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T04:17:24.439260+00:00",
-  "total": 7,
+  "updated_at": "2026-05-30T08:40:11.934627+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -55,6 +55,14 @@
       "title": "STF confirma entendimento do TST que beneficia comerciárias que amamentam",
       "summary": "Decisão sobre espaços para amamentação em shopping centers reforça posição do TST de priorizar proteção à maternidade, à infância e ao mercado de trabalho da mulher",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11404-stf-confirma-entendimento-do-tst-que-beneficia-comerciarias-que-amamentam",
+      "date": "2026-05-30",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-05-30",
       "category": "Trabalhista"
     }

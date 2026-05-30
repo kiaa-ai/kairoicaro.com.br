@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-30T14:04:22.989789+00:00",
+  "updated_at": "2026-05-30T19:40:52.075314+00:00",
   "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Espaço para amamentação em shoppings para filhos de empregadas de lojas é destaque no Supremo na Semana",
+      "summary": "Episódio #192 está disponível nas principais plataformas de áudio e no Youtube",
+      "url": "https://noticias.stf.jus.br/postsnoticias/espaco-para-amamentacao-em-shoppings-para-filhos-de-empregadas-de-lojas-e-destaque-no-supremo-na-semana/",
+      "date": "2026-05-30",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "PSOL aciona STF por falta de regulamentação para exploração de minerais estratégicos e terras raras",
@@ -11,12 +19,12 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF rejeita pedido da Alerj e mantém desembargador como governador interino do Rio de Janeiro",
-      "summary": "Ministro Luiz Fux observou que há determinação expressa do Plenário da Corte para que o presidente do TJ-RJ permaneça no comando do estado",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-nega-pedido-da-alerj-e-mantem-desembargador-como-governador-interino-do-rio-de-janeiro/",
+      "tribunal": "STJ",
+      "title": "STJ sedia congresso sobre Estado de Direito e Ética Judicial",
+      "summary": "O encontro reunirá presidentes de cortes supremas, ministros e outros magistrados, especialistas e representantes de organismos internacionais das Américas, da África, da Ásia e da Europa.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30052026-STJ-sedia-congresso-sobre-Estado-de-Direito-e-Etica-Judicial.aspx",
       "date": "2026-05-30",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -31,14 +39,6 @@
       "title": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
       "summary": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Espaco-Cultural-STJ-inaugura-exposicao-do-fotografo-Araquem-Alcantara-na-segunda-feira--1o-.aspx",
-      "date": "2026-05-30",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada em 17 de junho no STJ",
-      "summary": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada em 17 de junho no STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Nova-edicao-da-obra-de-Amaro-Cavalcanti-sobre-regime-federativo-sera-lancada-em-17-de-junho-no-STJ-.aspx",
       "date": "2026-05-30",
       "category": "Jurisprudencia"
     },

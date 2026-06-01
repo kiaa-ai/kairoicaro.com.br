@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T12:08:47.803557+00:00",
-  "total": 5,
+  "updated_at": "2026-06-01T13:32:07.509645+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -41,6 +41,22 @@
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Ex-policial-que-sofreu-ataque-homofobico-ao-postar-foto-com-namorado-tem-direito-a-indenizacao.aspx",
       "date": "2026-06-01",
       "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho firma acordo de R$ 243 mil entre Boi Garantido e trabalhadores de Parintins",
+      "summary": "Compromisso reforça valorização dos que atuam no Festival Folclórico da Ilha Tupinambarana",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11405-justica-do-trabalho-firma-acordo-de-r-243-mil-entre-boi-garantido-e-trabalhadores-de-parintins",
+      "date": "2026-06-01",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "STF confirma entendimento do TST que beneficia comerciárias que amamentam",
+      "summary": "Decisão sobre espaços para amamentação em shopping centers reforça posição do TST de priorizar proteção à maternidade, à infância e ao mercado de trabalho da mulher",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11404-stf-confirma-entendimento-do-tst-que-beneficia-comerciarias-que-amamentam",
+      "date": "2026-06-01",
+      "category": "Trabalhista"
     }
   ]
 }

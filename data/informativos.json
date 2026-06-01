@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T05:15:34.361151+00:00",
-  "total": 8,
+  "updated_at": "2026-06-01T12:08:47.803557+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
@@ -20,51 +20,27 @@
     },
     {
       "tribunal": "STJ",
-      "title": "STJ sedia congresso sobre Estado de Direito e Ética Judicial",
-      "summary": "O encontro reunirá presidentes de cortes supremas, ministros e outros magistrados, especialistas e representantes de organismos internacionais das Américas, da África, da Ásia e da Europa.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30052026-STJ-sedia-congresso-sobre-Estado-de-Direito-e-Etica-Judicial.aspx",
+      "title": "Pesquisa Pronta destaca entendimento sobre usucapião de imóveis em liquidação extrajudicial",
+      "summary": "Pesquisa Pronta destaca entendimento sobre usucapião de imóveis em liquidação extrajudicial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Pesquisa-Pronta-destaca-entendimento-sobre-usucapiao-de-imoveis-em-liquidacao-extrajudicial.aspx",
       "date": "2026-06-01",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre responsabilidade civil por dano ambiental",
-      "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre responsabilidade civil por dano ambiental",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-responsabilidade-civil-por-dano-ambiental.aspx",
+      "title": "Extensão de sentença coletiva a servidores federais não domiciliados em Mato Grosso do Sul é tema de repetitivo",
+      "summary": "Extensão de sentença coletiva a servidores federais não domiciliados em Mato Grosso do Sul é tema de repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Extensao-de-sentenca-coletiva-a-servidores-federais-nao-domiciliados-em-Mato-Grosso-do-Sul-e-tema-de-repetitivo.aspx",
       "date": "2026-06-01",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
-      "summary": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Espaco-Cultural-STJ-inaugura-exposicao-do-fotografo-Araquem-Alcantara-na-segunda-feira--1o-.aspx",
+      "title": "Ex-policial que sofreu ataque homofóbico ao postar foto com namorado tem direito a indenização",
+      "summary": "A Terceira Turma considerou que o comentário publicado em rede social revelou intolerância ao sugerir que o ex-policial deveria ocultar sua orientação sexual durante o exercício da função.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Ex-policial-que-sofreu-ataque-homofobico-ao-postar-foto-com-namorado-tem-direito-a-indenizacao.aspx",
       "date": "2026-06-01",
       "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Justiça do Trabalho firma acordo de R$ 243 mil entre Boi Garantido e trabalhadores de Parintins",
-      "summary": "Compromisso reforça valorização dos que atuam no Festival Folclórico da Ilha Tupinambarana",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11405-justica-do-trabalho-firma-acordo-de-r-243-mil-entre-boi-garantido-e-trabalhadores-de-parintins",
-      "date": "2026-06-01",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "STF confirma entendimento do TST que beneficia comerciárias que amamentam",
-      "summary": "Decisão sobre espaços para amamentação em shopping centers reforça posição do TST de priorizar proteção à maternidade, à infância e ao mercado de trabalho da mulher",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11404-stf-confirma-entendimento-do-tst-que-beneficia-comerciarias-que-amamentam",
-      "date": "2026-06-01",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-06-01",
-      "category": "Trabalhista"
     }
   ]
 }

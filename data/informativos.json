@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-01T13:32:07.509645+00:00",
-  "total": 7,
+  "updated_at": "2026-06-01T18:15:44.219141+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Presidente do STF debate impactos da inteligência artificial em jornadas jurídicas no Rio de Janeiro",
+      "summary": "Ministro Edson Fachin destacou a necessidade de transparência, supervisão humana e proteção de direitos fundamentais no uso de sistemas de inteligência artificial",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-debate-impactos-da-inteligencia-artificial-em-jornadas-juridicas-no-rio-de-janeiro/",
+      "date": "2026-06-01",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Rádio Justiça: programa Regra do Jogo fala das normas de decoração de condomínios para a Copa do Mundo.",
@@ -11,50 +19,18 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Espaço para amamentação em shoppings para filhos de empregadas de lojas é destaque no Supremo na Semana",
-      "summary": "Episódio #192 está disponível nas principais plataformas de áudio e no Youtube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/espaco-para-amamentacao-em-shoppings-para-filhos-de-empregadas-de-lojas-e-destaque-no-supremo-na-semana/",
-      "date": "2026-06-01",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Pesquisa Pronta destaca entendimento sobre usucapião de imóveis em liquidação extrajudicial",
-      "summary": "Pesquisa Pronta destaca entendimento sobre usucapião de imóveis em liquidação extrajudicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Pesquisa-Pronta-destaca-entendimento-sobre-usucapiao-de-imoveis-em-liquidacao-extrajudicial.aspx",
-      "date": "2026-06-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Extensão de sentença coletiva a servidores federais não domiciliados em Mato Grosso do Sul é tema de repetitivo",
-      "summary": "Extensão de sentença coletiva a servidores federais não domiciliados em Mato Grosso do Sul é tema de repetitivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Extensao-de-sentenca-coletiva-a-servidores-federais-nao-domiciliados-em-Mato-Grosso-do-Sul-e-tema-de-repetitivo.aspx",
-      "date": "2026-06-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Ex-policial que sofreu ataque homofóbico ao postar foto com namorado tem direito a indenização",
-      "summary": "A Terceira Turma considerou que o comentário publicado em rede social revelou intolerância ao sugerir que o ex-policial deveria ocultar sua orientação sexual durante o exercício da função.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Ex-policial-que-sofreu-ataque-homofobico-ao-postar-foto-com-namorado-tem-direito-a-indenizacao.aspx",
-      "date": "2026-06-01",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho firma acordo de R$ 243 mil entre Boi Garantido e trabalhadores de Parintins",
-      "summary": "Compromisso reforça valorização dos que atuam no Festival Folclórico da Ilha Tupinambarana",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11405-justica-do-trabalho-firma-acordo-de-r-243-mil-entre-boi-garantido-e-trabalhadores-de-parintins",
+      "title": "Letramento racial: TRT-11 promove debate sobre equidade e combate ao racismo em Manacapuru",
+      "summary": "Realizado na Universidade Nilton Lins, evento reúne mais de 150 participantes.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11410-letramento-racial-trt-11-promove-debate-sobre-equidade-e-combate-ao-racismo-em-manacapuru",
       "date": "2026-06-01",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "STF confirma entendimento do TST que beneficia comerciárias que amamentam",
-      "summary": "Decisão sobre espaços para amamentação em shopping centers reforça posição do TST de priorizar proteção à maternidade, à infância e ao mercado de trabalho da mulher",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11404-stf-confirma-entendimento-do-tst-que-beneficia-comerciarias-que-amamentam",
+      "title": "TRT-11 orienta sobre novos procedimentos do TST para recursos de revista",
+      "summary": "As alterações foram promovidas pela Resolução nº 226/2026",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11409-trt-11-orienta-sobre-novos-procedimentos-do-tst-para-recursos-de-revista",
       "date": "2026-06-01",
       "category": "Trabalhista"
     }

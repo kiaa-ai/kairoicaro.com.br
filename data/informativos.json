@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-05-31T19:40:33.263910+00:00",
+  "updated_at": "2026-06-01T05:15:34.361151+00:00",
   "total": 8,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Rádio Justiça: programa Regra do Jogo fala das normas de decoração de condomínios para a Copa do Mundo.",
+      "summary": "Um bate-papo sobre transparência no serviço público também é um dos destaques desta segunda-feira (1º)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-o-programa-regra-do-jogo-fala-sobre-as-normas-para-decoracao-de-condominios-durante-a-copa-do-mundo/",
+      "date": "2026-06-01",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Espaço para amamentação em shoppings para filhos de empregadas de lojas é destaque no Supremo na Semana",
       "summary": "Episódio #192 está disponível nas principais plataformas de áudio e no Youtube",
       "url": "https://noticias.stf.jus.br/postsnoticias/espaco-para-amamentacao-em-shoppings-para-filhos-de-empregadas-de-lojas-e-destaque-no-supremo-na-semana/",
-      "date": "2026-05-31",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "PSOL aciona STF por falta de regulamentação para exploração de minerais estratégicos e terras raras",
-      "summary": "Legenda argumenta que Código de Mineração brasileiro não reflete as transformações atuais da economia tecnológica global",
-      "url": "https://noticias.stf.jus.br/postsnoticias/psol-aciona-stf-por-falta-de-regulamentacao-para-exploracao-de-minerais-estrategicos-e-terras-raras/",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "STJ sedia congresso sobre Estado de Direito e Ética Judicial",
       "summary": "O encontro reunirá presidentes de cortes supremas, ministros e outros magistrados, especialistas e representantes de organismos internacionais das Américas, da África, da Ásia e da Europa.",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30052026-STJ-sedia-congresso-sobre-Estado-de-Direito-e-Etica-Judicial.aspx",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Podcast STJ No Seu Dia aborda jurisprudência sobre responsabilidade civil por dano ambiental",
       "summary": "Podcast STJ No Seu Dia aborda jurisprudência sobre responsabilidade civil por dano ambiental",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Podcast-STJ-No-Seu-Dia-aborda-jurisprudencia-sobre-responsabilidade-civil-por-dano-ambiental.aspx",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
       "summary": "Espaço Cultural STJ inaugura exposição do fotógrafo Araquém Alcântara na segunda-feira (1º)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29052026-Espaco-Cultural-STJ-inaugura-exposicao-do-fotografo-Araquem-Alcantara-na-segunda-feira--1o-.aspx",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Justiça do Trabalho firma acordo de R$ 243 mil entre Boi Garantido e trabalhadores de Parintins",
       "summary": "Compromisso reforça valorização dos que atuam no Festival Folclórico da Ilha Tupinambarana",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11405-justica-do-trabalho-firma-acordo-de-r-243-mil-entre-boi-garantido-e-trabalhadores-de-parintins",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "STF confirma entendimento do TST que beneficia comerciárias que amamentam",
       "summary": "Decisão sobre espaços para amamentação em shopping centers reforça posição do TST de priorizar proteção à maternidade, à infância e ao mercado de trabalho da mulher",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11404-stf-confirma-entendimento-do-tst-que-beneficia-comerciarias-que-amamentam",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Trabalhista"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Ir para o conteúdo",
       "summary": "",
       "url": "https://www.tst.jus.br#content",
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "category": "Trabalhista"
     }
   ]

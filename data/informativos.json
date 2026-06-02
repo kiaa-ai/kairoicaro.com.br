@@ -1,53 +1,29 @@
 {
-  "updated_at": "2026-06-01T21:43:50.479251+00:00",
-  "total": 7,
+  "updated_at": "2026-06-02T05:00:11.068151+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF determina que União apresente em 90 dias plano de desintrusão da Terra Indígena Cachoeira Seca (PA)",
-      "summary": "Decisão do ministro Edson Fachin também impõe ao governo federal criação de comitê para proteção de povos indígenas isolados",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determinar-que-uniao-apresente-em-90-dias-plano-de-desintrusao-da-terra-indigena-cachoeira-seca-pa/",
-      "date": "2026-06-01",
+      "title": "Rádio Justiça: programa sobre os direitos trabalhistas das mães é um dos destaques desta terça-feira (2)",
+      "summary": "O programa A Hora do Maestro apresenta obras de Mikhail Glinga.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-os-direitos-trabalhistas-das-maes-e-um-dos-destaques-desta-terca-feira-2/",
+      "date": "2026-06-02",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF cassa decisão que determinava ‘adequação’ de reportagem sobre indiciamento de dentistas",
-      "summary": "Segundo ministro Flávio Dino, determinação judicial violou entendimento do STF que veda a censura prévia à imprensa",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-cassa-decisao-que-determinava-adequacao-de-reportagem-sobre-indiciamento-de-dentistas/",
-      "date": "2026-06-01",
+      "title": "PSOL questiona no STF trechos da LDO de 2026 sobre repasses e regras eleitorais",
+      "summary": "Partido alega violação às regras de responsabilidade fiscal e à legislação eleitoral",
+      "url": "https://noticias.stf.jus.br/postsnoticias/psol-questiona-no-stf-trechos-da-ldo-de-2026-sobre-repasses-e-regras-eleitorais/",
+      "date": "2026-06-02",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "TJRJ sediou reunião de Cortes sobre processo de atualização dos Princípios de Bangalore de Conduta Judicial",
-      "summary": "TJRJ sediou reunião de Cortes sobre processo de atualização dos Princípios de Bangalore de Conduta Judicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-TJRJ-sediou-reuniao-de-Cortes-sobre-processo-de-atualizacao-dos-Principios-de-Bangalore-de-Conduta-Judicial.aspx",
-      "date": "2026-06-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Congresso recebe magistrados de 23 Cortes estrangeiras para debater Estado de Direito e ética judicial",
-      "summary": "Participantes do Congresso Internacional Estado de Direito e Ética Judicial, que começou nesta segunda-feira (1º), reunidos no Salão de Recepções do STJ.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Congresso-internacional-reune-magistrados-de-diversos-paises-para-debater-Estado-de-Direito-e-etica-judicial.aspx",
-      "date": "2026-06-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Pesquisa Pronta destaca entendimento sobre usucapião de imóveis em liquidação extrajudicial",
-      "summary": "Pesquisa Pronta destaca entendimento sobre usucapião de imóveis em liquidação extrajudicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-Pesquisa-Pronta-destaca-entendimento-sobre-usucapiao-de-imoveis-em-liquidacao-extrajudicial.aspx",
-      "date": "2026-06-01",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Ejud-11 busca valorizar autores amazonenses e ampliar o acesso à leitura sobre a Amazônia",
       "summary": "Com o objetivo de fortalecer e expandir, por meio de doações bibliográficas, a coleção “Amazoniana”, um acervo especializado da Biblioteca Donaldo Jaña, dedicado à preservação e difusão do conhecimento sobre a Amazônia, a Escola Judicial (Ejud) do Tribunal Regional do Trabalho da 11ª Região (AM/RR) ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11411-ejud-11-busca-valorizar-autores-amazonenses-e-ampliar-o-acesso-a-leitura-sobre-a-amazonia",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +31,15 @@
       "title": "Letramento racial: TRT-11 promove debate sobre equidade e combate ao racismo em Manacapuru",
       "summary": "Realizado na Universidade Nilton Lins, evento reúne mais de 150 participantes.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11410-letramento-racial-trt-11-promove-debate-sobre-equidade-e-combate-ao-racismo-em-manacapuru",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-06-02",
       "category": "Trabalhista"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T10:54:28.161150+00:00",
-  "total": 5,
+  "updated_at": "2026-06-02T12:01:00.989800+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -19,6 +19,30 @@
       "category": "Constitucional"
     },
     {
+      "tribunal": "STJ",
+      "title": "Informativo destaca isenção de ICMS na aquisição de veículos por pessoas com visão monocular",
+      "summary": "Informativo destaca isenção de ICMS na aquisição de veículos por pessoas com visão monocular",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Informativo-destaca-isencao-de-ICMS-na-aquisicao-de-veiculos-por-pessoas-com-visao-monocular.aspx",
+      "date": "2026-06-02",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Primeira Turma decide que falta de divulgação do espelho em prova oral para a magistratura não é ilegal",
+      "summary": "Primeira Turma decide que falta de divulgação do espelho em prova oral para a magistratura não é ilegal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Primeira-Turma-decide-que-falta-de-divulgacao-do-espelho-em-prova-oral-para-a-magistratura-nao-e-ilegal.aspx",
+      "date": "2026-06-02",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "TJRJ sediou reunião de Cortes sobre processo de atualização dos Princípios de Bangalore de Conduta Judicial",
+      "summary": "TJRJ sediou reunião de Cortes sobre processo de atualização dos Princípios de Bangalore de Conduta Judicial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-TJRJ-sediou-reuniao-de-Cortes-sobre-processo-de-atualizacao-dos-Principios-de-Bangalore-de-Conduta-Judicial.aspx",
+      "date": "2026-06-02",
+      "category": "Jurisprudencia"
+    },
+    {
       "tribunal": "TRT11",
       "title": "Ejud-11 busca valorizar autores amazonenses e ampliar o acesso à leitura sobre a Amazônia",
       "summary": "Com o objetivo de fortalecer e expandir, por meio de doações bibliográficas, a coleção “Amazoniana”, um acervo especializado da Biblioteca Donaldo Jaña, dedicado à preservação e difusão do conhecimento sobre a Amazônia, a Escola Judicial (Ejud) do Tribunal Regional do Trabalho da 11ª Região (AM/RR) ",
@@ -31,14 +55,6 @@
       "title": "Letramento racial: TRT-11 promove debate sobre equidade e combate ao racismo em Manacapuru",
       "summary": "Realizado na Universidade Nilton Lins, evento reúne mais de 150 participantes.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11410-letramento-racial-trt-11-promove-debate-sobre-equidade-e-combate-ao-racismo-em-manacapuru",
-      "date": "2026-06-02",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-02",
       "category": "Trabalhista"
     }

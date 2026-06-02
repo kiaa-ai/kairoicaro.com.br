@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-02T12:01:00.989800+00:00",
-  "total": 7,
+  "updated_at": "2026-06-02T16:54:35.941905+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF invalida regra que obrigava seguradoras a aplicar recursos em créditos de carbono",
+      "summary": "Plenário concluiu que norma violou o princípio da livre iniciativa e instituiu ônus sobre entidades que não são as maiores contribuintes para a emissão de gases de efeito estufa",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-regra-que-obrigava-seguradoras-a-aplicar-recursos-em-creditos-de-carbono/",
+      "date": "2026-06-02",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Rádio Justiça: programa sobre os direitos trabalhistas das mães é um dos destaques desta terça-feira (2)",
@@ -11,50 +19,18 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "PSOL questiona no STF trechos da LDO de 2026 sobre repasses e regras eleitorais",
-      "summary": "Partido alega violação às regras de responsabilidade fiscal e à legislação eleitoral",
-      "url": "https://noticias.stf.jus.br/postsnoticias/psol-questiona-no-stf-trechos-da-ldo-de-2026-sobre-repasses-e-regras-eleitorais/",
+      "tribunal": "TRT11",
+      "title": "Nove municípios do Amazonas e dois de Roraima receberão atendimentos da Justiça Itinerante no mês de junho",
+      "summary": "População terá a chance de tirar dúvidas e receber orientações sobre seus direitos como trabalhador",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11413-nove-municipios-do-amazonas-e-dois-de-roraima-receberao-atendimentos-da-justica-itinerante-no-mes-de-junho",
       "date": "2026-06-02",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Informativo destaca isenção de ICMS na aquisição de veículos por pessoas com visão monocular",
-      "summary": "Informativo destaca isenção de ICMS na aquisição de veículos por pessoas com visão monocular",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Informativo-destaca-isencao-de-ICMS-na-aquisicao-de-veiculos-por-pessoas-com-visao-monocular.aspx",
-      "date": "2026-06-02",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Primeira Turma decide que falta de divulgação do espelho em prova oral para a magistratura não é ilegal",
-      "summary": "Primeira Turma decide que falta de divulgação do espelho em prova oral para a magistratura não é ilegal",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Primeira-Turma-decide-que-falta-de-divulgacao-do-espelho-em-prova-oral-para-a-magistratura-nao-e-ilegal.aspx",
-      "date": "2026-06-02",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "TJRJ sediou reunião de Cortes sobre processo de atualização dos Princípios de Bangalore de Conduta Judicial",
-      "summary": "TJRJ sediou reunião de Cortes sobre processo de atualização dos Princípios de Bangalore de Conduta Judicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01062026-TJRJ-sediou-reuniao-de-Cortes-sobre-processo-de-atualizacao-dos-Principios-de-Bangalore-de-Conduta-Judicial.aspx",
-      "date": "2026-06-02",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Ejud-11 busca valorizar autores amazonenses e ampliar o acesso à leitura sobre a Amazônia",
       "summary": "Com o objetivo de fortalecer e expandir, por meio de doações bibliográficas, a coleção “Amazoniana”, um acervo especializado da Biblioteca Donaldo Jaña, dedicado à preservação e difusão do conhecimento sobre a Amazônia, a Escola Judicial (Ejud) do Tribunal Regional do Trabalho da 11ª Região (AM/RR) ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11411-ejud-11-busca-valorizar-autores-amazonenses-e-ampliar-o-acesso-a-leitura-sobre-a-amazonia",
-      "date": "2026-06-02",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Letramento racial: TRT-11 promove debate sobre equidade e combate ao racismo em Manacapuru",
-      "summary": "Realizado na Universidade Nilton Lins, evento reúne mais de 150 participantes.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11410-letramento-racial-trt-11-promove-debate-sobre-equidade-e-combate-ao-racismo-em-manacapuru",
       "date": "2026-06-02",
       "category": "Trabalhista"
     }

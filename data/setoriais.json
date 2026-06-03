@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-02T12:01:04.483895+00:00",
+  "updated_at": "2026-06-03T12:38:50.911050+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "3.jun.2026Demarest Advogados é reconhecido como \"Great Place to Work\"Reconhecimento, que é um indicador de ambiente de trabalho do escritório, reflete a avaliação dos colaboradores sobre a cultura interna, baseada em confiança, colaboração e integração entre equipes.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-03",
+      "url": "https://www.migalhas.com.br/quentes/457379/demarest-advogados-e-reconhecido-como-great-place-to-work"
+    },
+    {
+      "setor": "ambiental",
+      "title": "3.jun.2026OAB/RO afasta advogado por suposto uso de prompt injection em petiçãoMedida cautelar foi adotada após juiz identificar inserções com potencial de influenciar ferramentas de inteligência artificial.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-03",
+      "url": "https://www.migalhas.com.br/quentes/457383/oab-ro-afasta-advogado-por-suposto-uso-de-prompt-injection-em-peticao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "3.jun.2026Executivo jurídico da Vale critica ações no exterior envolvendo casos brasileirosSami Arap afirmou que ações internacionais contra empresas brasileiras levantam debate sobre soberania e segurança jurídica.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-03",
+      "url": "https://www.migalhas.com.br/quentes/457313/executivo-da-vale-critica-acoes-no-exterior-sobre-casos-brasileiros"
+    },
+    {
+      "setor": "empresarial",
+      "title": "3.jun.2026Comissão da OAB/SP alerta para impactos de decisão da CVMA ordem aponta possíveis efeitos sobre governança corporativa, previsibilidade regulatória e confiança de investidores.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-03",
+      "url": "https://www.migalhas.com.br/quentes/457306/comissao-da-oab-sp-alerta-para-impactos-de-decisao-da-cvm"
+    },
+    {
+      "setor": "empresarial",
+      "title": "3.jun.2026Podcast da M2 Comunicação Jurídica debate compliance e reputaçãoFernando Moreira debate comunicação jurídica, autoridade e os riscos da exposição pública sem estratégia.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-03",
+      "url": "https://www.migalhas.com.br/quentes/457308/podcast-da-m2-comunicacao-juridica-debate-compliance-e-reputacao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.jun.2026STJ julga se falta de intimação do MP como custos legis gera nulidadePara Gurgel de Faria, intimação é obrigatória mesmo quando o órgão atua como parte da ação, mas ausência só gera nulidade mediante comprovação de prejuízo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-03",
+      "url": "https://www.migalhas.com.br/quentes/457367/stj-julga-se-falta-de-intimacao-do-mp-como-custos-legis-gera-nulidade"
+    },
     {
       "setor": "empresarial",
       "title": "2.jun.2026IA desafia juízes na análise de prova de fraudes digitais, diz professor da UERJMarco Antonio Rodrigues destacou que avanço das fraudes com inteligência artificial exige novas formas de prova, cooperação técnica e transparência no uso de algoritmos.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-01",
       "url": "https://www.migalhas.com.br/quentes/457164/noronha-defende-regulamentar-jogos-no-brasil-mas-e-contra-bets"
-    },
-    {
-      "setor": "empresarial",
-      "title": "1.jun.2026Advogado e sobrinha de incapaz devem restituir após desvio de valor de açãoTJ/SP reconheceu participação na fraude e manteve restituição de R$ 81 mil e indenização por danos morais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-01",
-      "url": "https://www.migalhas.com.br/quentes/457147/advogado-e-sobrinha-de-incapaz-pagarao-apos-desvio-de-valor-de-acao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "1.jun.2026Alexandre de Moraes defende regulação internacional de big techsMinistro do STF afirmou que algoritmos e empresas de tecnologia não são neutros e defendeu regras que preservem a liberdade de expressão, a democracia e a dignidade da pessoa humana.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-01",
-      "url": "https://www.migalhas.com.br/quentes/457149/alexandre-de-moraes-defende-regulacao-internacional-de-big-techs"
-    },
-    {
-      "setor": "ambiental",
-      "title": "31.mai.2026Estácio indenizará aluna negativada por encargo cobrado após sair de cursoA estudante foi negativada após cancelar a matrícula em razão de cobrança lançada sob a rubrica \"DIS - Diluição Solidária\"; TJ/SP considerou o débito inexigível e reconheceu dano moral presumido.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-31",
-      "url": "https://www.migalhas.com.br/quentes/456706/estacio-indenizara-aluna-negativada-por-cobranca-apos-sair-de-curso"
-    },
-    {
-      "setor": "ambiental",
-      "title": "30.mai.2026Juiz barra PAD por abandono de cargo contra servidora licenciada nos EUAMagistrado manteve vínculo funcional de agente comunitária de saúde que pediu extensão de licença para concluir graduação no exterior.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-31",
-      "url": "https://www.migalhas.com.br/quentes/456674/juiz-barra-pad-por-abandono-contra-servidora-licenciada-nos-eua"
-    },
-    {
-      "setor": "ambiental",
-      "title": "30.mai.2026Plano deve realocar terapia de criança com TEA feita em antiga funeráriaJuíza determinou tratamento ABA em clínica mais próxima da casa da paciente.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-31",
-      "url": "https://www.migalhas.com.br/quentes/457131/plano-deve-mudar-terapia-de-crianca-com-tea-feita-em-antiga-funeraria"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.mai.2026Homem será indenizado após comprar PlayStation 4 e não receberTJ/SP entendeu que transtornos sofridos após compra frustrada superaram mero aborrecimento.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-05-31",
-      "url": "https://www.migalhas.com.br/quentes/456765/homem-sera-indenizado-apos-comprar-playstation-4-e-nao-receber"
     }
   ]
 }

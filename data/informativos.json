@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T05:16:31.922141+00:00",
-  "total": 4,
+  "updated_at": "2026-06-03T11:22:18.815490+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-aposentadoria-especial-por-insalubridade-e-um-dos-destaques-desta-quarta-feira-3/",
       "date": "2026-06-03",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Pesquisa Pronta destaca natureza do prazo para indicação de assistente técnico e definição de quesitos",
+      "summary": "Pesquisa Pronta destaca natureza do prazo para indicação de assistente técnico e definição de quesitos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Pesquisa-Pronta-destaca-natureza-do-prazo-para-indicacao-de-assistente-tecnico-e-definicao-de-quesitos-.aspx",
+      "date": "2026-06-03",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Motoristas e cobradores: STJ permite reconhecimento de aposentadoria especial por trabalho penoso",
+      "summary": "O reconhecimento do tempo especial para motorista/cobrador de ônibus e motorista de caminhão após a Lei 9.032/1995 depende de perícia que comprove exposição a condições de desgaste para a saúde.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Motoristas-e-cobradores-STJ-permite-reconhecimento-de-aposentadoria-especial-por-trabalho-penoso.aspx",
+      "date": "2026-06-03",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ conclui evento inédito sobre Estado de Direito e Ética Judicial",
+      "summary": "STJ conclui evento inédito sobre Estado de Direito e Ética Judicial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-STJ-conclui-evento-inedito-sobre-Estado-de-Direito-e-Etica-Judicial.aspx",
+      "date": "2026-06-03",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

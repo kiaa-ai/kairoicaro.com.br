@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-03T12:38:46.850294+00:00",
+  "updated_at": "2026-06-03T17:17:03.436257+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quarta-feira (3)",
+      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-3-2/",
+      "date": "2026-06-03",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Dia de Corpus Christi altera expediente no STF",
@@ -11,12 +19,12 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Confederação de saúde leva ao STF discussão sobre inclusão de riscos psicossociais no trabalho na NR-1",
-      "summary": "CNSaúde sustenta que a norma do Ministério do Trabalho e Emprego não define critérios claros para empresas e fiscalizadores",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-de-saude-leva-ao-stf-discussao-sobre-inclusao-de-riscos-psicossociais-no-trabalho-na-nr-1/",
+      "tribunal": "STJ",
+      "title": "Nova edição de Jurisprudência em Teses traz entendimentos sobre prova digital e dados estáticos de conexão",
+      "summary": "Nova edição de Jurisprudência em Teses traz entendimentos sobre prova digital e dados estáticos de conexão",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Nova-edicao-de-Jurisprudencia-em-Teses-traz-entendimentos-sobre-prova-digital-e-dados-estaticos-de-conexao.aspx",
       "date": "2026-06-03",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,26 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Pesquisa Pronta destaca natureza do prazo para indicação de assistente técnico e definição de quesitos",
-      "summary": "Pesquisa Pronta destaca natureza do prazo para indicação de assistente técnico e definição de quesitos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Pesquisa-Pronta-destaca-natureza-do-prazo-para-indicacao-de-assistente-tecnico-e-definicao-de-quesitos-.aspx",
-      "date": "2026-06-03",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho valida acordo entre empresa e família de trabalhador morto em acidente em fábrica de Manaus",
-      "summary": "Conciliação foi homologada na 13ª Vara do Trabalho de Manaus e resolve processo em apenas três meses",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11414-justica-do-trabalho-valida-acordo-entre-empresa-e-familia-de-trabalhador-morto-em-acidente-em-fabrica-de-manaus",
+      "title": "Expediente do TRT-11 ficará suspenso nos dias 4 e 5 de junho",
+      "summary": "Somente casos urgentes serão apreciados no plantão judiciário",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11416-expediente-do-trt-11-ficara-suspenso-nos-dias-4-e-5-de-junho",
       "date": "2026-06-03",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Nove municípios do Amazonas e dois de Roraima receberão atendimentos da Justiça Itinerante no mês de junho",
-      "summary": "População terá a chance de tirar dúvidas e receber orientações sobre seus direitos como trabalhador",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11413-nove-municipios-do-amazonas-e-dois-de-roraima-receberao-atendimentos-da-justica-itinerante-no-mes-de-junho",
+      "title": "Metas nacionais da Justiça do Trabalho: consulta pública se encerra na próxima sexta-feira (5)",
+      "summary": "A Justiça do Trabalho promove, até sexta-feira (5), a Consulta Pública para Metas Nacionais de 2027. O objetivo é coletar a opinião de quem usa os serviços de Varas, Fóruns e Tribunais do Trabalho em todo o país para a elaboração das metas nacionais da instituição para o próximo ano.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11415-metas-nacionais-da-justica-do-trabalho-consulta-publica-se-encerra-na-proxima-sexta-feira-5",
       "date": "2026-06-03",
       "category": "Trabalhista"
     }

@@ -1,5 +1,38 @@
 {
-  "updated_at": "2026-06-02T21:23:43.340762+00:00",
-  "total": 0,
-  "items": []
+  "updated_at": "2026-06-03T05:16:31.922141+00:00",
+  "total": 4,
+  "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confederação de saúde leva ao STF discussão sobre inclusão de riscos psicossociais no trabalho na NR-1",
+      "summary": "CNSaúde sustenta que a norma do Ministério do Trabalho e Emprego não define critérios claros para empresas e fiscalizadores",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-de-saude-leva-ao-stf-discussao-sobre-inclusao-de-riscos-psicossociais-no-trabalho-na-nr-1/",
+      "date": "2026-06-03",
+      "category": "Constitucional"
+    },
+    {
+      "tribunal": "STF",
+      "title": "Rádio Justiça: aposentadoria especial por insalubridade é destaque nesta quarta-feira (3)",
+      "summary": "Programação traz ainda conversa com autor do livro “O crime que aprende”",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-aposentadoria-especial-por-insalubridade-e-um-dos-destaques-desta-quarta-feira-3/",
+      "date": "2026-06-03",
+      "category": "Constitucional"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho valida acordo entre empresa e família de trabalhador morto em acidente em fábrica de Manaus",
+      "summary": "Conciliação foi homologada na 13ª Vara do Trabalho de Manaus e resolve processo em apenas três meses",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11414-justica-do-trabalho-valida-acordo-entre-empresa-e-familia-de-trabalhador-morto-em-acidente-em-fabrica-de-manaus",
+      "date": "2026-06-03",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Nove municípios do Amazonas e dois de Roraima receberão atendimentos da Justiça Itinerante no mês de junho",
+      "summary": "População terá a chance de tirar dúvidas e receber orientações sobre seus direitos como trabalhador",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11413-nove-municipios-do-amazonas-e-dois-de-roraima-receberao-atendimentos-da-justica-itinerante-no-mes-de-junho",
+      "date": "2026-06-03",
+      "category": "Trabalhista"
+    }
+  ]
 }

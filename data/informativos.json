@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-05T11:23:46.255924+00:00",
-  "total": 4,
+  "updated_at": "2026-06-05T15:27:36.216025+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Dia Mundial do Meio Ambiente: decisões do STF fortalecem proteção ambiental no Brasil",
-      "summary": "De fundos climáticos ao combate ao desmatamento e ao garimpo ilegal, julgamentos da Corte consolidaram a proteção ambiental como dever constitucional do Estado brasileiro",
-      "url": "https://noticias.stf.jus.br/postsnoticias/dia-mundial-do-meio-ambiente-decisoes-do-stf-fortalecem-protecao-ambiental-no-brasil/",
+      "title": "135 anos do STF: como a Corte resolveu disputas jurídicas do futebol",
+      "summary": "Série “Tá na Nossa História” revisita primórdios da Corte, marcos institucionais, evolução de competências e seu papel na consolidação da República, da democracia e dos direitos fundamentais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/135-anos-do-stf-como-a-corte-resolveu-disputas-juridicas-do-futebol/",
       "date": "2026-06-05",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Nota de Esclarecimento",
-      "summary": "",
-      "url": "https://noticias.stf.jus.br/postsnoticias/nota-de-esclarecimento-7/",
+      "title": "TV Justiça estreia série ´Conhecendo o STF´ neste sábado (6)",
+      "summary": "No primeiro episódio serão apresentados os caminhos, as competências e os desafios do guardião da Constituição",
+      "url": "https://noticias.stf.jus.br/postsnoticias/tv-justica-estreia-serie-conhecendo-o-stf-neste-sabado-6/",
       "date": "2026-06-05",
       "category": "Constitucional"
     },
@@ -31,6 +31,14 @@
       "title": "Metas nacionais da Justiça do Trabalho: consulta pública se encerra na próxima sexta-feira (5)",
       "summary": "A Justiça do Trabalho promove, até sexta-feira (5), a Consulta Pública para Metas Nacionais de 2027. O objetivo é coletar a opinião de quem usa os serviços de Varas, Fóruns e Tribunais do Trabalho em todo o país para a elaboração das metas nacionais da instituição para o próximo ano.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11415-metas-nacionais-da-justica-do-trabalho-consulta-publica-se-encerra-na-proxima-sexta-feira-5",
+      "date": "2026-06-05",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-05",
       "category": "Trabalhista"
     }

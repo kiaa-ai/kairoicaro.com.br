@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-04T10:58:21.837604+00:00",
+  "updated_at": "2026-06-05T11:24:03.765105+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026Prompt injection: Justiça mantém suspensão de advogada da OAB/PACausídica foi afastada por 30 dias após repercussão nacional do caso envolvendo manipulação de sistemas de IA",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-05",
+      "url": "https://www.migalhas.com.br/quentes/457481/prompt-injection-justica-mantem-suspensao-de-advogada-da-oab-pa"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026CNJ regulamenta nova plataforma para ordens de restrição e penhora de imóveisUso do sistema será obrigatório e deverá alcançar todos os tribunais brasileiros até agosto.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-05",
+      "url": "https://www.migalhas.com.br/quentes/457478/cnj-regulamenta-sistema-para-ordem-de-restricao-e-penhora-de-imoveis"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026Sorteio da obra \"ITCMD Doutrina e Prática\"A publicação analisa o ITCMD à luz da LC 227/26, com enfoque em doutrina, jurisprudência e legislação do Estado de São Paulo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-05",
+      "url": "https://www.migalhas.com.br/quentes/457151/sorteio-da-obra-itcmd-doutrina-e-pratica"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026EBRADI lança campanha \"Uma Camisa do Torcedor por Dia\"A campanha vai premiar diariamente novos alunos de pós-graduação com camisas oficiais, valorizando quem investe na formação profissional.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-05",
+      "url": "https://www.migalhas.com.br/quentes/457449/ebradi-lanca-campanha-uma-camisa-do-torcedor-por-dia"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026Tartaruga e pato, Pix na mira dos EUA e Fórum de Lisboa no Minuto MigalhasVeja os assuntos da semana no mundo jurídico.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-05",
+      "url": "https://www.migalhas.com.br/quentes/457464/tartaruga-e-pato-pix-na-mira-e-forum-de-lisboa-no-minuto-migalhas"
+    },
+    {
+      "setor": "varejo",
+      "title": "4.jun.2026Justiça suspende cobrança de dívida rural após perdas climáticasJuiz também proibiu negativação e medidas constritivas contra produtor rural durante tramitação da ação.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-05",
+      "url": "https://www.migalhas.com.br/quentes/457051/justica-suspende-cobranca-de-divida-rural-apos-perdas-climaticas"
+    },
     {
       "setor": "empresarial",
       "title": "4.jun.2026Cármen suspende retorno de criança ao Reino Unido por indício de violência domésticaMinistra considerou necessário aprofundar análise de alegações de violência doméstica antes do cumprimento da ordem de repatriação.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-03",
       "url": "https://www.migalhas.com.br/quentes/457313/executivo-da-vale-critica-acoes-no-exterior-sobre-casos-brasileiros"
-    },
-    {
-      "setor": "empresarial",
-      "title": "3.jun.2026Comissão da OAB/SP alerta para impactos de decisão da CVMA ordem aponta possíveis efeitos sobre governança corporativa, previsibilidade regulatória e confiança de investidores.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-03",
-      "url": "https://www.migalhas.com.br/quentes/457306/comissao-da-oab-sp-alerta-para-impactos-de-decisao-da-cvm"
-    },
-    {
-      "setor": "empresarial",
-      "title": "3.jun.2026Podcast da M2 Comunicação Jurídica debate compliance e reputaçãoFernando Moreira debate comunicação jurídica, autoridade e os riscos da exposição pública sem estratégia.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-03",
-      "url": "https://www.migalhas.com.br/quentes/457308/podcast-da-m2-comunicacao-juridica-debate-compliance-e-reputacao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "2.jun.2026STJ julga se falta de intimação do MP como custos legis gera nulidadePara Gurgel de Faria, intimação é obrigatória mesmo quando o órgão atua como parte da ação, mas ausência só gera nulidade mediante comprovação de prejuízo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-03",
-      "url": "https://www.migalhas.com.br/quentes/457367/stj-julga-se-falta-de-intimacao-do-mp-como-custos-legis-gera-nulidade"
-    },
-    {
-      "setor": "empresarial",
-      "title": "2.jun.2026IA desafia juízes na análise de prova de fraudes digitais, diz professor da UERJMarco Antonio Rodrigues destacou que avanço das fraudes com inteligência artificial exige novas formas de prova, cooperação técnica e transparência no uso de algoritmos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-02",
-      "url": "https://www.migalhas.com.br/quentes/457256/ia-desafia-juizes-em-provas-de-fraudes-digitais-diz-professor-da-uerj"
-    },
-    {
-      "setor": "empresarial",
-      "title": "2.jun.2026IA, regulação digital e comunicação marcam segundo dia do XIV Fórum de LisboaMinistros, parlamentares, juristas e especialistas reúnem-se para discutir desafios da transformação tecnológica, eleições, proteção de crianças na internet e economia digital",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-02",
-      "url": "https://www.migalhas.com.br/quentes/457261/ia-regulacao-digital-e-comunicacao-marcam-2-dia-do-forum-de-lisboa"
-    },
-    {
-      "setor": "empresarial",
-      "title": "2.jun.2026STJ reúne magistrados de 23 Cortes internacionais para debater Ética e Estado de DireitoDebates reuniram integrantes de cortes superiores e especialistas em torno dos rumos da Justiça contemporânea.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-02",
-      "url": "https://www.migalhas.com.br/quentes/457258/stj-reune-magistrados-de-23-cortes-internacionais-para-debater-etica"
     }
   ]
 }

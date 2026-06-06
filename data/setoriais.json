@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-05T11:24:03.765105+00:00",
+  "updated_at": "2026-06-06T09:59:35.852259+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "ambiental",
+      "title": "5.jun.2026Saúde: Beneficiários conseguem portabilidade sem nova carênciaJuíza entendeu que crise da operadora de origem autoriza aplicação da portabilidade extraordinária prevista pela agência reguladora.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-06",
+      "url": "https://www.migalhas.com.br/quentes/457152/saude-beneficiarios-conseguem-portabilidade-sem-nova-carencia"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026Jovem que perdeu braço por ataque de tubarão em Pernambuco não será indenizadaMagistrada concluiu que vítima assumiu o risco ao entrar no mar em área sabidamente perigosa.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-06",
+      "url": "https://www.migalhas.com.br/quentes/457488/jovem-que-perdeu-braco-por-ataque-de-tubarao-nao-sera-indenizada"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026Gol terá de indenizar passageiros por atraso de 8 horas em vooColegiado reconheceu falha na prestação do serviço e ausência de assistência material adequada.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-06",
+      "url": "https://www.migalhas.com.br/quentes/457084/gol-tera-de-indenizar-passageiros-por-atraso-de-8-horas-em-voo"
+    },
+    {
+      "setor": "varejo",
+      "title": "5.jun.2026Justiça vê venda casada e anula seguros vinculados a crédito ruralJuiz concluiu que banco não comprovou ter oferecido ao produtor a possibilidade de escolher outra seguradora.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-06",
+      "url": "https://www.migalhas.com.br/quentes/457070/justica-ve-venda-casada-e-anula-seguros-vinculados-a-credito-rural"
+    },
+    {
+      "setor": "empresarial",
+      "title": "5.jun.2026FGV Direito Rio lança obra sobre soberania digital e IA no BrasilPublicação do CTS-FGV reúne análises sobre cibersegurança, transformação digital e políticas públicas para fortalecimento da governança digital.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-06",
+      "url": "https://www.migalhas.com.br/quentes/457441/fgv-direito-rio-lanca-obra-sobre-soberania-digital-e-ia-no-brasil"
+    },
+    {
+      "setor": "ambiental",
+      "title": "5.jun.2026Justiça manda prender jornalista perseguido por Carla ZambelliMedida foi determinada após descumprimento do pagamento de valores em ação por difamação contra a ex-deputada.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-06",
+      "url": "https://www.migalhas.com.br/quentes/457486/justica-manda-prender-jornalista-perseguido-por-carla-zambelli"
+    },
     {
       "setor": "empresarial",
       "title": "5.jun.2026Prompt injection: Justiça mantém suspensão de advogada da OAB/PACausídica foi afastada por 30 dias após repercussão nacional do caso envolvendo manipulação de sistemas de IA",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-04",
       "url": "https://www.migalhas.com.br/quentes/457470/stj-analisa-honorarios-em-execucao-que-exclui-socio-do-polo-passivo"
-    },
-    {
-      "setor": "ambiental",
-      "title": "3.jun.2026STJ mantém modulação de tese que retirou teto das contribuições ao Sistema SCorte Especial negou recurso da Fazenda contra decisão que inadmitiu embargos de divergência sobre a modulação fixada pela 1ª seção no Tema 1.079.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-04",
-      "url": "https://www.migalhas.com.br/quentes/457457/stj-mantem-modulacao-de-tese-sobre-teto-das-contribuicoes-ao-sistema-s"
-    },
-    {
-      "setor": "varejo",
-      "title": "3.jun.2026STJ anula homologação de sentença estrangeira em ação de alimentos com citação por editalCorte Especial concluiu que não foram esgotadas as diligências para localizar o alimentante antes da adoção da medida excepcional.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-04",
-      "url": "https://www.migalhas.com.br/quentes/457459/stj-anula-homologacao-de-sentenca-estrangeira-com-citacao-por-edital"
-    },
-    {
-      "setor": "empresarial",
-      "title": "3.jun.2026STF julga expurgos inflacionários na correção monetária de depósitos judiciaisCorte examina entendimento adotado pelo STJ sobre o tema; análise será retomada em sessão futura.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-04",
-      "url": "https://www.migalhas.com.br/quentes/457466/stf-julga-expurgos-inflacionarios-na-correcao-de-depositos-judiciais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "3.jun.2026Demarest Advogados é reconhecido como \"Great Place to Work\"Reconhecimento, que é um indicador de ambiente de trabalho do escritório, reflete a avaliação dos colaboradores sobre a cultura interna, baseada em confiança, colaboração e integração entre equipes.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-03",
-      "url": "https://www.migalhas.com.br/quentes/457379/demarest-advogados-e-reconhecido-como-great-place-to-work"
-    },
-    {
-      "setor": "ambiental",
-      "title": "3.jun.2026OAB/RO afasta advogado por suposto uso de prompt injection em petiçãoMedida cautelar foi adotada após juiz identificar inserções com potencial de influenciar ferramentas de inteligência artificial.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-03",
-      "url": "https://www.migalhas.com.br/quentes/457383/oab-ro-afasta-advogado-por-suposto-uso-de-prompt-injection-em-peticao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "3.jun.2026Executivo jurídico da Vale critica ações no exterior envolvendo casos brasileirosSami Arap afirmou que ações internacionais contra empresas brasileiras levantam debate sobre soberania e segurança jurídica.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-03",
-      "url": "https://www.migalhas.com.br/quentes/457313/executivo-da-vale-critica-acoes-no-exterior-sobre-casos-brasileiros"
     }
   ]
 }

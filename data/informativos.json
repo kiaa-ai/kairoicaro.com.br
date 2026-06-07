@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T04:55:38.441101+00:00",
-  "total": 4,
+  "updated_at": "2026-06-07T09:35:42.925961+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/tv-justica-estreia-serie-conhecendo-o-stf-neste-sabado-6/",
       "date": "2026-06-07",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nova edição de Jurisprudência em Teses traz entendimentos sobre prova digital e dados estáticos de conexão",
+      "summary": "Nova edição de Jurisprudência em Teses traz entendimentos sobre prova digital e dados estáticos de conexão",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Nova-edicao-de-Jurisprudencia-em-Teses-traz-entendimentos-sobre-prova-digital-e-dados-estaticos-de-conexao.aspx",
+      "date": "2026-06-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos inclui julgados sobre legitimidade da função “teimosinha” em execuções fiscais",
+      "summary": "Página de Repetitivos inclui julgados sobre legitimidade da função “teimosinha” em execuções fiscais",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Pagina-de-Repetitivos-inclui-julgados-sobre-legitimidade-da-funcao-“teimosinha”-em-execucoes-fiscais.aspx",
+      "date": "2026-06-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia discute jurisprudência sobre provas digitais no processo penal",
+      "summary": "Podcast STJ No Seu Dia discute jurisprudência sobre provas digitais no processo penal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03062026-Podcast-STJ-No-Seu-Dia-discute-jurisprudencia-sobre-provas-digitais-no-processo-penal.aspx",
+      "date": "2026-06-07",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

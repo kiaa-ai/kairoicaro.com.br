@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T14:19:41.531905+00:00",
-  "total": 4,
+  "updated_at": "2026-06-07T19:46:22.269964+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
@@ -31,6 +31,14 @@
       "title": "Metas nacionais da Justiça do Trabalho: consulta pública se encerra na próxima sexta-feira (5)",
       "summary": "A Justiça do Trabalho promove, até sexta-feira (5), a Consulta Pública para Metas Nacionais de 2027. O objetivo é coletar a opinião de quem usa os serviços de Varas, Fóruns e Tribunais do Trabalho em todo o país para a elaboração das metas nacionais da instituição para o próximo ano.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11415-metas-nacionais-da-justica-do-trabalho-consulta-publica-se-encerra-na-proxima-sexta-feira-5",
+      "date": "2026-06-07",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-07",
       "category": "Trabalhista"
     }

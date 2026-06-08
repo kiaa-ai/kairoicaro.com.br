@@ -1,44 +1,60 @@
 {
-  "updated_at": "2026-06-08T12:24:55.338897+00:00",
-  "total": 5,
+  "updated_at": "2026-06-08T16:18:18.647463+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "CNJ institui grupo de trabalho para aperfeiçoar sistema remuneratório da magistratura em cumprimento à decisão do STF",
-      "summary": "Medida integra ações para garantir transparência, uniformidade e controle dos pagamentos realizados no Poder Judiciário",
-      "url": "https://noticias.stf.jus.br/postsnoticias/cnj-institui-grupo-de-trabalho-para-aperfeicoar-sistema-remuneratorio-da-magistratura-em-cumprimento-a-decisao-do-stf/",
+      "title": "Presidente do STF defende independência judicial como garantia da democracia constitucional",
+      "summary": "Ministro afirma que autonomia dos tribunais protege direitos fundamentais e assegura o equilíbrio entre os Poderes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-independencia-judicial-como-garantia-da-democracia-constitucional/",
       "date": "2026-06-08",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "135 anos do STF: como a Corte resolveu disputas jurídicas do futebol",
-      "summary": "Série “Tá na Nossa História” revisita primórdios da Corte, marcos institucionais, evolução de competências e seu papel na consolidação da República, da democracia e dos direitos fundamentais",
-      "url": "https://noticias.stf.jus.br/postsnoticias/135-anos-do-stf-como-a-corte-resolveu-disputas-juridicas-do-futebol/",
+      "title": "STF invalida exigência de autorização da Assembleia Legislativa para concessão de imóveis estaduais no Amapá",
+      "summary": "Plenário entendeu que norma estadual impõe restrição indevida e desproporcional à atuação do Poder Executivo na gestão patrimonial",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-exigencia-de-autorizacao-da-assembleia-legislativa-para-concessao-de-imoveis-estaduais-no-amapa/",
       "date": "2026-06-08",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
+      "summary": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Quarta-Turma-tera-sessoes-as-10h-e-as-14h-nesta-terca--9-.aspx",
+      "date": "2026-06-08",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Consulta pública sobre metas do STJ para 2027 segue disponível até sexta-feira (12)",
+      "summary": "Consulta pública sobre metas do STJ para 2027 segue disponível até sexta-feira (12)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Consulta-publica-sobre-metas-do-STJ-para-2027-segue-disponivel-ate-sexta-feira--12--.aspx",
+      "date": "2026-06-08",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Segunda Seção começa às 13h na próxima quarta (10)",
+      "summary": "Segunda Seção começa às 13h na próxima quarta (10)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Segunda-Secao-comeca-as-13h-na-proxima-quarta--10-.aspx",
+      "date": "2026-06-08",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho sedia em Manaus o seminário estadual de combate ao trabalho infantil no Amazonas nos dias 11 e 12 de junho",
+      "summary": "Instituições parceiras discutem fluxos de atendimento e ações integradas para erradicar o trabalho infantil",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11423-justica-do-trabalho-sedia-em-manaus-o-seminario-estadual-de-combate-ao-trabalho-infantil-no-amazonas-nos-dias-11-e-12-de-junho",
+      "date": "2026-06-08",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Expediente do TRT-11 ficará suspenso nos dias 4 e 5 de junho",
       "summary": "Somente casos urgentes serão apreciados no plantão judiciário",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11416-expediente-do-trt-11-ficara-suspenso-nos-dias-4-e-5-de-junho",
-      "date": "2026-06-08",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Metas nacionais da Justiça do Trabalho: consulta pública se encerra na próxima sexta-feira (5)",
-      "summary": "A Justiça do Trabalho promove, até sexta-feira (5), a Consulta Pública para Metas Nacionais de 2027. O objetivo é coletar a opinião de quem usa os serviços de Varas, Fóruns e Tribunais do Trabalho em todo o país para a elaboração das metas nacionais da instituição para o próximo ano.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11415-metas-nacionais-da-justica-do-trabalho-consulta-publica-se-encerra-na-proxima-sexta-feira-5",
-      "date": "2026-06-08",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-08",
       "category": "Trabalhista"
     }

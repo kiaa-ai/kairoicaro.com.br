@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-07T10:25:40.722398+00:00",
+  "updated_at": "2026-06-08T12:25:12.176041+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "ambiental",
+      "title": "8.jun.2026CNJ cria base nacional para mapear abusos em registros de protestoProvimento determinou envio padronizado de dados pelos cartórios para identificar litigância predatória e distorções no mercado de crédito.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-08",
+      "url": "https://www.migalhas.com.br/quentes/457572/cnj-cria-base-nacional-para-mapear-abusos-em-registros-de-protesto"
+    },
+    {
+      "setor": "empresarial",
+      "title": "8.jun.2026TJ/SP valida lei que prioriza vaga escolar a vítimas de violência domésticaÓrgão Especial afastou alegação de invasão de competência do Executivo e destacou consonância da norma com as leis Henry Borel e Maria da Penha.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-08",
+      "url": "https://www.migalhas.com.br/quentes/457499/e-valida-lei-que-prioriza-vaga-escolar-a-vitima-de-violencia-domestica"
+    },
+    {
+      "setor": "empresarial",
+      "title": "8.jun.2026Espaço do STJ recebe lançamento de obra em homenagem a Paulo MendesA publicação reúne artigos de 54 autores que debatem os desafios da jurisdição constitucional e do processo civil no Brasil contemporâneo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-08",
+      "url": "https://www.migalhas.com.br/quentes/457385/espaco-do-stj-recebe-lancamento-de-obra-em-homenagem-a-paulo-mendes"
+    },
+    {
+      "setor": "empresarial",
+      "title": "7.jun.2026Candidata chamada só por Diário Oficial após seis anos será reconvocadaMagistrado entendeu que publicação exclusiva em Diário Oficial, após longo intervalo, não assegurou ciência efetiva da convocação.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-08",
+      "url": "https://www.migalhas.com.br/quentes/457371/candidata-chamada-so-por-diario-oficial-apos-6-anos-sera-reconvocada"
+    },
+    {
+      "setor": "empresarial",
+      "title": "7.jun.2026TJ/SP afasta indenização por vício em veículo arrematadoColegiado entendeu que edital e nota de venda transferiam ao comprador os riscos relacionados à regularidade do motor.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-08",
+      "url": "https://www.migalhas.com.br/quentes/457300/tj-sp-afasta-indenizacao-por-vicio-em-veiculo-arrematado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "7.jun.2026TRT-2 não conhece de recurso que não enfrentou sentençaColegiado entendeu que trabalhador apresentou argumentos dissociados dos fundamentos adotados na decisão de primeiro grau.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-08",
+      "url": "https://www.migalhas.com.br/quentes/457291/trt-2-nao-conhece-de-recurso-que-nao-enfrentou-sentenca"
+    },
     {
       "setor": "empresarial",
       "title": "6.jun.2026TJ/SP fixa juros desde a citação em rescisão de multipropriedadeO colegiado entendeu que, nessa hipótese, não se aplica o Tema 1.002 do STJ.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-06",
       "url": "https://www.migalhas.com.br/quentes/457084/gol-tera-de-indenizar-passageiros-por-atraso-de-8-horas-em-voo"
-    },
-    {
-      "setor": "varejo",
-      "title": "5.jun.2026Justiça vê venda casada e anula seguros vinculados a crédito ruralJuiz concluiu que banco não comprovou ter oferecido ao produtor a possibilidade de escolher outra seguradora.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-06",
-      "url": "https://www.migalhas.com.br/quentes/457070/justica-ve-venda-casada-e-anula-seguros-vinculados-a-credito-rural"
-    },
-    {
-      "setor": "empresarial",
-      "title": "5.jun.2026FGV Direito Rio lança obra sobre soberania digital e IA no BrasilPublicação do CTS-FGV reúne análises sobre cibersegurança, transformação digital e políticas públicas para fortalecimento da governança digital.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-06",
-      "url": "https://www.migalhas.com.br/quentes/457441/fgv-direito-rio-lanca-obra-sobre-soberania-digital-e-ia-no-brasil"
-    },
-    {
-      "setor": "ambiental",
-      "title": "5.jun.2026Justiça manda prender jornalista perseguido por Carla ZambelliMedida foi determinada após descumprimento do pagamento de valores em ação por difamação contra a ex-deputada.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-06",
-      "url": "https://www.migalhas.com.br/quentes/457486/justica-manda-prender-jornalista-perseguido-por-carla-zambelli"
-    },
-    {
-      "setor": "empresarial",
-      "title": "5.jun.2026Prompt injection: Justiça mantém suspensão de advogada da OAB/PACausídica foi afastada por 30 dias após repercussão nacional do caso envolvendo manipulação de sistemas de IA",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-05",
-      "url": "https://www.migalhas.com.br/quentes/457481/prompt-injection-justica-mantem-suspensao-de-advogada-da-oab-pa"
-    },
-    {
-      "setor": "empresarial",
-      "title": "5.jun.2026CNJ regulamenta nova plataforma para ordens de restrição e penhora de imóveisUso do sistema será obrigatório e deverá alcançar todos os tribunais brasileiros até agosto.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-05",
-      "url": "https://www.migalhas.com.br/quentes/457478/cnj-regulamenta-sistema-para-ordem-de-restricao-e-penhora-de-imoveis"
-    },
-    {
-      "setor": "empresarial",
-      "title": "5.jun.2026Sorteio da obra \"ITCMD Doutrina e Prática\"A publicação analisa o ITCMD à luz da LC 227/26, com enfoque em doutrina, jurisprudência e legislação do Estado de São Paulo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-05",
-      "url": "https://www.migalhas.com.br/quentes/457151/sorteio-da-obra-itcmd-doutrina-e-pratica"
     }
   ]
 }

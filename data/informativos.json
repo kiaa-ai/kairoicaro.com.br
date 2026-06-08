@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-08T11:20:42.209034+00:00",
-  "total": 4,
+  "updated_at": "2026-06-08T12:24:55.338897+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "135 anos do STF: como a Corte resolveu disputas jurídicas do futebol",
-      "summary": "Série “Tá na Nossa História” revisita primórdios da Corte, marcos institucionais, evolução de competências e seu papel na consolidação da República, da democracia e dos direitos fundamentais",
-      "url": "https://noticias.stf.jus.br/postsnoticias/135-anos-do-stf-como-a-corte-resolveu-disputas-juridicas-do-futebol/",
+      "title": "CNJ institui grupo de trabalho para aperfeiçoar sistema remuneratório da magistratura em cumprimento à decisão do STF",
+      "summary": "Medida integra ações para garantir transparência, uniformidade e controle dos pagamentos realizados no Poder Judiciário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/cnj-institui-grupo-de-trabalho-para-aperfeicoar-sistema-remuneratorio-da-magistratura-em-cumprimento-a-decisao-do-stf/",
       "date": "2026-06-08",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "TV Justiça estreia série ´Conhecendo o STF´ neste sábado (6)",
-      "summary": "No primeiro episódio serão apresentados os caminhos, as competências e os desafios do guardião da Constituição",
-      "url": "https://noticias.stf.jus.br/postsnoticias/tv-justica-estreia-serie-conhecendo-o-stf-neste-sabado-6/",
+      "title": "135 anos do STF: como a Corte resolveu disputas jurídicas do futebol",
+      "summary": "Série “Tá na Nossa História” revisita primórdios da Corte, marcos institucionais, evolução de competências e seu papel na consolidação da República, da democracia e dos direitos fundamentais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/135-anos-do-stf-como-a-corte-resolveu-disputas-juridicas-do-futebol/",
       "date": "2026-06-08",
       "category": "Constitucional"
     },
@@ -31,6 +31,14 @@
       "title": "Metas nacionais da Justiça do Trabalho: consulta pública se encerra na próxima sexta-feira (5)",
       "summary": "A Justiça do Trabalho promove, até sexta-feira (5), a Consulta Pública para Metas Nacionais de 2027. O objetivo é coletar a opinião de quem usa os serviços de Varas, Fóruns e Tribunais do Trabalho em todo o país para a elaboração das metas nacionais da instituição para o próximo ano.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11415-metas-nacionais-da-justica-do-trabalho-consulta-publica-se-encerra-na-proxima-sexta-feira-5",
+      "date": "2026-06-08",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-08",
       "category": "Trabalhista"
     }

@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-08T16:18:18.647463+00:00",
+  "updated_at": "2026-06-08T20:32:52.487213+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Presidente do STF defende independência judicial como garantia da democracia constitucional",
-      "summary": "Ministro afirma que autonomia dos tribunais protege direitos fundamentais e assegura o equilíbrio entre os Poderes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-independencia-judicial-como-garantia-da-democracia-constitucional/",
+      "title": "STF reduz em mais de 70% liminares monocráticas concedidas desde 2022",
+      "summary": "Mudança regimental fortaleceu a colegialidade e ampliou a participação dos órgãos colegiados na apreciação de medidas cautelares",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reduz-em-mais-de-70-liminares-monocraticas-concedidas-desde-2022/",
       "date": "2026-06-08",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF invalida exigência de autorização da Assembleia Legislativa para concessão de imóveis estaduais no Amapá",
-      "summary": "Plenário entendeu que norma estadual impõe restrição indevida e desproporcional à atuação do Poder Executivo na gestão patrimonial",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-exigencia-de-autorizacao-da-assembleia-legislativa-para-concessao-de-imoveis-estaduais-no-amapa/",
+      "title": "Presidente do STF defende independência judicial como garantia da democracia constitucional",
+      "summary": "Ministro afirma que autonomia dos tribunais protege direitos fundamentais e assegura o equilíbrio entre os Poderes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-independencia-judicial-como-garantia-da-democracia-constitucional/",
       "date": "2026-06-08",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho sedia em Manaus o seminário estadual de combate ao trabalho infantil no Amazonas nos dias 11 e 12 de junho",
-      "summary": "Instituições parceiras discutem fluxos de atendimento e ações integradas para erradicar o trabalho infantil",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11423-justica-do-trabalho-sedia-em-manaus-o-seminario-estadual-de-combate-ao-trabalho-infantil-no-amazonas-nos-dias-11-e-12-de-junho",
+      "title": "Suspensão temporária da Consulta Processual Externa devido à instabilidade no Sistema PJe",
+      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) informa que, nesta segunda-feira (8), foi determinada a suspensão temporária da Consulta Processual Externa, em razão de episódios de lentidão registrados no Sistema Processo Judicial Eletrônico (PJe) e nos sistemas satélites integrados. A instab",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11427-suspensao-temporaria-da-consulta-processual-externa-devido-a-instabilidade-no-sistema-pje",
       "date": "2026-06-08",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Expediente do TRT-11 ficará suspenso nos dias 4 e 5 de junho",
-      "summary": "Somente casos urgentes serão apreciados no plantão judiciário",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11416-expediente-do-trt-11-ficara-suspenso-nos-dias-4-e-5-de-junho",
+      "title": "Seminário em Boa Vista debaterá riscos, prevenção e erradicação das piores e novas formas de trabalho infantil em Roraima",
+      "summary": "Evento marca a união de entidades em prol da prevenção e do fortalecimento da rede de proteção infantojuvenil no Estado",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11426-seminario-em-boa-vista-debatera-riscos-prevencao-e-erradicacao-das-piores-e-novas-formas-de-trabalho-infantil-em-roraima",
       "date": "2026-06-08",
       "category": "Trabalhista"
     }

@@ -1,44 +1,60 @@
 {
-  "updated_at": "2026-06-09T15:27:07.000432+00:00",
-  "total": 5,
+  "updated_at": "2026-06-09T20:20:13.756570+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Cármen Lúcia alerta para riscos da inteligência artificial às eleições e à democracia",
-      "summary": "Ministra do STF diz que tecnologias podem comprometer a capacidade crítica dos eleitores, facilitar a desinformação e disseminar discursos de ódio",
-      "url": "https://noticias.stf.jus.br/postsnoticias/carmen-lucia-alerta-para-riscos-da-inteligencia-artificial-as-eleicoes-e-a-democracia/",
+      "title": "STF rejeita ação sobre regras para renegociação de dívidas de crédito rural",
+      "summary": "Para o relator, ação não trata de questão constitucional; problemas apontados pela entidade podem ser questionados por outros meios",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acao-sobre-regras-para-renegociacao-de-dividas-de-credito-rural/",
       "date": "2026-06-09",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF vai analisar recursos contra tese fixada no julgamento do Marco Civil da Internet",
-      "summary": "Pedidos abrangem desde a fixação de prazo para implementação das regras até a definição de termos técnicos utilizados na tese",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-analisar-recursos-contra-tese-fixada-no-julgamento-do-marco-civil-da-internet/",
+      "title": "Anuário da Justiça Brasil lança 20ª edição nesta quarta (10) no STF",
+      "summary": "Publicação apresenta diagnóstico do Judiciário brasileiro e, neste ano, faz curadoria das decisões que mudaram o país nos últimos 20 anos.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/anuario-da-justica-brasil-lanca-20a-edicao-nesta-quarta-10-no-stf/",
       "date": "2026-06-09",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Biblioteca STJ-Enfam recebe obras do acervo particular do jurista Paulo Bonavides",
+      "summary": "Biblioteca STJ-Enfam recebe obras do acervo particular do jurista Paulo Bonavides",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Biblioteca-STJ-Enfam-recebe-obras-do-acervo-particular-do-jurista-Paulo-Bonavides.aspx",
+      "date": "2026-06-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Decisão que define início de pena por crime cometido sob livramento condicional é destaque no STJN",
+      "summary": "Decisão que define início de pena por crime cometido sob livramento condicional é destaque no STJN",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Decisao-que-define-inicio-de-pena-por-crime-cometido-sob-livramento-condicional-e-destaque-no-STJN--.aspx",
+      "date": "2026-06-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Coletânea de artigos em homenagem ao professor Paulo Mendes será lançada nesta terça (9)",
+      "summary": "Coletânea de artigos em homenagem ao professor Paulo Mendes será lançada nesta terça (9)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Coletanea-de-artigos-em-homenagem-ao-professor-Paulo-Mendes-sera-lancada-nesta-terca--9--.aspx",
+      "date": "2026-06-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho mantém demissão de professor universitário após acusações de assédio sexual",
+      "summary": "Relatos apontam que o docente fazia comentários de cunho sexual, chamava de “bonita” e “gostosa” as alunas e insistia em convites para encontros",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11429-justica-do-trabalho-mantem-demissao-de-professor-universitario-apos-acusacoes-de-assedio-sexual",
+      "date": "2026-06-09",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Centro de Inteligência do TRT-11 aprova as NotasTécnicas nº 18 e 19",
       "summary": "As duas novas notas técnicas foram publicadas no DEJT de 13/5",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11428-centro-de-inteligencia-do-trt-11-aprova-as-notastecnicas-n-18-e-19",
-      "date": "2026-06-09",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Suspensão temporária da Consulta Processual Externa devido à instabilidade no Sistema PJe",
-      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) informa que, nesta segunda-feira (8), foi determinada a suspensão temporária da Consulta Processual Externa, em razão de episódios de lentidão registrados no Sistema Processo Judicial Eletrônico (PJe) e nos sistemas satélites integrados. A instab",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11427-suspensao-temporaria-da-consulta-processual-externa-devido-a-instabilidade-no-sistema-pje",
-      "date": "2026-06-09",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-09",
       "category": "Trabalhista"
     }

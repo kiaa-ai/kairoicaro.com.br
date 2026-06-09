@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-08T20:32:52.487213+00:00",
-  "total": 7,
+  "updated_at": "2026-06-09T04:34:10.537392+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF reduz em mais de 70% liminares monocráticas concedidas desde 2022",
-      "summary": "Mudança regimental fortaleceu a colegialidade e ampliou a participação dos órgãos colegiados na apreciação de medidas cautelares",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reduz-em-mais-de-70-liminares-monocraticas-concedidas-desde-2022/",
-      "date": "2026-06-08",
+      "title": "STF mantém funcionamento de unidades psiquiátricas penais em Minas Gerais",
+      "summary": "Ministro Flávio Dino levou em conta alegação de que a rede de saúde estadual ainda não está estruturada para receber pacientes que praticaram atos definidos como crime",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-funcionamento-de-unidades-psiquiatricas-penais-em-minas-gerais/",
+      "date": "2026-06-09",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Presidente do STF defende independência judicial como garantia da democracia constitucional",
-      "summary": "Ministro afirma que autonomia dos tribunais protege direitos fundamentais e assegura o equilíbrio entre os Poderes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-independencia-judicial-como-garantia-da-democracia-constitucional/",
-      "date": "2026-06-08",
+      "title": "Rádio Justiça: programa sobre o Marco Civil da Internet é destaque nesta terça-feira (9)",
+      "summary": "Programação traz ainda entrevista sobre aposentadoria especial em atividade insalubre",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-o-marco-civil-da-internet-e-destaque-nesta-terca-feira-9/",
+      "date": "2026-06-09",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
       "summary": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Quarta-Turma-tera-sessoes-as-10h-e-as-14h-nesta-terca--9-.aspx",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Consulta pública sobre metas do STJ para 2027 segue disponível até sexta-feira (12)",
       "summary": "Consulta pública sobre metas do STJ para 2027 segue disponível até sexta-feira (12)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Consulta-publica-sobre-metas-do-STJ-para-2027-segue-disponivel-ate-sexta-feira--12--.aspx",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Segunda Seção começa às 13h na próxima quarta (10)",
       "summary": "Segunda Seção começa às 13h na próxima quarta (10)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Segunda-Secao-comeca-as-13h-na-proxima-quarta--10-.aspx",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Suspensão temporária da Consulta Processual Externa devido à instabilidade no Sistema PJe",
       "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) informa que, nesta segunda-feira (8), foi determinada a suspensão temporária da Consulta Processual Externa, em razão de episódios de lentidão registrados no Sistema Processo Judicial Eletrônico (PJe) e nos sistemas satélites integrados. A instab",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11427-suspensao-temporaria-da-consulta-processual-externa-devido-a-instabilidade-no-sistema-pje",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,15 @@
       "title": "Seminário em Boa Vista debaterá riscos, prevenção e erradicação das piores e novas formas de trabalho infantil em Roraima",
       "summary": "Evento marca a união de entidades em prol da prevenção e do fortalecimento da rede de proteção infantojuvenil no Estado",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11426-seminario-em-boa-vista-debatera-riscos-prevencao-e-erradicacao-das-piores-e-novas-formas-de-trabalho-infantil-em-roraima",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-06-09",
       "category": "Trabalhista"
     }
   ]

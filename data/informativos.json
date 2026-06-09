@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T10:02:46.262237+00:00",
-  "total": 4,
+  "updated_at": "2026-06-09T10:56:43.014573+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-o-marco-civil-da-internet-e-destaque-nesta-terca-feira-9/",
       "date": "2026-06-09",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Terceira Seção decidirá se preso que pede para visitante levar drogas ao presídio responde por tráfico",
+      "summary": "Terceira Seção decidirá se preso que pede para visitante levar drogas ao presídio responde por tráfico",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Terceira-Secao-decidira-se-preso-que-pede-para-visitante-levar-drogas-ao-presidio-responde-por-trafico.aspx",
+      "date": "2026-06-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Terceira Turma invalida empréstimo contratado por analfabeto em caixa eletrônico",
+      "summary": "O colegiado entendeu que o uso de cartão e senha, bem como o recebimento do dinheiro, não substituem as formalidades exigidas por lei para a validade de contratos particulares firmados por analfabetos.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Terceira-Turma-invalida-emprestimo-contratado-por-analfabeto-em-caixa-eletronico.aspx",
+      "date": "2026-06-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
+      "summary": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Quarta-Turma-tera-sessoes-as-10h-e-as-14h-nesta-terca--9-.aspx",
+      "date": "2026-06-09",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T04:34:10.537392+00:00",
-  "total": 8,
+  "updated_at": "2026-06-09T10:02:46.262237+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
@@ -19,30 +19,6 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STJ",
-      "title": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
-      "summary": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Quarta-Turma-tera-sessoes-as-10h-e-as-14h-nesta-terca--9-.aspx",
-      "date": "2026-06-09",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Consulta pública sobre metas do STJ para 2027 segue disponível até sexta-feira (12)",
-      "summary": "Consulta pública sobre metas do STJ para 2027 segue disponível até sexta-feira (12)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Consulta-publica-sobre-metas-do-STJ-para-2027-segue-disponivel-ate-sexta-feira--12--.aspx",
-      "date": "2026-06-09",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Segunda Seção começa às 13h na próxima quarta (10)",
-      "summary": "Segunda Seção começa às 13h na próxima quarta (10)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Segunda-Secao-comeca-as-13h-na-proxima-quarta--10-.aspx",
-      "date": "2026-06-09",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
       "title": "Suspensão temporária da Consulta Processual Externa devido à instabilidade no Sistema PJe",
       "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR) informa que, nesta segunda-feira (8), foi determinada a suspensão temporária da Consulta Processual Externa, em razão de episódios de lentidão registrados no Sistema Processo Judicial Eletrônico (PJe) e nos sistemas satélites integrados. A instab",
@@ -55,14 +31,6 @@
       "title": "Seminário em Boa Vista debaterá riscos, prevenção e erradicação das piores e novas formas de trabalho infantil em Roraima",
       "summary": "Evento marca a união de entidades em prol da prevenção e do fortalecimento da rede de proteção infantojuvenil no Estado",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11426-seminario-em-boa-vista-debatera-riscos-prevencao-e-erradicacao-das-piores-e-novas-formas-de-trabalho-infantil-em-roraima",
-      "date": "2026-06-09",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-09",
       "category": "Trabalhista"
     }

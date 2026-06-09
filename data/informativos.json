@@ -1,46 +1,30 @@
 {
-  "updated_at": "2026-06-09T10:56:43.014573+00:00",
-  "total": 7,
+  "updated_at": "2026-06-09T15:27:07.000432+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF mantém funcionamento de unidades psiquiátricas penais em Minas Gerais",
-      "summary": "Ministro Flávio Dino levou em conta alegação de que a rede de saúde estadual ainda não está estruturada para receber pacientes que praticaram atos definidos como crime",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-funcionamento-de-unidades-psiquiatricas-penais-em-minas-gerais/",
+      "title": "Cármen Lúcia alerta para riscos da inteligência artificial às eleições e à democracia",
+      "summary": "Ministra do STF diz que tecnologias podem comprometer a capacidade crítica dos eleitores, facilitar a desinformação e disseminar discursos de ódio",
+      "url": "https://noticias.stf.jus.br/postsnoticias/carmen-lucia-alerta-para-riscos-da-inteligencia-artificial-as-eleicoes-e-a-democracia/",
       "date": "2026-06-09",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Rádio Justiça: programa sobre o Marco Civil da Internet é destaque nesta terça-feira (9)",
-      "summary": "Programação traz ainda entrevista sobre aposentadoria especial em atividade insalubre",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-o-marco-civil-da-internet-e-destaque-nesta-terca-feira-9/",
+      "title": "STF vai analisar recursos contra tese fixada no julgamento do Marco Civil da Internet",
+      "summary": "Pedidos abrangem desde a fixação de prazo para implementação das regras até a definição de termos técnicos utilizados na tese",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-analisar-recursos-contra-tese-fixada-no-julgamento-do-marco-civil-da-internet/",
       "date": "2026-06-09",
       "category": "Constitucional"
     },
     {
-      "tribunal": "STJ",
-      "title": "Terceira Seção decidirá se preso que pede para visitante levar drogas ao presídio responde por tráfico",
-      "summary": "Terceira Seção decidirá se preso que pede para visitante levar drogas ao presídio responde por tráfico",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Terceira-Secao-decidira-se-preso-que-pede-para-visitante-levar-drogas-ao-presidio-responde-por-trafico.aspx",
+      "tribunal": "TRT11",
+      "title": "Centro de Inteligência do TRT-11 aprova as NotasTécnicas nº 18 e 19",
+      "summary": "As duas novas notas técnicas foram publicadas no DEJT de 13/5",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11428-centro-de-inteligencia-do-trt-11-aprova-as-notastecnicas-n-18-e-19",
       "date": "2026-06-09",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Terceira Turma invalida empréstimo contratado por analfabeto em caixa eletrônico",
-      "summary": "O colegiado entendeu que o uso de cartão e senha, bem como o recebimento do dinheiro, não substituem as formalidades exigidas por lei para a validade de contratos particulares firmados por analfabetos.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Terceira-Turma-invalida-emprestimo-contratado-por-analfabeto-em-caixa-eletronico.aspx",
-      "date": "2026-06-09",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
-      "summary": "Quarta Turma terá sessões às 10h e às 14h nesta terça (9)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08062026-Quarta-Turma-tera-sessoes-as-10h-e-as-14h-nesta-terca--9-.aspx",
-      "date": "2026-06-09",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
@@ -51,10 +35,10 @@
       "category": "Trabalhista"
     },
     {
-      "tribunal": "TRT11",
-      "title": "Seminário em Boa Vista debaterá riscos, prevenção e erradicação das piores e novas formas de trabalho infantil em Roraima",
-      "summary": "Evento marca a união de entidades em prol da prevenção e do fortalecimento da rede de proteção infantojuvenil no Estado",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11426-seminario-em-boa-vista-debatera-riscos-prevencao-e-erradicacao-das-piores-e-novas-formas-de-trabalho-infantil-em-roraima",
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-09",
       "category": "Trabalhista"
     }

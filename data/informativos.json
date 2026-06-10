@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T04:47:48.742729+00:00",
-  "total": 7,
+  "updated_at": "2026-06-10T10:32:18.078366+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
@@ -20,25 +20,25 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Terceira Turma reafirma que acordo homologado judicialmente deve ser impugnado por ação anulatória",
+      "summary": "Terceira Turma reafirma que acordo homologado judicialmente deve ser impugnado por ação anulatória",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Terceira-Turma-reafirma-que-acordo-homologado-judicialmente-deve-ser-impugnado-por-acao-anulatoria.aspx",
+      "date": "2026-06-10",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Repetitivo fixa teses sobre dispensa de liquidação prévia na execução individual de sentença coletiva de servidores",
+      "summary": "Se for provado por documentos que o servidor se encaixa na situação genérica da sentença e se o valor puder ser apurado por simples cálculos aritméticos, não será necessária a prévia liquidação do julgado.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Repetitivo-fixa-teses-sobre-dispensa-de-liquidacao-previa-na-execucao-individual-de-sentenca-coletiva-de-servidores.aspx",
+      "date": "2026-06-10",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "Obra em homenagem aos 20 anos de magistério de Paulo Mendes é lançada no STJ",
       "summary": "Obra em homenagem aos 20 anos de magistério de Paulo Mendes é lançada no STJ",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Obra-em-homenagem-aos-20-anos-de-magisterio-de-Paulo-Mendes-e-lancada-no-STJ.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Biblioteca STJ-Enfam recebe obras do acervo particular do jurista Paulo Bonavides",
-      "summary": "Biblioteca STJ-Enfam recebe obras do acervo particular do jurista Paulo Bonavides",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Biblioteca-STJ-Enfam-recebe-obras-do-acervo-particular-do-jurista-Paulo-Bonavides.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Decisão que define início de pena por crime cometido sob livramento condicional é destaque no STJN",
-      "summary": "Decisão que define início de pena por crime cometido sob livramento condicional é destaque no STJN",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Decisao-que-define-inicio-de-pena-por-crime-cometido-sob-livramento-condicional-e-destaque-no-STJN--.aspx",
       "date": "2026-06-10",
       "category": "Jurisprudencia"
     },
@@ -55,6 +55,14 @@
       "title": "Centro de Inteligência do TRT-11 aprova as NotasTécnicas nº 18 e 19",
       "summary": "As duas novas notas técnicas foram publicadas no DEJT de 13/5",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11428-centro-de-inteligencia-do-trt-11-aprova-as-notastecnicas-n-18-e-19",
+      "date": "2026-06-10",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-10",
       "category": "Trabalhista"
     }

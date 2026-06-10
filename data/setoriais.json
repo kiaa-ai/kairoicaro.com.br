@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-09T10:56:46.206181+00:00",
+  "updated_at": "2026-06-10T11:35:50.332375+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "ambiental",
+      "title": "10.jun.2026STF: Professor que negou café para não ficar \"da cor\" de aluna é condenadoMinistro entendeu que a intenção discriminatória pode ser extraída do contexto e das expressões utilizadas.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-10",
+      "url": "https://www.migalhas.com.br/quentes/457814/professor-que-negou-cafe-para-nao-ficar-da-cor-de-aluna-e-condenado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "10.jun.2026Sorteio da obra \"Neutralidade, Valor Acrescido e Tributação\"A publicação analisa a tributação sobre o consumo em perspectiva nacional e internacional, abordando a complexidade dos tributos indiretos e seus cenários comparados.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-10",
+      "url": "https://www.migalhas.com.br/quentes/457633/sorteio-da-obra-neutralidade-valor-acrescido-e-tributacao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "10.jun.2026Nova obra desvenda os principais recursos ao STF e ao STJProcuradora do Estado de São Paulo, Michelle Najara A. Silva reúne técnicas, precedentes e exemplos práticos para orientar a atuação nos Tribunais Superiores.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-10",
+      "url": "https://www.migalhas.com.br/quentes/457626/nova-obra-desvenda-os-principais-recursos-ao-stf-e-ao-stj"
+    },
+    {
+      "setor": "empresarial",
+      "title": "9.jun.2026STJ: Celular não é bem essencial para troca imediata em caso de defeitoPor maioria, 3ª turma da Corte afastou tese de essencialidade automática do celular e manteve prazo de até 30 dias para reparo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-10",
+      "url": "https://www.migalhas.com.br/quentes/457809/stj-celular-nao-e-bem-essencial-para-troca-imediata-por-defeito"
+    },
+    {
+      "setor": "empresarial",
+      "title": "9.jun.20263ª seção do STJ irá definir juízo competente para rescindir ANPP descumprido5ª turma afetou recurso que discute se a rescisão cabe ao juízo da execução penal ou ao juízo que homologou o acordo.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-10",
+      "url": "https://www.migalhas.com.br/quentes/457768/stj-ira-definir-juizo-competente-para-rescindir-anpp-descumprido"
+    },
+    {
+      "setor": "empresarial",
+      "title": "9.jun.2026STJ limita indenização devida por banco após saque indevido em concordataPara 3ª turma, reparação deve se limitar ao valor levantado a maior, com correção e juros, sem incluir lucros cessantes não comprovados.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-10",
+      "url": "https://www.migalhas.com.br/quentes/457804/stj-limita-indenizacao-de-banco-apos-saque-indevido-em-concordata"
+    },
     {
       "setor": "ambiental",
       "title": "9.jun.2026Carta de entidades empresariais mira PEC que reduz jornada e extingue escala 6x1Anúncios publicados em jornais defendem alternativa baseada em negociação e alertam para impactos econômicos da proposta.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-08",
       "url": "https://www.migalhas.com.br/quentes/457385/espaco-do-stj-recebe-lancamento-de-obra-em-homenagem-a-paulo-mendes"
-    },
-    {
-      "setor": "empresarial",
-      "title": "7.jun.2026Candidata chamada só por Diário Oficial após seis anos será reconvocadaMagistrado entendeu que publicação exclusiva em Diário Oficial, após longo intervalo, não assegurou ciência efetiva da convocação.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-08",
-      "url": "https://www.migalhas.com.br/quentes/457371/candidata-chamada-so-por-diario-oficial-apos-6-anos-sera-reconvocada"
-    },
-    {
-      "setor": "empresarial",
-      "title": "7.jun.2026TJ/SP afasta indenização por vício em veículo arrematadoColegiado entendeu que edital e nota de venda transferiam ao comprador os riscos relacionados à regularidade do motor.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-08",
-      "url": "https://www.migalhas.com.br/quentes/457300/tj-sp-afasta-indenizacao-por-vicio-em-veiculo-arrematado"
-    },
-    {
-      "setor": "empresarial",
-      "title": "7.jun.2026TRT-2 não conhece de recurso que não enfrentou sentençaColegiado entendeu que trabalhador apresentou argumentos dissociados dos fundamentos adotados na decisão de primeiro grau.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-08",
-      "url": "https://www.migalhas.com.br/quentes/457291/trt-2-nao-conhece-de-recurso-que-nao-enfrentou-sentenca"
-    },
-    {
-      "setor": "empresarial",
-      "title": "6.jun.2026TJ/SP fixa juros desde a citação em rescisão de multipropriedadeO colegiado entendeu que, nessa hipótese, não se aplica o Tema 1.002 do STJ.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-07",
-      "url": "https://www.migalhas.com.br/quentes/457263/tj-sp-fixa-juros-desde-a-citacao-em-rescisao-de-multipropriedade"
-    },
-    {
-      "setor": "empresarial",
-      "title": "6.jun.2026Companhia aérea é condenada após atraso de 35h em retorno ao BrasilJuiz reconheceu falha na prestação do serviço e determinou indenizações por danos materiais, morais e lucros cessantes.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-07",
-      "url": "https://www.migalhas.com.br/quentes/457197/companhia-aerea-e-condenada-apos-atraso-de-35h-em-retorno-ao-brasil"
-    },
-    {
-      "setor": "ambiental",
-      "title": "6.jun.2026Juiz reduz juros de empréstimo pessoal à média do Banco CentralMagistrado determinou devolução dos valores pagos a maior após identificar taxa superior à praticada pelo mercado.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-07",
-      "url": "https://www.migalhas.com.br/quentes/457186/juiz-reduz-juros-de-emprestimo-pessoal-a-media-do-banco-central"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T10:32:18.078366+00:00",
-  "total": 8,
+  "updated_at": "2026-06-10T11:35:46.970762+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
@@ -17,30 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-protecao-do-sistema-eleitoral-e-destaque-nesta-quarta-feira-10/",
       "date": "2026-06-10",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Terceira Turma reafirma que acordo homologado judicialmente deve ser impugnado por ação anulatória",
-      "summary": "Terceira Turma reafirma que acordo homologado judicialmente deve ser impugnado por ação anulatória",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Terceira-Turma-reafirma-que-acordo-homologado-judicialmente-deve-ser-impugnado-por-acao-anulatoria.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Repetitivo fixa teses sobre dispensa de liquidação prévia na execução individual de sentença coletiva de servidores",
-      "summary": "Se for provado por documentos que o servidor se encaixa na situação genérica da sentença e se o valor puder ser apurado por simples cálculos aritméticos, não será necessária a prévia liquidação do julgado.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Repetitivo-fixa-teses-sobre-dispensa-de-liquidacao-previa-na-execucao-individual-de-sentenca-coletiva-de-servidores.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Obra em homenagem aos 20 anos de magistério de Paulo Mendes é lançada no STJ",
-      "summary": "Obra em homenagem aos 20 anos de magistério de Paulo Mendes é lançada no STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09062026-Obra-em-homenagem-aos-20-anos-de-magisterio-de-Paulo-Mendes-e-lancada-no-STJ.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

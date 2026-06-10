@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-10T11:35:46.970762+00:00",
-  "total": 5,
+  "updated_at": "2026-06-10T16:07:44.142071+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quarta-feira (10)",
+      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-10-2/",
+      "date": "2026-06-10",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF realiza programação com escuta e conscientização sobre meio ambiente e justiça climática",
@@ -11,34 +19,42 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Rádio Justiça: programa sobre proteção do sistema eleitoral é destaque nesta quarta-feira (10)",
-      "summary": "O programa A Hora do Maestro apresenta obras de Felix Mendelssohn",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-protecao-do-sistema-eleitoral-e-destaque-nesta-quarta-feira-10/",
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos traz teses sobre dispensa de prévia liquidação em execução individual de sentença coletiva",
+      "summary": "Página de Repetitivos traz teses sobre dispensa de prévia liquidação em execução individual de sentença coletiva",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Pagina-de-Repetitivos-traz-teses-sobre-dispensa-de-previa-liquidacao-em-execucao-individual-de-sentenca-coletiva.aspx",
       "date": "2026-06-10",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia discute entendimentos da corte sobre nova Lei de Licitações após cinco anos de vigência",
+      "summary": "Podcast STJ No Seu Dia discute entendimentos da corte sobre nova Lei de Licitações após cinco anos de vigência",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Podcast-STJ-No-Seu-Dia-discute-entendimentos-da-corte-sobre-nova-Lei-de-Licitacoes-apos-cinco-anos-de-vigencia.aspx",
+      "date": "2026-06-10",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Repetitivo discute conceito de contemporaneidade para definição do preço de mercado em desapropriações",
+      "summary": "Repetitivo discute conceito de contemporaneidade para definição do preço de mercado em desapropriações",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Repetitivo-discute-conceito-de-contemporaneidade-para-definicao-do-preco-de-mercado-em-desapropriacoes.aspx",
+      "date": "2026-06-10",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho participa da Operação Excelsior e amplia acesso a serviços trabalhistas no interior do Amazonas",
+      "summary": "Atuação inédita do TRT-11 na maior ação humanitária da FAB na Região Norte levou orientações jurídicas, atendimentos trabalhistas e ações de cidadania a moradores de Itacoatiara e Parintins.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11432-justica-do-trabalho-participa-da-operacao-excelsior-e-amplia-acesso-a-servicos-trabalhistas-no-interior-do-amazonas",
+      "date": "2026-06-10",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Justiça do Trabalho mantém demissão de professor universitário após acusações de assédio sexual",
       "summary": "Relatos apontam que o docente fazia comentários de cunho sexual, chamava de “bonita” e “gostosa” as alunas e insistia em convites para encontros",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11429-justica-do-trabalho-mantem-demissao-de-professor-universitario-apos-acusacoes-de-assedio-sexual",
-      "date": "2026-06-10",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Centro de Inteligência do TRT-11 aprova as NotasTécnicas nº 18 e 19",
-      "summary": "As duas novas notas técnicas foram publicadas no DEJT de 13/5",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11428-centro-de-inteligencia-do-trt-11-aprova-as-notastecnicas-n-18-e-19",
-      "date": "2026-06-10",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-10",
       "category": "Trabalhista"
     }

@@ -1,44 +1,60 @@
 {
-  "updated_at": "2026-06-11T16:20:13.306666+00:00",
-  "total": 5,
+  "updated_at": "2026-06-11T20:35:06.467884+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (11)",
-      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-11-2/",
+      "title": "Indústrias de refrigerante questionam tese do TST sobre adicional de periculosidade para motociclistas",
+      "summary": "Associação do setor afirma que Justiça do Trabalho mudou entendimento consolidado e gerou insegurança jurídica para empregadores",
+      "url": "https://noticias.stf.jus.br/postsnoticias/industrias-de-refrigerante-questionam-tese-do-tst-sobre-adicional-de-periculosidade-para-motociclistas/",
       "date": "2026-06-11",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF inicia análise de recursos contra tese fixada no julgamento do Marco Civil da Internet",
-      "summary": "Ministro Dias Toffoli propõe prazo de 60 dias para que provedores se adequem às regras",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-analise-de-recursos-contra-tese-fixada-no-julgamento-do-marco-civil-da-internet/",
+      "title": "STF valida leis de Rondônia que restringem pesca profissional no Rio Guaporé",
+      "summary": "Para o Plenário, normas estaduais complementam legislação federal e protegem ecossistema da região",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-leis-de-rondonia-que-restringem-pesca-profissional-no-rio-guapore/",
       "date": "2026-06-11",
       "category": "Constitucional"
     },
     {
+      "tribunal": "STJ",
+      "title": "STF promove evento com escuta e conscientização sobre meio ambiente e justiça climática",
+      "summary": "STF promove evento com escuta e conscientização sobre meio ambiente e justiça climática",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11062026-STF-promove-evento-com-escuta-e-conscientizacao-sobre-meio-ambiente-e-justica-climatica.aspx",
+      "date": "2026-06-11",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada no próximo dia 23",
+      "summary": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada no próximo dia 23",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11062026-Nova-edicao-da-obra-de-Amaro-Cavalcanti-sobre-regime-federativo-sera-lancada-no-proximo-dia-23-.aspx",
+      "date": "2026-06-11",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "O Futebol e o STJ: do Campo ao Tribunal. Nova série traz decisões sobre o esporte mais popular do planeta",
+      "summary": "A visão da corte em conflitos que extrapolam as linhas do campo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11062026-O-Futebol-e-o-STJ-do-Campo-ao-Tribunal--Nova-serie-traz-decisoes-sobre-o-esporte-mais-popular-do-planeta--.aspx",
+      "date": "2026-06-11",
+      "category": "Jurisprudencia"
+    },
+    {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho participa da Operação Excelsior e amplia acesso a serviços trabalhistas no interior do Amazonas",
-      "summary": "Atuação inédita do TRT-11 na maior ação humanitária da FAB na Região Norte levou orientações jurídicas, atendimentos trabalhistas e ações de cidadania a moradores de Itacoatiara e Parintins.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11432-justica-do-trabalho-participa-da-operacao-excelsior-e-amplia-acesso-a-servicos-trabalhistas-no-interior-do-amazonas",
+      "title": "TRT-11 participa do 47º Coleouv em Fortaleza",
+      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR), por meio da sua ouvidora regional, desembargadora Ormy da Conceição Dias Bentes, participa do 47º Encontro do Colégio de Ouvidores da Justiça do Trabalho (Coleouv), em Fortaleza. Voltado para ouvidores, magistrados, servidores, gestores públicos",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11435-trt-11-participa-do-47-coleouv-em-fortaleza",
       "date": "2026-06-11",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Justiça do Trabalho mantém demissão de professor universitário após acusações de assédio sexual",
-      "summary": "Relatos apontam que o docente fazia comentários de cunho sexual, chamava de “bonita” e “gostosa” as alunas e insistia em convites para encontros",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11429-justica-do-trabalho-mantem-demissao-de-professor-universitario-apos-acusacoes-de-assedio-sexual",
-      "date": "2026-06-11",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
+      "title": "Empresa é condenada por submeter adolescente venezuelano a trabalho infantil em condições análogas à escravidão em Manaus",
+      "summary": "Sentença reconheceu vínculo empregatício, deferiu verbas trabalhistas e determinou pagamento de indenização por danos morais. Condenação ultrapassa R$ 470 mil.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11434-empresa-e-condenada-por-submeter-adolescente-venezuelano-a-trabalho-infantil-em-condicoes-analogas-a-escravidao-em-manaus",
       "date": "2026-06-11",
       "category": "Trabalhista"
     }

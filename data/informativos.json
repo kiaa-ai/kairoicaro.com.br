@@ -1,53 +1,29 @@
 {
-  "updated_at": "2026-06-10T20:44:59.345015+00:00",
-  "total": 7,
+  "updated_at": "2026-06-11T04:58:32.128558+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF derruba exigência de licença ambiental para antenas de telefonia em Goiás",
-      "summary": "Por unanimidade, Plenário entendeu que estado invadiu competência exclusiva da União ao impor licenciamento ambiental para ERBs e outras infraestruturas de telecomunicações",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-derruba-exigencia-de-licenca-ambiental-para-antenas-de-telefonia-em-goias/",
-      "date": "2026-06-10",
+      "title": "STF inicia análise de recursos contra tese fixada no julgamento do Marco Civil da Internet",
+      "summary": "Ministro Dias Toffoli propõe prazo de 60 dias para que provedores se adequem às regras",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-analise-de-recursos-contra-tese-fixada-no-julgamento-do-marco-civil-da-internet/",
+      "date": "2026-06-11",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Audiência de conciliação no STF discute prestação de serviços públicos em área de divisa entre Pará e Mato Grosso",
-      "summary": "Reunião conduzida pelo ministro Flávio Dino buscou construir soluções consensuais para atender populações afetadas pela disputa territorial entre os estados",
-      "url": "https://noticias.stf.jus.br/postsnoticias/audiencia-de-conciliacao-discute-prestacao-de-servicos-publicos-em-area-de-divisa-entre-para-e-mato-grosso/",
-      "date": "2026-06-10",
+      "title": "STF recebe lançamento da 20ª edição do Anuário da Justiça Brasil",
+      "summary": "No evento, ministro Edson Fachin destacou a relação entre liberdade de imprensa, independência judicial e democracia constitucional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-lancamento-da-20a-edicao-do-anuario-da-justica-brasil/",
+      "date": "2026-06-11",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Página de Repetitivos traz teses sobre dispensa de prévia liquidação em execução individual de sentença coletiva",
-      "summary": "Página de Repetitivos traz teses sobre dispensa de prévia liquidação em execução individual de sentença coletiva",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Pagina-de-Repetitivos-traz-teses-sobre-dispensa-de-previa-liquidacao-em-execucao-individual-de-sentenca-coletiva.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Podcast STJ No Seu Dia discute entendimentos da corte sobre nova Lei de Licitações após cinco anos de vigência",
-      "summary": "Podcast STJ No Seu Dia discute entendimentos da corte sobre nova Lei de Licitações após cinco anos de vigência",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Podcast-STJ-No-Seu-Dia-discute-entendimentos-da-corte-sobre-nova-Lei-de-Licitacoes-apos-cinco-anos-de-vigencia.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Repetitivo discute conceito de contemporaneidade para definição do preço de mercado em desapropriações",
-      "summary": "Repetitivo discute conceito de contemporaneidade para definição do preço de mercado em desapropriações",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Repetitivo-discute-conceito-de-contemporaneidade-para-definicao-do-preco-de-mercado-em-desapropriacoes.aspx",
-      "date": "2026-06-10",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Justiça do Trabalho participa da Operação Excelsior e amplia acesso a serviços trabalhistas no interior do Amazonas",
       "summary": "Atuação inédita do TRT-11 na maior ação humanitária da FAB na Região Norte levou orientações jurídicas, atendimentos trabalhistas e ações de cidadania a moradores de Itacoatiara e Parintins.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11432-justica-do-trabalho-participa-da-operacao-excelsior-e-amplia-acesso-a-servicos-trabalhistas-no-interior-do-amazonas",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +31,7 @@
       "title": "Justiça do Trabalho mantém demissão de professor universitário após acusações de assédio sexual",
       "summary": "Relatos apontam que o docente fazia comentários de cunho sexual, chamava de “bonita” e “gostosa” as alunas e insistia em convites para encontros",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11429-justica-do-trabalho-mantem-demissao-de-professor-universitario-apos-acusacoes-de-assedio-sexual",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "category": "Trabalhista"
     }
   ]

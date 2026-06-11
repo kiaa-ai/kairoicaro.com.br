@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-10T11:35:50.332375+00:00",
+  "updated_at": "2026-06-11T12:07:01.035776+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "ambiental",
+      "title": "11.jun.2026Senado aprova Benedito Gonçalves como corregedor Nacional de JustiçaMinistro do STJ recebeu 53 votos favoráveis e assumirá o cargo para o biênio 2026-2028.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-11",
+      "url": "https://www.migalhas.com.br/quentes/457911/senado-aprova-benedito-goncalves-como-corregedor-nacional-de-justica"
+    },
+    {
+      "setor": "varejo",
+      "title": "11.jun.2026Supermercado é multado por descumprir convenção sobre escala da Copa do MundoTrabalhadora atuou em dias de partidas do Brasil sem receber compensações previstas em convenção coletiva.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-11",
+      "url": "https://www.migalhas.com.br/quentes/457909/supermercado-e-multado-por-descumprir-convencao-sobre-escala-da-copa"
+    },
+    {
+      "setor": "empresarial",
+      "title": "11.jun.2026Lex Design e Asklisa promovem 4ª edição do Spotlight Summit em agostoPromovido pela Lex Design e Asklisa, o evento acontece em 6/8 no State Innovation Center, em São Paulo, com líderes jurídicos, CEOs e executivos de tecnologia na grade.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-11",
+      "url": "https://www.migalhas.com.br/quentes/457856/lex-design-e-asklisa-promovem-4-edicao-do-spotlight-summit-em-agosto"
+    },
+    {
+      "setor": "empresarial",
+      "title": "11.jun.2026STF discute saídas para evitar judicialização da reforma tributáriaDivisão de competências entre Justiça Federal e Estadual alimenta preocupação com insegurança jurídica e aumento do contencioso envolvendo IBS e CBS.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-11",
+      "url": "https://www.migalhas.com.br/quentes/457866/stf-discute-saidas-para-evitar-judicializacao-da-reforma-tributaria"
+    },
+    {
+      "setor": "empresarial",
+      "title": "10.jun.2026STF: Entenda ajustes propostos por Toffoli em tese sobre redes sociaisRelator propôs ajustes na tese sobre responsabilidade de plataformas, mas julgamento foi suspenso e voto será concluído na quinta-feira, 11.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-11",
+      "url": "https://www.migalhas.com.br/quentes/457901/stf-entenda-ajustes-propostos-por-toffoli-em-tese-sobre-redes-sociais"
+    },
+    {
+      "setor": "empresarial",
+      "title": "10.jun.2026STJ: Honorários são devidos mesmo quando dívida fiscal é paga antes de citação1ª seção decidiu que quitação de débito após o ajuizamento de execução fiscal não afasta condenação ao pagamento de honorários advocatícios.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-11",
+      "url": "https://www.migalhas.com.br/quentes/457904/honorario-e-devido-mesmo-quando-divida-fiscal-e-paga-antes-de-citacao"
+    },
     {
       "setor": "ambiental",
       "title": "10.jun.2026STF: Professor que negou café para não ficar \"da cor\" de aluna é condenadoMinistro entendeu que a intenção discriminatória pode ser extraída do contexto e das expressões utilizadas.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-09",
       "url": "https://www.migalhas.com.br/quentes/457612/namoro-no-trabalho-quais-sao-os-limites-no-ambiente-corporativo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "8.jun.2026STJ anula Júri após réu ser impedido de usar roupas civis em plenárioMinistro Reynaldo Soares da Fonseca entendeu que a negativa genérica ao uso de roupas civis, sem justificativa concreta de segurança ou logística, comprometeu a plenitude de defesa no Tribunal do Júri.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-09",
-      "url": "https://www.migalhas.com.br/quentes/457652/stj-anula-juri-apos-reu-ser-impedido-de-usar-roupas-civis-em-plenario"
-    },
-    {
-      "setor": "ambiental",
-      "title": "8.jun.2026Justiça mantém condenação de financeira por golpe com uso indevido de dadosGolpistas utilizaram dados pessoais e informações sobre contrato de empréstimo de consumidora para aplicar a fraude.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-09",
-      "url": "https://www.migalhas.com.br/quentes/457658/mantida-condenacao-de-financeira-por-golpe-com-uso-indevido-de-dados"
-    },
-    {
-      "setor": "empresarial",
-      "title": "8.jun.2026STJ afeta recursos e suspende ações sobre Airbnb em condomínios2ª seção vai definir se convenção residencial basta para barrar locações curtas por plataformas digitais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-09",
-      "url": "https://www.migalhas.com.br/quentes/457659/stj-afeta-recursos-e-suspende-acoes-sobre-airbnb-em-condominios"
-    },
-    {
-      "setor": "ambiental",
-      "title": "8.jun.2026CNJ cria base nacional para mapear abusos em registros de protestoProvimento determinou envio padronizado de dados pelos cartórios para identificar litigância predatória e distorções no mercado de crédito.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-08",
-      "url": "https://www.migalhas.com.br/quentes/457572/cnj-cria-base-nacional-para-mapear-abusos-em-registros-de-protesto"
-    },
-    {
-      "setor": "empresarial",
-      "title": "8.jun.2026TJ/SP valida lei que prioriza vaga escolar a vítimas de violência domésticaÓrgão Especial afastou alegação de invasão de competência do Executivo e destacou consonância da norma com as leis Henry Borel e Maria da Penha.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-08",
-      "url": "https://www.migalhas.com.br/quentes/457499/e-valida-lei-que-prioriza-vaga-escolar-a-vitima-de-violencia-domestica"
-    },
-    {
-      "setor": "empresarial",
-      "title": "8.jun.2026Espaço do STJ recebe lançamento de obra em homenagem a Paulo MendesA publicação reúne artigos de 54 autores que debatem os desafios da jurisdição constitucional e do processo civil no Brasil contemporâneo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-08",
-      "url": "https://www.migalhas.com.br/quentes/457385/espaco-do-stj-recebe-lancamento-de-obra-em-homenagem-a-paulo-mendes"
     }
   ]
 }

@@ -1,60 +1,36 @@
 {
-  "updated_at": "2026-06-12T15:39:08.317370+00:00",
-  "total": 8,
+  "updated_at": "2026-06-12T20:25:33.549329+00:00",
+  "total": 5,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira os destaques do Plenário Virtual",
-      "summary": "Sessão começou às 11h desta sexta-feira (12) e termina em 19/6, às 23h59",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-20/",
+      "title": "STF determina ajustes em plano de reestruturação da CVM",
+      "summary": "Ministro Flávio Dino apontou falhas no plano apresentado e estabeleceu prazos para reforçar fiscalização e julgamento de processos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-ajustes-em-plano-de-reestruturacao-da-cvm/",
       "date": "2026-06-12",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "‘Direito sem juridiquês’: entenda como funciona o mandado de injunção",
-      "summary": "Vídeo da série educativa apresenta, de forma simples, quando esse instrumento constitucional pode ser utilizado",
-      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-como-funciona-o-mandado-de-injuncao/",
+      "title": "STF e CNJ promovem reunião para fortalecer articulação institucional com Congresso",
+      "summary": "Ministro Fachin ressaltou papel estratégico das assessorias parlamentares e de relações institucionais na promoção do diálogo entre Poderes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-e-cnj-promovem-reuniao-para-fortalecer-articulacao-institucional-com-congresso/",
       "date": "2026-06-12",
       "category": "Constitucional"
     },
     {
-      "tribunal": "STJ",
-      "title": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
-      "summary": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Nova-edicao-da-Pesquisa-Pronta-destaca-entendimentos-sobre-crimes-sexuais-e-crimes-contra-a-vida.aspx",
+      "tribunal": "TRT11",
+      "title": "Aprendizagem ajuda empresas a formar talentos e ampliar oportunidades para jovens",
+      "summary": "Os programas de aprendizagem prepararam futuros profissionais e fortalecem equipes, além de contribuem diretamente na inclusão social ao serem uma das formas mais eficazes de erradicação do trabalho infantil.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11437-aprendizagem-ajuda-empresas-a-formar-talentos-e-ampliar-oportunidades-para-jovens",
       "date": "2026-06-12",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Quarta Turma terá duas sessões na próxima terça-feira (16)",
-      "summary": "Quarta Turma terá duas sessões na próxima terça-feira (16)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Quarta-Turma-tera-duas-sessoes-na-proxima-terca-feira--16-.aspx",
-      "date": "2026-06-12",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Prorrogadas até dia 19 as inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário",
-      "summary": "Prorrogadas até dia 19 as inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Prorrogadas-ate-dia-19-as-inscricoes-para-audiencia-sobre-fortalecimento-da-sustentabilidade-no-Judiciario-.aspx",
-      "date": "2026-06-12",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Justiça do Trabalho determina cumprimento de cota de aprendizagem por hospital em Parintins",
       "summary": "Decisão proferida reforça a importância da aprendizagem profissional como instrumento de inclusão social e prevenção ao trabalho infantil",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11436-justica-do-trabalho-determina-cumprimento-de-cota-de-aprendizagem-por-hospital-em-parintins",
-      "date": "2026-06-12",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "TRT-11 participa do 47º Coleouv em Fortaleza",
-      "summary": "O Tribunal Regional do Trabalho da 11ª Região (AM/RR), por meio da sua ouvidora regional, desembargadora Ormy da Conceição Dias Bentes, participa do 47º Encontro do Colégio de Ouvidores da Justiça do Trabalho (Coleouv), em Fortaleza. Voltado para ouvidores, magistrados, servidores, gestores públicos",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11435-trt-11-participa-do-47-coleouv-em-fortaleza",
       "date": "2026-06-12",
       "category": "Trabalhista"
     },

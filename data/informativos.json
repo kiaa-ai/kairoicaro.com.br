@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-12T10:39:31.674357+00:00",
-  "total": 7,
+  "updated_at": "2026-06-12T11:41:02.011318+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Presidente do STF institui grupo de estudos sobre modernização do sistema de Justiça brasileiro",
+      "summary": "Iniciativa reunirá ministros de tribunais superiores, magistrados, professores e juristas e visa à formulação de propostas para aperfeiçoamento institucional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-institui-grupo-de-estudos-sobre-modernizacao-do-sistema-de-justica-brasileiro/",
+      "date": "2026-06-12",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF avança na discussão de ajustes na tese do Marco Civil da Internet",
@@ -9,38 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-na-discussao-de-ajustes-na-tese-do-marco-civil-da-internet/",
       "date": "2026-06-12",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "Decreto cria Parque Nacional Tanaru conforme plano homologado pelo STF",
-      "summary": "Implementada pelo governo federal, medida decorre de plano homologado no STF e visa preservar a memória do povo que viveu na região",
-      "url": "https://noticias.stf.jus.br/postsnoticias/decreto-cria-parque-nacional-tanaru-conforme-plano-homologado-pelo-stf/",
-      "date": "2026-06-12",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STF promove evento com escuta e conscientização sobre meio ambiente e justiça climática",
-      "summary": "STF promove evento com escuta e conscientização sobre meio ambiente e justiça climática",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11062026-STF-promove-evento-com-escuta-e-conscientizacao-sobre-meio-ambiente-e-justica-climatica.aspx",
-      "date": "2026-06-12",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada no próximo dia 23",
-      "summary": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada no próximo dia 23",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11062026-Nova-edicao-da-obra-de-Amaro-Cavalcanti-sobre-regime-federativo-sera-lancada-no-proximo-dia-23-.aspx",
-      "date": "2026-06-12",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "O Futebol e o STJ: do Campo ao Tribunal. Nova série traz decisões sobre o esporte mais popular do planeta",
-      "summary": "A visão da corte em conflitos que extrapolam as linhas do campo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11062026-O-Futebol-e-o-STJ-do-Campo-ao-Tribunal--Nova-serie-traz-decisoes-sobre-o-esporte-mais-popular-do-planeta--.aspx",
-      "date": "2026-06-12",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

@@ -1,22 +1,54 @@
 {
-  "updated_at": "2026-06-12T11:41:02.011318+00:00",
-  "total": 4,
+  "updated_at": "2026-06-12T15:39:08.317370+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Presidente do STF institui grupo de estudos sobre modernização do sistema de Justiça brasileiro",
-      "summary": "Iniciativa reunirá ministros de tribunais superiores, magistrados, professores e juristas e visa à formulação de propostas para aperfeiçoamento institucional",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-institui-grupo-de-estudos-sobre-modernizacao-do-sistema-de-justica-brasileiro/",
+      "title": "Confira os destaques do Plenário Virtual",
+      "summary": "Sessão começou às 11h desta sexta-feira (12) e termina em 19/6, às 23h59",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-20/",
       "date": "2026-06-12",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF avança na discussão de ajustes na tese do Marco Civil da Internet",
-      "summary": "Julgamento deverá ser retomado na próxima quarta (17), mas já há consenso sobre prazo de 60 dias para implementar medidas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-na-discussao-de-ajustes-na-tese-do-marco-civil-da-internet/",
+      "title": "‘Direito sem juridiquês’: entenda como funciona o mandado de injunção",
+      "summary": "Vídeo da série educativa apresenta, de forma simples, quando esse instrumento constitucional pode ser utilizado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-como-funciona-o-mandado-de-injuncao/",
       "date": "2026-06-12",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
+      "summary": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Nova-edicao-da-Pesquisa-Pronta-destaca-entendimentos-sobre-crimes-sexuais-e-crimes-contra-a-vida.aspx",
+      "date": "2026-06-12",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Quarta Turma terá duas sessões na próxima terça-feira (16)",
+      "summary": "Quarta Turma terá duas sessões na próxima terça-feira (16)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Quarta-Turma-tera-duas-sessoes-na-proxima-terca-feira--16-.aspx",
+      "date": "2026-06-12",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Prorrogadas até dia 19 as inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário",
+      "summary": "Prorrogadas até dia 19 as inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Prorrogadas-ate-dia-19-as-inscricoes-para-audiencia-sobre-fortalecimento-da-sustentabilidade-no-Judiciario-.aspx",
+      "date": "2026-06-12",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho determina cumprimento de cota de aprendizagem por hospital em Parintins",
+      "summary": "Decisão proferida reforça a importância da aprendizagem profissional como instrumento de inclusão social e prevenção ao trabalho infantil",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11436-justica-do-trabalho-determina-cumprimento-de-cota-de-aprendizagem-por-hospital-em-parintins",
+      "date": "2026-06-12",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
@@ -27,10 +59,10 @@
       "category": "Trabalhista"
     },
     {
-      "tribunal": "TRT11",
-      "title": "Empresa é condenada por submeter adolescente venezuelano a trabalho infantil em condições análogas à escravidão em Manaus",
-      "summary": "Sentença reconheceu vínculo empregatício, deferiu verbas trabalhistas e determinou pagamento de indenização por danos morais. Condenação ultrapassa R$ 470 mil.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11434-empresa-e-condenada-por-submeter-adolescente-venezuelano-a-trabalho-infantil-em-condicoes-analogas-a-escravidao-em-manaus",
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-12",
       "category": "Trabalhista"
     }

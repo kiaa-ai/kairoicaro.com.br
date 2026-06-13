@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-06-12T20:25:33.549329+00:00",
-  "total": 5,
+  "updated_at": "2026-06-13T04:50:57.279332+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF determina ajustes em plano de reestruturação da CVM",
-      "summary": "Ministro Flávio Dino apontou falhas no plano apresentado e estabeleceu prazos para reforçar fiscalização e julgamento de processos",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-ajustes-em-plano-de-reestruturacao-da-cvm/",
-      "date": "2026-06-12",
+      "title": "STF avança no processo de escuta do povo Cinta Larga sobre mineração",
+      "summary": "Reunião realizada em Cuiabá (MT) ouviu lideranças indígenas e representantes do poder público",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-no-processo-de-escuta-do-povo-cinta-larga-sobre-mineracao/",
+      "date": "2026-06-13",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF e CNJ promovem reunião para fortalecer articulação institucional com Congresso",
-      "summary": "Ministro Fachin ressaltou papel estratégico das assessorias parlamentares e de relações institucionais na promoção do diálogo entre Poderes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-e-cnj-promovem-reuniao-para-fortalecer-articulacao-institucional-com-congresso/",
-      "date": "2026-06-12",
+      "title": "Presidente do STF amplia prazo para Município de Campinas (SP) substituir cargos comissionados por efetivos",
+      "summary": "Ministro Edson Fachin considerou insuficiente o prazo fixado pelo Tribunal de Justiça paulista e verificou a possibilidade de comprometimento da prestação de serviços públicos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-amplia-prazo-para-municipio-de-campinas-sp-substituir-cargos-comissionados-por-efetivos/",
+      "date": "2026-06-13",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ nomeia pela primeira vez uma juíza para comandar a Secretaria-Geral da Presidência",
+      "summary": "STJ nomeia pela primeira vez uma juíza para comandar a Secretaria-Geral da Presidência",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-STJ-nomeia-pela-primeira-vez-uma-juiza-para-comandar-a-Secretaria-Geral-da-Presidencia.aspx",
+      "date": "2026-06-13",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ define horário de expediente em dia de jogo do Brasil na Copa do Mundo",
+      "summary": "STJ define horário de expediente em dia de jogo do Brasil na Copa do Mundo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-STJ-define-horario-de-expediente-em-dia-de-jogo-do-Brasil-na-Copa-do-Mundo.aspx",
+      "date": "2026-06-13",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
+      "summary": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Nova-edicao-da-Pesquisa-Pronta-destaca-entendimentos-sobre-crimes-sexuais-e-crimes-contra-a-vida.aspx",
+      "date": "2026-06-13",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Aprendizagem ajuda empresas a formar talentos e ampliar oportunidades para jovens",
       "summary": "Os programas de aprendizagem prepararam futuros profissionais e fortalecem equipes, além de contribuem diretamente na inclusão social ao serem uma das formas mais eficazes de erradicação do trabalho infantil.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11437-aprendizagem-ajuda-empresas-a-formar-talentos-e-ampliar-oportunidades-para-jovens",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "category": "Trabalhista"
     },
     {
@@ -31,15 +55,7 @@
       "title": "Justiça do Trabalho determina cumprimento de cota de aprendizagem por hospital em Parintins",
       "summary": "Decisão proferida reforça a importância da aprendizagem profissional como instrumento de inclusão social e prevenção ao trabalho infantil",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11436-justica-do-trabalho-determina-cumprimento-de-cota-de-aprendizagem-por-hospital-em-parintins",
-      "date": "2026-06-12",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "category": "Trabalhista"
     }
   ]

@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-12T11:41:19.186432+00:00",
+  "updated_at": "2026-06-13T10:24:58.685302+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "13.jun.2026Servidora será indenizada por falta de banheiro femininoTJ/SP entendeu que município falhou ao não oferecer instalações adequadas à única mulher lotada no setor.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-13",
+      "url": "https://www.migalhas.com.br/quentes/457786/servidora-sera-indenizada-por-falta-de-banheiro-feminino"
+    },
+    {
+      "setor": "empresarial",
+      "title": "12.jun.2026TST admite recurso em ação de produção antecipada de provasPara colegiado, vedação recursal do CPC não pode violar o contraditório e a ampla defesa.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-13",
+      "url": "https://www.migalhas.com.br/quentes/458046/tst-admite-recurso-em-acao-de-producao-antecipada-de-provas"
+    },
+    {
+      "setor": "empresarial",
+      "title": "12.jun.2026STF: Zanin vota para abater da pena período de recolhimento domiciliar noturnoSupremo analisa se medida cautelar de recolhimento domiciliar noturno e nos dias de folga pode ser descontada da pena; relator votou pela possibilidade, com critérios conforme o regime inicial da pena.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-13",
+      "url": "https://www.migalhas.com.br/quentes/458061/stf-zanin-vota-para-abater-recolhimento-domiciliar-noturno-da-pena"
+    },
+    {
+      "setor": "empresarial",
+      "title": "12.jun.2026STF julga lei do RJ que transformou Corpus Christi em feriado estadualRelatora, ministra Cármen Lúcia, votou pela constitucionalidade da norma; julgamento em plenário virtual segue até 19/5.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-13",
+      "url": "https://www.migalhas.com.br/quentes/458057/stf-julga-lei-do-rj-que-transformou-corpus-christi-em-feriado-estadual"
+    },
+    {
+      "setor": "empresarial",
+      "title": "12.jun.2026Juíza impede negativação de cliente que questionou juros de financiamentoMagistrada autorizou depósito judicial do valor considerado devido e manteve posse de veículo durante tramitação da ação.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-13",
+      "url": "https://www.migalhas.com.br/quentes/458052/barrada-negativacao-de-cliente-que-questionou-juros-de-financiamento"
+    },
+    {
+      "setor": "ambiental",
+      "title": "12.jun.2026FGV Direito Rio publica guia para adequação de produtores à EUDRMaterial orienta produtores e exportadores brasileiros sobre exigências da norma europeia contra o desmatamento.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-13",
+      "url": "https://www.migalhas.com.br/quentes/458048/fgv-direito-rio-publica-guia-para-adequacao-de-produtores-a-eudr"
+    },
     {
       "setor": "empresarial",
       "title": "12.jun.2026Brasil e Marrocos, bolão dos ministros e notícias jurídicas no Minuto MigalhasMigalhas viajou mais de 7 mil quilômetros para conhecer de perto o adversário da estreia.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-11",
       "url": "https://www.migalhas.com.br/quentes/457856/lex-design-e-asklisa-promovem-4-edicao-do-spotlight-summit-em-agosto"
-    },
-    {
-      "setor": "empresarial",
-      "title": "11.jun.2026STF discute saídas para evitar judicialização da reforma tributáriaDivisão de competências entre Justiça Federal e Estadual alimenta preocupação com insegurança jurídica e aumento do contencioso envolvendo IBS e CBS.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-11",
-      "url": "https://www.migalhas.com.br/quentes/457866/stf-discute-saidas-para-evitar-judicializacao-da-reforma-tributaria"
-    },
-    {
-      "setor": "empresarial",
-      "title": "10.jun.2026STF: Entenda ajustes propostos por Toffoli em tese sobre redes sociaisRelator propôs ajustes na tese sobre responsabilidade de plataformas, mas julgamento foi suspenso e voto será concluído na quinta-feira, 11.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-11",
-      "url": "https://www.migalhas.com.br/quentes/457901/stf-entenda-ajustes-propostos-por-toffoli-em-tese-sobre-redes-sociais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "10.jun.2026STJ: Honorários são devidos mesmo quando dívida fiscal é paga antes de citação1ª seção decidiu que quitação de débito após o ajuizamento de execução fiscal não afasta condenação ao pagamento de honorários advocatícios.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-11",
-      "url": "https://www.migalhas.com.br/quentes/457904/honorario-e-devido-mesmo-quando-divida-fiscal-e-paga-antes-de-citacao"
-    },
-    {
-      "setor": "ambiental",
-      "title": "10.jun.2026STF: Professor que negou café para não ficar \"da cor\" de aluna é condenadoMinistro entendeu que a intenção discriminatória pode ser extraída do contexto e das expressões utilizadas.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-10",
-      "url": "https://www.migalhas.com.br/quentes/457814/professor-que-negou-cafe-para-nao-ficar-da-cor-de-aluna-e-condenado"
-    },
-    {
-      "setor": "empresarial",
-      "title": "10.jun.2026Sorteio da obra \"Neutralidade, Valor Acrescido e Tributação\"A publicação analisa a tributação sobre o consumo em perspectiva nacional e internacional, abordando a complexidade dos tributos indiretos e seus cenários comparados.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-10",
-      "url": "https://www.migalhas.com.br/quentes/457633/sorteio-da-obra-neutralidade-valor-acrescido-e-tributacao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "10.jun.2026Nova obra desvenda os principais recursos ao STF e ao STJProcuradora do Estado de São Paulo, Michelle Najara A. Silva reúne técnicas, precedentes e exemplos práticos para orientar a atuação nos Tribunais Superiores.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-10",
-      "url": "https://www.migalhas.com.br/quentes/457626/nova-obra-desvenda-os-principais-recursos-ao-stf-e-ao-stj"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T09:55:56.973858+00:00",
-  "total": 4,
+  "updated_at": "2026-06-14T10:46:23.732716+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/aperfeicoamento-da-tese-sobre-marco-civil-da-internet-e-destaque-no-supremo-na-semana/",
       "date": "2026-06-14",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ nomeia pela primeira vez uma juíza para comandar a Secretaria-Geral da Presidência",
+      "summary": "STJ nomeia pela primeira vez uma juíza para comandar a Secretaria-Geral da Presidência",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-STJ-nomeia-pela-primeira-vez-uma-juiza-para-comandar-a-Secretaria-Geral-da-Presidencia.aspx",
+      "date": "2026-06-14",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ define horário de expediente em dia de jogo do Brasil na Copa do Mundo",
+      "summary": "STJ define horário de expediente em dia de jogo do Brasil na Copa do Mundo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-STJ-define-horario-de-expediente-em-dia-de-jogo-do-Brasil-na-Copa-do-Mundo.aspx",
+      "date": "2026-06-14",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
+      "summary": "Nova edição da Pesquisa Pronta destaca entendimentos sobre crimes sexuais e crimes contra a vida",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-Nova-edicao-da-Pesquisa-Pronta-destaca-entendimentos-sobre-crimes-sexuais-e-crimes-contra-a-vida.aspx",
+      "date": "2026-06-14",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

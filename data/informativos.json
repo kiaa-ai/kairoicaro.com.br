@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-06-15T13:50:50.233630+00:00",
+  "updated_at": "2026-06-15T21:21:29.613864+00:00",
   "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confederação do comércio contesta flexibilização para obtenção da CNH",
-      "summary": "Entidade afirma que resolução do Contran precariza formação de motoristas, invade competências dos estados e eleva riscos no trânsito",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-do-comercio-contesta-flexibilizacao-para-obtencao-da-cnh/",
+      "title": "STF julga nesta terça (16) ação contra Eduardo Bolsonaro por tentativa de interferência em julgamento sobre golpe de Estado",
+      "summary": "Ex-parlamentar responde por crime de coação no curso do processo no STF que resultou na condenação de autoridades por tentativa de golpe de Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-julga-nesta-terca-16-acao-contra-eduardo-bolsonaro-por-tentativa-de-interferencia-em-julgamento-sobre-golpe-de-estado/",
       "date": "2026-06-15",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF mantém suspensão de concurso para a Polícia Militar do Rio Grande do Norte",
-      "summary": "Liminar preserva decisão que havia impedido a realização das provas neste domingo (14)",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-suspensao-de-concurso-para-a-policia-militar-do-rio-grande-do-norte/",
+      "title": "Decisões a partir de algoritmos devem preservar direitos humanos, afirma Fachin",
+      "summary": "Presidente do STF e do CNJ abordou o tema na abertura da X Jornada do Direito Civil",
+      "url": "https://noticias.stf.jus.br/postsnoticias/decisoes-a-partir-de-algoritmos-devem-preservar-direitos-humanos-afirma-fachin/",
       "date": "2026-06-15",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Seminário Estadual reúne órgãos para discutir subnotificação e aprimorar canais de denúncia contra o trabalho infantil no Amazonas",
+      "summary": "Documento elaborado pelos órgãos participantes será divulgado em 26 de junho com propostas para fortalecer o Plano Nacional de Combate ao Trabalho Infantil",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11440-seminario-estadual-reune-orgaos-para-discutir-subnotificacao-e-aprimorar-canais-de-denuncia-contra-o-trabalho-infantil-no-amazonas",
+      "date": "2026-06-15",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Aprendizagem ajuda empresas a formar talentos e ampliar oportunidades para jovens",
       "summary": "Os programas de aprendizagem prepararam futuros profissionais e fortalecem equipes, além de contribuem diretamente na inclusão social ao serem uma das formas mais eficazes de erradicação do trabalho infantil.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11437-aprendizagem-ajuda-empresas-a-formar-talentos-e-ampliar-oportunidades-para-jovens",
-      "date": "2026-06-15",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Justiça do Trabalho determina cumprimento de cota de aprendizagem por hospital em Parintins",
-      "summary": "Decisão proferida reforça a importância da aprendizagem profissional como instrumento de inclusão social e prevenção ao trabalho infantil",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11436-justica-do-trabalho-determina-cumprimento-de-cota-de-aprendizagem-por-hospital-em-parintins",
       "date": "2026-06-15",
       "category": "Trabalhista"
     }

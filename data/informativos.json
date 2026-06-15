@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-14T19:57:50.540911+00:00",
-  "total": 4,
+  "updated_at": "2026-06-15T05:27:32.865563+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
       "title": "STF mantém suspensão de concurso para a Polícia Militar do Rio Grande do Norte",
       "summary": "Liminar preserva decisão que havia impedido a realização das provas neste domingo (14)",
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-suspensao-de-concurso-para-a-policia-militar-do-rio-grande-do-norte/",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "category": "Constitucional"
     },
     {
@@ -15,15 +15,39 @@
       "title": "Aperfeiçoamento da tese sobre Marco Civil da Internet é destaque no Supremo na Semana",
       "summary": "Episódio #193 está disponível nas principais plataformas de áudio e no YouTube",
       "url": "https://noticias.stf.jus.br/postsnoticias/aperfeicoamento-da-tese-sobre-marco-civil-da-internet-e-destaque-no-supremo-na-semana/",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ manifesta pesar pela morte do juiz Antonio Evangelista de Souza Netto",
+      "summary": "STJ manifesta pesar pela morte do juiz Antonio Evangelista de Souza Netto",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14062026-STJ-manifesta-pesar-pela-morte-do-juiz-Antonio-Evangelista-de-Souza-Netto.aspx",
+      "date": "2026-06-15",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Com a palavra, o réu: precedentes do STJ sobre os efeitos da confissão no processo penal",
+      "summary": "Para o tribunal, a confissão fora do juízo – especialmente se ocorre de maneira informal – tem baixa confiabilidade, pois o acusado fica exposto a pressões que podem comprometer a busca pela verdade.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14062026-Com-a-palavra--o-reu-precedentes-do-STJ-sobre-os-efeitos-da-confissao-no-processo-penal.aspx",
+      "date": "2026-06-15",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ nomeia pela primeira vez uma juíza para comandar a Secretaria-Geral da Presidência",
+      "summary": "STJ nomeia pela primeira vez uma juíza para comandar a Secretaria-Geral da Presidência",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12062026-STJ-nomeia-pela-primeira-vez-uma-juiza-para-comandar-a-Secretaria-Geral-da-Presidencia.aspx",
+      "date": "2026-06-15",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Aprendizagem ajuda empresas a formar talentos e ampliar oportunidades para jovens",
       "summary": "Os programas de aprendizagem prepararam futuros profissionais e fortalecem equipes, além de contribuem diretamente na inclusão social ao serem uma das formas mais eficazes de erradicação do trabalho infantil.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11437-aprendizagem-ajuda-empresas-a-formar-talentos-e-ampliar-oportunidades-para-jovens",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "Justiça do Trabalho determina cumprimento de cota de aprendizagem por hospital em Parintins",
       "summary": "Decisão proferida reforça a importância da aprendizagem profissional como instrumento de inclusão social e prevenção ao trabalho infantil",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11436-justica-do-trabalho-determina-cumprimento-de-cota-de-aprendizagem-por-hospital-em-parintins",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "category": "Trabalhista"
     }
   ]

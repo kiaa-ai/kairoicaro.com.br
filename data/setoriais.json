@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-06-15T13:50:53.634126+00:00",
+  "updated_at": "2026-06-16T12:49:16.664169+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "16.jun.2026STF mantém regra que flexibilizou emissões em plataformas de petróleoPor unanimidade, Corte rejeitou ação da PGR e manteve resolução do Conama aplicável a plataformas offshore totalmente eletrificadas.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-16",
+      "url": "https://www.migalhas.com.br/quentes/458219/stf-mantem-regra-que-flexibilizou-emissoes-em-plataformas-de-petroleo"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.jun.2026STJ reconhece direito de espólio à restituição de IR de falecida por câncer2ª turma entendeu que crédito tributário não recebido em vida integra a herança e dispensa pedido administrativo prévio.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-16",
+      "url": "https://www.migalhas.com.br/quentes/458197/stj-autoriza-espolio-a-pedir-restituicao-de-ir-de-falecida-por-cancer"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.jun.2026OAB lança plano nacional para orientar uso de IA na advocaciaIniciativa prevê capacitação, diretrizes de uso e ações para reduzir desigualdades tecnológicas na profissão.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-16",
+      "url": "https://www.migalhas.com.br/quentes/458194/oab-lanca-plano-nacional-para-orientar-uso-de-ia-na-advocacia"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.jun.2026Instituto Global ESG lança estudo sobre reporte de sustentabilidadePublicação organizada por Alexandre Arnone e Sóstenes Marchezine analisa os impactos da Resolução CVM 193/2023 e dos padrões IFRS na governança sustentável.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-16",
+      "url": "https://www.migalhas.com.br/quentes/458132/instituto-global-esg-lanca-estudo-sobre-reporte-de-sustentabilidade"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.jun.2026Contrato de namoro cresce 425% em São Paulo, segundo dados do CNB/SPDocumento usado para proteger patrimônio e herdeiros em relacionamentos registra, em 2025, o maior número desde o início da série histórica.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-16",
+      "url": "https://www.migalhas.com.br/quentes/458124/contrato-de-namoro-cresce-425-em-sao-paulo-segundo-dados-do-cnb-sp"
+    },
     {
       "setor": "empresarial",
       "title": "15.jun.2026Copa: Influencer pode monetizar conteúdo com visto de turista? EntendaEntendimento das autoridades considera onde a atividade foi realizada, e não apenas o local de pagamento.",
@@ -81,46 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-14",
       "url": "https://www.migalhas.com.br/quentes/458011/empresa-indenizara-mae-de-crianca-com-tea-apos-falhas-em-viagem"
-    },
-    {
-      "setor": "empresarial",
-      "title": "13.jun.2026STJ nomeia primeira mulher como secretária-geral da PresidênciaJuíza de Direito Maria Paula Cassone Rossi assume função inédita no STJ; magistrada integra o TJ/SP desde 1999.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-14",
-      "url": "https://www.migalhas.com.br/quentes/458067/stj-nomeia-primeira-mulher-como-secretaria-geral-da-presidencia"
-    },
-    {
-      "setor": "empresarial",
-      "title": "13.jun.2026TRT-24 afasta vínculo de corretora contratada como PJColegiado aplicou entendimento do STF sobre formas alternativas de contratação e excluiu condenações decorrentes do reconhecimento do vínculo empregatício.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-14",
-      "url": "https://www.migalhas.com.br/quentes/457558/trt-24-afasta-vinculo-de-corretora-contratada-como-pj"
-    },
-    {
-      "setor": "empresarial",
-      "title": "13.jun.2026Servidora será indenizada por falta de banheiro femininoTJ/SP entendeu que município falhou ao não oferecer instalações adequadas à única mulher lotada no setor.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-13",
-      "url": "https://www.migalhas.com.br/quentes/457786/servidora-sera-indenizada-por-falta-de-banheiro-feminino"
-    },
-    {
-      "setor": "empresarial",
-      "title": "12.jun.2026TST admite recurso em ação de produção antecipada de provasPara colegiado, vedação recursal do CPC não pode violar o contraditório e a ampla defesa.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-13",
-      "url": "https://www.migalhas.com.br/quentes/458046/tst-admite-recurso-em-acao-de-producao-antecipada-de-provas"
-    },
-    {
-      "setor": "empresarial",
-      "title": "12.jun.2026STF: Zanin vota para abater da pena período de recolhimento domiciliar noturnoSupremo analisa se medida cautelar de recolhimento domiciliar noturno e nos dias de folga pode ser descontada da pena; relator votou pela possibilidade, com critérios conforme o regime inicial da pena.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-13",
-      "url": "https://www.migalhas.com.br/quentes/458061/stf-zanin-vota-para-abater-recolhimento-domiciliar-noturno-da-pena"
     }
   ]
 }

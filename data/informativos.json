@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-06-16T17:20:03.961932+00:00",
+  "updated_at": "2026-06-16T21:19:27.707399+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Evento no STF reúne vozes da ciência, do direito e de comunidades em defesa do meio ambiente",
-      "summary": "Exposições destacaram a relação entre preservação ambiental, direitos humanos e desenvolvimento sustentável",
-      "url": "https://noticias.stf.jus.br/postsnoticias/evento-no-stf-reune-vozes-da-ciencia-do-direito-e-de-comunidades-em-defesa-do-meio-ambiente/",
+      "title": "STF nega pedido para suspender destinação de recursos de consórcios ao Novo Desenrola Brasil",
+      "summary": "Ministro Cristiano Zanin considerou não haver elementos suficientes para a concessão de liminar",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-nega-pedido-para-suspender-destinacao-de-recursos-de-consorcios-ao-novo-desenrola-brasil/",
       "date": "2026-06-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF reconhece legitimidade da OAB para questionar constitucionalidade de leis municipais no TJ-CE",
-      "summary": "Segundo a decisão, não se pode restringir a atuação da entidade quando a Constituição estadual reconhece sua legitimidade para propor ações de controle de constitucionalidade",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-legitimidade-da-oab-para-questionar-constitucionalidade-de-leis-municipais-no-tj-ce/",
+      "title": "STF condena Eduardo Bolsonaro por coação no curso do processo sobre tentativa de golpe",
+      "summary": "1ª Turma seguiu o voto do relator da ação penal, ministro Alexandre de Moraes; colegiado fixou a pena de 4 anos e 2 meses de prisão, em regime inicial semiaberto; em instantes, mais detalhes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-por-coacao-no-curso-do-processo-sobre-tentativa-de-golpe/",
       "date": "2026-06-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STJ",
-      "title": "STJ NotГ­cias apresenta decisГЈo que anulou emprГ©stimo contratado por analfabeto",
-      "summary": "STJ NotГ­cias apresenta decisГЈo que anulou emprГ©stimo contratado por analfabeto",
+      "title": "Encontro Nacional sobre Precedentes Qualificados começa nesta quarta-feira (17)",
+      "summary": "Encontro Nacional sobre Precedentes Qualificados começa nesta quarta-feira (17)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-Encontro-Nacional-sobre-Precedentes-Qualificados-comeca-nesta-quarta-feira--17-.aspx",
+      "date": "2026-06-16",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ Notícias apresenta decisão que anulou empréstimo contratado por analfabeto",
+      "summary": "STJ Notícias apresenta decisão que anulou empréstimo contratado por analfabeto",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-STJ-Noticias-apresenta-decisao-que-anulou-emprestimo-contratado-por-analfabeto-.aspx",
       "date": "2026-06-16",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "ExposiГ§ГЈo de fotos de AraquГ©m AlcГўntara no STJ fica aberta para visitaГ§ГЈo pГєblica atГ© 31 de agosto",
-      "summary": "ExposiГ§ГЈo de fotos de AraquГ©m AlcГўntara no STJ fica aberta para visitaГ§ГЈo pГєblica atГ© 31 de agosto",
+      "title": "Exposição de fotos de Araquém Alcântara no STJ fica aberta para visitação pública até 31 de agosto",
+      "summary": "Exposição de fotos de Araquém Alcântara no STJ fica aberta para visitação pública até 31 de agosto",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-Exposicao-de-fotos-de-Araquem-Alcantara-no-STJ-fica-aberta-para-visitacao-publica-ate-31-de-agosto.aspx",
       "date": "2026-06-16",
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Obra coletiva sobre filtro de relevГўncia no STJ serГЎ lanГ§ada nesta terГ§a-feira (16)",
-      "summary": "Obra coletiva sobre filtro de relevГўncia no STJ serГЎ lanГ§ada nesta terГ§a-feira (16)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-Obra-coletiva-sobre-filtro-de-relevancia-no-STJ-sera-lancada-nesta-terca-feira--16-.aspx",
+      "tribunal": "TRT11",
+      "title": "Evento em Boa Vista reforça compromisso de combate ao trabalho infantil",
+      "summary": "Seminário reuniu magistrados, especialistas e integrantes da rede de proteção com o objetivo de discutir temas estratégicos relacionados à prevenção e erradicação do trabalho infantil, e fortalecimento da aprendizagem profissional em Roraima.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11444-evento-em-boa-vista-reforca-compromisso-de-combate-ao-trabalho-infantil",
       "date": "2026-06-16",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "TRT-11 reforça divulgação dos canais de denúncia e acolhimento às mulheres em situação de violência",
       "summary": "Materiais informativos com QR Code facilitam o acesso a serviços de apoio, orientação e proteção disponíveis no Amazonas e em Roraima",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11443-trt-11-reforca-divulgacao-dos-canais-de-denuncia-e-acolhimento-as-mulheres-em-situacao-de-violencia",
-      "date": "2026-06-16",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Semana Nacional da Conciliação Trabalhista movimenta mais de R$ 22 milhões no TRT-11 em 2026",
-      "summary": "Em cinco dias, foram realizadas 2.424 audiências, resultando em 726 conciliações",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11442-semana-nacional-da-conciliacao-trabalhista-movimenta-mais-de-r-22-milhoes-no-trt-11-em-2026",
       "date": "2026-06-16",
       "category": "Trabalhista"
     }

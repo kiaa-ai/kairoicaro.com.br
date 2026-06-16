@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-06-15T21:21:29.613864+00:00",
-  "total": 4,
+  "updated_at": "2026-06-16T05:32:17.519107+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF julga nesta terça (16) ação contra Eduardo Bolsonaro por tentativa de interferência em julgamento sobre golpe de Estado",
-      "summary": "Ex-parlamentar responde por crime de coação no curso do processo no STF que resultou na condenação de autoridades por tentativa de golpe de Estado",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-julga-nesta-terca-16-acao-contra-eduardo-bolsonaro-por-tentativa-de-interferencia-em-julgamento-sobre-golpe-de-estado/",
-      "date": "2026-06-15",
+      "title": "Evento no STF reúne vozes da ciência, do direito e de comunidades em defesa do meio ambiente",
+      "summary": "Exposições destacaram a relação entre preservação ambiental, direitos humanos e desenvolvimento sustentável",
+      "url": "https://noticias.stf.jus.br/postsnoticias/evento-no-stf-reune-vozes-da-ciencia-do-direito-e-de-comunidades-em-defesa-do-meio-ambiente/",
+      "date": "2026-06-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Decisões a partir de algoritmos devem preservar direitos humanos, afirma Fachin",
-      "summary": "Presidente do STF e do CNJ abordou o tema na abertura da X Jornada do Direito Civil",
-      "url": "https://noticias.stf.jus.br/postsnoticias/decisoes-a-partir-de-algoritmos-devem-preservar-direitos-humanos-afirma-fachin/",
-      "date": "2026-06-15",
+      "title": "STF reconhece legitimidade da OAB para questionar constitucionalidade de leis municipais no TJ-CE",
+      "summary": "Segundo a decisão, não se pode restringir a atuação da entidade quando a Constituição estadual reconhece sua legitimidade para propor ações de controle de constitucionalidade",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-legitimidade-da-oab-para-questionar-constitucionalidade-de-leis-municipais-no-tj-ce/",
+      "date": "2026-06-16",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ abre 2º Congresso da Primeira Instância Federal e Estadual e reforça importância do diálogo com tribunais brasileiros",
+      "summary": "Na segunda edição do encontro, participantes vão discutir e votar 202 propostas de enunciado em diversas áreas do direito. Congresso segue até quarta (17).",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15062026-STJ-abre-2o-Congresso-da-Primeira-Instancia-Federal-e-Estadual-e-reforca-importancia-do-dialogo-com-tribunais.aspx",
+      "date": "2026-06-16",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos destaca aumento de pena por homicídio quando vítima deixa filhos menores",
+      "summary": "Página de Repetitivos destaca aumento de pena por homicídio quando vítima deixa filhos menores",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15062026-Pagina-de-Repetitivos-destaca-aumento-de-pena-por-homicidio-quando-vitima-deixa-filhos-menores.aspx",
+      "date": "2026-06-16",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Citação de empresa estrangeira por meio de representante no Brasil exige prova da representação",
+      "summary": "Citação de empresa estrangeira por meio de representante no Brasil exige prova da representação",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15062026-Citacao-de-empresa-estrangeira-por-meio-de-representante-no-Brasil-exige-prova-da-representacao.aspx",
+      "date": "2026-06-16",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Seminário Estadual reúne órgãos para discutir subnotificação e aprimorar canais de denúncia contra o trabalho infantil no Amazonas",
       "summary": "Documento elaborado pelos órgãos participantes será divulgado em 26 de junho com propostas para fortalecer o Plano Nacional de Combate ao Trabalho Infantil",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11440-seminario-estadual-reune-orgaos-para-discutir-subnotificacao-e-aprimorar-canais-de-denuncia-contra-o-trabalho-infantil-no-amazonas",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "Aprendizagem ajuda empresas a formar talentos e ampliar oportunidades para jovens",
       "summary": "Os programas de aprendizagem prepararam futuros profissionais e fortalecem equipes, além de contribuem diretamente na inclusão social ao serem uma das formas mais eficazes de erradicação do trabalho infantil.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11437-aprendizagem-ajuda-empresas-a-formar-talentos-e-ampliar-oportunidades-para-jovens",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "category": "Trabalhista"
     }
   ]

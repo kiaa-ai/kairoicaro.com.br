@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-17T11:16:38.907953+00:00",
-  "total": 7,
+  "updated_at": "2026-06-17T12:13:03.404458+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quarta-feira (17)",
+      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-17-2/",
+      "date": "2026-06-17",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF confirma prisão preventiva de pai e primo de Daniel Vorcaro",
@@ -9,38 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-prisao-preventiva-de-pai-e-primo-de-daniel-vorcaro/",
       "date": "2026-06-17",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "Colapso climático exige respostas do Judiciário, afirmam especialistas no STF",
-      "summary": "Seminário abordou responsabilização judicial por danos ambientais e impacto sobre mudanças do clima sobre povos indígenas e comunidades tradicionais",
-      "url": "https://noticias.stf.jus.br/postsnoticias/colapso-climatico-exige-respostas-do-judiciario-afirmam-especialistas-no-stf/",
-      "date": "2026-06-17",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Pessoa relativamente incapaz pode figurar como sócia em holding familiar, decide Terceira Turma",
-      "summary": "Pessoa relativamente incapaz pode figurar como sócia em holding familiar, decide Terceira Turma",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17062026-Pessoa-relativamente-incapaz-pode-figurar-como-socia-em-holding-familiar--decide-Terceira-Turma-.aspx",
-      "date": "2026-06-17",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Cerceamento de defesa não pode ser reconhecido de ofício, reafirma Segunda Seção",
-      "summary": "Cerceamento de defesa não pode ser reconhecido de ofício, reafirma Segunda Seção",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17062026-Cerceamento-de-defesa-nao-pode-ser-reconhecido-de-oficio--reafirma-Segunda-Secao.aspx",
-      "date": "2026-06-17",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJ mantém ações penais contra engenheiros da Vale e TÜV SÜD por rompimento da barragem em Brumadinho",
-      "summary": "STJ mantém ações penais contra engenheiros da Vale e TÜV SÜD por rompimento da barragem em Brumadinho",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-STJ-mantem-acoes-penais-contra-engenheiros-da-Vale-e-TUV-SUD-por-rompimento-da-barragem-em-Brumadinho.aspx",
-      "date": "2026-06-17",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-06-16T21:19:27.707399+00:00",
+  "updated_at": "2026-06-17T05:16:03.470543+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF nega pedido para suspender destinação de recursos de consórcios ao Novo Desenrola Brasil",
-      "summary": "Ministro Cristiano Zanin considerou não haver elementos suficientes para a concessão de liminar",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-nega-pedido-para-suspender-destinacao-de-recursos-de-consorcios-ao-novo-desenrola-brasil/",
-      "date": "2026-06-16",
+      "title": "STF confirma prisão preventiva de pai e primo de Daniel Vorcaro",
+      "summary": "Por maioria, 2ª Turma considerou necessária a manutenção das medidas a fim de preservar as investigações",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-prisao-preventiva-de-pai-e-primo-de-daniel-vorcaro/",
+      "date": "2026-06-17",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF condena Eduardo Bolsonaro por coação no curso do processo sobre tentativa de golpe",
-      "summary": "1ª Turma seguiu o voto do relator da ação penal, ministro Alexandre de Moraes; colegiado fixou a pena de 4 anos e 2 meses de prisão, em regime inicial semiaberto; em instantes, mais detalhes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-por-coacao-no-curso-do-processo-sobre-tentativa-de-golpe/",
-      "date": "2026-06-16",
+      "title": "Colapso climático exige respostas do Judiciário, afirmam especialistas no STF",
+      "summary": "Seminário abordou responsabilização judicial por danos ambientais e impacto sobre mudanças do clima sobre povos indígenas e comunidades tradicionais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/colapso-climatico-exige-respostas-do-judiciario-afirmam-especialistas-no-stf/",
+      "date": "2026-06-17",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ mantém ações penais contra engenheiros da Vale e TÜV SÜD por rompimento da barragem em Brumadinho",
+      "summary": "STJ mantém ações penais contra engenheiros da Vale e TÜV SÜD por rompimento da barragem em Brumadinho",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-STJ-mantem-acoes-penais-contra-engenheiros-da-Vale-e-TUV-SUD-por-rompimento-da-barragem-em-Brumadinho.aspx",
+      "date": "2026-06-17",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Espaço Cultural STJ lança obra coletiva sobre o filtro de relevância do recurso especial",
+      "summary": "Espaço Cultural STJ lança obra coletiva sobre o filtro de relevância do recurso especial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-Espaco-Cultural-STJ-lanca-obra-coletiva-sobre-o-filtro-de-relevancia-do-recurso-especial.aspx",
+      "date": "2026-06-17",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Encontro Nacional sobre Precedentes Qualificados começa nesta quarta-feira (17)",
       "summary": "Encontro Nacional sobre Precedentes Qualificados começa nesta quarta-feira (17)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-Encontro-Nacional-sobre-Precedentes-Qualificados-comeca-nesta-quarta-feira--17-.aspx",
-      "date": "2026-06-16",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJ Notícias apresenta decisão que anulou empréstimo contratado por analfabeto",
-      "summary": "STJ Notícias apresenta decisão que anulou empréstimo contratado por analfabeto",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-STJ-Noticias-apresenta-decisao-que-anulou-emprestimo-contratado-por-analfabeto-.aspx",
-      "date": "2026-06-16",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Exposição de fotos de Araquém Alcântara no STJ fica aberta para visitação pública até 31 de agosto",
-      "summary": "Exposição de fotos de Araquém Alcântara no STJ fica aberta para visitação pública até 31 de agosto",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16062026-Exposicao-de-fotos-de-Araquem-Alcantara-no-STJ-fica-aberta-para-visitacao-publica-ate-31-de-agosto.aspx",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Evento em Boa Vista reforça compromisso de combate ao trabalho infantil",
       "summary": "Seminário reuniu magistrados, especialistas e integrantes da rede de proteção com o objetivo de discutir temas estratégicos relacionados à prevenção e erradicação do trabalho infantil, e fortalecimento da aprendizagem profissional em Roraima.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11444-evento-em-boa-vista-reforca-compromisso-de-combate-ao-trabalho-infantil",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "TRT-11 reforça divulgação dos canais de denúncia e acolhimento às mulheres em situação de violência",
       "summary": "Materiais informativos com QR Code facilitam o acesso a serviços de apoio, orientação e proteção disponíveis no Amazonas e em Roraima",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11443-trt-11-reforca-divulgacao-dos-canais-de-denuncia-e-acolhimento-as-mulheres-em-situacao-de-violencia",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "category": "Trabalhista"
     }
   ]

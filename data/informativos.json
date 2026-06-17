@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-06-17T16:03:17.772872+00:00",
+  "updated_at": "2026-06-17T20:30:05.769605+00:00",
   "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quarta-feira (17)",
-      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-17-2/",
+      "title": "STF vai decidir validade de sistema de cotas em processo seletivo interno de universidade",
+      "summary": "Matéria teve repercussão geral reconhecida pelo Plenário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-validade-de-sistema-de-cotas-em-processo-seletivo-interno-de-universidade/",
       "date": "2026-06-17",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF confirma prisão preventiva de pai e primo de Daniel Vorcaro",
-      "summary": "Por maioria, 2ª Turma considerou necessária a manutenção das medidas a fim de preservar as investigações",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-prisao-preventiva-de-pai-e-primo-de-daniel-vorcaro/",
+      "title": "Ministro Edson Fachin é homenageado pelos 11 anos de atuação no STF",
+      "summary": "Atual presidente do tribunal tomou posse em 16/6/2015, na vaga aberta com a aposentadoria do ministro Joaquim Barbosa",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ministro-edson-fachin-e-homenageado-pelos-11-anos-de-atuacao-no-stf/",
       "date": "2026-06-17",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "PJe ficará indisponível de 20 a 21 de junho para atualização do sistema",
+      "summary": "Para viabilizar a atualização do Processo Judicial Eletrônico (PJe) para a versão 2.19.3, o sistema ficará indisponível entre 20 e 21 de junho de 2026. A suspensão temporária foi autorizada pela Presidência do Tribunal Regional do Trabalho da 11ª Região (AM/RR), de acordo com as diretrizes do Consel",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11449-pje-ficara-indisponivel-de-20-a-21-de-junho-para-atualizacao-do-sistema",
+      "date": "2026-06-17",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Vara do Trabalho de Manacapuru terá expediente presencial suspenso de 19 a 26 de junho",
       "summary": "Serviços da unidade serão mantidos de forma remota durante o período",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11447-vara-do-trabalho-de-manacapuru-tera-expediente-presencial-suspenso-de-19-a-27-de-junho",
-      "date": "2026-06-17",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Evento em Boa Vista reforça compromisso de combate ao trabalho infantil",
-      "summary": "Seminário reuniu magistrados, especialistas e integrantes da rede de proteção com o objetivo de discutir temas estratégicos relacionados à prevenção e erradicação do trabalho infantil, e fortalecimento da aprendizagem profissional em Roraima.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11444-evento-em-boa-vista-reforca-compromisso-de-combate-ao-trabalho-infantil",
       "date": "2026-06-17",
       "category": "Trabalhista"
     }

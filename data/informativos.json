@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-06-17T20:30:05.769605+00:00",
-  "total": 4,
+  "updated_at": "2026-06-18T05:02:04.382880+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF vai decidir validade de sistema de cotas em processo seletivo interno de universidade",
-      "summary": "Matéria teve repercussão geral reconhecida pelo Plenário",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-validade-de-sistema-de-cotas-em-processo-seletivo-interno-de-universidade/",
-      "date": "2026-06-17",
+      "title": "Julgamento sobre constrangimento da vítima em audiência de processo será retomado nesta quinta-feira (18)",
+      "summary": "Na sessão de hoje (17) foram ouvidas as manifestações das partes",
+      "url": "https://noticias.stf.jus.br/postsnoticias/julgamento-sobre-constrangimento-da-vitima-em-audiencia-de-processo-sera-retomado-nesta-quinta-feira-18/",
+      "date": "2026-06-18",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Ministro Edson Fachin é homenageado pelos 11 anos de atuação no STF",
-      "summary": "Atual presidente do tribunal tomou posse em 16/6/2015, na vaga aberta com a aposentadoria do ministro Joaquim Barbosa",
-      "url": "https://noticias.stf.jus.br/postsnoticias/ministro-edson-fachin-e-homenageado-pelos-11-anos-de-atuacao-no-stf/",
-      "date": "2026-06-17",
+      "title": "Presidente do STF abre encontro nacional para fortalecer sistema de precedentes",
+      "summary": "Na abertura, houve lançamento de livro e assinatura de acordo de cooperação técnica entre STF e STJ; programação segue amanhã (18) e na sexta-feira (19)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-abre-encontro-nacional-para-fortalecer-aplicacao-do-sistema-de-precedentes/",
+      "date": "2026-06-18",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "2º Congresso STJ da Primeira Instância Federal e Estadual conclui trabalhos com a aprovação de 149 enunciados",
+      "summary": "Em três dias de atividades, os 224 participantes do encontro analisaram propostas enviadas por magistrados, membros do Ministério Público e da Defensoria Pública, advogados, professores e servidores da Justiça.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17062026-2o-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual-conclui-trabalhos-com-a-aprovacao-de-149-enunciados.aspx",
+      "date": "2026-06-18",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia discute marcas e indicações geográficas",
+      "summary": "Podcast STJ No Seu Dia discute marcas e indicações geográficas",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17062026-Podcast-STJ-No-Seu-Dia-discute-marcas-e-indicacoes-geograficas.aspx",
+      "date": "2026-06-18",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos destaca a incidência ou não de contribuição previdenciária patronal",
+      "summary": "Página de Repetitivos destaca a incidência ou não de contribuição previdenciária patronal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17062026-Pagina-de-Repetitivos-destaca-a-incidencia-ou-nao-de-contribuicao-previdenciaria-patronal.aspx",
+      "date": "2026-06-18",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "PJe ficará indisponível de 20 a 21 de junho para atualização do sistema",
       "summary": "Para viabilizar a atualização do Processo Judicial Eletrônico (PJe) para a versão 2.19.3, o sistema ficará indisponível entre 20 e 21 de junho de 2026. A suspensão temporária foi autorizada pela Presidência do Tribunal Regional do Trabalho da 11ª Região (AM/RR), de acordo com as diretrizes do Consel",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11449-pje-ficara-indisponivel-de-20-a-21-de-junho-para-atualizacao-do-sistema",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "Vara do Trabalho de Manacapuru terá expediente presencial suspenso de 19 a 26 de junho",
       "summary": "Serviços da unidade serão mantidos de forma remota durante o período",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11447-vara-do-trabalho-de-manacapuru-tera-expediente-presencial-suspenso-de-19-a-27-de-junho",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "category": "Trabalhista"
     }
   ]

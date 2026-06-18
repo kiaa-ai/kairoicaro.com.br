@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-06-18T15:52:28.983159+00:00",
-  "total": 5,
+  "updated_at": "2026-06-18T20:38:19.248372+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (18)",
-      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-18-2/",
+      "title": "Rádio Justiça: reportagem especial aborda os 20 anos da ministra Cármen Lúcia no STF",
+      "summary": "Ainda na programação desta sexta (19), um debate sobre fake news, desinformação e os limites constitucionais da atuação do Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-reportagem-especial-aborda-os-20-anos-da-ministra-carmen-lucia-no-stf/",
       "date": "2026-06-18",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Julgamento sobre constrangimento da vítima em audiência de processo será retomado nesta quinta-feira (18)",
-      "summary": "Na sessão de hoje (17) foram ouvidas as manifestações das partes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/julgamento-sobre-constrangimento-da-vitima-em-audiencia-de-processo-sera-retomado-nesta-quinta-feira-18/",
+      "title": "Plenário homenageia ministro Gilmar Mendes por 24 anos no Supremo",
+      "summary": "Presidente do STF destacou trajetória institucional do decano e suas contribuições para a jurisprudência constitucional",
+      "url": "https://noticias.stf.jus.br/postsnoticias/plenario-homenageia-ministro-gilmar-mendes-por-24-anos-no-supremo/",
       "date": "2026-06-18",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Rádio Decidendi analisa repetitivo sobre prova de tempo de serviço em ações previdenciárias (Tema 1.188)",
+      "summary": "Rádio Decidendi analisa repetitivo sobre prova de tempo de serviço em ações previdenciárias (Tema 1.188)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Radio-Decidendi-analisa-repetitivo-sobre-prova-de-tempo-de-servico-em-acoes-previdenciarias--Tema-1-188-.aspx",
+      "date": "2026-06-18",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Quando o Jogo Sai do Controle: confira o novo episódio da série sobre o futebol e o STJ",
+      "summary": "Vício e endividamento na rota do jogo sem controle",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Quando-o-Jogo-Sai-do-Controle-confira-o-novo-episodio-da-serie-sobre-o-futebol-e-o-STJ-.aspx",
+      "date": "2026-06-18",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Corte Especial: embargos de divergência não servem para rediscutir modulação de efeitos em recurso repetitivo",
+      "summary": "Corte Especial: embargos de divergência não servem para rediscutir modulação de efeitos em recurso repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Corte-Especial-embargos-de-divergencia-nao-servem-para-rediscutir-modulacao-de-efeitos-em-recurso-repetitivo.aspx",
+      "date": "2026-06-18",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
@@ -31,14 +55,6 @@
       "title": "TRT-11 promove palestra sobre letramento racial para estudantes em Jutaí",
       "summary": "Ação reuniu mais de 400 estudantes e promoveu reflexões sobre racismo estrutural, respeito e inclusão",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11453-trt-11-promove-palestra-sobre-letramento-racial-para-estudantes-em-jutai",
-      "date": "2026-06-18",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TST",
-      "title": "Ir para o conteúdo",
-      "summary": "",
-      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-18",
       "category": "Trabalhista"
     }

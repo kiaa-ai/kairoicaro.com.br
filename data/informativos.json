@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-18T11:48:00.431242+00:00",
-  "total": 7,
+  "updated_at": "2026-06-18T15:52:28.983159+00:00",
+  "total": 5,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira a pauta do STF desta quinta-feira (18)",
+      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-18-2/",
+      "date": "2026-06-18",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Julgamento sobre constrangimento da vítima em audiência de processo será retomado nesta quinta-feira (18)",
@@ -11,50 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Presidente do STF abre encontro nacional para fortalecer sistema de precedentes",
-      "summary": "Na abertura, houve lançamento de livro e assinatura de acordo de cooperação técnica entre STF e STJ; programação segue amanhã (18) e na sexta-feira (19)",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-abre-encontro-nacional-para-fortalecer-aplicacao-do-sistema-de-precedentes/",
-      "date": "2026-06-18",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Rádio Decidendi analisa repetitivo sobre prova de tempo de serviço em ações previdenciárias (Tema 1.188)",
-      "summary": "Rádio Decidendi analisa repetitivo sobre prova de tempo de serviço em ações previdenciárias (Tema 1.188)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Radio-Decidendi-analisa-repetitivo-sobre-prova-de-tempo-de-servico-em-acoes-previdenciarias--Tema-1-188-.aspx",
-      "date": "2026-06-18",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Quando o Jogo Sai do Controle: confira o novo episódio da série sobre o futebol e o STJ",
-      "summary": "Quando o Jogo Sai do Controle: confira o novo episódio da série sobre o futebol e o STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Quando-o-Jogo-Sai-do-Controle-confira-o-novo-episodio-da-serie-sobre-o-futebol-e-o-STJ-.aspx",
-      "date": "2026-06-18",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Corte Especial: embargos de divergência não servem para rediscutir modulação de efeitos em recurso repetitivo",
-      "summary": "Corte Especial: embargos de divergência não servem para rediscutir modulação de efeitos em recurso repetitivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Corte-Especial-embargos-de-divergencia-nao-servem-para-rediscutir-modulacao-de-efeitos-em-recurso-repetitivo.aspx",
-      "date": "2026-06-18",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "PJe ficará indisponível de 20 a 21 de junho para atualização do sistema",
-      "summary": "Para viabilizar a atualização do Processo Judicial Eletrônico (PJe) para a versão 2.19.3, o sistema ficará indisponível entre 20 e 21 de junho de 2026. A suspensão temporária foi autorizada pela Presidência do Tribunal Regional do Trabalho da 11ª Região (AM/RR), de acordo com as diretrizes do Consel",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11449-pje-ficara-indisponivel-de-20-a-21-de-junho-para-atualizacao-do-sistema",
+      "title": "16ª Semana Nacional da Execução Trabalhista: mobilização de 2026 terá foco em grandes devedores",
+      "summary": "Campanha será realizada de 14 a 18/9 com ações para assegurar direitos reconhecidos pela Justiça do Trabalho",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11454-16-semana-nacional-da-execucao-trabalhista-mobilizacao-de-2026-tera-foco-em-grandes-devedores",
       "date": "2026-06-18",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Vara do Trabalho de Manacapuru terá expediente presencial suspenso de 19 a 26 de junho",
-      "summary": "Serviços da unidade serão mantidos de forma remota durante o período",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11447-vara-do-trabalho-de-manacapuru-tera-expediente-presencial-suspenso-de-19-a-27-de-junho",
+      "title": "TRT-11 promove palestra sobre letramento racial para estudantes em Jutaí",
+      "summary": "Ação reuniu mais de 400 estudantes e promoveu reflexões sobre racismo estrutural, respeito e inclusão",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11453-trt-11-promove-palestra-sobre-letramento-racial-para-estudantes-em-jutai",
+      "date": "2026-06-18",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
       "date": "2026-06-18",
       "category": "Trabalhista"
     }

@@ -1,54 +1,22 @@
 {
-  "updated_at": "2026-06-19T12:02:20.352567+00:00",
-  "total": 6,
+  "updated_at": "2026-06-19T15:42:57.765106+00:00",
+  "total": 2,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Doar sangue salva vidas: STF adere à campanha Junho Vermelho",
-      "summary": "Iluminação especial destaca conscientização sobre doação de sangue e homenageia os doadores",
-      "url": "https://noticias.stf.jus.br/postsnoticias/doar-sangue-salva-vidas-stf-adere-a-campanha-junho-vermelho/",
+      "title": "Confira os destaques do Plenário Virtual",
+      "summary": "Sessão virtual começou às 11h desta sexta-feira (19) e termina no dia 26/06, às 23h59",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-21/",
       "date": "2026-06-19",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Provas em processo de crime sexual em que houver constrangimento à vítima são nulas, decide STF",
-      "summary": "No recurso analisado, relativo ao chamado ‘Caso Mari Ferrer’, Corte anulou decisões que absolveram o réu",
-      "url": "https://noticias.stf.jus.br/postsnoticias/provas-em-processo-de-crime-sexual-em-que-houver-constrangimento-a-vitima-sao-nulas-decide-stf/",
+      "title": "STF 135 anos: decisão histórica da Corte garantiu reconhecimento das uniões homoafetivas",
+      "summary": "Série “Tá na Nossa História” revisita primórdios da Corte, marcos institucionais, evolução de competências e seu papel na consolidação da República, da democracia e dos direitos fundamentais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-135-anos-decisao-historica-da-corte-garantiu-reconhecimento-das-unioes-homoafetivas/",
       "date": "2026-06-19",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Pagamento da dívida que motivou ação de despejo não impede rescisão por atrasos durante o processo",
-      "summary": "Os ministros consideraram que a purga da mora é um mecanismo de proteção ao inquilino de boa-fé, e não de favorecimento a quem descumpre continuamente suas obrigações contratuais.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Pagamento-da-divida-que-motivou-acao-de-despejo-nao-impede-rescisao-por-atrasos-durante-o-processo.aspx",
-      "date": "2026-06-19",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Rádio Decidendi analisa repetitivo sobre prova de tempo de serviço em ações previdenciárias (Tema 1.188)",
-      "summary": "Rádio Decidendi analisa repetitivo sobre prova de tempo de serviço em ações previdenciárias (Tema 1.188)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18062026-Radio-Decidendi-analisa-repetitivo-sobre-prova-de-tempo-de-servico-em-acoes-previdenciarias--Tema-1-188-.aspx",
-      "date": "2026-06-19",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "16ª Semana Nacional da Execução Trabalhista: mobilização de 2026 terá foco em grandes devedores",
-      "summary": "Campanha será realizada de 14 a 18/9 com ações para assegurar direitos reconhecidos pela Justiça do Trabalho",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11454-16-semana-nacional-da-execucao-trabalhista-mobilizacao-de-2026-tera-foco-em-grandes-devedores",
-      "date": "2026-06-19",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "TRT-11 promove palestra sobre letramento racial para estudantes em Jutaí",
-      "summary": "Ação reuniu mais de 400 estudantes e promoveu reflexões sobre racismo estrutural, respeito e inclusão",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11453-trt-11-promove-palestra-sobre-letramento-racial-para-estudantes-em-jutai",
-      "date": "2026-06-19",
-      "category": "Trabalhista"
     }
   ]
 }

@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-06-19T15:42:57.765106+00:00",
-  "total": 2,
+  "updated_at": "2026-06-19T20:02:50.068836+00:00",
+  "total": 8,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Confira os destaques do Plenário Virtual",
-      "summary": "Sessão virtual começou às 11h desta sexta-feira (19) e termina no dia 26/06, às 23h59",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-21/",
+      "title": "Encontro nacional no STF debate integração institucional e aperfeiçoamento do sistema de precedentes",
+      "summary": "Programação tratou da aplicação de precedentes, integração entre instituições e uso de inteligência artificial",
+      "url": "https://noticias.stf.jus.br/postsnoticias/encontro-nacional-no-stf-debate-integracao-institucional-e-aperfeicoamento-do-sistema-de-precedentes/",
       "date": "2026-06-19",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF 135 anos: decisão histórica da Corte garantiu reconhecimento das uniões homoafetivas",
-      "summary": "Série “Tá na Nossa História” revisita primórdios da Corte, marcos institucionais, evolução de competências e seu papel na consolidação da República, da democracia e dos direitos fundamentais",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-135-anos-decisao-historica-da-corte-garantiu-reconhecimento-das-unioes-homoafetivas/",
+      "title": "Presidente do STF defende fraternidade e ética como base da Justiça do futuro",
+      "summary": "Ministro Edson Fachin falou na abertura do evento realizado no Museu do Amanhã (RJ), nesta sexta-feira (19)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-fraternidade-e-etica-como-base-da-justica-do-futuro/",
       "date": "2026-06-19",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário terminam nesta sexta (19)",
+      "summary": "Inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário terminam nesta sexta (19)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Inscricoes-para-audiencia-sobre-fortalecimento-da-sustentabilidade-no-Judiciario-terminam-nesta-sexta--19-.aspx",
+      "date": "2026-06-19",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Manutenção pode afetar sistemas do tribunal neste fim de semana (20 e 21)",
+      "summary": "Manutenção pode afetar sistemas do tribunal neste fim de semana (20 e 21)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Manutencao-pode-afetar-sistemas-do-tribunal-neste-fim-de-semana--20-e-21-.aspx",
+      "date": "2026-06-19",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Jurisprudência em Teses traz novos entendimentos sobre repactuação de dívidas por superendividamento",
+      "summary": "Jurisprudência em Teses traz novos entendimentos sobre repactuação de dívidas por superendividamento",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Jurisprudencia-em-Teses-traz-novos-entendimentos-sobre-repactuacao-de-dividas-por-superendividamento.aspx",
+      "date": "2026-06-19",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Novo ato conjunto consolida orientações sobre o Projeto Garimpo no TRT-11",
+      "summary": "Normativo reúne e atualiza procedimentos para localizar e devolver valores vinculados a processos trabalhistas já encerrados",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11461-novo-ato-conjunto-consolida-orientacoes-sobre-o-projeto-garimpo-no-trt-11",
+      "date": "2026-06-19",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "STF retira suspensão de processos sobre pejotização na primeira instância e nos TRTs",
+      "summary": "No TST, processos sobre o tema continuam com tramitação suspensa",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11458-stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts",
+      "date": "2026-06-19",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-06-19",
+      "category": "Trabalhista"
     }
   ]
 }

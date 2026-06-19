@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-06-18T11:48:03.845017+00:00",
+  "updated_at": "2026-06-19T12:02:22.961789+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "19.jun.2026Ministros, maluquice, Master, mundial e memes no Minuto MigalhasVeja alguns dos temas que mais repercutiram nos últimos dias.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-19",
+      "url": "https://www.migalhas.com.br/quentes/458512/ministros-maluquice-master-mundial-e-memes-no-minuto-migalhas"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.jun.2026PF prende terceirizado do STJ suspeito de oferecer acesso a minutasCorte informou que a operação foi solicitada pelo ministro Paulo Sérgio Domingues.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-19",
+      "url": "https://www.migalhas.com.br/quentes/458528/pf-prende-terceirizado-do-stj-suspeito-de-oferecer-acesso-a-minutas"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.jun.2026STJ recebe nova edição de clássico de Amaro Cavalcanti sobre federalismoEvento no Espaço Cultural do STJ marca o lançamento da edição fac-similar da obra de Amaro Cavalcanti sobre federalismo brasileiro.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-19",
+      "url": "https://www.migalhas.com.br/quentes/458482/stj-recebe-edicao-de-classico-de-amaro-cavalcanti-sobre-federalismo"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.jun.2026Sorteio da obra \"Tributação das sociedades cooperativas de serviços médicos\"O livro examina os desdobramentos das decisões do STF nos Temas 177 e 323, assim como a compreensão de que tais precedentes respaldariam a incidência de tributos vinculados ao lucro, e não ao faturamento, sobre valores alheios ao resultado econômico das cooperativas.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-19",
+      "url": "https://www.migalhas.com.br/quentes/458487/sorteio-tributacao-das-sociedades-cooperativas-de-servicos-medicos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "19.jun.2026Migração de haitianos ao Brasil cresceu 75% em 2025; entenda motivosEm entrevista ao Migalhas, representante da OIM, da ONU, analisa alta nas entradas e aponta mudanças no perfil recente do fluxo migratório.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-19",
+      "url": "https://www.migalhas.com.br/quentes/458167/migracao-de-haitianos-ao-brasil-cresceu-75-em-2025-entenda-motivos"
+    },
     {
       "setor": "empresarial",
       "title": "18.jun.2026Cotas valem em seleção para mudança de curso na faculdade? STF decidiráCorte reconheceu repercussão geral de recurso que discute a manutenção de ações afirmativas em processos internos de progressão acadêmica.",
@@ -81,46 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-17",
       "url": "https://www.migalhas.com.br/quentes/458226/preambulo-tech-lanca-cpj-safe-infraestrutura-de-identidade-digital"
-    },
-    {
-      "setor": "empresarial",
-      "title": "17.jun.2026Obra analisa LGPD e governança da IA na ChinaNova edição analisa proteção de dados, IA generativa e direitos fundamentais na era digital.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-17",
-      "url": "https://www.migalhas.com.br/quentes/458220/obra-analisa-lgpd-e-governanca-da-ia-na-china"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.jun.2026STF mantém regra que flexibilizou emissões em plataformas de petróleoPor unanimidade, Corte rejeitou ação da PGR e manteve resolução do Conama aplicável a plataformas offshore totalmente eletrificadas.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-16",
-      "url": "https://www.migalhas.com.br/quentes/458219/stf-mantem-regra-que-flexibilizou-emissoes-em-plataformas-de-petroleo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.jun.2026STJ reconhece direito de espólio à restituição de IR de falecida por câncer2ª turma entendeu que crédito tributário não recebido em vida integra a herança e dispensa pedido administrativo prévio.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-16",
-      "url": "https://www.migalhas.com.br/quentes/458197/stj-autoriza-espolio-a-pedir-restituicao-de-ir-de-falecida-por-cancer"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.jun.2026OAB lança plano nacional para orientar uso de IA na advocaciaIniciativa prevê capacitação, diretrizes de uso e ações para reduzir desigualdades tecnológicas na profissão.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-16",
-      "url": "https://www.migalhas.com.br/quentes/458194/oab-lanca-plano-nacional-para-orientar-uso-de-ia-na-advocacia"
-    },
-    {
-      "setor": "empresarial",
-      "title": "16.jun.2026Instituto Global ESG lança estudo sobre reporte de sustentabilidadePublicação organizada por Alexandre Arnone e Sóstenes Marchezine analisa os impactos da Resolução CVM 193/2023 e dos padrões IFRS na governança sustentável.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-16",
-      "url": "https://www.migalhas.com.br/quentes/458132/instituto-global-esg-lanca-estudo-sobre-reporte-de-sustentabilidade"
     }
   ]
 }

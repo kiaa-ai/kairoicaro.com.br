@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-20T12:55:06.101958+00:00",
-  "total": 4,
+  "updated_at": "2026-06-20T18:47:35.849571+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Nulidade de provas em processos de crimes sexuais em que há constrangimento da vítima é destaque Supremo na Semana",
+      "summary": "Episódio #194 está disponível nas principais plataformas de áudio e no YouTube",
+      "url": "https://noticias.stf.jus.br/postsnoticias/nulidade-de-provas-em-processos-de-crimes-sexuais-em-que-ha-constrangimento-da-vitima-e-destaque-supremo-na-semana/",
+      "date": "2026-06-20",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF receberá selo ouro por melhores práticas de compensação de emissões de gases de efeito estufa",
@@ -11,12 +19,28 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Partido questiona no STF criação de estação ecológica em Rondônia sem desapropriação",
-      "summary": "Solidariedade sustenta que estado impôs restrições típicas de domínio público sobre propriedades particulares sem prévia desapropriação e indenização",
-      "url": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-no-stf-criacao-de-estacao-ecologica-em-rondonia-sem-desapropriacao/",
+      "tribunal": "STJ",
+      "title": "Inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário terminam nesta sexta (19)",
+      "summary": "Inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário terminam nesta sexta (19)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Inscricoes-para-audiencia-sobre-fortalecimento-da-sustentabilidade-no-Judiciario-terminam-nesta-sexta--19-.aspx",
       "date": "2026-06-20",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Manutenção pode afetar sistemas do tribunal neste fim de semana (20 e 21)",
+      "summary": "Manutenção pode afetar sistemas do tribunal neste fim de semana (20 e 21)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Manutencao-pode-afetar-sistemas-do-tribunal-neste-fim-de-semana--20-e-21-.aspx",
+      "date": "2026-06-20",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Jurisprudência em Teses traz novos entendimentos sobre repactuação de dívidas por superendividamento",
+      "summary": "Jurisprudência em Teses traz novos entendimentos sobre repactuação de dívidas por superendividamento",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Jurisprudencia-em-Teses-traz-novos-entendimentos-sobre-repactuacao-de-dividas-por-superendividamento.aspx",
+      "date": "2026-06-20",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

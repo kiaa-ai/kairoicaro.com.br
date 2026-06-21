@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-20T10:29:32.942270+00:00",
+  "updated_at": "2026-06-21T09:16:20.995754+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "20.jun.2026Concurso: Candidata consegue reserva de vaga após erro em documentoMagistrada entendeu que candidata pode ter sido impedida de tomar posse por erro material em documento sobre compatibilidade de horários.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-21",
+      "url": "https://www.migalhas.com.br/quentes/458332/concurso-candidata-consegue-reserva-de-vaga-apos-erro-em-documento"
+    },
+    {
+      "setor": "varejo",
+      "title": "20.jun.2026Espaçolaser indenizará cliente por queimadura de 2º grau em sessãoJustiça reconheceu falha no serviço após perícia apontar nexo entre o procedimento de depilação a laser e as lesões sofridas pela consumidora.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-21",
+      "url": "https://www.migalhas.com.br/quentes/458089/espacolaser-indenizara-cliente-por-queimadura-de-2-grau-em-sessao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "20.jun.2026Multipropriedade: TJ/SP estende condenação a gestorasColegiado concluiu que empresas integravam a cadeia de fornecimento e devem responder pela rescisão de contrato de multipropriedade.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-21",
+      "url": "https://www.migalhas.com.br/quentes/458199/multipropriedade-tj-sp-estende-condenacao-a-gestoras"
+    },
+    {
+      "setor": "empresarial",
+      "title": "20.jun.2026Corretor garante comissão por venda de fazenda a ser paga com sacas de sojaSerão mais de 11 mil unidades, a serem convertidas pela cotação do grão em maio de 2017.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-21",
+      "url": "https://www.migalhas.com.br/quentes/458212/corretor-garante-comissao-por-venda-de-fazenda-a-ser-paga-com-soja"
+    },
+    {
+      "setor": "empresarial",
+      "title": "20.jun.2026Promotor toca \"Então é Natal\" em Júri de crime na véspera da data: \"Família sempre vai chorar\"Acusação sustentou que canção natalina se tornou símbolo permanente de luto para parentes das vítimas.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-21",
+      "url": "https://www.migalhas.com.br/quentes/458592/promotor-toca-entao-e-natal-em-juri-de-crime-na-vespera-da-data"
+    },
+    {
+      "setor": "empresarial",
+      "title": "20.jun.2026Gilmar Mendes vota para manter íntegra de decisão sobre marco temporalRelator afastou pedido de suspensão dos efeitos do julgamento e defendeu segurança jurídica nas questões envolvendo demarcações.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-21",
+      "url": "https://www.migalhas.com.br/quentes/458591/gilmar-mendes-vota-para-manter-integra-de-decisao-sobre-marco-temporal"
+    },
     {
       "setor": "empresarial",
       "title": "20.jun.2026Entidade questiona no STF flexibilização para obtenção da CNHCNC sustenta que resolução do Contran reduz exigências para formação de condutores e invade competências dos Estados.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-19",
       "url": "https://www.migalhas.com.br/quentes/458482/stj-recebe-edicao-de-classico-de-amaro-cavalcanti-sobre-federalismo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "19.jun.2026Sorteio da obra \"Tributação das sociedades cooperativas de serviços médicos\"O livro examina os desdobramentos das decisões do STF nos Temas 177 e 323, assim como a compreensão de que tais precedentes respaldariam a incidência de tributos vinculados ao lucro, e não ao faturamento, sobre valores alheios ao resultado econômico das cooperativas.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-19",
-      "url": "https://www.migalhas.com.br/quentes/458487/sorteio-tributacao-das-sociedades-cooperativas-de-servicos-medicos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "19.jun.2026Migração de haitianos ao Brasil cresceu 75% em 2025; entenda motivosEm entrevista ao Migalhas, representante da OIM, da ONU, analisa alta nas entradas e aponta mudanças no perfil recente do fluxo migratório.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-19",
-      "url": "https://www.migalhas.com.br/quentes/458167/migracao-de-haitianos-ao-brasil-cresceu-75-em-2025-entenda-motivos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "18.jun.2026Cotas valem em seleção para mudança de curso na faculdade? STF decidiráCorte reconheceu repercussão geral de recurso que discute a manutenção de ações afirmativas em processos internos de progressão acadêmica.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-18",
-      "url": "https://www.migalhas.com.br/quentes/458428/cotas-valem-em-prova-para-mudanca-de-curso-na-faculdade-stf-decidira"
-    },
-    {
-      "setor": "empresarial",
-      "title": "17.jun.2026STJ: Cabe à 2ª seção julgar acidentes de passageiros em transporte públicoCorte Especial afastou competência da 1ª seção e consolidou entendimento no âmbito do Direito Privado.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-18",
-      "url": "https://www.migalhas.com.br/quentes/458424/stj-cabe-a-2-secao-julgar-acidentes-ocorridos-em-transporte-publico"
-    },
-    {
-      "setor": "empresarial",
-      "title": "17.jun.2026Justiça manda suspender anúncios do governo sobre fim da escala 6x1Juíza viu indícios de uso irregular de recursos públicos para promover proposta legislativa ainda em tramitação no Congresso.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-18",
-      "url": "https://www.migalhas.com.br/quentes/458422/justica-manda-suspender-anuncios-do-governo-sobre-fim-da-escala-6x1"
-    },
-    {
-      "setor": "empresarial",
-      "title": "17.jun.2026STF julga provas em crimes sexuais como no caso Mari FerrerPlenário discute validade de provas obtidas com violação a direitos fundamentais da vítima; julgamento foi suspenso pelo horário.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-18",
-      "url": "https://www.migalhas.com.br/quentes/458405/stf-julga-provas-em-crimes-sexuais-como-no-caso-mari-ferrer"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-21T18:49:25.283616+00:00",
-  "total": 4,
+  "updated_at": "2026-06-22T01:30:58.393729+00:00",
+  "total": 5,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Rádio Justiça: programa sobre representatividade feminina no Judiciário é um dos destaques desta segunda (22)",
+      "summary": "Ainda nesta segunda, o programa Regra do Jogo destaca o julgamento do STF sobre o Campeonato Brasileiro de 1987",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-representatividade-feminina-no-judiciario-e-um-dos-destaques-desta-segunda-22/",
+      "date": "2026-06-22",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Ministra Cármen Lúcia completa 20 anos no STF com atuação marcada pela defesa dos direitos fundamentais",
       "summary": "Em duas décadas no Supremo, a ministra imprimiu à sua trajetória valores ligados à formação humanista, à cidadania e ao ideal de justiça",
       "url": "https://noticias.stf.jus.br/postsnoticias/ministra-carmen-lucia-completa-20-anos-no-stf-com-atuacao-marcada-pela-defesa-dos-direitos-fundamentais/",
-      "date": "2026-06-21",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "Nulidade de provas em processos de crimes sexuais em que há constrangimento da vítima é destaque Supremo na Semana",
-      "summary": "Episódio #194 está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/nulidade-de-provas-em-processos-de-crimes-sexuais-em-que-ha-constrangimento-da-vitima-e-destaque-supremo-na-semana/",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Novo ato conjunto consolida orientações sobre o Projeto Garimpo no TRT-11",
       "summary": "Normativo reúne e atualiza procedimentos para localizar e devolver valores vinculados a processos trabalhistas já encerrados",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11461-novo-ato-conjunto-consolida-orientacoes-sobre-o-projeto-garimpo-no-trt-11",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +31,15 @@
       "title": "STF retira suspensão de processos sobre pejotização na primeira instância e nos TRTs",
       "summary": "No TST, processos sobre o tema continuam com tramitação suspensa",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11458-stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TST",
+      "title": "Ir para o conteúdo",
+      "summary": "",
+      "url": "https://www.tst.jus.br#content",
+      "date": "2026-06-22",
       "category": "Trabalhista"
     }
   ]

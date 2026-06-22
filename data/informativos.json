@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-22T14:11:35.167234+00:00",
-  "total": 4,
+  "updated_at": "2026-06-22T19:25:57.129168+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Aberto credenciamento para profissionais de imprensa setoristas do STF",
+      "summary": "Atualização do cadastro deve ser feito pelos veículos de comunicação de 22/6 a 22/7; procedimento será anual com objetivo de organizar rotina de cobertura",
+      "url": "https://noticias.stf.jus.br/postsnoticias/aberto-credenciamento-para-profissionais-de-imprensa-setoristas-do-stf/",
+      "date": "2026-06-22",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF mantém critérios de distribuição de receitas do ICMS Educacional a municípios mineiros",
@@ -11,12 +19,28 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Rádio Justiça: programa sobre representatividade feminina no Judiciário é um dos destaques desta segunda (22)",
-      "summary": "Ainda nesta segunda, o programa Regra do Jogo destaca o julgamento do STF sobre o Campeonato Brasileiro de 1987",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-representatividade-feminina-no-judiciario-e-um-dos-destaques-desta-segunda-22/",
+      "tribunal": "STJ",
+      "title": "Tribunal abre seleção para cadastro de reserva de estagiários de nível superior",
+      "summary": "Tribunal abre seleção para cadastro de reserva de estagiários de nível superior",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22062026-Tribunal-abre-selecao-para-cadastro-de-reserva-de-estagiarios-de-nivel-superior.aspx",
       "date": "2026-06-22",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos inclui teses sobre recuperação judicial e livramento condicional no tráfico de drogas",
+      "summary": "Página de Repetitivos inclui teses sobre recuperação judicial e livramento condicional no tráfico de drogas",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22062026-Pagina-de-Repetitivos-inclui-teses-sobre-recuperacao-judicial-e-livramento-condicional-no-trafico-de-drogas--.aspx",
+      "date": "2026-06-22",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Pesquisa Pronta: uso indevido da imagem de jogadores e crime envolvendo torcida organizada",
+      "summary": "Pesquisa Pronta: uso indevido da imagem de jogadores e crime envolvendo torcida organizada",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22062026-Pesquisa-Pronta-uso-indevido-da-imagem-de-jogadores-e-crime-envolvendo-torcida-organizada.aspx",
+      "date": "2026-06-22",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

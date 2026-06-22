@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-22T10:02:08.782781+00:00",
-  "total": 7,
+  "updated_at": "2026-06-22T14:11:35.167234+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF mantém critérios de distribuição de receitas do ICMS Educacional a municípios mineiros",
+      "summary": "Em decisão unânime, Plenário afastou argumento de violação ao princípio da isonomia",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-criterios-de-distribuicao-de-receitas-do-icms-educacional-a-municipios-mineiros/",
+      "date": "2026-06-22",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Rádio Justiça: programa sobre representatividade feminina no Judiciário é um dos destaques desta segunda (22)",
@@ -11,50 +19,18 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Ministra Cármen Lúcia completa 20 anos no STF com atuação marcada pela defesa dos direitos fundamentais",
-      "summary": "Em duas décadas no Supremo, a ministra imprimiu à sua trajetória valores ligados à formação humanista, à cidadania e ao ideal de justiça",
-      "url": "https://noticias.stf.jus.br/postsnoticias/ministra-carmen-lucia-completa-20-anos-no-stf-com-atuacao-marcada-pela-defesa-dos-direitos-fundamentais/",
+      "tribunal": "TRT11",
+      "title": "Reclamação Pré-Processual: TRT-11 media novo acordo coletivo entre Oliveira Energia e sindicato dos trabalhadores do setor elétrico",
+      "summary": "Mediação conduzida pelo Cejusc-JT de 2º Grau resultou no Acordo Coletivo de Trabalho 2025/2027, beneficiando cerca de 800 trabalhadoresO Tribunal Regional do Trabalho da 11ª Região (AM/RR) intermediou mais uma negociação bem-sucedida entre a Oliveira Energia S.A. e o Sindicato dos Trabalhadores nas ",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11462-reclamacao-pre-processual-trt-11-media-novo-acordo-coletivo-entre-oliveira-energia-e-sindicato-dos-trabalhadores-do-setor-eletrico",
       "date": "2026-06-22",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário terminam nesta sexta (19)",
-      "summary": "Inscrições para audiência sobre fortalecimento da sustentabilidade no Judiciário terminam nesta sexta (19)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Inscricoes-para-audiencia-sobre-fortalecimento-da-sustentabilidade-no-Judiciario-terminam-nesta-sexta--19-.aspx",
-      "date": "2026-06-22",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Manutenção pode afetar sistemas do tribunal neste fim de semana (20 e 21)",
-      "summary": "Manutenção pode afetar sistemas do tribunal neste fim de semana (20 e 21)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Manutencao-pode-afetar-sistemas-do-tribunal-neste-fim-de-semana--20-e-21-.aspx",
-      "date": "2026-06-22",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Jurisprudência em Teses traz novos entendimentos sobre repactuação de dívidas por superendividamento",
-      "summary": "Jurisprudência em Teses traz novos entendimentos sobre repactuação de dívidas por superendividamento",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19062026-Jurisprudencia-em-Teses-traz-novos-entendimentos-sobre-repactuacao-de-dividas-por-superendividamento.aspx",
-      "date": "2026-06-22",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Novo ato conjunto consolida orientações sobre o Projeto Garimpo no TRT-11",
       "summary": "Normativo reúne e atualiza procedimentos para localizar e devolver valores vinculados a processos trabalhistas já encerrados",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11461-novo-ato-conjunto-consolida-orientacoes-sobre-o-projeto-garimpo-no-trt-11",
-      "date": "2026-06-22",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "STF retira suspensão de processos sobre pejotização na primeira instância e nos TRTs",
-      "summary": "No TST, processos sobre o tema continuam com tramitação suspensa",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11458-stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts",
       "date": "2026-06-22",
       "category": "Trabalhista"
     }

@@ -1,60 +1,36 @@
 {
-  "updated_at": "2026-06-23T13:16:59.111092+00:00",
-  "total": 7,
+  "updated_at": "2026-06-23T18:58:29.423190+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF discutirá proposta de súmula sobre impacto fiscal de projetos de lei que aumentam despesas",
-      "summary": "Proposta busca consolidar entendimento sobre obrigatoriedade de estudos orçamentários e de medidas compensatórias em todos os entes da Federação",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-discutira-proposta-de-sumula-sobre-impacto-fiscal-de-projetos-de-lei-que-aumentam-despesas/",
+      "title": "STF reafirma invalidade de normas locais sobre licença ambiental para instalação de antenas de telefonia",
+      "summary": "Exigência prevista no Maranhão e em Foz do Iguaçu (PR) e Petrolina (PE) foi considerada incompatível com a competência da União para regular o setor",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reafirma-invalidade-de-normas-locais-sobre-licenca-ambiental-para-instalacao-de-antenas-de-telefonia/",
       "date": "2026-06-23",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Rádio Justiça: programa sobre uberização é um dos destaques desta terça-feira (23)",
-      "summary": "Ainda nesta terça, o programa Revista Justiça trata do julgamento em que o STF decidiu pela nulidade de provas em processos de crimes sexuais em que há constrangimento da vítima",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-uberizacao-e-um-dos-destaques-desta-terca-feira-23/",
+      "title": "STF inicia debates sobre modernização do sistema de Justiça nesta quarta-feira (24)",
+      "summary": "Grupo de estudos definirá metodologia de trabalho e calendário de atividades para 2026",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-debates-sobre-modernizacao-do-sistema-de-justica-nesta-quarta-feira-24/",
       "date": "2026-06-23",
       "category": "Constitucional"
     },
     {
-      "tribunal": "STJ",
-      "title": "STJ Notícias traz decisão que autorizou participação de pessoa relativamente incapaz em holding familiar",
-      "summary": "STJ Notícias traz decisão que autorizou participação de pessoa relativamente incapaz em holding familiar",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23062026-STJ-Noticias-traz-decisao-que-autorizou-participacao-de-pessoa-relativamente-incapaz-em-holding-familiar-.aspx",
+      "tribunal": "TRT11",
+      "title": "Manaus recebe o 2º Ciclo Pelo Orgulho e Pela Diversidade no Poder Judiciário, com programação voltada à empregabilidade, saúde e cidadania LGBTQI+ em julho",
+      "summary": "Evento promovido pelo TRT-11 e TJAM contará com feira de empreendedorismo, serviços de saúde e orientação jurídica especializada voltada à comunidade LGBTQI+",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11466-manaus-recebe-o-2-ciclo-pelo-orgulho-e-pela-diversidade-no-poder-judiciario-com-programacao-voltada-a-empregabilidade-saude-e-cidadania-lgbtqi-em-julho",
       "date": "2026-06-23",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada nesta terça (23)",
-      "summary": "Nova edição da obra de Amaro Cavalcanti sobre regime federativo será lançada nesta terça (23)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23062026-Nova-edicao-da-obra-de-Amaro-Cavalcanti-sobre-regime-federativo-sera-lancada-nesta-terca--23-.aspx",
-      "date": "2026-06-23",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Busca domiciliar baseada apenas no relato dos corréus é ilegal, decide Quinta Turma",
-      "summary": "Busca domiciliar baseada apenas no relato dos corréus é ilegal, decide Quinta Turma",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23062026-Busca-domiciliar-baseada-apenas-no-relato-dos-correus-e-ilegal--decide-Quinta-Turma-.aspx",
-      "date": "2026-06-23",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Reclamação Pré-Processual: TRT-11 media novo acordo coletivo entre Oliveira Energia e sindicato dos trabalhadores do setor elétrico",
       "summary": "Mediação conduzida pelo Cejusc-JT de 2º Grau resultou no Acordo Coletivo de Trabalho 2025/2027, beneficiando cerca de 800 trabalhadoresO Tribunal Regional do Trabalho da 11ª Região (AM/RR) intermediou mais uma negociação bem-sucedida entre a Oliveira Energia S.A. e o Sindicato dos Trabalhadores nas ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11462-reclamacao-pre-processual-trt-11-media-novo-acordo-coletivo-entre-oliveira-energia-e-sindicato-dos-trabalhadores-do-setor-eletrico",
-      "date": "2026-06-23",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Novo ato conjunto consolida orientações sobre o Projeto Garimpo no TRT-11",
-      "summary": "Normativo reúne e atualiza procedimentos para localizar e devolver valores vinculados a processos trabalhistas já encerrados",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11461-novo-ato-conjunto-consolida-orientacoes-sobre-o-projeto-garimpo-no-trt-11",
       "date": "2026-06-23",
       "category": "Trabalhista"
     }

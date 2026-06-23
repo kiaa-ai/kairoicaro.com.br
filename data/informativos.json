@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T07:32:46.090655+00:00",
-  "total": 4,
+  "updated_at": "2026-06-23T09:08:36.426181+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-uberizacao-e-um-dos-destaques-desta-terca-feira-23/",
       "date": "2026-06-23",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Brasil e Angola abrem em Luanda evento sobre modernização e boas práticas no Judiciário",
+      "summary": "Brasil e Angola abrem em Luanda evento sobre modernização e boas práticas no Judiciário",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22062026-Brasil-e-Angola-abrem-em-Luanda-evento-sobre-modernizacao-e-boas-praticas-no-Judiciario.aspx",
+      "date": "2026-06-23",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Conferência do vice-presidente do STJ encerra encontro nacional sobre sistema de precedentes",
+      "summary": "Conferência do vice-presidente do STJ encerra encontro nacional sobre sistema de precedentes",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22062026-Conferencia-do-vice-presidente-do-STJ-encerra-encontro-nacional-sobre-sistema-de-precedentes.aspx",
+      "date": "2026-06-23",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Tribunal abre seleção para cadastro de reserva de estagiários de nível superior",
+      "summary": "Tribunal abre seleção para cadastro de reserva de estagiários de nível superior",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22062026-Tribunal-abre-selecao-para-cadastro-de-reserva-de-estagiarios-de-nivel-superior.aspx",
+      "date": "2026-06-23",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

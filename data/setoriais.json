@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-23T09:08:40.393517+00:00",
+  "updated_at": "2026-06-24T09:07:45.741903+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "varejo",
+      "title": "23.jun.2026BYD é condenada por consumo abaixo do anunciado e terá de ressarcir clienteConsumidor afirmou que veículo híbrido prometia rendimento de 19,9 km/l, mas alcançava cerca de 9 km/l.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-24",
+      "url": "https://www.migalhas.com.br/quentes/458815/byd-e-condenada-por-consumo-abaixo-do-anunciado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jun.2026Juiz condena Amado Batista por morte de criança afogada em piscina de fazendaJuiz reconheceu negligência pela ausência de proteção na piscina da propriedade rural, mas fixou culpa concorrente dos pais, que deverão receber R$ 226,9 mil cada um por danos morais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-24",
+      "url": "https://www.migalhas.com.br/quentes/458818/juiz-condena-amado-batista-por-morte-de-crianca-afogada-em-fazenda"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jun.2026Decisão do STF reacende debate sobre pejotização, diz advogado\"A decisão do STF inaugura uma nova etapa da discussão, mas não elimina a insegurança jurídica que envolve o tema\", diz Platon Neto.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-24",
+      "url": "https://www.migalhas.com.br/quentes/458817/decisao-do-stf-reacende-debate-sobre-pejotizacao-diz-advogado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jun.2026TST condena Ortobom a pagar R$ 300 mil por falta de mulheres na gerência3ª turma entendeu que rever a condenação exigiria reexame de provas, vedado pela súmula 126 da própria Corte do Trabalho.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-24",
+      "url": "https://www.migalhas.com.br/quentes/458780/tst-condena-ortobom-a-pagar-r-300-mil-por-falta-de-mulheres-na-gestao"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jun.2026Professora diz que inventou Pix e pede R$ 1 milhão de danos ao BacenDocente afirma ter criado, entre 2011 e 2012, metodologia de pagamento instantâneo por celular que teria sido reproduzida pelo Pix; ação também pede suspensão nacional do sistema.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-24",
+      "url": "https://www.migalhas.com.br/quentes/458812/professora-diz-que-inventou-pix-e-pede-r-1-milhao-de-danos-ao-bacen"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jun.2026Tauil & Chequer debate futuro do setor elétrico no Energy SummitRepresentantes da regulação, do mercado e da advocacia discutem segurança jurídica, ambiente de negócios e os impactos do novo marco do setor elétrico no evento.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-24",
+      "url": "https://www.migalhas.com.br/quentes/458805/tauil--chequer-debate-futuro-do-setor-eletrico-no-energy-summit"
+    },
     {
       "setor": "empresarial",
       "title": "22.jun.2026TST reverte justa causa de motorista que desviou rota uma única vezPara a 2ª turma, embora o motorista tivesse o dever de seguir a rota estabelecida, o desvio foi fato isolado e não justificava a penalidade máxima.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-22",
       "url": "https://www.migalhas.com.br/quentes/458121/justica-afasta-reajustes-de-falso-coletivo-e-aplica-indice-da-ans"
-    },
-    {
-      "setor": "empresarial",
-      "title": "21.jun.2026TRT-2 aplica multa por uso de petições padronizadas em sérieColegiado reconheceu litigância predatória por pedidos repetitivos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-22",
-      "url": "https://www.migalhas.com.br/quentes/457593/trt-2-aplica-multa-por-uso-de-peticoes-padronizadas-em-serie"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jun.2026Concurso: Candidata consegue reserva de vaga após erro em documentoMagistrada entendeu que candidata pode ter sido impedida de tomar posse por erro material em documento sobre compatibilidade de horários.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-21",
-      "url": "https://www.migalhas.com.br/quentes/458332/concurso-candidata-consegue-reserva-de-vaga-apos-erro-em-documento"
-    },
-    {
-      "setor": "varejo",
-      "title": "20.jun.2026Espaçolaser indenizará cliente por queimadura de 2º grau em sessãoJustiça reconheceu falha no serviço após perícia apontar nexo entre o procedimento de depilação a laser e as lesões sofridas pela consumidora.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-21",
-      "url": "https://www.migalhas.com.br/quentes/458089/espacolaser-indenizara-cliente-por-queimadura-de-2-grau-em-sessao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jun.2026Multipropriedade: TJ/SP estende condenação a gestorasColegiado concluiu que empresas integravam a cadeia de fornecimento e devem responder pela rescisão de contrato de multipropriedade.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-21",
-      "url": "https://www.migalhas.com.br/quentes/458199/multipropriedade-tj-sp-estende-condenacao-a-gestoras"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jun.2026Corretor garante comissão por venda de fazenda a ser paga com sacas de sojaSerão mais de 11 mil unidades, a serem convertidas pela cotação do grão em maio de 2017.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-21",
-      "url": "https://www.migalhas.com.br/quentes/458212/corretor-garante-comissao-por-venda-de-fazenda-a-ser-paga-com-soja"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jun.2026Promotor toca \"Então é Natal\" em Júri de crime na véspera da data: \"Família sempre vai chorar\"Acusação sustentou que canção natalina se tornou símbolo permanente de luto para parentes das vítimas.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-21",
-      "url": "https://www.migalhas.com.br/quentes/458592/promotor-toca-entao-e-natal-em-juri-de-crime-na-vespera-da-data"
     }
   ]
 }

@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-06-23T18:58:29.423190+00:00",
-  "total": 4,
+  "updated_at": "2026-06-24T01:14:26.635613+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF reafirma invalidade de normas locais sobre licença ambiental para instalação de antenas de telefonia",
-      "summary": "Exigência prevista no Maranhão e em Foz do Iguaçu (PR) e Petrolina (PE) foi considerada incompatível com a competência da União para regular o setor",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reafirma-invalidade-de-normas-locais-sobre-licenca-ambiental-para-instalacao-de-antenas-de-telefonia/",
-      "date": "2026-06-23",
+      "title": "CESTF realiza reunião de grupo de estudos sobre Reforma Tributária",
+      "summary": "Encontro dá continuidade às atividades acadêmicas desenvolvidas no âmbito do quinto edital de pesquisas do Centro",
+      "url": "https://noticias.stf.jus.br/postsnoticias/cestf-realiza-reuniao-de-grupo-de-estudos-sobre-reforma-tributaria/",
+      "date": "2026-06-24",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF inicia debates sobre modernização do sistema de Justiça nesta quarta-feira (24)",
-      "summary": "Grupo de estudos definirá metodologia de trabalho e calendário de atividades para 2026",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-inicia-debates-sobre-modernizacao-do-sistema-de-justica-nesta-quarta-feira-24/",
-      "date": "2026-06-23",
+      "title": "União, Piauí e Axia Energia mantêm tratativas para acordo sobre indenização de R$ 3,5 bilhões por privatização da Cepisa",
+      "summary": "Em audiência no STF, partes concordaram em buscar a construção de solução definitiva; ministro Luiz Fux marcou nova audiência de conciliação para 18/8",
+      "url": "https://noticias.stf.jus.br/postsnoticias/uniao-piaui-e-axia-energia-mantem-tratativas-para-acordo-sobre-indenizacao-de-r-35-bilhoes-por-privatizacao-da-cepisa/",
+      "date": "2026-06-24",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Nova edição de clássico de Amaro Cavalcanti sobre regime federativo é lançada no STJ",
+      "summary": "Nova edição de clássico de Amaro Cavalcanti sobre regime federativo é lançada no STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23062026-Nova-edicao-de-classico-de-Amaro-Cavalcanti-sobre-regime-federativo-e-lancada-no-STJ.aspx",
+      "date": "2026-06-24",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Admitido recurso extraordinário sobre relativização da vulnerabilidade de vítima de estupro menor de 14 anos",
+      "summary": "Admitido recurso extraordinário sobre relativização da vulnerabilidade de vítima de estupro menor de 14 anos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23062026-Admitido-recurso-extraordinario-sobre-relativizacao-da-vulnerabilidade-de-vitima-de-estupro-menor-de-14-anos.aspx",
+      "date": "2026-06-24",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ Notícias traz decisão que autorizou participação de pessoa relativamente incapaz em holding familiar",
+      "summary": "STJ Notícias traz decisão que autorizou participação de pessoa relativamente incapaz em holding familiar",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23062026-STJ-Noticias-traz-decisao-que-autorizou-participacao-de-pessoa-relativamente-incapaz-em-holding-familiar-.aspx",
+      "date": "2026-06-24",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Manaus recebe o 2º Ciclo Pelo Orgulho e Pela Diversidade no Poder Judiciário, com programação voltada à empregabilidade, saúde e cidadania LGBTQI+ em julho",
       "summary": "Evento promovido pelo TRT-11 e TJAM contará com feira de empreendedorismo, serviços de saúde e orientação jurídica especializada voltada à comunidade LGBTQI+",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11466-manaus-recebe-o-2-ciclo-pelo-orgulho-e-pela-diversidade-no-poder-judiciario-com-programacao-voltada-a-empregabilidade-saude-e-cidadania-lgbtqi-em-julho",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "Reclamação Pré-Processual: TRT-11 media novo acordo coletivo entre Oliveira Energia e sindicato dos trabalhadores do setor elétrico",
       "summary": "Mediação conduzida pelo Cejusc-JT de 2º Grau resultou no Acordo Coletivo de Trabalho 2025/2027, beneficiando cerca de 800 trabalhadoresO Tribunal Regional do Trabalho da 11ª Região (AM/RR) intermediou mais uma negociação bem-sucedida entre a Oliveira Energia S.A. e o Sindicato dos Trabalhadores nas ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11462-reclamacao-pre-processual-trt-11-media-novo-acordo-coletivo-entre-oliveira-energia-e-sindicato-dos-trabalhadores-do-setor-eletrico",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "category": "Trabalhista"
     }
   ]

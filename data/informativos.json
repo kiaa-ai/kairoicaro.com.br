@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T09:07:00.283183+00:00",
-  "total": 4,
+  "updated_at": "2026-06-25T13:05:03.883592+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-reafirma-validade-de-redutor-do-tempo-para-aposentadoria-proporcional-de-professor/",
       "date": "2026-06-25",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Rádio Decidendi discute aplicação da nova Lei de Improbidade aos processos em curso (Tema 1.257)",
+      "summary": "Rádio Decidendi discute aplicação da nova Lei de Improbidade aos processos em curso (Tema 1.257)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Radio-Decidendi-discute-aplicacao-da-nova-Lei-de-Improbidade-aos-processos-em-curso--Tema-1-257-.aspx",
+      "date": "2026-06-25",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos traz honorários em execução fiscal extinta por quitação extrajudicial e comutação de pena",
+      "summary": "Página de Repetitivos traz honorários em execução fiscal extinta por quitação extrajudicial e comutação de pena",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Pagina-de-Repetitivos-traz-honorarios-em-execucao-fiscal-extinta-por-quitacao-extrajudicial-e-comutacao-de-pena-.aspx",
+      "date": "2026-06-25",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Quarta Turma reforma decisão que aplicou a Súmula 308 à alienação fiduciária de imóvel",
+      "summary": "Quarta Turma reforma decisão que aplicou a Súmula 308 à alienação fiduciária de imóvel",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Quarta-Turma-reforma-decisao-que-aplicou-a-Sumula-308-a-alienacao-fiduciaria-de-imovel.aspx",
+      "date": "2026-06-25",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-24T18:54:36.650091+00:00",
+  "updated_at": "2026-06-25T01:18:49.596250+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF valida criação de feriado de Corpus Christi no Estado do Rio de Janeiro",
-      "summary": "Por unanimidade, Corte verificou que a data tem relevância cultural e histórica para a população fluminense",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-criacao-de-feriado-de-corpus-christi-no-estado-do-rio-de-janeiro/",
-      "date": "2026-06-24",
+      "title": "Supremo invalida novos dispositivos da reforma da Lei de Improbidade",
+      "summary": "Plenário retomou julgamento das ações contra mudanças aprovadas pelo Congresso em 2021 e manteve entendimento favorável à ampliação dos mecanismos de combate a irregularidades",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-novos-dispositivos-da-reforma-da-lei-de-improbidade/",
+      "date": "2026-06-25",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Presidente do STF abre primeira reunião sobre modernização do sistema de Justiça",
-      "summary": "Grupo reúne magistrados, juristas e representantes de instituições para debater desafios estruturais da Justiça brasileira",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-abre-primeira-reuniao-sobre-modernizacao-do-sistema-de-justica/",
-      "date": "2026-06-24",
+      "title": "STF reafirma validade de redutor do tempo para aposentadoria proporcional de professor",
+      "summary": "Reconhecimento de repercussão geral e reafirmação da jurisprudência sobre a matéria ocorreu em deliberação do Plenário Virtual",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reafirma-validade-de-redutor-do-tempo-para-aposentadoria-proporcional-de-professor/",
+      "date": "2026-06-25",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,15 @@
       "title": "Divulgada lista de oradores da audiência pública sobre metas de sustentabilidade no Judiciário",
       "summary": "Divulgada lista de oradores da audiência pública sobre metas de sustentabilidade no Judiciário",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24062026-Divulgada-lista-de-oradores-da-audiencia-publica-sobre-metas-de-sustentabilidade-no-Judiciario.aspx",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Quando a Paixão Vira Produto, o último episódio da série sobre o futebol e o STJ",
+      "summary": "Imagem é um dos ativos mais valiosos da indústria esportiva",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24062026-Quando-a-Paixao-Vira-Produto-o-Ultimo-Episodio-da-Serie-sobre-o-Futebol-e-o-STJ.aspx",
+      "date": "2026-06-25",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Página de Repetitivos inclui tese sobre pensão por morte e auxílio-reclusão para menores de 16 anos",
       "summary": "Página de Repetitivos inclui tese sobre pensão por morte e auxílio-reclusão para menores de 16 anos",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24062026-Pagina-de-Repetitivos-inclui-tese-sobre-pensao-por-morte-e-auxilio-reclusao-para-menores-de-16-anos-.aspx",
-      "date": "2026-06-24",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Podcast STJ No Seu Dia discute multiparentalidade e alteração de sobrenome",
-      "summary": "Podcast STJ No Seu Dia discute multiparentalidade e alteração de sobrenome",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24062026-Podcast-STJ-No-Seu-Dia-discute-multiparentalidade-e-alteracao-de-sobrenome.aspx",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Manaus recebe o 2º Ciclo Pelo Orgulho e Pela Diversidade no Poder Judiciário, com programação voltada à empregabilidade, saúde e cidadania LGBTQI+ em julho",
       "summary": "Evento promovido pelo TRT-11 e TJAM contará com feira de empreendedorismo, serviços de saúde e orientação jurídica especializada voltada à comunidade LGBTQI+",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11466-manaus-recebe-o-2-ciclo-pelo-orgulho-e-pela-diversidade-no-poder-judiciario-com-programacao-voltada-a-empregabilidade-saude-e-cidadania-lgbtqi-em-julho",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Reclamação Pré-Processual: TRT-11 media novo acordo coletivo entre Oliveira Energia e sindicato dos trabalhadores do setor elétrico",
       "summary": "Mediação conduzida pelo Cejusc-JT de 2º Grau resultou no Acordo Coletivo de Trabalho 2025/2027, beneficiando cerca de 800 trabalhadoresO Tribunal Regional do Trabalho da 11ª Região (AM/RR) intermediou mais uma negociação bem-sucedida entre a Oliveira Energia S.A. e o Sindicato dos Trabalhadores nas ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11462-reclamacao-pre-processual-trt-11-media-novo-acordo-coletivo-entre-oliveira-energia-e-sindicato-dos-trabalhadores-do-setor-eletrico",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "category": "Trabalhista"
     }
   ]

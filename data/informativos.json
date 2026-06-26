@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T09:07:00.984682+00:00",
-  "total": 4,
+  "updated_at": "2026-06-26T13:00:29.046029+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -19,18 +19,42 @@
       "category": "Constitucional"
     },
     {
+      "tribunal": "STJ",
+      "title": "Jurisprudência sobre arrendamento rural e extinção de contratos é tema do podcast STJ No Seu Dia",
+      "summary": "Jurisprudência sobre arrendamento rural e extinção de contratos é tema do podcast STJ No Seu Dia",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26062026-Jurisprudencia-sobre-arrendamento-rural-e-extincao-de-contratos-e-tema-do-podcast-STJ-No-Seu-Dia.aspx",
+      "date": "2026-06-26",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Tribunal prorroga validade de processos seletivos de estágio abertos em 2024 e 2025",
+      "summary": "Tribunal prorroga validade de processos seletivos de estágio abertos em 2024 e 2025",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Tribunal-prorroga-validade-de-processos-seletivos-de-estagio-abertos-em-2024-e-2025.aspx",
+      "date": "2026-06-26",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Informativo aborda não cabimento de embargos de divergência para discutir modulação em recurso repetitivo",
+      "summary": "Informativo aborda não cabimento de embargos de divergência para discutir modulação em recurso repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26062026-Informativo-aborda-nao-cabimento-de-embargos-de-divergencia-para-discutir-modulacao-em-recurso-repetitivo.aspx",
+      "date": "2026-06-26",
+      "category": "Jurisprudencia"
+    },
+    {
       "tribunal": "TRT11",
-      "title": "Suspensão do expediente no TRT-11 no dia 29 de junho, a partir das 11h",
-      "summary": "Em virtude do jogo da Seleção Brasileira de Futebol pela Copa do Mundo de 2026, o expediente nas unidades do Tribunal Regional do Trabalho da 11ª Região (AM/RR) será suspenso na próxima segunda-feira, 29 de junho, a partir das 11h, nos termos da Portaria nº 238/2026/SGP.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11478-suspensao-do-expediente-a-partir-das-11h-de-segunda-29-6",
+      "title": "Credores de precatórios do Estado de Roraima podem aderir a acordo para antecipar pagamento",
+      "summary": "Interessados têm até 29/7 para manifestar interesse. O edital prevê mais de R$ 339 mil para quitação dos créditos",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11480-credores-de-precatorios-do-estado-de-roraima-podem-aderir-a-acordo-para-antecipar-pagamento",
       "date": "2026-06-26",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 convoca credores para acordo com o Município de Manaus em precatórios",
-      "summary": "Interessados têm até 29/7 para solicitar participação. Mais de R$ 796 mil estão disponíveis para pagamento.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11477-trt-11-convoca-credores-para-acordo-com-o-municipio-de-manaus-em-precatorios",
+      "title": "Suspensão do expediente no TRT-11 no dia 29 de junho, a partir das 11h",
+      "summary": "Em virtude do jogo da Seleção Brasileira de Futebol pela Copa do Mundo de 2026, o expediente nas unidades do Tribunal Regional do Trabalho da 11ª Região (AM/RR) será suspenso na próxima segunda-feira, 29 de junho, a partir das 11h, nos termos da Portaria nº 238/2026/SGP.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11478-suspensao-do-expediente-a-partir-das-11h-de-segunda-29-6",
       "date": "2026-06-26",
       "category": "Trabalhista"
     }

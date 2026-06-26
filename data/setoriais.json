@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-25T09:07:17.264837+00:00",
+  "updated_at": "2026-06-26T09:07:18.161685+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "25.jun.2026Isenção em carro para PcD é tema social e não se reduz ao TributárioAções discutem se novos critérios para alíquota zero de IBS, CBS e Imposto Seletivo restringem política de mobilidade e inclusão.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-26",
+      "url": "https://www.migalhas.com.br/quentes/458954/isencao-em-carro-para-pcd-e-tema-social-e-nao-se-reduz-ao-tributario"
+    },
+    {
+      "setor": "ambiental",
+      "title": "25.jun.2026STF: Em clima de Copa, Dino pede palpite de Fachin para próximo jogo do BrasilApós acertar o placar da vitória do Brasil contra a Escócia, ministro Flávio Dino aproveitou fim da sessão para pedir a Fachin novo palpite para a próxima partida.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-26",
+      "url": "https://www.migalhas.com.br/quentes/458999/stf-em-clima-de-copa-dino-pede-palpite-de-fachin-para-proximo-jogo"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.jun.2026Tribunais Superiores terão expediente facultativo no próximo jogo do BrasilSTF, STJ e TST terão funcionamento especial durante partida da Copa do Mundo de 2026.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-26",
+      "url": "https://www.migalhas.com.br/quentes/458998/tribunais-superiores-terao-expediente-facultativo-no-dia-29-6"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.jun.2026Moraes critica inquéritos civis baseados em notícias plantadas pelo MPDurante julgamento no STF, ministro afirmou que há casos em que membro do Ministério Público repassa informação \"em off\" à imprensa e, depois, usa a notícia para instaurar inquérito.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-26",
+      "url": "https://www.migalhas.com.br/quentes/458997/moraes-critica-inqueritos-civis-baseados-em-noticias-plantadas-pelo-mp"
+    },
+    {
+      "setor": "empresarial",
+      "title": "25.jun.2026Cabem infringentes contra revisão criminal não conhecida? STF julgaRecurso divide ministros sobre alcance da defesa em revisões criminais rejeitadas pelo plenário.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-26",
+      "url": "https://www.migalhas.com.br/quentes/458990/cabem-infringentes-contra-revisao-criminal-nao-conhecida-stf-julga"
+    },
+    {
+      "setor": "ambiental",
+      "title": "25.jun.2026André Mendonça determina transferência de Vorcaro para a PapudinhaApós fracasso nas tentativas de delação, banqueiro deixará a superintendência da Polícia Federal, em Brasília, onde está preso desde março deste ano.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-26",
+      "url": "https://www.migalhas.com.br/quentes/458995/andre-mendonca-determina-transferencia-de-vorcaro-para-a-papudinha"
+    },
     {
       "setor": "empresarial",
       "title": "24.jun.2026Durante julgamento no STF, Fachin e Cármen Lúcia apostam em vitória do BrasilMinistra lembrou jogo de 2006 em que o Brasil venceu \"com boa margem\", e Fachin brincou: \"Vamos manter a jurisprudência\".",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-24",
       "url": "https://www.migalhas.com.br/quentes/458780/tst-condena-ortobom-a-pagar-r-300-mil-por-falta-de-mulheres-na-gestao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.jun.2026Professora diz que inventou Pix e pede R$ 1 milhão de danos ao BacenDocente afirma ter criado, entre 2011 e 2012, metodologia de pagamento instantâneo por celular que teria sido reproduzida pelo Pix; ação também pede suspensão nacional do sistema.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-24",
-      "url": "https://www.migalhas.com.br/quentes/458812/professora-diz-que-inventou-pix-e-pede-r-1-milhao-de-danos-ao-bacen"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.jun.2026Tauil & Chequer debate futuro do setor elétrico no Energy SummitRepresentantes da regulação, do mercado e da advocacia discutem segurança jurídica, ambiente de negócios e os impactos do novo marco do setor elétrico no evento.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-24",
-      "url": "https://www.migalhas.com.br/quentes/458805/tauil--chequer-debate-futuro-do-setor-eletrico-no-energy-summit"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.jun.2026TST reverte justa causa de motorista que desviou rota uma única vezPara a 2ª turma, embora o motorista tivesse o dever de seguir a rota estabelecida, o desvio foi fato isolado e não justificava a penalidade máxima.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-23",
-      "url": "https://www.migalhas.com.br/quentes/458705/tst-reverte-justa-causa-de-motorista-que-desviou-rota-uma-unica-vez"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.jun.2026STF analisa validade de resolução sobre seguros de grandes riscosRelator, Gilmar Mendes, votou pela validade da norma, que amplia a liberdade negocial em contratos de seguros de grandes riscos, sem afastar a fiscalização da Susep.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-23",
-      "url": "https://www.migalhas.com.br/quentes/458700/stf-analisa-validade-de-resolucao-sobre-seguros-de-grandes-riscos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.jun.2026STF: É constitucional emenda que anistia partidos que descumpriram cotas eleitoraisCorte entendeu que a emenda fortalece a política de inclusão racial nas eleições e permite a compensação futura de recursos não destinados a candidaturas negras em pleitos anteriores.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-23",
-      "url": "https://www.migalhas.com.br/quentes/458699/stf-valida-emenda-que-anistia-partido-que-descumpriu-cotas-eleitorais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "22.jun.2026OAB/RJ promove curso de negociação com ministro André MendonçaFormação destaca métodos modernos de negociação e aplicação da Teoria de Harvard na prática jurídica, com análise de casos e simulações.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-23",
-      "url": "https://www.migalhas.com.br/quentes/458667/oab-rj-promove-curso-de-negociacao-com-ministro-andre-mendonca"
     }
   ]
 }

@@ -1,5 +1,38 @@
 {
-  "updated_at": "2026-06-26T07:35:57.109082+00:00",
-  "total": 0,
-  "items": []
+  "updated_at": "2026-06-26T09:07:00.984682+00:00",
+  "total": 4,
+  "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF recebe lançamento de livro em homenagem ao legado do ministro Moreira Alves",
+      "summary": "Ministro Edson Fachin, presidente do STF, lembrou que ocupa a cadeira que pertenceu ao homenageado e afirmou que ele permanece como referência para o Judiciário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/livro-lancado-no-stf-homenageia-legado-do-ministro-moreira-alves/",
+      "date": "2026-06-26",
+      "category": "Constitucional"
+    },
+    {
+      "tribunal": "STF",
+      "title": "STF suspende sanções da NR-1 e abre conciliação sobre regras de riscos psicossociais no trabalho",
+      "summary": "Por decisão do ministro André Mendonça, multas estão suspensas por 90 dias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-sancoes-da-nr-1-e-abre-conciliacao-sobre-regras-de-riscos-psicossociais-no-trabalho/",
+      "date": "2026-06-26",
+      "category": "Constitucional"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Suspensão do expediente no TRT-11 no dia 29 de junho, a partir das 11h",
+      "summary": "Em virtude do jogo da Seleção Brasileira de Futebol pela Copa do Mundo de 2026, o expediente nas unidades do Tribunal Regional do Trabalho da 11ª Região (AM/RR) será suspenso na próxima segunda-feira, 29 de junho, a partir das 11h, nos termos da Portaria nº 238/2026/SGP.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11478-suspensao-do-expediente-a-partir-das-11h-de-segunda-29-6",
+      "date": "2026-06-26",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "TRT-11 convoca credores para acordo com o Município de Manaus em precatórios",
+      "summary": "Interessados têm até 29/7 para solicitar participação. Mais de R$ 796 mil estão disponíveis para pagamento.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11477-trt-11-convoca-credores-para-acordo-com-o-municipio-de-manaus-em-precatorios",
+      "date": "2026-06-26",
+      "category": "Trabalhista"
+    }
+  ]
 }

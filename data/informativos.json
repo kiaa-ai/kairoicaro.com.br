@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-06-25T18:58:29.159187+00:00",
+  "updated_at": "2026-06-26T01:21:34.014639+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Jogo da seleção brasileira na Copa do Mundo altera expediente do STF na segunda-feira (29)",
-      "summary": "Portaria da Diretoria-Geral do STF estabelece ponto facultativo na data",
-      "url": "https://noticias.stf.jus.br/postsnoticias/jogo-da-selecao-brasileira-na-copa-do-mundo-altera-expediente-do-stf-na-segunda-feira-29/",
-      "date": "2026-06-25",
+      "title": "STF suspende sanções da NR-1 e abre conciliação sobre regras de riscos psicossociais no trabalho",
+      "summary": "Por decisão do ministro André Mendonça, multas estão suspensas por 90 dias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-sancoes-da-nr-1-e-abre-conciliacao-sobre-regras-de-riscos-psicossociais-no-trabalho/",
+      "date": "2026-06-26",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Confira a pauta do STF desta quinta-feira (25)",
-      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-25/",
-      "date": "2026-06-25",
+      "title": "STF decide que absolvição criminal não encerra ação de improbidade de forma automática",
+      "summary": "Plenário avançou, nesta quinta-feira (25), no exame de ações que questionam alterações na Lei de Improbidade",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-absolvicao-criminal-nao-encerra-acao-de-improbidade-de-forma-automatica/",
+      "date": "2026-06-26",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Copa do Mundo: STJ terá ponto facultativo na segunda-feira (29)",
+      "summary": "Copa do Mundo: STJ terá ponto facultativo na segunda-feira (29)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Copa-do-Mundo-STJ-tera-ponto-facultativo-na-segunda-feira--29-.aspx",
+      "date": "2026-06-26",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Rádio Decidendi discute aplicação da nova Lei de Improbidade aos processos em curso (Tema 1.257)",
       "summary": "Rádio Decidendi discute aplicação da nova Lei de Improbidade aos processos em curso (Tema 1.257)",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Radio-Decidendi-discute-aplicacao-da-nova-Lei-de-Improbidade-aos-processos-em-curso--Tema-1-257-.aspx",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "category": "Jurisprudencia"
     },
     {
@@ -31,31 +39,23 @@
       "title": "Página de Repetitivos traz honorários em execução fiscal extinta por quitação extrajudicial e comutação de pena",
       "summary": "Página de Repetitivos traz honorários em execução fiscal extinta por quitação extrajudicial e comutação de pena",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Pagina-de-Repetitivos-traz-honorarios-em-execucao-fiscal-extinta-por-quitacao-extrajudicial-e-comutacao-de-pena-.aspx",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Quarta Turma reforma decisão que aplicou a Súmula 308 à alienação fiduciária de imóvel",
-      "summary": "Quarta Turma reforma decisão que aplicou a Súmula 308 à alienação fiduciária de imóvel",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Quarta-Turma-reforma-decisao-que-aplicou-a-Sumula-308-a-alienacao-fiduciaria-de-imovel.aspx",
-      "date": "2026-06-25",
-      "category": "Jurisprudencia"
+      "tribunal": "TRT11",
+      "title": "Suspensão do expediente no TRT-11 no dia 29 de junho, a partir das 11h",
+      "summary": "Em virtude do jogo da Seleção Brasileira de Futebol pela Copa do Mundo de 2026, o expediente nas unidades do Tribunal Regional do Trabalho da 11ª Região (AM/RR) será suspenso na próxima segunda-feira, 29 de junho, a partir das 11h, nos termos da Portaria nº 238/2026/SGP.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11478-suspensao-do-expediente-a-partir-das-11h-de-segunda-29-6",
+      "date": "2026-06-26",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "TRT-11 convoca credores para acordo com o Município de Manaus em precatórios",
       "summary": "Interessados têm até 29/7 para solicitar participação. Mais de R$ 796 mil estão disponíveis para pagamento.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11477-trt-11-convoca-credores-para-acordo-com-o-municipio-de-manaus-em-precatorios",
-      "date": "2026-06-25",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Justiça do Trabalho condena loja de joias em Manaus por discriminação religiosa contra funcionária umbandista",
-      "summary": "Ex-funcionária relatou perseguição religiosa durante mais de dois anos de atuação",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11473-justica-do-trabalho-condena-loja-de-joias-em-manaus-por-discriminacao-religiosa-contra-funcionaria-umbandista",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "category": "Trabalhista"
     }
   ]

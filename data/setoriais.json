@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-26T09:07:18.161685+00:00",
+  "updated_at": "2026-06-27T08:56:10.254354+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "26.jun.2026Figueirense aciona Justiça para garantir direito de deixar a FFUClube ajuizou tutela cautelar pré-arbitral e sustenta que regras da entidade dificultam a desfiliação; ação cita medida preventiva do Cade sobre possível restrição à concorrência entre ligas.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-27",
+      "url": "https://www.migalhas.com.br/quentes/459086/figueirense-aciona-justica-para-garantir-direito-de-deixar-a-ffu"
+    },
+    {
+      "setor": "empresarial",
+      "title": "26.jun.2026Copa: TJ/SP altera expediente e diferencia prazos físicos e digitaisTribunal funcionará em regime remoto na segunda-feira, 29, quando Brasil enfrenta o Japão em campo; processos físicos terão prazos suspensos, enquanto os digitais seguirão a regra do CPC.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-27",
+      "url": "https://www.migalhas.com.br/quentes/459085/copa-tj-sp-altera-expediente-e-diferencia-prazos-fisicos-e-digitais"
+    },
+    {
+      "setor": "ambiental",
+      "title": "26.jun.2026Homem que fingiu câncer terminal para enganar namorada é condenado por estelionatoEstelionatário inventou doença grave para conquistar a confiança da vítima e aplicar golpes financeiros.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-27",
+      "url": "https://www.migalhas.com.br/quentes/459056/homem-que-fingiu-cancer-terminal-para-enganar-namorada-e-condenado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "26.jun.2026Pai é preso após planejar morte do filho no ChatGPT; veja análise jurídicaEspecialistas explicam limites da responsabilidade penal, o uso das conversas como prova, a privacidade nas IAs e os reflexos da recente decisão do STF sobre plataformas digitais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-27",
+      "url": "https://www.migalhas.com.br/quentes/459083/pai-e-preso-apos-planejar-morte-do-filho-no-chatgpt-veja-analise"
+    },
+    {
+      "setor": "empresarial",
+      "title": "26.jun.2026STF julgará em plenário físico resolução sobre seguros de grandes riscosMinistro Flávio Dino pediu destaque após cinco ministros votarem, no plenário virtual, pela validade da norma do CNSP que amplia a liberdade negocial no setor.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-27",
+      "url": "https://www.migalhas.com.br/quentes/459080/stf-julgara-em-plenario-resolucao-sobre-seguros-de-grandes-riscos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "26.jun.2026Cashback Social do /asbz destina mais de R$ 600 mil a ONGs Iniciativa social e colaborativa com os clientes apoia crianças e jovens, estimulando potencialização do ESG no ecossistema jurídico.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-27",
+      "url": "https://www.migalhas.com.br/quentes/459082/cashback-social-do-asbz-destina-mais-de-r-600-mil-a-ongs"
+    },
     {
       "setor": "empresarial",
       "title": "25.jun.2026Isenção em carro para PcD é tema social e não se reduz ao TributárioAções discutem se novos critérios para alíquota zero de IBS, CBS e Imposto Seletivo restringem política de mobilidade e inclusão.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-25",
       "url": "https://www.migalhas.com.br/quentes/458912/no-stf-moraes-brinca-que-julgamento-pode-durar-ate-brasil-x-japao"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.jun.2026\"Vontade de entrar embaixo da bancada\", brinca Cármen ao ser homenageadaDurante homenagens por completar duas décadas no Supremo, ministra admitiu se sentir constrangida em celebrações.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-25",
-      "url": "https://www.migalhas.com.br/quentes/458910/querendo-entrar-embaixo-da-bancada--brinca-carmen-ao-ser-homenageada"
-    },
-    {
-      "setor": "empresarial",
-      "title": "24.jun.2026STJ admite recurso ao STF sobre estupro de vulnerável menor de 14 anosVice-presidente da Corte, ministro Luis Felipe Salomão, admitiu recurso que discute a relativização de vulnerabilidade em determinadas circunstâncias",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-25",
-      "url": "https://www.migalhas.com.br/quentes/458829/stj-admite-recurso-ao-stf-sobre-estupro-de-vulneravel-menor-de-14-anos"
-    },
-    {
-      "setor": "varejo",
-      "title": "23.jun.2026BYD é condenada por consumo abaixo do anunciado e terá de ressarcir clienteConsumidor afirmou que veículo híbrido prometia rendimento de 19,9 km/l, mas alcançava cerca de 9 km/l.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-24",
-      "url": "https://www.migalhas.com.br/quentes/458815/byd-e-condenada-por-consumo-abaixo-do-anunciado"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.jun.2026Juiz condena Amado Batista por morte de criança afogada em piscina de fazendaJuiz reconheceu negligência pela ausência de proteção na piscina da propriedade rural, mas fixou culpa concorrente dos pais, que deverão receber R$ 226,9 mil cada um por danos morais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-24",
-      "url": "https://www.migalhas.com.br/quentes/458818/juiz-condena-amado-batista-por-morte-de-crianca-afogada-em-fazenda"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.jun.2026Decisão do STF reacende debate sobre pejotização, diz advogado\"A decisão do STF inaugura uma nova etapa da discussão, mas não elimina a insegurança jurídica que envolve o tema\", diz Platon Neto.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-24",
-      "url": "https://www.migalhas.com.br/quentes/458817/decisao-do-stf-reacende-debate-sobre-pejotizacao-diz-advogado"
-    },
-    {
-      "setor": "empresarial",
-      "title": "23.jun.2026TST condena Ortobom a pagar R$ 300 mil por falta de mulheres na gerência3ª turma entendeu que rever a condenação exigiria reexame de provas, vedado pela súmula 126 da própria Corte do Trabalho.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-24",
-      "url": "https://www.migalhas.com.br/quentes/458780/tst-condena-ortobom-a-pagar-r-300-mil-por-falta-de-mulheres-na-gestao"
     }
   ]
 }

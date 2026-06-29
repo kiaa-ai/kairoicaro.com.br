@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-28T19:45:39.711424+00:00",
-  "total": 7,
+  "updated_at": "2026-06-29T04:58:51.638952+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
       "title": "Supremo na Semana destaca continuidade de julgamento sobre lei da improbidade",
       "summary": "Episódio #195 do podcast está disponível nas principais plataformas de áudio e no YouTube",
       "url": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-continuidade-de-julgamento-sobre-lei-da-improbidade/",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "category": "Constitucional"
     },
     {
@@ -15,39 +15,15 @@
       "title": "STF lança edital para receber propostas sobre modernização do sistema de Justiça",
       "summary": "Contribuições poderão ser enviadas até 15/8 e serão analisadas por grupo de estudos criado no âmbito do Centro de Estudos Constitucionais do STF",
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-edital-para-receber-propostas-sobre-modernizacao-do-sistema-de-justica/",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Jurisprudência sobre arrendamento rural e extinção de contratos é tema do podcast STJ No Seu Dia",
-      "summary": "Jurisprudência sobre arrendamento rural e extinção de contratos é tema do podcast STJ No Seu Dia",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26062026-Jurisprudencia-sobre-arrendamento-rural-e-extincao-de-contratos-e-tema-do-podcast-STJ-No-Seu-Dia.aspx",
-      "date": "2026-06-28",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Tribunal prorroga validade de processos seletivos de estágio abertos em 2024 e 2025",
-      "summary": "Tribunal prorroga validade de processos seletivos de estágio abertos em 2024 e 2025",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25062026-Tribunal-prorroga-validade-de-processos-seletivos-de-estagio-abertos-em-2024-e-2025.aspx",
-      "date": "2026-06-28",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Informativo aborda não cabimento de embargos de divergência para discutir modulação em recurso repetitivo",
-      "summary": "Informativo aborda não cabimento de embargos de divergência para discutir modulação em recurso repetitivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26062026-Informativo-aborda-nao-cabimento-de-embargos-de-divergencia-para-discutir-modulacao-em-recurso-repetitivo.aspx",
-      "date": "2026-06-28",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Prêmio Anamatra de Direitos Humanos destacará jornalistas e projetos relevantes para o mundo do trabalho",
       "summary": "Inscrições podem ser feitas até 6 de julho de 2026",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11486-premio-anamatra-de-direitos-humanos-destacara-jornalistas-e-projetos-relevantes-para-o-mundo-do-trabalho",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +31,7 @@
       "title": "Justiça do Trabalho Itinerante estará presente em sete municípios do Amazonas e dois de Roraima durante o mês de julho",
       "summary": "População poderá receber orientações, esclarecer dúvidas e ingressar com ações trabalhistas sem a necessidade de um advogado",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11481-justica-do-trabalho-itinerante-estara-presente-em-sete-municipios-do-amazonas-e-dois-de-roraima-durante-o-mes-de-julho",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "category": "Trabalhista"
     }
   ]

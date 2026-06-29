@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-28T09:04:37.111302+00:00",
+  "updated_at": "2026-06-29T12:27:42.399213+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "29.jun.2026TST manda Petrobras nomear candidata que teve função terceirizadaColegiado concluiu que terceirização durante a validade do concurso transformou expectativa de direito em nomeação.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-29",
+      "url": "https://www.migalhas.com.br/quentes/459094/tst-manda-petrobras-nomear-candidata-que-teve-funcao-terceirizada"
+    },
+    {
+      "setor": "empresarial",
+      "title": "29.jun.2026TSE publica \"bom dia\" com Vini Jr. e compara seleção ao sistema eleitoral: \"segura e eficiente\"Tribunal aproveitou o clima da Copa do Mundo para exaltar rapidez, segurança e eficiência do sistema de votação brasileiro.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-29",
+      "url": "https://www.migalhas.com.br/quentes/459105/tse-posta-bom-dia-com-vini-jr-e-compara-selecao-ao-sistema-eleitoral"
+    },
+    {
+      "setor": "empresarial",
+      "title": "29.jun.2026CAM-CCBC e Arbitration Place unem operações no Brasil e CanadáIniciativa aumenta a presença internacional entre os países com a implementação de novos serviços, além de acesso à tecnologia e infraestrutura para procedimentos arbitrais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-29",
+      "url": "https://www.migalhas.com.br/quentes/459037/cam-ccbc-e-arbitration-place-unem-operacoes-no-brasil-e-canada"
+    },
+    {
+      "setor": "empresarial",
+      "title": "29.jun.2026No Judiciário do Japão, cidadãos julgam crimes e avaliam ministros; conheçaModelo japonês permite que cidadãos atuem em julgamentos criminais graves e votem sobre a permanência de ministros da Suprema Corte.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-29",
+      "url": "https://www.migalhas.com.br/quentes/459043/no-judiciario-do-japao-cidadaos-julgam-crimes-e-avaliam-ministros"
+    },
+    {
+      "setor": "ambiental",
+      "title": "29.jun.2026Japão é criticado por prisões prolongadas; caso Ghosn virou símboloHuman Rights Watch afirma que suspeitos podem ficar semanas sem fiança e sem advogado durante interrogatórios.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-29",
+      "url": "https://www.migalhas.com.br/quentes/459073/japao-e-criticado-por-prisoes-prolongadas-caso-ghosn-virou-simbolo"
+    },
+    {
+      "setor": "empresarial",
+      "title": "28.jun.2026TJ/SP: Sucumbência recíproca não pode reduzir honorários abaixo do mínimoColegiado entendeu que divisão proporcional da verba reduziu remuneração do advogado abaixo do mínimo previsto no CPC.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-06-29",
+      "url": "https://www.migalhas.com.br/quentes/458944/sucumbencia-reciproca-nao-pode-reduzir-honorarios-abaixo-do-minimo"
+    },
     {
       "setor": "empresarial",
       "title": "27.jun.2026STF tem maioria para flexibilizar decisão que limitou penduricalhosMaioria mantém núcleo da decisão de março, mas admite exceções para determinadas indenizações e esclarece alcance da tese.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-06-27",
       "url": "https://www.migalhas.com.br/quentes/459056/homem-que-fingiu-cancer-terminal-para-enganar-namorada-e-condenado"
-    },
-    {
-      "setor": "empresarial",
-      "title": "26.jun.2026Pai é preso após planejar morte do filho no ChatGPT; veja análise jurídicaEspecialistas explicam limites da responsabilidade penal, o uso das conversas como prova, a privacidade nas IAs e os reflexos da recente decisão do STF sobre plataformas digitais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-27",
-      "url": "https://www.migalhas.com.br/quentes/459083/pai-e-preso-apos-planejar-morte-do-filho-no-chatgpt-veja-analise"
-    },
-    {
-      "setor": "empresarial",
-      "title": "26.jun.2026STF julgará em plenário físico resolução sobre seguros de grandes riscosMinistro Flávio Dino pediu destaque após cinco ministros votarem, no plenário virtual, pela validade da norma do CNSP que amplia a liberdade negocial no setor.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-27",
-      "url": "https://www.migalhas.com.br/quentes/459080/stf-julgara-em-plenario-resolucao-sobre-seguros-de-grandes-riscos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "26.jun.2026Cashback Social do /asbz destina mais de R$ 600 mil a ONGs Iniciativa social e colaborativa com os clientes apoia crianças e jovens, estimulando potencialização do ESG no ecossistema jurídico.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-27",
-      "url": "https://www.migalhas.com.br/quentes/459082/cashback-social-do-asbz-destina-mais-de-r-600-mil-a-ongs"
-    },
-    {
-      "setor": "empresarial",
-      "title": "25.jun.2026Isenção em carro para PcD é tema social e não se reduz ao TributárioAções discutem se novos critérios para alíquota zero de IBS, CBS e Imposto Seletivo restringem política de mobilidade e inclusão.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-26",
-      "url": "https://www.migalhas.com.br/quentes/458954/isencao-em-carro-para-pcd-e-tema-social-e-nao-se-reduz-ao-tributario"
-    },
-    {
-      "setor": "ambiental",
-      "title": "25.jun.2026STF: Em clima de Copa, Dino pede palpite de Fachin para próximo jogo do BrasilApós acertar o placar da vitória do Brasil contra a Escócia, ministro Flávio Dino aproveitou fim da sessão para pedir a Fachin novo palpite para a próxima partida.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-26",
-      "url": "https://www.migalhas.com.br/quentes/458999/stf-em-clima-de-copa-dino-pede-palpite-de-fachin-para-proximo-jogo"
-    },
-    {
-      "setor": "empresarial",
-      "title": "25.jun.2026Tribunais Superiores terão expediente facultativo no próximo jogo do BrasilSTF, STJ e TST terão funcionamento especial durante partida da Copa do Mundo de 2026.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-26",
-      "url": "https://www.migalhas.com.br/quentes/458998/tribunais-superiores-terao-expediente-facultativo-no-dia-29-6"
     }
   ]
 }

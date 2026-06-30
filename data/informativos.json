@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-30T10:53:20.314527+00:00",
+  "updated_at": "2026-06-30T14:42:34.868649+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF vai discutir indenização por desapropriação de imóveis ocupados por famílias de baixa renda sem registro de propriedade",
+      "summary": "Matéria teve repercussão geral reconhecida. No julgamento de mérito, sem data prevista, o Tribunal fixará tese a ser seguida em casos semelhantes na Justiça.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-discutir-indenizacao-por-desapropriacao-de-imoveis-ocupados-por-familias-de-baixa-renda-sem-registro-de-propriedade/",
+      "date": "2026-06-30",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Jogo da Seleção Brasileira na Copa do Mundo altera expediente do STF nesta segunda-feira (29)",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Supremo na Semana destaca continuidade de julgamento sobre lei da improbidade",
-      "summary": "Episódio #195 do podcast está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-continuidade-de-julgamento-sobre-lei-da-improbidade/",
-      "date": "2026-06-30",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Quarta Turma afasta usucapião familiar sobre parte de imóvel com área total superior a 250 m²",
-      "summary": "A recorrente alegava que o limite legal deveria ser aplicado apenas à área reivindicada, e não à metragem total, pois a usucapião seria possível sobre fração de até 250 m² mesmo em imóvel maior.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Quarta-Turma-afasta-usucapiao-familiar-sobre-parte-de-imovel-com-area-total-superior-a-250-m².aspx",
+      "title": "Pesquisa Pronta destaca natureza de crime ambiental e responsabilidade civil por dano ambiental",
+      "summary": "Pesquisa Pronta destaca natureza de crime ambiental e responsabilidade civil por dano ambiental",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Pesquisa-Pronta-destaca-natureza-de-crime-ambiental-e-responsabilidade-civil-por-dano-ambiental.aspx",
       "date": "2026-06-30",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Prazos processuais ficam suspensos entre os dias 2 e 31 de julho",
-      "summary": "Prazos processuais ficam suspensos entre os dias 2 e 31 de julho",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29062026-Prazos-processuais-ficam-suspensos-entre-os-dias-2-e-31-de-julho.aspx",
+      "title": "Página de Repetitivos inclui tese sobre continuidade delitiva em crimes previdenciários",
+      "summary": "Página de Repetitivos inclui tese sobre continuidade delitiva em crimes previdenciários",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Pagina-de-Repetitivos-inclui-tese-sobre-continuidade-delitiva-em-crimes-previdenciarios.aspx",
       "date": "2026-06-30",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Jurisprudência sobre arrendamento rural e extinção de contratos é tema do podcast STJ No Seu Dia",
-      "summary": "Jurisprudência sobre arrendamento rural e extinção de contratos é tema do podcast STJ No Seu Dia",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26062026-Jurisprudencia-sobre-arrendamento-rural-e-extincao-de-contratos-e-tema-do-podcast-STJ-No-Seu-Dia.aspx",
+      "title": "Primeira Seção cancela dois temas repetitivos sobre contribuição previdenciária patronal",
+      "summary": "Primeira Seção cancela dois temas repetitivos sobre contribuição previdenciária patronal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Primeira-Secao-cancela-dois-temas-repetitivos-sobre-contribuicao-previdenciaria-patronal.aspx",
       "date": "2026-06-30",
       "category": "Jurisprudencia"
     },

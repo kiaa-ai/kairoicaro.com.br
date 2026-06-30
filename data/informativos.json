@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-06-30T14:42:34.868649+00:00",
+  "updated_at": "2026-06-30T20:18:39.369137+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF vai discutir indenização por desapropriação de imóveis ocupados por famílias de baixa renda sem registro de propriedade",
-      "summary": "Matéria teve repercussão geral reconhecida. No julgamento de mérito, sem data prevista, o Tribunal fixará tese a ser seguida em casos semelhantes na Justiça.",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-discutir-indenizacao-por-desapropriacao-de-imoveis-ocupados-por-familias-de-baixa-renda-sem-registro-de-propriedade/",
+      "title": "Plenário do STF realiza última sessão do semestre nesta quarta-feira (1º)",
+      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 10h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/plenario-do-stf-realiza-ultima-sessao-do-semestre-nesta-quarta-feira-1o/",
       "date": "2026-06-30",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Jogo da Seleção Brasileira na Copa do Mundo altera expediente do STF nesta segunda-feira (29)",
-      "summary": "Portaria da Diretoria-Geral do STF estabelece ponto facultativo",
-      "url": "https://noticias.stf.jus.br/postsnoticias/jogo-da-selecao-brasileira-na-copa-do-mundo-altera-expediente-do-stf-nesta-segunda-feira-29/",
+      "title": "STF suspende exigência de seguro adicional para transporte por moto via aplicativo em São Paulo",
+      "summary": "Para o ministro Alexandre de Moraes, norma municipal criou requisitos adicionais ao conteúdo previsto em norma federal que regulamenta a matéria",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-exigencia-de-seguro-adicional-para-transporte-por-moto-via-aplicativo-em-sao-paulo/",
       "date": "2026-06-30",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Audiência sobre metas de sustentabilidade no Judiciário acontece nesta terça (30), com transmissão ao vivo",
+      "summary": "Audiência sobre metas de sustentabilidade no Judiciário acontece nesta terça (30), com transmissão ao vivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Audiencia-sobre-metas-de-sustentabilidade-no-Judiciario-acontece-nesta-terca--30---com-transmissao-ao-vivo.aspx",
+      "date": "2026-06-30",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -31,14 +39,6 @@
       "title": "Página de Repetitivos inclui tese sobre continuidade delitiva em crimes previdenciários",
       "summary": "Página de Repetitivos inclui tese sobre continuidade delitiva em crimes previdenciários",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Pagina-de-Repetitivos-inclui-tese-sobre-continuidade-delitiva-em-crimes-previdenciarios.aspx",
-      "date": "2026-06-30",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Primeira Seção cancela dois temas repetitivos sobre contribuição previdenciária patronal",
-      "summary": "Primeira Seção cancela dois temas repetitivos sobre contribuição previdenciária patronal",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Primeira-Secao-cancela-dois-temas-repetitivos-sobre-contribuicao-previdenciaria-patronal.aspx",
       "date": "2026-06-30",
       "category": "Jurisprudencia"
     },

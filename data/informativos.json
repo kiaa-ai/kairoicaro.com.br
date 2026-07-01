@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T10:13:06.674256+00:00",
-  "total": 7,
+  "updated_at": "2026-07-01T11:20:26.503397+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
@@ -17,30 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-rejeita-recurso-em-decisao-que-considerou-inconstitucional-aposentadoria-compulsoria-de-juizes/",
       "date": "2026-07-01",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "São devidos honorários mesmo quando execução fiscal é extinta pelo pagamento da dívida antes da citação",
-      "summary": "Segundo o relator do repetitivo, ministro Gurgel de Faria, o entendimento decorre do princípio da causalidade, que atribui as despesas processuais e os honorários a quem deu causa à demanda.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Sao-devidos-honorarios-mesmo-quando-execucao-fiscal-e-extinta-pelo-pagamento-da-divida-antes-da-citacao.aspx",
-      "date": "2026-07-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJN traz decisão que invalidou testamento por email sem assinatura e sem testemunha",
-      "summary": "STJN traz decisão que invalidou testamento por email sem assinatura e sem testemunha",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-STJN-traz-decisao-que-invalidou-testamento-por-email-sem-assinatura-e-sem-testemunha.aspx",
-      "date": "2026-07-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Audiência sobre metas de sustentabilidade no Judiciário acontece nesta terça (30), com transmissão ao vivo",
-      "summary": "Audiência sobre metas de sustentabilidade no Judiciário acontece nesta terça (30), com transmissão ao vivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Audiencia-sobre-metas-de-sustentabilidade-no-Judiciario-acontece-nesta-terca--30---com-transmissao-ao-vivo.aspx",
-      "date": "2026-07-01",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

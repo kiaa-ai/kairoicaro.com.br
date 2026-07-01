@@ -1,36 +1,60 @@
 {
-  "updated_at": "2026-07-01T15:11:29.147034+00:00",
-  "total": 4,
+  "updated_at": "2026-07-01T20:14:22.394678+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF mantém obrigatoriedade de respeito ao teto remuneratório e limitação sobre o pagamentos de verbas indenizatórias",
-      "summary": "Ao concluir julgamento de recursos, Plenário definiu regras de transição para limitar e padronizar o pagamento de parcelas dessa natureza",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-obrigatoriedade-de-respeito-ao-teto-remuneratorio-e-limitacao-sobre-o-pagamentos-de-verbas-indenizatorias/",
+      "title": "STF autoriza busca e apreensão em investigação sobre suspeitas de desvio de recursos de cota parlamentar",
+      "summary": "Decisão do ministro Flávio Dino atende a pedido da PF e decorre de desdobramentos de fase anterior de investigação envolvendo deputado federal Sóstenes Cavalcante",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
       "date": "2026-07-01",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Centro de Estudos Constitucionais do STF divulga edital para audiência acadêmica em Belo Horizonte (MG)",
-      "summary": "Encontro sobre ensino do direito constitucional no século XXI será realizado em 14/8; instituições interessadas em realizar exposição oral podem se inscrever até 31/7",
-      "url": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-divulga-edital-para-audiencia-academica-em-belo-horizonte-mg/",
+      "title": "STF invalida regra da reforma da Lei de Improbidade que reduzia prazo de prescrição",
+      "summary": "Decisão ocorreu na conclusão do julgamento da matéria; segundo o relator, ministro Alexandre de Moraes, regra comprometeria efetividade do sistema constitucional de combate à improbidade",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-reducao-de-prazo-de-prescricao-prevista-na-reforma-da-lei-de-improbidade-administrativa/",
       "date": "2026-07-01",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ No Seu Dia discute limites do uso de inteligência artificial como prova em ação penal",
+      "summary": "STJ No Seu Dia discute limites do uso de inteligência artificial como prova em ação penal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-STJ-No-Seu-Dia-discute-limites-do-uso-de-inteligencia-artificial-como-prova-em-acao-penal.aspx",
+      "date": "2026-07-01",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ é finalista em três categorias no Prêmio Nacional de Comunicação e Justiça",
+      "summary": "STJ é finalista em três categorias no Prêmio Nacional de Comunicação e Justiça",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-STJ-e-finalista-em-tres-categorias-no-Premio-Nacional-de-Comunicacao-e-Justica.aspx",
+      "date": "2026-07-01",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Corte Especial vai fixar tese em repetitivo sobre retroação da gratuidade de justiça",
+      "summary": "Corte Especial vai fixar tese em repetitivo sobre retroação da gratuidade de justiça",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Corte-Especial-vai-fixar-tese-em-repetitivo-sobre-retroacao-da-gratuidade-de-justica.aspx",
+      "date": "2026-07-01",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Discriminação contra LGBTI+ no mercado de trabalho brasileiro gera perdas salariais de R$ 94,4 bilhões por ano",
+      "summary": "Estudo sobre custo econômico da exclusão baseada em orientação sexual também aponta que a comunidade enfrenta desemprego de 15,2%, quase o dobro da média nacional de 7,7%",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11490-discriminacao-contra-lgbti-no-mercado-de-trabalho-brasileiro-gera-perdas-salariais-de-r-94-4-bilhoes-por-ano",
+      "date": "2026-07-01",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Prêmio Anamatra de Direitos Humanos destacará jornalistas e projetos relevantes para o mundo do trabalho",
       "summary": "Inscrições podem ser feitas até 6 de julho de 2026",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11486-premio-anamatra-de-direitos-humanos-destacara-jornalistas-e-projetos-relevantes-para-o-mundo-do-trabalho",
-      "date": "2026-07-01",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Justiça do Trabalho Itinerante estará presente em sete municípios do Amazonas e dois de Roraima durante o mês de julho",
-      "summary": "População poderá receber orientações, esclarecer dúvidas e ingressar com ações trabalhistas sem a necessidade de um advogado",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11481-justica-do-trabalho-itinerante-estara-presente-em-sete-municipios-do-amazonas-e-dois-de-roraima-durante-o-mes-de-julho",
       "date": "2026-07-01",
       "category": "Trabalhista"
     }

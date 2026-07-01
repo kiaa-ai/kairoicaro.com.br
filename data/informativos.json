@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-06-30T20:18:39.369137+00:00",
+  "updated_at": "2026-07-01T04:53:23.075358+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Plenário do STF realiza última sessão do semestre nesta quarta-feira (1º)",
-      "summary": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 10h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/plenario-do-stf-realiza-ultima-sessao-do-semestre-nesta-quarta-feira-1o/",
-      "date": "2026-06-30",
+      "title": "Centro de Estudos Constitucionais do STF divulga edital para audiência acadêmica em Belo Horizonte (MG)",
+      "summary": "Encontro sobre ensino do direito constitucional no século XXI será realizado em 14/8; instituições interessadas em realizar exposição oral podem se inscrever até 31/7",
+      "url": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-divulga-edital-para-audiencia-academica-em-belo-horizonte-mg/",
+      "date": "2026-07-01",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF suspende exigência de seguro adicional para transporte por moto via aplicativo em São Paulo",
-      "summary": "Para o ministro Alexandre de Moraes, norma municipal criou requisitos adicionais ao conteúdo previsto em norma federal que regulamenta a matéria",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-exigencia-de-seguro-adicional-para-transporte-por-moto-via-aplicativo-em-sao-paulo/",
-      "date": "2026-06-30",
+      "title": "1ª Turma rejeita recurso em decisão que considerou inconstitucional aposentadoria compulsória de juízes",
+      "summary": "Colegiado considerou que pontos alegados pela PGR já haviam sido examinados no julgamento da ação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-rejeita-recurso-em-decisao-que-considerou-inconstitucional-aposentadoria-compulsoria-de-juizes/",
+      "date": "2026-07-01",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJN traz decisão que invalidou testamento por email sem assinatura e sem testemunha",
+      "summary": "STJN traz decisão que invalidou testamento por email sem assinatura e sem testemunha",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-STJN-traz-decisao-que-invalidou-testamento-por-email-sem-assinatura-e-sem-testemunha.aspx",
+      "date": "2026-07-01",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Audiência sobre metas de sustentabilidade no Judiciário acontece nesta terça (30), com transmissão ao vivo",
       "summary": "Audiência sobre metas de sustentabilidade no Judiciário acontece nesta terça (30), com transmissão ao vivo",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Audiencia-sobre-metas-de-sustentabilidade-no-Judiciario-acontece-nesta-terca--30---com-transmissao-ao-vivo.aspx",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "category": "Jurisprudencia"
     },
     {
@@ -31,15 +39,7 @@
       "title": "Pesquisa Pronta destaca natureza de crime ambiental e responsabilidade civil por dano ambiental",
       "summary": "Pesquisa Pronta destaca natureza de crime ambiental e responsabilidade civil por dano ambiental",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Pesquisa-Pronta-destaca-natureza-de-crime-ambiental-e-responsabilidade-civil-por-dano-ambiental.aspx",
-      "date": "2026-06-30",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Página de Repetitivos inclui tese sobre continuidade delitiva em crimes previdenciários",
-      "summary": "Página de Repetitivos inclui tese sobre continuidade delitiva em crimes previdenciários",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30062026-Pagina-de-Repetitivos-inclui-tese-sobre-continuidade-delitiva-em-crimes-previdenciarios.aspx",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Prêmio Anamatra de Direitos Humanos destacará jornalistas e projetos relevantes para o mundo do trabalho",
       "summary": "Inscrições podem ser feitas até 6 de julho de 2026",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11486-premio-anamatra-de-direitos-humanos-destacara-jornalistas-e-projetos-relevantes-para-o-mundo-do-trabalho",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Justiça do Trabalho Itinerante estará presente em sete municípios do Amazonas e dois de Roraima durante o mês de julho",
       "summary": "População poderá receber orientações, esclarecer dúvidas e ingressar com ações trabalhistas sem a necessidade de um advogado",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11481-justica-do-trabalho-itinerante-estara-presente-em-sete-municipios-do-amazonas-e-dois-de-roraima-durante-o-mes-de-julho",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "category": "Trabalhista"
     }
   ]

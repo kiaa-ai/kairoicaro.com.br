@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T04:21:02.596003+00:00",
-  "total": 4,
+  "updated_at": "2026-07-02T09:31:09.627119+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-direitos-constitucionais-de-influenciadores-digitais-mirins-e-um-dos-destaques-desta-quinta-feira-2-7/",
       "date": "2026-07-02",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Senado aprova regulamentação da relevância para admissão do recurso especial",
+      "summary": "Senado aprova regulamentação da relevância para admissão do recurso especial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Senado-aprova-regulamentacao-da-relevancia-para-admissao-do-recurso-especial.aspx",
+      "date": "2026-07-02",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Colegiados de direito penal encerram primeiro semestre com mais de 95 mil decisões proferidas",
+      "summary": "Colegiados de direito penal encerram primeiro semestre com mais de 95 mil decisões proferidas",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Colegiados-de-direito-penal-encerram-primeiro-semestre-com-mais-de-95-mil-decisoes-proferidas.aspx",
+      "date": "2026-07-02",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Órgãos julgadores de direito privado reduzem acervo e registram mais de 94 mil decisões em seis meses",
+      "summary": "Órgãos julgadores de direito privado reduzem acervo e registram mais de 94 mil decisões em seis meses",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Orgaos-julgadores-de-direito-privado-reduzem-acervo-e-registram-mais-de-94-mil-decisoes-em-seis-meses.aspx",
+      "date": "2026-07-02",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

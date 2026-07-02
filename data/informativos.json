@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T10:33:15.604095+00:00",
+  "updated_at": "2026-07-02T14:28:28.632103+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Marco Civil da Internet, mínimo existencial e parâmetros para verbas da magistratura e do MP marcam semestre no STF",
+      "summary": "Relembre julgamentos de destaque no 1º semestre de 2026",
+      "url": "https://noticias.stf.jus.br/postsnoticias/marco-civil-da-internet-minimo-existencial-e-parametros-para-verbas-da-magistratura-e-do-mp-marcam-semestre-no-stf/",
+      "date": "2026-07-02",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Prazos processuais serão suspensos de 2 a 31 de julho no STF",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Rádio Justiça: programa sobre direitos constitucionais de influenciadores digitais mirins é um dos destaques desta quinta-feira (2/7)",
-      "summary": "Confira, também, programa sobre a Lei Geral do Licenciamento Ambiental",
-      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-direitos-constitucionais-de-influenciadores-digitais-mirins-e-um-dos-destaques-desta-quinta-feira-2-7/",
-      "date": "2026-07-02",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Banda Aviões do Forró terá que pagar R$ 100 mil de danos morais por uso não autorizado de música",
-      "summary": "Banda Aviões do Forró terá que pagar R$ 100 mil de danos morais por uso não autorizado de música",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Banda-Avioes-do-Forro-tera-que-pagar-R--100-mil-de-danos-morais-por-uso-nao-autorizado-de-musica.aspx",
+      "title": "Rádio Decidendi discute tese sobre critérios para concessão da gratuidade de justiça (Tema 1.178)",
+      "summary": "Rádio Decidendi discute tese sobre critérios para concessão da gratuidade de justiça (Tema 1.178)",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Radio-Decidendi-discute-tese-sobre-criterios-para-concessao-da-gratuidade-de-justica--Tema-1-178-.aspx",
       "date": "2026-07-02",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Senado aprova regulamentação da relevância para admissão do recurso especial",
-      "summary": "Senado aprova regulamentação da relevância para admissão do recurso especial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Senado-aprova-regulamentacao-da-relevancia-para-admissao-do-recurso-especial.aspx",
+      "title": "Necessidade de prova para PJ obter gratuidade de justiça é destaque da Página de Repetitivos",
+      "summary": "Necessidade de prova para PJ obter gratuidade de justiça é destaque da Página de Repetitivos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-Necessidade-de-prova-para-PJ-obter-gratuidade-de-justica-e-destaque-da-Pagina-de-Repetitivos.aspx",
       "date": "2026-07-02",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Colegiados de direito penal encerram primeiro semestre com mais de 95 mil decisões proferidas",
-      "summary": "Colegiados de direito penal encerram primeiro semestre com mais de 95 mil decisões proferidas",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Colegiados-de-direito-penal-encerram-primeiro-semestre-com-mais-de-95-mil-decisoes-proferidas.aspx",
+      "title": "Repetitivo discute incidência de IR sobre abono decorrente de precatório do Fundef/Fundeb",
+      "summary": "Repetitivo discute incidência de IR sobre abono decorrente de precatório do Fundef/Fundeb",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-Repetitivo-discute-incidencia-de-IR-sobre-abono-decorrente-de-precatorio-do-FundefFundeb.aspx",
       "date": "2026-07-02",
       "category": "Jurisprudencia"
     },

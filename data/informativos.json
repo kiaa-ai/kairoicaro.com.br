@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T14:28:28.632103+00:00",
-  "total": 7,
+  "updated_at": "2026-07-02T19:51:04.468591+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF homologa plano de reestruturação da Comissão de Valores Mobiliários",
+      "summary": "Ministro Flávio Dino validou plano após providências complementares adotadas pela União",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-homologa-plano-de-reestruturacao-da-comissao-de-valores-mobiliarios/",
+      "date": "2026-07-02",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Marco Civil da Internet, mínimo existencial e parâmetros para verbas da magistratura e do MP marcam semestre no STF",
@@ -11,50 +19,18 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Prazos processuais serão suspensos de 2 a 31 de julho no STF",
-      "summary": "No período, horário do atendimento ao público externo e do expediente no Tribunal será das 13h às 18h",
-      "url": "https://noticias.stf.jus.br/postsnoticias/prazos-processuais-serao-suspensos-de-2-a-31-de-julho-no-stf-2/",
+      "tribunal": "TRT11",
+      "title": "Trabalhadora com deficiência visual vítima de assédio moral tem rescisão indireta confirmada pelo TRT-11",
+      "summary": "Segunda Turma manteve sentença que reconheceu ambiente de trabalho discriminatório e ausência de adaptações razoáveis para empregada com visão monocular",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11494-trabalhadora-com-deficiencia-visual-vitima-de-assedio-moral-tem-rescisao-indireta-confirmada-pelo-trt-11",
       "date": "2026-07-02",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Rádio Decidendi discute tese sobre critérios para concessão da gratuidade de justiça (Tema 1.178)",
-      "summary": "Rádio Decidendi discute tese sobre critérios para concessão da gratuidade de justiça (Tema 1.178)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Radio-Decidendi-discute-tese-sobre-criterios-para-concessao-da-gratuidade-de-justica--Tema-1-178-.aspx",
-      "date": "2026-07-02",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Necessidade de prova para PJ obter gratuidade de justiça é destaque da Página de Repetitivos",
-      "summary": "Necessidade de prova para PJ obter gratuidade de justiça é destaque da Página de Repetitivos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-Necessidade-de-prova-para-PJ-obter-gratuidade-de-justica-e-destaque-da-Pagina-de-Repetitivos.aspx",
-      "date": "2026-07-02",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Repetitivo discute incidência de IR sobre abono decorrente de precatório do Fundef/Fundeb",
-      "summary": "Repetitivo discute incidência de IR sobre abono decorrente de precatório do Fundef/Fundeb",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-Repetitivo-discute-incidencia-de-IR-sobre-abono-decorrente-de-precatorio-do-FundefFundeb.aspx",
-      "date": "2026-07-02",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Discriminação contra LGBTI+ no mercado de trabalho brasileiro gera perdas salariais de R$ 94,4 bilhões por ano",
       "summary": "Estudo sobre custo econômico da exclusão baseada em orientação sexual também aponta que a comunidade enfrenta desemprego de 15,2%, quase o dobro da média nacional de 7,7%",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11490-discriminacao-contra-lgbti-no-mercado-de-trabalho-brasileiro-gera-perdas-salariais-de-r-94-4-bilhoes-por-ano",
-      "date": "2026-07-02",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Prêmio Anamatra de Direitos Humanos destacará jornalistas e projetos relevantes para o mundo do trabalho",
-      "summary": "Inscrições podem ser feitas até 6 de julho de 2026",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11486-premio-anamatra-de-direitos-humanos-destacara-jornalistas-e-projetos-relevantes-para-o-mundo-do-trabalho",
       "date": "2026-07-02",
       "category": "Trabalhista"
     }

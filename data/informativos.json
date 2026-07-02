@@ -1,53 +1,29 @@
 {
-  "updated_at": "2026-07-01T20:14:22.394678+00:00",
-  "total": 7,
+  "updated_at": "2026-07-02T04:21:02.596003+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF autoriza busca e apreensão em investigação sobre suspeitas de desvio de recursos de cota parlamentar",
-      "summary": "Decisão do ministro Flávio Dino atende a pedido da PF e decorre de desdobramentos de fase anterior de investigação envolvendo deputado federal Sóstenes Cavalcante",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
-      "date": "2026-07-01",
+      "title": "Prazos processuais serão suspensos de 2 a 31 de julho no STF",
+      "summary": "No período, horário do atendimento ao público externo e do expediente no Tribunal será das 13h às 18h",
+      "url": "https://noticias.stf.jus.br/postsnoticias/prazos-processuais-serao-suspensos-de-2-a-31-de-julho-no-stf-2/",
+      "date": "2026-07-02",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF invalida regra da reforma da Lei de Improbidade que reduzia prazo de prescrição",
-      "summary": "Decisão ocorreu na conclusão do julgamento da matéria; segundo o relator, ministro Alexandre de Moraes, regra comprometeria efetividade do sistema constitucional de combate à improbidade",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-reducao-de-prazo-de-prescricao-prevista-na-reforma-da-lei-de-improbidade-administrativa/",
-      "date": "2026-07-01",
+      "title": "Rádio Justiça: programa sobre direitos constitucionais de influenciadores digitais mirins é um dos destaques desta quinta-feira (2/7)",
+      "summary": "Confira, também, programa sobre a Lei Geral do Licenciamento Ambiental",
+      "url": "https://noticias.stf.jus.br/postsnoticias/radio-justica-programa-sobre-direitos-constitucionais-de-influenciadores-digitais-mirins-e-um-dos-destaques-desta-quinta-feira-2-7/",
+      "date": "2026-07-02",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJ No Seu Dia discute limites do uso de inteligência artificial como prova em ação penal",
-      "summary": "STJ No Seu Dia discute limites do uso de inteligência artificial como prova em ação penal",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-STJ-No-Seu-Dia-discute-limites-do-uso-de-inteligencia-artificial-como-prova-em-acao-penal.aspx",
-      "date": "2026-07-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJ é finalista em três categorias no Prêmio Nacional de Comunicação e Justiça",
-      "summary": "STJ é finalista em três categorias no Prêmio Nacional de Comunicação e Justiça",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-STJ-e-finalista-em-tres-categorias-no-Premio-Nacional-de-Comunicacao-e-Justica.aspx",
-      "date": "2026-07-01",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Corte Especial vai fixar tese em repetitivo sobre retroação da gratuidade de justiça",
-      "summary": "Corte Especial vai fixar tese em repetitivo sobre retroação da gratuidade de justiça",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/01072026-Corte-Especial-vai-fixar-tese-em-repetitivo-sobre-retroacao-da-gratuidade-de-justica.aspx",
-      "date": "2026-07-01",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Discriminação contra LGBTI+ no mercado de trabalho brasileiro gera perdas salariais de R$ 94,4 bilhões por ano",
       "summary": "Estudo sobre custo econômico da exclusão baseada em orientação sexual também aponta que a comunidade enfrenta desemprego de 15,2%, quase o dobro da média nacional de 7,7%",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11490-discriminacao-contra-lgbti-no-mercado-de-trabalho-brasileiro-gera-perdas-salariais-de-r-94-4-bilhoes-por-ano",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +31,7 @@
       "title": "Prêmio Anamatra de Direitos Humanos destacará jornalistas e projetos relevantes para o mundo do trabalho",
       "summary": "Inscrições podem ser feitas até 6 de julho de 2026",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11486-premio-anamatra-de-direitos-humanos-destacara-jornalistas-e-projetos-relevantes-para-o-mundo-do-trabalho",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "category": "Trabalhista"
     }
   ]

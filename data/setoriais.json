@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-02T10:33:19.868457+00:00",
+  "updated_at": "2026-07-03T10:31:30.104195+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "3.jul.2026Confira os principais lances jurídicos da semana no Minuto MigalhasPenduricalhos, filtro de relevância e outras notícias estão no resumo desta sexta-feira.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-03",
+      "url": "https://www.migalhas.com.br/quentes/459471/confira-os-principais-lances-juridicos-da-semana-no-minuto-migalhas"
+    },
+    {
+      "setor": "empresarial",
+      "title": "3.jul.2026Sorteio da obra \"Coletânea de Direito Público\"A publicação reúne textos de Direito Constitucional, Administrativo, Financeiro e Tributário, voltados à prática jurídica e publicados ao longo dos anos em sites especializados.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-03",
+      "url": "https://www.migalhas.com.br/quentes/457646/sorteio-da-obra-coletanea-de-direito-publico"
+    },
+    {
+      "setor": "ambiental",
+      "title": "3.jul.2026Podcast \"Sem Juízo\" convida advogado para discutir carreira jurídicaRafael Verdant, do Albuquerque Melo Advogados, mostra como posicionamento e comunicação se tornaram diferenciais tão decisivos quanto a técnica para quem quer crescer na advocacia.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-03",
+      "url": "https://www.migalhas.com.br/quentes/459443/podcast-sem-juizo-convida-advogado-para-discutir-carreira-juridica"
+    },
+    {
+      "setor": "empresarial",
+      "title": "3.jul.2026Noruega já negou registro religioso a Testemunhas de Jeová; Suprema Corte reverteuGrupo havia perdido registro como comunidade religiosa e subsídios públicos desde impasse iniciado em 2021.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-03",
+      "url": "https://www.migalhas.com.br/quentes/459465/noruega-ja-negou-registro-a-testemunhas-de-jeova-justica-reverteu"
+    },
+    {
+      "setor": "empresarial",
+      "title": "3.jul.2026Das assembleias vikings à Suprema Corte: conheça o Judiciário da NoruegaCom raízes na Era Viking, Justiça norueguesa reúne Suprema Corte, Cortes de Apelação, tribunais distritais e mecanismos de solução consensual de conflitos.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-03",
+      "url": "https://www.migalhas.com.br/quentes/459441/da-assembleia-viking-a-suprema-corte-conheca-o-judiciario-da-noruega"
+    },
+    {
+      "setor": "empresarial",
+      "title": "2.jul.2026Licks Advogados anuncia Gabriel Keller como novo sócioAdvogado retorna ao escritório para integrar o quadro societário, reforçando a atuação da banca em propriedade intelectual e litígios estratégicos.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-03",
+      "url": "https://www.migalhas.com.br/quentes/459480/licks-advogados-anuncia-gabriel-keller-como-novo-socio"
+    },
     {
       "setor": "ambiental",
       "title": "2.jul.2026Acusando o golpe, Itaú cria \"Factópoles\" para rebater MetrópolesAo lançar site próprio e notificar extrajudicialmente o portal, maior banco privado do país dá a medida da potência alcançada pelo veículo digital",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-07-01",
       "url": "https://www.migalhas.com.br/quentes/459267/trf-3-restabelece-homologacao-de-anpp-desfeita-de-oficio-por-juiz"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.jun.2026FAS Advogados mira dobrar base de sócios até 2030 Escritório anuncia Andre Azeredo como novo sócio da prática de Contencioso Tributário.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-01",
-      "url": "https://www.migalhas.com.br/quentes/459271/fas-advogados-mira-dobrar-base-de-socios-ate-2030"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.jun.2026STF: Dino aponta alta de reclamações e fala em filtro de admissibilidadeMinistro afirmou que reclamações foram a classe processual com mais pronunciamentos no semestre e sugeriu que plenário debata critérios de admissibilidade.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-01",
-      "url": "https://www.migalhas.com.br/quentes/459269/dino-aponta-alta-de-reclamacoes-e-fala-em-filtro-de-admissibilidade"
-    },
-    {
-      "setor": "ambiental",
-      "title": "30.jun.2026CNMP suspende promotor por manusear arma durante discussão no MP/MAColegiado afastou imputações de ameaça e injúria, mas entendeu que o manuseio de arma de fogo dentro do ambiente de trabalho configurou ato incompatível com o decoro do cargo.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-01",
-      "url": "https://www.migalhas.com.br/quentes/459253/cnmp-suspende-promotor-por-manusear-arma-durante-discussao-no-mp-ma"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.jun.2026Suprema Corte americana amplia poder de Trump sobre agências reguladorasPor 6 votos a 3, Corte revogou precedente de 1935 e concluiu que a proteção contra exoneração viola a separação dos Poderes.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-30",
-      "url": "https://www.migalhas.com.br/quentes/459179/suprema-corte-americana-amplia-poder-de-trump-sobre-agencia-reguladora"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.jun.2026Marketing de emboscada: entenda os limites da publicidade na CopaCampanhas inspiradas na Copa são permitidas, mas há limites para sua exploração comercial.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-30",
-      "url": "https://www.migalhas.com.br/quentes/459077/marketing-de-emboscada-entenda-os-limites-da-publicidade-na-copa"
-    },
-    {
-      "setor": "empresarial",
-      "title": "30.jun.2026Brasil Salomão e Matthes Advocacia avança no \"Chambers Brazil\"Escritório foi destacado em \"General Business Law\", nas regiões de Campinas e Centro-Oeste, e em \"Agribusiness\"; sócio Fabio Calcini também recebeu reconhecimento individual.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-06-30",
-      "url": "https://www.migalhas.com.br/quentes/459178/brasil-salomao-e-matthes-advocacia-avanca-no-chambers-brazil"
     }
   ]
 }

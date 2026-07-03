@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T09:34:10.577508+00:00",
-  "total": 7,
+  "updated_at": "2026-07-03T10:31:12.142199+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
@@ -17,30 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/biblioteca-do-stf-tera-atendimento-presencial-suspenso-em-julho/",
       "date": "2026-07-03",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "SEI fica indisponível neste fim de semana",
-      "summary": "SEI fica indisponível neste fim de semana",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-SEI-fica-indisponivel-neste-fim-de-semana.aspx",
-      "date": "2026-07-03",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Rádio Decidendi discute tese sobre critérios para concessão da gratuidade de justiça (Tema 1.178)",
-      "summary": "Rádio Decidendi discute tese sobre critérios para concessão da gratuidade de justiça (Tema 1.178)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02062026-Radio-Decidendi-discute-tese-sobre-criterios-para-concessao-da-gratuidade-de-justica--Tema-1-178-.aspx",
-      "date": "2026-07-03",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Necessidade de prova para PJ obter gratuidade de justiça é destaque da Página de Repetitivos",
-      "summary": "Necessidade de prova para PJ obter gratuidade de justiça é destaque da Página de Repetitivos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-Necessidade-de-prova-para-PJ-obter-gratuidade-de-justica-e-destaque-da-Pagina-de-Repetitivos.aspx",
-      "date": "2026-07-03",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

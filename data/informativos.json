@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-07-03T14:31:33.802676+00:00",
+  "updated_at": "2026-07-03T19:49:05.322263+00:00",
   "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Presidente do STF defende atuação conjunta das Cortes latino-americanas para proteger a democracia",
-      "summary": "Em Montevidéu, Fachin afirmou que cooperação entre tribunais é essencial diante da erosão gradual das instituições democráticas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-atuacao-conjunta-das-cortes-latino-americanas-para-proteger-a-democracia/",
+      "title": "Receitas próprias do MPU não se submetem ao teto de gastos do arcabouço fiscal, decide STF",
+      "summary": "Decisão unânime do Plenário preserva a autonomia financeira do órgão",
+      "url": "https://noticias.stf.jus.br/postsnoticias/receitas-proprias-do-mpu-nao-se-submetem-ao-teto-de-gastos-do-arcabouco-fiscal-decide-stf/",
       "date": "2026-07-03",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Entenda como será aplicada decisão do STF sobre verbas indenizatórias",
-      "summary": "Plenário preservou as diretrizes centrais fixadas em março e esclareceu, ponto a ponto, como as regras serão aplicadas; pagamento deverá respeitar o limite de 35% do subsídio mensal",
-      "url": "https://noticias.stf.jus.br/postsnoticias/entenda-como-sera-aplicada-a-decisao-do-stf-sobre-verbas-indenizatorias/",
+      "title": "Confira destaques da pauta do mês de agosto no Plenário do STF",
+      "summary": "Julgamentos pelo colegiado serão retomados a partir de 3/8",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-destaques-da-pauta-do-mes-de-agosto-no-plenario-do-stf/",
       "date": "2026-07-03",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho mantém demissão por justa causa de homem que fez comentários homofóbicos e ameaçou colegas LGBTQIA+ de morte em Manaus",
+      "summary": "O processo mostrou que o ex-funcionário ofendia colegas em público, até diante de gestores, usando termos como “bichinha”, “macumbeiro” e outras expressões discriminatórias",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11499-justica-do-trabalho-mantem-demissao-por-justa-causa-de-homem-que-fez-comentarios-homofobicos-e-ameacou-colegas-lgbtqia-de-morte-em-manaus",
+      "date": "2026-07-03",
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Trabalhadora com deficiência visual vítima de assédio moral tem rescisão indireta confirmada pelo TRT-11",
       "summary": "Segunda Turma manteve sentença que reconheceu ambiente de trabalho discriminatório e ausência de adaptações razoáveis para empregada com visão monocular",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11494-trabalhadora-com-deficiencia-visual-vitima-de-assedio-moral-tem-rescisao-indireta-confirmada-pelo-trt-11",
-      "date": "2026-07-03",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Discriminação contra LGBTI+ no mercado de trabalho brasileiro gera perdas salariais de R$ 94,4 bilhões por ano",
-      "summary": "Estudo sobre custo econômico da exclusão baseada em orientação sexual também aponta que a comunidade enfrenta desemprego de 15,2%, quase o dobro da média nacional de 7,7%",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11490-discriminacao-contra-lgbti-no-mercado-de-trabalho-brasileiro-gera-perdas-salariais-de-r-94-4-bilhoes-por-ano",
       "date": "2026-07-03",
       "category": "Trabalhista"
     }

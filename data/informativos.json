@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-07-03T19:49:05.322263+00:00",
-  "total": 4,
+  "updated_at": "2026-07-04T04:00:56.769252+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Receitas próprias do MPU não se submetem ao teto de gastos do arcabouço fiscal, decide STF",
-      "summary": "Decisão unânime do Plenário preserva a autonomia financeira do órgão",
-      "url": "https://noticias.stf.jus.br/postsnoticias/receitas-proprias-do-mpu-nao-se-submetem-ao-teto-de-gastos-do-arcabouco-fiscal-decide-stf/",
-      "date": "2026-07-03",
+      "title": "STF mantém ex-presidente Bolsonaro em prisão domiciliar",
+      "summary": "Ministro Alexandre de Moraes levou em conta a ausência de falta grave do ex-presidente e a melhora do quadro clínico com a prisão domiciliar humanitária",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-ex-presidente-bolsonaro-em-prisao-domiciliar/",
+      "date": "2026-07-04",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Confira destaques da pauta do mês de agosto no Plenário do STF",
-      "summary": "Julgamentos pelo colegiado serão retomados a partir de 3/8",
-      "url": "https://noticias.stf.jus.br/postsnoticias/confira-destaques-da-pauta-do-mes-de-agosto-no-plenario-do-stf/",
-      "date": "2026-07-03",
+      "title": "STF autoriza busca e apreensão em investigação sobre uso de ‘emendas Pix’ em municípios de Roraima",
+      "summary": "Decisão do ministro Flávio Dino atende a pedido da PF, com aval da PGR; fiscalização da Controladoria-Geral da União apontou irregularidades",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-uso-de-emendas-pix-em-municipios-de-roraima/",
+      "date": "2026-07-04",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "CEJ/CJF abre seleção para doutorado e pós-doutorado na Universidade Paris 1 Panthéon-Sorbonne",
+      "summary": "CEJ/CJF abre seleção para doutorado e pós-doutorado na Universidade Paris 1 Panthéon-Sorbonne",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03072026-CEJCJF-abre-selecao-para-doutorado-e-pos-doutorado-na-Universidade-Paris-1-Pantheon-Sorbonne.aspx",
+      "date": "2026-07-04",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ No Seu Dia discute guarda compartilhada e melhor interesse da criança",
+      "summary": "STJ No Seu Dia discute guarda compartilhada e melhor interesse da criança",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03072026-STJ-No-Seu-Dia-discute-guarda-compartilhada-e-melhor-interesse-da-crianca.aspx",
+      "date": "2026-07-04",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Informativo aborda atuação da PM paulista e competência em casos de insumo estrangeiro para anabolizantes",
+      "summary": "Informativo aborda atuação da PM paulista e competência em casos de insumo estrangeiro para anabolizantes",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03072026-Informativo-aborda-atuacao-da-PM-paulista-e-competencia-em-casos-de-insumo-estrangeiro-para-anabolizantes.aspx",
+      "date": "2026-07-04",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Justiça do Trabalho mantém demissão por justa causa de homem que fez comentários homofóbicos e ameaçou colegas LGBTQIA+ de morte em Manaus",
       "summary": "O processo mostrou que o ex-funcionário ofendia colegas em público, até diante de gestores, usando termos como “bichinha”, “macumbeiro” e outras expressões discriminatórias",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11499-justica-do-trabalho-mantem-demissao-por-justa-causa-de-homem-que-fez-comentarios-homofobicos-e-ameacou-colegas-lgbtqia-de-morte-em-manaus",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "Trabalhadora com deficiência visual vítima de assédio moral tem rescisão indireta confirmada pelo TRT-11",
       "summary": "Segunda Turma manteve sentença que reconheceu ambiente de trabalho discriminatório e ausência de adaptações razoáveis para empregada com visão monocular",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11494-trabalhadora-com-deficiencia-visual-vitima-de-assedio-moral-tem-rescisao-indireta-confirmada-pelo-trt-11",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "category": "Trabalhista"
     }
   ]

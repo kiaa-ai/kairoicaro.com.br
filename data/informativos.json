@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-07-04T13:57:26.883420+00:00",
-  "total": 4,
+  "updated_at": "2026-07-04T19:36:13.467376+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF mantém ex-presidente Bolsonaro em prisão domiciliar",
-      "summary": "Ministro Alexandre de Moraes levou em conta a ausência de falta grave do ex-presidente e a melhora do quadro clínico com a prisão domiciliar humanitária",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-ex-presidente-bolsonaro-em-prisao-domiciliar/",
+      "title": "Sistemas do STF passam por manutenção programada neste sábado (4)",
+      "summary": "De 18h às 22h, sistemas de Peticionamento e Acompanhamento Processual do Portal do STF ficarão indisponíveis",
+      "url": "https://noticias.stf.jus.br/postsnoticias/sistemas-do-stf-passam-por-manutencao-programada-neste-sabado-4/",
       "date": "2026-07-04",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF autoriza busca e apreensão em investigação sobre uso de ‘emendas Pix’ em municípios de Roraima",
-      "summary": "Decisão do ministro Flávio Dino atende a pedido da PF, com aval da PGR; fiscalização da Controladoria-Geral da União apontou irregularidades",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-uso-de-emendas-pix-em-municipios-de-roraima/",
+      "title": "Definição de regras para pagamento de verbas indenizatórias é destaque no Supremo na Semana",
+      "summary": "Episódio #196 está disponível nas principais plataformas de áudio e no YouTube",
+      "url": "https://noticias.stf.jus.br/postsnoticias/definicao-de-regras-para-pagamento-de-verbas-indenizatorias-e-destaque-no-supremo-na-semana/",
       "date": "2026-07-04",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "CEJ/CJF abre seleção para doutorado e pós-doutorado na Universidade Paris 1 Panthéon-Sorbonne",
+      "summary": "CEJ/CJF abre seleção para doutorado e pós-doutorado na Universidade Paris 1 Panthéon-Sorbonne",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03072026-CEJCJF-abre-selecao-para-doutorado-e-pos-doutorado-na-Universidade-Paris-1-Pantheon-Sorbonne.aspx",
+      "date": "2026-07-04",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ No Seu Dia discute guarda compartilhada e melhor interesse da criança",
+      "summary": "STJ No Seu Dia discute guarda compartilhada e melhor interesse da criança",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03072026-STJ-No-Seu-Dia-discute-guarda-compartilhada-e-melhor-interesse-da-crianca.aspx",
+      "date": "2026-07-04",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Informativo aborda atuação da PM paulista e competência em casos de insumo estrangeiro para anabolizantes",
+      "summary": "Informativo aborda atuação da PM paulista e competência em casos de insumo estrangeiro para anabolizantes",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03072026-Informativo-aborda-atuacao-da-PM-paulista-e-competencia-em-casos-de-insumo-estrangeiro-para-anabolizantes.aspx",
+      "date": "2026-07-04",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

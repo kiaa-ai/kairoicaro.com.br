@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-07-06T11:59:50.758362+00:00",
-  "total": 4,
+  "updated_at": "2026-07-06T15:54:03.275022+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Sistemas do STF passam por manutenção programada neste sábado (4)",
-      "summary": "De 18h às 22h, sistemas de Peticionamento e Acompanhamento Processual do Portal do STF ficarão indisponíveis",
-      "url": "https://noticias.stf.jus.br/postsnoticias/sistemas-do-stf-passam-por-manutencao-programada-neste-sabado-4/",
+      "title": "Tribunais devem prestar informações ao STF sobre pagamentos a magistrados",
+      "summary": "Presidentes de 7 tribunais têm 48 horas para informar valores remuneratórios e indenizatórios pagos entre abril e julho de 2026 e apresentar cópias das folhas de pagamento",
+      "url": "https://noticias.stf.jus.br/postsnoticias/tribunais-devem-prestar-informacoes-ao-stf-sobre-pagamentos-a-magistrados/",
       "date": "2026-07-06",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Definição de regras para pagamento de verbas indenizatórias é destaque no Supremo na Semana",
-      "summary": "Episódio #196 está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/definicao-de-regras-para-pagamento-de-verbas-indenizatorias-e-destaque-no-supremo-na-semana/",
+      "title": "Do Plenário à Agenda 2030: o papel do STF na promoção do desenvolvimento sustentável",
+      "summary": "Série de reportagens especiais mostrará como os julgamentos da Corte contribuem para os Objetivos de Desenvolvimento Sustentável da ONU",
+      "url": "https://noticias.stf.jus.br/postsnoticias/do-plenario-a-agenda-2030-o-papel-do-stf-na-promocao-do-desenvolvimento-sustentavel/",
       "date": "2026-07-06",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Estatuto da Pessoa com Deficiência: mais de uma década consolidando direitos",
+      "summary": "Estatuto da Pessoa com Deficiência: mais de uma década consolidando direitos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06072026-Estatuto-da-Pessoa-com-Deficiencia-mais-de-uma-decada-consolidando-direitos.aspx",
+      "date": "2026-07-06",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Repetitivo vai definir se precatório e RPV podem ser expedidos antes do trânsito em julgado",
+      "summary": "Repetitivo vai definir se precatório e RPV podem ser expedidos antes do trânsito em julgado",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06072026-Repetitivo-vai-definir-se-precatorio-e-RPV-podem-ser-expedidos-antes-do-transito-em-julgado.aspx",
+      "date": "2026-07-06",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "É possível partilha amigável com divisão desigual dos quinhões hereditários, decide Terceira Turma",
+      "summary": "Se os herdeiros forem maiores e capazes e houver cessão de direitos, a homologação do acordo dependerá apenas da verificação de sua regularidade e da livre manifestação de vontade das partes.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06072026-E-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios--decide-Terceira-Turma.aspx",
+      "date": "2026-07-06",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-05T19:41:40.480516+00:00",
-  "total": 2,
+  "updated_at": "2026-07-06T04:38:28.921315+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
       "title": "Sistemas do STF passam por manutenção programada neste sábado (4)",
       "summary": "De 18h às 22h, sistemas de Peticionamento e Acompanhamento Processual do Portal do STF ficarão indisponíveis",
       "url": "https://noticias.stf.jus.br/postsnoticias/sistemas-do-stf-passam-por-manutencao-programada-neste-sabado-4/",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "category": "Constitucional"
     },
     {
@@ -15,8 +15,24 @@
       "title": "Definição de regras para pagamento de verbas indenizatórias é destaque no Supremo na Semana",
       "summary": "Episódio #196 está disponível nas principais plataformas de áudio e no YouTube",
       "url": "https://noticias.stf.jus.br/postsnoticias/definicao-de-regras-para-pagamento-de-verbas-indenizatorias-e-destaque-no-supremo-na-semana/",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Justiça do Trabalho mantém demissão por justa causa de homem que fez comentários homofóbicos e ameaçou colegas LGBTQIA+ de morte em Manaus",
+      "summary": "O processo mostrou que o ex-funcionário ofendia colegas em público, até diante de gestores, usando termos como “bichinha”, “macumbeiro” e outras expressões discriminatórias",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11499-justica-do-trabalho-mantem-demissao-por-justa-causa-de-homem-que-fez-comentarios-homofobicos-e-ameacou-colegas-lgbtqia-de-morte-em-manaus",
+      "date": "2026-07-06",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Trabalhadora com deficiência visual vítima de assédio moral tem rescisão indireta confirmada pelo TRT-11",
+      "summary": "Segunda Turma manteve sentença que reconheceu ambiente de trabalho discriminatório e ausência de adaptações razoáveis para empregada com visão monocular",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11494-trabalhadora-com-deficiencia-visual-vitima-de-assedio-moral-tem-rescisao-indireta-confirmada-pelo-trt-11",
+      "date": "2026-07-06",
+      "category": "Trabalhista"
     }
   ]
 }

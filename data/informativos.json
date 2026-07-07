@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T10:00:32.443689+00:00",
-  "total": 4,
+  "updated_at": "2026-07-07T10:51:00.332596+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/partido-novo-questiona-flexibilizacao-de-doacoes-de-recursos-publicos-em-ano-eleitoral/",
       "date": "2026-07-07",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Repetitivo discute se falta de resposta a pedido de gratuidade de justiça implica deferimento tácito",
+      "summary": "Repetitivo discute se falta de resposta a pedido de gratuidade de justiça implica deferimento tácito",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Repetitivo-discute-se-falta-de-resposta-a-pedido-de-gratuidade-de-justica-implica-deferimento-tacito.aspx",
+      "date": "2026-07-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Segunda Turma afasta possibilidade de reconhecimento de papiloscopistas da PF como peritos oficiais",
+      "summary": "Seguindo o voto do ministro Teodoro Silva Santos, o colegiado considerou que os papiloscopistas da Polícia Federal não estão incluídos no rol de peritos oficiais de natureza criminal previsto na Lei 12.030/2009.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Segunda-Turma-afasta-possibilidade-de-reconhecimento-de-papiloscopistas-da-PF-como-peritos-oficiais-.aspx",
+      "date": "2026-07-07",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Estatuto da Pessoa com Deficiência: mais de uma década consolidando direitos",
+      "summary": "Estatuto da Pessoa com Deficiência: mais de uma década consolidando direitos",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06072026-Estatuto-da-Pessoa-com-Deficiencia-mais-de-uma-decada-consolidando-direitos.aspx",
+      "date": "2026-07-07",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

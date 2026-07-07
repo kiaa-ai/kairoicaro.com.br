@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-07T10:51:00.332596+00:00",
+  "updated_at": "2026-07-07T15:13:41.344413+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF valida lei da Bahia contra desinformação sobre epidemias e pandemias",
+      "summary": "Por maioria, Corte entendeu que a norma estadual busca proteção da saúde pública, tema de competência comum entre entes federados",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-da-bahia-contra-desinformacao-sobre-epidemias-e-pandemias/",
+      "date": "2026-07-07",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Iluminação em julho apoia campanhas ligadas aos direitos da infância e à saúde",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Partido Novo questiona flexibilização de doações de recursos públicos em ano eleitoral",
-      "summary": "Agremiação sustenta violação aos princípios da igualdade e da anterioridade eleitoral",
-      "url": "https://noticias.stf.jus.br/postsnoticias/partido-novo-questiona-flexibilizacao-de-doacoes-de-recursos-publicos-em-ano-eleitoral/",
-      "date": "2026-07-07",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Repetitivo discute se falta de resposta a pedido de gratuidade de justiça implica deferimento tácito",
-      "summary": "Repetitivo discute se falta de resposta a pedido de gratuidade de justiça implica deferimento tácito",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Repetitivo-discute-se-falta-de-resposta-a-pedido-de-gratuidade-de-justica-implica-deferimento-tacito.aspx",
+      "title": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
+      "summary": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Plano-para-atuacao-da-PM-paulista-em-manifestacoes-publicas-e-destaque-no-STJ-Noticias.aspx",
       "date": "2026-07-07",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Segunda Turma afasta possibilidade de reconhecimento de papiloscopistas da PF como peritos oficiais",
-      "summary": "Seguindo o voto do ministro Teodoro Silva Santos, o colegiado considerou que os papiloscopistas da Polícia Federal não estão incluídos no rol de peritos oficiais de natureza criminal previsto na Lei 12.030/2009.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Segunda-Turma-afasta-possibilidade-de-reconhecimento-de-papiloscopistas-da-PF-como-peritos-oficiais-.aspx",
+      "title": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
+      "summary": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-STJ-divulga-relatorios-preliminares-sobre-etica-judicial.aspx",
       "date": "2026-07-07",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Estatuto da Pessoa com Deficiência: mais de uma década consolidando direitos",
-      "summary": "Estatuto da Pessoa com Deficiência: mais de uma década consolidando direitos",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06072026-Estatuto-da-Pessoa-com-Deficiencia-mais-de-uma-decada-consolidando-direitos.aspx",
+      "title": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
+      "summary": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Entenda-a-Decisao-traz-tese-sobre-uso-de-relatorio-policial-produzido-por-IA-generativa-em-acao-penal.aspx",
       "date": "2026-07-07",
       "category": "Jurisprudencia"
     },

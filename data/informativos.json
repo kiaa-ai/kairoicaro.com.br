@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T03:43:36.378805+00:00",
-  "total": 4,
+  "updated_at": "2026-07-08T08:43:22.988126+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-norma-piauiense-que-reduzia-icms-de-cervejas-com-adicao-de-suco-de-caju/",
       "date": "2026-07-08",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
+      "summary": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Plano-para-atuacao-da-PM-paulista-em-manifestacoes-publicas-e-destaque-no-STJ-Noticias.aspx",
+      "date": "2026-07-08",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
+      "summary": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-STJ-divulga-relatorios-preliminares-sobre-etica-judicial.aspx",
+      "date": "2026-07-08",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
+      "summary": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Entenda-a-Decisao-traz-tese-sobre-uso-de-relatorio-policial-produzido-por-IA-generativa-em-acao-penal.aspx",
+      "date": "2026-07-08",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

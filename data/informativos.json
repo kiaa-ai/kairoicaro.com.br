@@ -1,53 +1,29 @@
 {
-  "updated_at": "2026-07-07T20:13:04.308364+00:00",
-  "total": 7,
+  "updated_at": "2026-07-08T03:43:36.378805+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Partido questiona no Supremo norma do TCE-RS sobre suspensão de medidas cautelares",
+      "summary": "Relator do caso, ministro Alexandre de Moraes solicitou informações sobre a matéria ao presidente da corte de contas estadual",
+      "url": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-norma-do-tce-rs-sobre-suspensao-de-medidas-cautelares/",
+      "date": "2026-07-08",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF invalida norma piauiense que reduzia ICMS de cervejas com adição de suco de caju",
       "summary": "Plenário considerou que criação do benefício fiscal ofende a livre concorrência e não foi acompanhada de estudos de impacto orçamentário",
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-norma-piauiense-que-reduzia-icms-de-cervejas-com-adicao-de-suco-de-caju/",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "STF valida lei da Bahia contra desinformação sobre epidemias e pandemias",
-      "summary": "Por maioria, Corte entendeu que a norma estadual busca proteção da saúde pública, tema de competência comum entre entes federados",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-da-bahia-contra-desinformacao-sobre-epidemias-e-pandemias/",
-      "date": "2026-07-07",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
-      "summary": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Plano-para-atuacao-da-PM-paulista-em-manifestacoes-publicas-e-destaque-no-STJ-Noticias.aspx",
-      "date": "2026-07-07",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
-      "summary": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-STJ-divulga-relatorios-preliminares-sobre-etica-judicial.aspx",
-      "date": "2026-07-07",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
-      "summary": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Entenda-a-Decisao-traz-tese-sobre-uso-de-relatorio-policial-produzido-por-IA-generativa-em-acao-penal.aspx",
-      "date": "2026-07-07",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Saúde mental e gestão de riscos ocupacionais são temas de webinário do CNJ",
       "summary": "Saúde mental e gestão de riscos ocupacionais são temas de webinário do CNJ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11502-saude-mental-e-gestao-de-riscos-ocupacionais-sao-temas-de-webinario-do-cnj",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +31,7 @@
       "title": "Dados revelam que pessoas trans e travestis seguem excluídas do mercado de trabalho e entre as principais vítimas de violência no Brasil",
       "summary": "Mesmo empregadas, o grupo ainda enfrenta barreiras cotidianas, como o desrespeito ao nome social e restrição no uso de banheiros",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11501-dados-revelam-que-pessoas-trans-e-travestis-seguem-excluidas-do-mercado-de-trabalho-e-entre-as-principais-vitimas-de-violencia-no-brasil",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "category": "Trabalhista"
     }
   ]

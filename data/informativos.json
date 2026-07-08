@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-08T10:11:59.311289+00:00",
+  "updated_at": "2026-07-08T14:40:00.101637+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF valida regras que destinam 30% dos fundos eleitorais para candidaturas de pessoas pretas e pardas",
+      "summary": "Plenário considerou que medida é legitima e foi inserida no texto constitucional após debates e acordos entre partidos representativos de vários espectros políticos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-regras-que-destinam-30-dos-fundos-eleitorais-para-candidaturas-de-pessoas-pretas-e-pardas/",
+      "date": "2026-07-08",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Partido questiona no Supremo norma do TCE-RS sobre suspensão de medidas cautelares",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF invalida norma piauiense que reduzia ICMS de cervejas com adição de suco de caju",
-      "summary": "Plenário considerou que criação do benefício fiscal ofende a livre concorrência e não foi acompanhada de estudos de impacto orçamentário",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-norma-piauiense-que-reduzia-icms-de-cervejas-com-adicao-de-suco-de-caju/",
+      "tribunal": "STJ",
+      "title": "STJ No Seu Dia discute critérios para aplicação de causas de aumento de pena",
+      "summary": "STJ No Seu Dia discute critérios para aplicação de causas de aumento de pena",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-STJ-No-Seu-Dia-discute-criterios-para-aplicacao-de-causas-de-aumento-de-pena.aspx",
       "date": "2026-07-08",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Base de cálculo de honorários em ações que visam à baixa de gravame hipotecário é tema de repetitivo",
+      "summary": "Base de cálculo de honorários em ações que visam à baixa de gravame hipotecário é tema de repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Base-de-calculo-de-honorarios-em-acoes-que-visam-a-baixa-de-gravame-hipotecario-e-tema-de-repetitivo.aspx",
+      "date": "2026-07-08",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
       "title": "Primeira Turma reconhece dano moral coletivo pela demora na demarcação de território quilombola em Sergipe",
       "summary": "Para o relator, ministro Paulo Sérgio Domingues, “as comunidades quilombolas constituem grupo vulnerabilizado, historicamente submetido a processos de exclusão e negação de direitos”.",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Primeira-Turma-reconhece-dano-moral-coletivo-pela-demora-na-demarcacao-de-territorio-quilombola-em-Sergipe.aspx",
-      "date": "2026-07-08",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
-      "summary": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Plano-para-atuacao-da-PM-paulista-em-manifestacoes-publicas-e-destaque-no-STJ-Noticias.aspx",
-      "date": "2026-07-08",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
-      "summary": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-STJ-divulga-relatorios-preliminares-sobre-etica-judicial.aspx",
       "date": "2026-07-08",
       "category": "Jurisprudencia"
     },

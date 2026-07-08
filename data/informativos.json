@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T08:43:22.988126+00:00",
+  "updated_at": "2026-07-08T10:11:59.311289+00:00",
   "total": 7,
   "items": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Primeira Turma reconhece dano moral coletivo pela demora na demarcação de território quilombola em Sergipe",
+      "summary": "Para o relator, ministro Paulo Sérgio Domingues, “as comunidades quilombolas constituem grupo vulnerabilizado, historicamente submetido a processos de exclusão e negação de direitos”.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Primeira-Turma-reconhece-dano-moral-coletivo-pela-demora-na-demarcacao-de-territorio-quilombola-em-Sergipe.aspx",
+      "date": "2026-07-08",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
       "summary": "Plano para atuação da PM paulista em manifestações públicas é destaque no STJ Notícias",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Plano-para-atuacao-da-PM-paulista-em-manifestacoes-publicas-e-destaque-no-STJ-Noticias.aspx",
@@ -31,14 +39,6 @@
       "title": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
       "summary": "Divulgados relatórios preliminares sobre Estado de Direito e ética judicial",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02072026-STJ-divulga-relatorios-preliminares-sobre-etica-judicial.aspx",
-      "date": "2026-07-08",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
-      "summary": "Entenda a Decisão traz tese sobre uso de relatório policial produzido por IA generativa em ação penal",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07072026-Entenda-a-Decisao-traz-tese-sobre-uso-de-relatorio-policial-produzido-por-IA-generativa-em-acao-penal.aspx",
       "date": "2026-07-08",
       "category": "Jurisprudencia"
     },

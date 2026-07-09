@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-09T10:49:53.676909+00:00",
+  "updated_at": "2026-07-09T15:32:50.336709+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF valida acumulação de atividades cartoriais de notas e de protesto em Paulínia (SP)",
+      "summary": "No entanto, se houver desmembramento das serventias, nova unidade deverá ser preenchida por concurso público",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-valida-acumulacao-de-atividades-cartoriais-de-notas-e-de-protesto-em-paulinia-sp/",
+      "date": "2026-07-09",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Centro de Estudos Constitucionais do STF fará audiência acadêmica em Belém (PA)",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Presidente do STF e do CNJ participa da instalação de varas especializadas no combate ao crime organizado em São Paulo",
-      "summary": "Novas unidades do TJ-SP integram estratégia nacional coordenada pelo CNJ para fortalecer a atuação do Judiciário contra organizações criminosas e a lavagem de dinheiro",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-participa-da-instalacao-de-varas-especializadas-no-combate-ao-crime-organizado-em-sao-paulo/",
-      "date": "2026-07-09",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "STJ No Seu Dia discute critérios para aplicação de causas de aumento de pena",
-      "summary": "STJ No Seu Dia discute critérios para aplicação de causas de aumento de pena",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-STJ-No-Seu-Dia-discute-criterios-para-aplicacao-de-causas-de-aumento-de-pena.aspx",
+      "title": "Rádio Decidendi discute efeitos do depósito judicial na execução após julgamento do Tema 677",
+      "summary": "Rádio Decidendi discute efeitos do depósito judicial na execução após julgamento do Tema 677",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09072026-Radio-Decidendi-discute-efeitos-do-deposito-judicial-na-execucao-apos-julgamento-do-Tema-677.aspx",
       "date": "2026-07-09",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Base de cálculo de honorários em ações que visam à baixa de gravame hipotecário é tema de repetitivo",
-      "summary": "Base de cálculo de honorários em ações que visam à baixa de gravame hipotecário é tema de repetitivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Base-de-calculo-de-honorarios-em-acoes-que-visam-a-baixa-de-gravame-hipotecario-e-tema-de-repetitivo.aspx",
+      "title": "Cirurgia de feminização facial no processo transexualizador é de cobertura obrigatória pelos planos de saúde",
+      "summary": "Cirurgia de feminização facial no processo transexualizador é de cobertura obrigatória pelos planos de saúde",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09072026-Cirurgia-de-feminizacao-facial-no-processo-transexualizador-e-de-cobertura-obrigatoria-pelos-planos-de-saude.aspx",
       "date": "2026-07-09",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Primeira Turma reconhece dano moral coletivo pela demora na demarcação de território quilombola em Sergipe",
-      "summary": "Para o relator, ministro Paulo Sérgio Domingues, “as comunidades quilombolas constituem grupo vulnerabilizado, historicamente submetido a processos de exclusão e negação de direitos”.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Primeira-Turma-reconhece-dano-moral-coletivo-pela-demora-na-demarcacao-de-territorio-quilombola-em-Sergipe.aspx",
+      "title": "Contribuição previdenciária: repetitivo veda continuidade delitiva entre apropriação indébita e sonegação",
+      "summary": "A Terceira Seção considerou que a apropriação indébita previdenciária e a sonegação de contribuição previdenciária são crimes de espécies diversas, com condutas distintas, embora do mesmo gênero.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09072026-Contribuicao-previdenciaria-repetitivo-veda-continuidade-delitiva-entre-apropriacao-indebita-e-sonegacao.aspx",
       "date": "2026-07-09",
       "category": "Jurisprudencia"
     },

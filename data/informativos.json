@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-08T19:55:03.395938+00:00",
-  "total": 4,
+  "updated_at": "2026-07-09T04:17:48.428552+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
       "title": "Centro de Estudos Constitucionais do STF fará audiência acadêmica em Belém (PA)",
       "summary": "Encontro sobre ensino do direito constitucional no século XXI será realizado em 28/8; instituições interessadas em participar podem se inscrever até 7/8",
       "url": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-fara-audiencia-academica-em-belem-pa/",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "category": "Constitucional"
     },
     {
@@ -15,15 +15,39 @@
       "title": "Presidente do STF e do CNJ participa da instalação de varas especializadas no combate ao crime organizado em São Paulo",
       "summary": "Novas unidades do TJ-SP integram estratégia nacional coordenada pelo CNJ para fortalecer a atuação do Judiciário contra organizações criminosas e a lavagem de dinheiro",
       "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-participa-da-instalacao-de-varas-especializadas-no-combate-ao-crime-organizado-em-sao-paulo/",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ No Seu Dia discute critérios para aplicação de causas de aumento de pena",
+      "summary": "STJ No Seu Dia discute critérios para aplicação de causas de aumento de pena",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-STJ-No-Seu-Dia-discute-criterios-para-aplicacao-de-causas-de-aumento-de-pena.aspx",
+      "date": "2026-07-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Base de cálculo de honorários em ações que visam à baixa de gravame hipotecário é tema de repetitivo",
+      "summary": "Base de cálculo de honorários em ações que visam à baixa de gravame hipotecário é tema de repetitivo",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Base-de-calculo-de-honorarios-em-acoes-que-visam-a-baixa-de-gravame-hipotecario-e-tema-de-repetitivo.aspx",
+      "date": "2026-07-09",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Primeira Turma reconhece dano moral coletivo pela demora na demarcação de território quilombola em Sergipe",
+      "summary": "Para o relator, ministro Paulo Sérgio Domingues, “as comunidades quilombolas constituem grupo vulnerabilizado, historicamente submetido a processos de exclusão e negação de direitos”.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08072026-Primeira-Turma-reconhece-dano-moral-coletivo-pela-demora-na-demarcacao-de-territorio-quilombola-em-Sergipe.aspx",
+      "date": "2026-07-09",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Saúde mental e gestão de riscos ocupacionais são temas de webinário do CNJ",
       "summary": "Saúde mental e gestão de riscos ocupacionais são temas de webinário do CNJ",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11502-saude-mental-e-gestao-de-riscos-ocupacionais-sao-temas-de-webinario-do-cnj",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "Dados revelam que pessoas trans e travestis seguem excluídas do mercado de trabalho e entre as principais vítimas de violência no Brasil",
       "summary": "Mesmo empregadas, o grupo ainda enfrenta barreiras cotidianas, como o desrespeito ao nome social e restrição no uso de banheiros",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11501-dados-revelam-que-pessoas-trans-e-travestis-seguem-excluidas-do-mercado-de-trabalho-e-entre-as-principais-vitimas-de-violencia-no-brasil",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "category": "Trabalhista"
     }
   ]

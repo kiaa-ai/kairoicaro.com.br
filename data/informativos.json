@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T03:42:14.883649+00:00",
-  "total": 4,
+  "updated_at": "2026-07-11T08:14:14.126047+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/governador-do-rs-questiona-decisao-que-estendeu-auxilio-refeicao-ao-periodo-de-ferias-de-servidores/",
       "date": "2026-07-11",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ No Seu Dia discute sigilo médico e responsabilidade civil no atendimento de menores",
+      "summary": "STJ No Seu Dia discute sigilo médico e responsabilidade civil no atendimento de menores",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10072026-STJ-No-Seu-Dia-discute-sigilo-medico-e-responsabilidade-civil-no-atendimento-de-menores.aspx",
+      "date": "2026-07-11",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Página de Repetitivos inclui precedente sobre cálculo para progressão de regime penal",
+      "summary": "Página de Repetitivos inclui precedente sobre cálculo para progressão de regime penal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10072026-Pagina-de-Repetitivos-inclui-precedente-sobre-calculo-para-progressao-de-regime-penal-.aspx",
+      "date": "2026-07-11",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Após a Lei 14.752/2023, Justiça não pode multar advogados por abandono de causa",
+      "summary": "Após a Lei 14.752/2023, Justiça não pode multar advogados por abandono de causa",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10072026-Apos-a-Lei-14-7522023--Justica-nao-pode-multar-advogados-por-abandono-de-causa.aspx",
+      "date": "2026-07-11",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

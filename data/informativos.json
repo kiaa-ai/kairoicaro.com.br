@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-13T10:55:39.032016+00:00",
+  "updated_at": "2026-07-13T15:10:32.207187+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF suspende processo seletivo da ANTT para novos mercados de transporte rodoviário",
-      "summary": "Ministro André Mendonça levou em conta riscos de segurança cibernética no sistema eletrônico do certame",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-processo-seletivo-da-antt-para-novos-mercados-de-transporte-rodoviario/",
+      "title": "STF suspende regra sobre sucessão na presidência da Assembleia Legislativa do Amazonas",
+      "summary": "Liminar concedida pelo ministro Flávio Dino determina adoção provisória do procedimento previsto no Regimento Interno da Câmara dos Deputados",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-regra-sobre-sucessao-na-presidencia-da-assembleia-legislativa-do-amazonas/",
       "date": "2026-07-13",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Governador do RS questiona decisão que estendeu auxílio-refeição ao período de férias de servidores",
-      "summary": "Eduardo Leite sustenta que decisão da Justiça gaúcha pode gerar impacto de R$ 266 milhões aos cofres públicos e contraria legislação estadual",
-      "url": "https://noticias.stf.jus.br/postsnoticias/governador-do-rs-questiona-decisao-que-estendeu-auxilio-refeicao-ao-periodo-de-ferias-de-servidores/",
+      "title": "Do Plenário à Agenda 2030: julgamentos sobre pobreza, fome, saúde e educação levam a Constituição ao cotidiano",
+      "summary": "Série de reportagens especiais mostrará como os julgamentos da Corte contribuem para os Objetivos de Desenvolvimento Sustentável da ONU",
+      "url": "https://noticias.stf.jus.br/postsnoticias/do-plenario-a-agenda-2030-julgamentos-sobre-pobreza-fome-saude-e-educacao-levam-a-constituicao-ao-cotidiano/",
       "date": "2026-07-13",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "2º Ciclo pelo Orgulho e pela Diversidade no Poder Judiciário do Amazonas debate inclusão e políticas afirmativas para pessoas trans",
-      "summary": "Evento reúne magistrados, servidores, acadêmicos e movimentos sociais em debates sobre diversidade e ações afirmativas, com programação prevista para esta sexta (10)",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11518-2-ciclo-pelo-orgulho-e-pela-diversidade-no-poder-judiciario-do-amazonas-debate-inclusao-e-politicas-afirmativas-para-pessoas-trans",
+      "title": "TRT-11 abre inscrições para mutirão de acordos que pode acelerar o pagamento de direitos trabalhistas",
+      "summary": "Advogados, trabalhadores e empresas têm até 17 de julho para inscrever processos e participar da mobilização, que será realizada em 3 de agosto no Amazonas e em Roraima.",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11519-trt-11-abre-inscricoes-para-mutirao-de-conciliacao-que-pode-acelerar-o-pagamento-de-direitos-trabalhistas",
       "date": "2026-07-13",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Campanha Vestir para Vencer entrega mais de 200 kg de doações a refugiados venezuelanos",
-      "summary": "Iniciativa do TRT-11 alia solidariedade e sustentabilidade ao beneficiar famílias em situação de vulnerabilidade e incentivar novas doações de itens essenciais",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11517-campanha-vestir-para-vencer-entrega-mais-de-200-kg-de-doacoes-a-refugiados-venezuelanos",
+      "title": "2º Ciclo pelo Orgulho e pela Diversidade no Poder Judiciário do Amazonas debate inclusão e políticas afirmativas para pessoas trans",
+      "summary": "Evento reúne magistrados, servidores, acadêmicos e movimentos sociais em debates sobre diversidade e ações afirmativas, com programação prevista para esta sexta (10)",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11518-2-ciclo-pelo-orgulho-e-pela-diversidade-no-poder-judiciario-do-amazonas-debate-inclusao-e-politicas-afirmativas-para-pessoas-trans",
       "date": "2026-07-13",
       "category": "Trabalhista"
     }

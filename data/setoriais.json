@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-07-12T09:46:49.424030+00:00",
+  "updated_at": "2026-07-13T10:55:42.253550+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "13.jul.2026ECA completa 36 anos com poucas ações recentes de controle no STFLevantamento mostra que controvérsias sobre infância e adolescência chegam hoje ao Supremo sobretudo por recursos e processos individuais.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-13",
+      "url": "https://www.migalhas.com.br/quentes/460070/eca-completa-36-anos-com-poucas-acoes-recentes-de-controle-no-stf"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.jul.2026Coelho Araújo e Lobo da Costa Advogados expande atuação no mercado corporativoProfessoras da USP e do Insper, Marina Coelho Araújo e Helena Lobo da Costa aprofundam atuação junto a conselhos e executivos num cenário de risco penal crescente",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-13",
+      "url": "https://www.migalhas.com.br/quentes/460058/calc-advogados-expande-atuacao-no-mercado-corporativo"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.jul.2026Sharenting: Filhos expostos podem apagar passado digital?Entenda quando a vontade do adolescente pode prevalecer sobre publicações feitas pelos próprios pais durante a infância.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-13",
+      "url": "https://www.migalhas.com.br/quentes/460098/sharenting-filhos-podem-apagar-passado-digital"
+    },
+    {
+      "setor": "empresarial",
+      "title": "13.jul.2026Homeschooling: entenda o PL que altera ECA e tramita no SenadoPL 1.338/22 regulamenta a educação domiciliar e prevê matrícula em instituição credenciada, acompanhamento pedagógico, avaliações e fiscalização pelo poder público.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-13",
+      "url": "https://www.migalhas.com.br/quentes/460099/homeschooling-entenda-o-pl-que-altera-eca-e-tramita-no-senado"
+    },
+    {
+      "setor": "empresarial",
+      "title": "12.jul.2026Juíza garante inscrição de atleta em Mundial de Natação para pessoas com síndrome de DownMagistrada considerou injustificada a omissão da Confederação Brasileira de Desportos para Deficientes Intelectuais, única entidade habilitada a acessar o sistema de inscrições da competição.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-13",
+      "url": "https://www.migalhas.com.br/quentes/460140/juiza-garante-inscricao-de-nadadora-com-sindrome-de-down-em-mundial"
+    },
     {
       "setor": "empresarial",
       "title": "10.jul.2026Advogado acusa PMs de agressão após questionamentos sobre OAB digitalCausídico afirma que foi espancado e arrastado por policiais; corporação alega desacato e resistência à abordagem.",
@@ -81,46 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-07-11",
       "url": "https://www.migalhas.com.br/quentes/460093/oab-rj-abre-inscricoes-para-vaga-de-desembargador-no-trt-1"
-    },
-    {
-      "setor": "ambiental",
-      "title": "10.jul.2026Advogada compara perda de mão a acidente de Lula; procuradora repudiaDefesa destacou que, após acidente, Lula continuou trabalhando e não processou empresa; MPT afirmou que não se pode \"louvar\" quem deixa de buscar seus direitos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-11",
-      "url": "https://www.migalhas.com.br/quentes/460131/advogada-compara-perda-de-mao-a-acidente-de-lula-procuradora-repudia"
-    },
-    {
-      "setor": "empresarial",
-      "title": "10.jul.2026Sorteio da obra \"Desenho industrial : código da propriedade industrial conforme os Tribunais\"A publicação aborda a proteção jurídica do desenho industrial a partir da interpretação dos tribunais sobre a LPI.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-10",
-      "url": "https://www.migalhas.com.br/quentes/458144/sorteio-da-obra-desenho-industrial--codigo-da-pi-conforme-tribunais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "10.jul.2026Palavra dada, contrato firmado? O que diz o STJDe honorários advocatícios a serviços prestados ao poder público, Corte já se debruçou sobre efeitos de acordos sem instrumento escrito.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-10",
-      "url": "https://www.migalhas.com.br/quentes/459991/veja-como-stj-vem-julgando-casos-envolvendo-contratos-verbais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "9.jul.2026Gilmar suspende execução sobre pejotização até STF definir tese no Tema 1.389Ministro destacou que futura decisão do STF pode impactar a exigibilidade do título executivo, mesmo após o trânsito em julgado da ação trabalhista.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-10",
-      "url": "https://www.migalhas.com.br/quentes/459993/gilmar-suspende-execucao-sobre-pejotizacao-ate-stf-definir-tese"
-    },
-    {
-      "setor": "empresarial",
-      "title": "9.jul.2026Juiz reconhece inadimplemento de resort e reverte multa em favor de compradorMagistrado declarou rescindido o contrato por culpa exclusiva da vendedora e determinou a restituição integral dos valores pagos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-10",
-      "url": "https://www.migalhas.com.br/quentes/459989/juiz-reconhece-inadimplemento-de-resort-e-reverte-multa-contratual"
     }
   ]
 }

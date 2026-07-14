@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-07-13T19:48:20.241735+00:00",
-  "total": 4,
+  "updated_at": "2026-07-14T03:32:41.006803+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF mantém extinta ação sobre PDV de estatal do Ceará",
+      "summary": "Ministra Cármen Lúcia rejeitou pretensão do governador do estado porque ADPF não pode ser usada para substituir recurso",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-extinta-acao-sobre-pdv-de-estatal-do-ceara/",
+      "date": "2026-07-14",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF suspende regra sobre sucessão na presidência da Assembleia Legislativa do Amazonas",
       "summary": "Liminar concedida pelo ministro Flávio Dino determina adoção provisória do procedimento previsto no Regimento Interno da Câmara dos Deputados",
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-regra-sobre-sucessao-na-presidencia-da-assembleia-legislativa-do-amazonas/",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Do Plenário à Agenda 2030: julgamentos sobre pobreza, fome, saúde e educação levam a Constituição ao cotidiano",
-      "summary": "Série de reportagens especiais mostrará como os julgamentos da Corte contribuem para os Objetivos de Desenvolvimento Sustentável da ONU",
-      "url": "https://noticias.stf.jus.br/postsnoticias/do-plenario-a-agenda-2030-julgamentos-sobre-pobreza-fome-saude-e-educacao-levam-a-constituicao-ao-cotidiano/",
-      "date": "2026-07-13",
-      "category": "Constitucional"
+      "tribunal": "STJ",
+      "title": "Furto de bilhete premiado em lotérica deve ser julgado pela Justiça estadual",
+      "summary": "Furto de bilhete premiado em lotérica deve ser julgado pela Justiça estadual",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13072026-Furto-de-bilhete-premiado-em-loterica-deve-ser-julgado-pela-Justica-estadual.aspx",
+      "date": "2026-07-14",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Direito de retenção por benfeitorias não se aplica a locatário inadimplente, decide Terceira Turma",
+      "summary": "De acordo com a Terceira Turma, é possível reconhecer o direito do locatário à indenização pelas melhorias feitas no imóvel, sem que isso implique, necessariamente, a possibilidade de retê-lo até o pagamento.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13072026-Direito-de-retencao-por-benfeitorias-nao-se-aplica-a-locatario-inadimplente--decide-Terceira-Turma.aspx",
+      "date": "2026-07-14",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Tribunal ultrapassa 200 mil minutas elaboradas com auxílio de juízes temporários; passivo das seções cai à metade",
+      "summary": "Até agora 204.322 mil minutas de decisões e votos foram produzidas com auxílio dos magistrados convocados nas três Seções do Tribunal.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11072026-Tribunal-ultrapassa-200-mil-minutas-elaboradas-com-auxilio-de-juizes-temporarios--passivo-das-secoes-cai-a-metade.aspx",
+      "date": "2026-07-14",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Manifesto apresentado no 2º Ciclo pelo Orgulho e Diversidade estabelece diretrizes para inclusão no Judiciário amazonense",
       "summary": "Documento construído de forma colaborativa reúne propostas que servirão de base para futuras políticas institucionais de equidade, diversidade e combate à discriminação no Poder Judiciário do Amazonas",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11523-manifesto-apresentado-no-2-ciclo-pelo-orgulho-e-diversidade-estabelece-diretrizes-para-inclusao-no-judiciario-amazonense",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "category": "Trabalhista"
     },
     {
@@ -31,7 +55,7 @@
       "title": "TRT-11 abre inscrições para mutirão de acordos que pode acelerar o pagamento de direitos trabalhistas",
       "summary": "Advogados, trabalhadores e empresas têm até 17 de julho para inscrever processos e participar da mobilização, que será realizada em 3 de agosto no Amazonas e em Roraima.",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11519-trt-11-abre-inscricoes-para-mutirao-de-conciliacao-que-pode-acelerar-o-pagamento-de-direitos-trabalhistas",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "category": "Trabalhista"
     }
   ]

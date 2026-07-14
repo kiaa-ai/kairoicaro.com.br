@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-14T14:13:05.165909+00:00",
+  "updated_at": "2026-07-14T19:41:50.516687+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Presidente do STF e do CNJ lança Rede Nacional de Magistrados para enfrentar avanço do crime organizado no país",
+      "summary": "“A resposta estatal à criminalidade em rede exige, necessariamente, uma Justiça também articulada em rede”, afirmou o ministro Edson Fachin",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-lanca-rede-nacional-de-magistrados-para-enfrentar-avanco-do-crime-organizado-no-pais/",
+      "date": "2026-07-14",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Associação Nacional dos Prefeitos questiona Lei da Dosimetria no STF",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF mantém extinta ação sobre PDV de estatal do Ceará",
-      "summary": "Ministra Cármen Lúcia rejeitou pretensão do governador do estado porque ADPF não pode ser usada para substituir recurso",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-extinta-acao-sobre-pdv-de-estatal-do-ceara/",
+      "tribunal": "STJ",
+      "title": "Entender Direito mostra desafios, avanГ§os e perspectivas da IA na admissibilidade recursal",
+      "summary": "Entender Direito mostra desafios, avanГ§os e perspectivas da IA na admissibilidade recursal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-Entender-Direito-mostra-desafios--avancos-e-perspectivas-da-IA-na-admissibilidade-recursal-.aspx",
       "date": "2026-07-14",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Pessoas trans: cobertura de cirurgias e escolha de presídio são temas da Pesquisa Pronta",
-      "summary": "Pessoas trans: cobertura de cirurgias e escolha de presídio são temas da Pesquisa Pronta",
+      "title": "Pessoas trans: cobertura de cirurgias e escolha de presГ­dio sГЈo temas da Pesquisa Pronta",
+      "summary": "Pessoas trans: cobertura de cirurgias e escolha de presГ­dio sГЈo temas da Pesquisa Pronta",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-Pessoas-trans-cobertura-de-cirurgias-e-escolha-de-presidio-sao-temas-da-Pesquisa-Pronta.aspx",
       "date": "2026-07-14",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "STJN traz decisão que reafirma dever de cobertura de cirurgia de feminização facial",
-      "summary": "STJN traz decisão que reafirma dever de cobertura de cirurgia de feminização facial",
+      "title": "STJN traz decisГЈo que reafirma dever de cobertura de cirurgia de feminizaГ§ГЈo facial",
+      "summary": "STJN traz decisГЈo que reafirma dever de cobertura de cirurgia de feminizaГ§ГЈo facial",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-STJN-traz-decisao-que-reafirma-dever-de-cobertura-de-cirurgia-de-feminizacao-facial.aspx",
-      "date": "2026-07-14",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJ aplica fungibilidade após juízo induzir recorrente em erro sobre natureza da decisão",
-      "summary": "STJ aplica fungibilidade após juízo induzir recorrente em erro sobre natureza da decisão",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-STJ-aplica-fungibilidade-apos-juizo-induzir-recorrente-em-erro-sobre-natureza-da-decisao.aspx",
       "date": "2026-07-14",
       "category": "Jurisprudencia"
     },

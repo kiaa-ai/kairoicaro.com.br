@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-14T09:53:34.007420+00:00",
-  "total": 4,
+  "updated_at": "2026-07-14T14:13:05.165909+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Associação Nacional dos Prefeitos questiona Lei da Dosimetria no STF",
+      "summary": "Entidade sustenta que a norma viola princípios como o da individualização da pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/associacao-nacional-dos-prefeitos-questiona-lei-da-dosimetria-no-stf/",
+      "date": "2026-07-14",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF mantém extinta ação sobre PDV de estatal do Ceará",
@@ -11,12 +19,28 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF suspende regra sobre sucessão na presidência da Assembleia Legislativa do Amazonas",
-      "summary": "Liminar concedida pelo ministro Flávio Dino determina adoção provisória do procedimento previsto no Regimento Interno da Câmara dos Deputados",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-regra-sobre-sucessao-na-presidencia-da-assembleia-legislativa-do-amazonas/",
+      "tribunal": "STJ",
+      "title": "Pessoas trans: cobertura de cirurgias e escolha de presídio são temas da Pesquisa Pronta",
+      "summary": "Pessoas trans: cobertura de cirurgias e escolha de presídio são temas da Pesquisa Pronta",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-Pessoas-trans-cobertura-de-cirurgias-e-escolha-de-presidio-sao-temas-da-Pesquisa-Pronta.aspx",
       "date": "2026-07-14",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJN traz decisão que reafirma dever de cobertura de cirurgia de feminização facial",
+      "summary": "STJN traz decisão que reafirma dever de cobertura de cirurgia de feminização facial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-STJN-traz-decisao-que-reafirma-dever-de-cobertura-de-cirurgia-de-feminizacao-facial.aspx",
+      "date": "2026-07-14",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "STJ aplica fungibilidade após juízo induzir recorrente em erro sobre natureza da decisão",
+      "summary": "STJ aplica fungibilidade após juízo induzir recorrente em erro sobre natureza da decisão",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-STJ-aplica-fungibilidade-apos-juizo-induzir-recorrente-em-erro-sobre-natureza-da-decisao.aspx",
+      "date": "2026-07-14",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

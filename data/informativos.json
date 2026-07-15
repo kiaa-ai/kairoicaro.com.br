@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-15T14:08:21.689282+00:00",
-  "total": 7,
+  "updated_at": "2026-07-15T19:36:23.065271+00:00",
+  "total": 2,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF intima presidentes de 21 partidos políticos a explicar gestão de emendas parlamentares",
+      "summary": "Presidentes têm até 10 dias úteis para prestar informações sobre eventual participação na alocação de emendas e os critérios adotados para a distribuição dos recursos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-intima-presidentes-de-21-partidos-politicos-a-explicar-gestao-de-emendas-parlamentares/",
+      "date": "2026-07-15",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF vai decidir se trabalhador mantém vínculo com a Previdência mesmo com contribuição menor que mínimo da categoria",
@@ -9,54 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-trabalhador-mantem-vinculo-com-a-previdencia-mesmo-com-contribuicao-menor-que-minimo-da-categoria/",
       "date": "2026-07-15",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "Presidente do STF e do CNJ lança Rede Nacional de Magistrados para enfrentar avanço do crime organizado no país",
-      "summary": "“A resposta estatal à criminalidade em rede exige, necessariamente, uma Justiça também articulada em rede”, afirmou o ministro Edson Fachin",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-lanca-rede-nacional-de-magistrados-para-enfrentar-avanco-do-crime-organizado-no-pais/",
-      "date": "2026-07-15",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Podcast STJ No Seu Dia discute partilha de bens no divórcio e exigência de formalização em acordos patrimoniais",
-      "summary": "Podcast STJ No Seu Dia discute partilha de bens no divórcio e exigência de formalização em acordos patrimoniais",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Podcast-STJ-No-Seu-Dia-discute-partilha-de-bens-no-divorcio-e-exigencia-de-formalizacao-em-acordos-patrimoniais.aspx",
-      "date": "2026-07-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Recurso repetitivo discute legitimidade passiva nas ações que envolvem o Fies",
-      "summary": "Recurso repetitivo discute legitimidade passiva nas ações que envolvem o Fies",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Recurso-repetitivo-discute-legitimidade-passiva-nas-acoes-que-envolvem-o-Fies.aspx",
-      "date": "2026-07-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Registro no SCR não equivale a cadastro de negativados e exige apenas comunicação prévia ao cliente na concessão do crédito",
-      "summary": "Registro no SCR não equivale a cadastro de negativados e exige apenas comunicação prévia ao cliente na concessão do crédito",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Registro-no-SCR-nao-equivale-a-cadastro-de-negativados-e-exige-apenas-comunicacao-previa-ao-cliente.aspx",
-      "date": "2026-07-15",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Manifesto apresentado no 2º Ciclo pelo Orgulho e Diversidade estabelece diretrizes para inclusão no Judiciário amazonense",
-      "summary": "Documento construído de forma colaborativa reúne propostas que servirão de base para futuras políticas institucionais de equidade, diversidade e combate à discriminação no Poder Judiciário do Amazonas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11523-manifesto-apresentado-no-2-ciclo-pelo-orgulho-e-diversidade-estabelece-diretrizes-para-inclusao-no-judiciario-amazonense",
-      "date": "2026-07-15",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "TRT-11 abre inscrições para mutirão de acordos que pode acelerar o pagamento de direitos trabalhistas",
-      "summary": "Advogados, trabalhadores e empresas têm até 17 de julho para inscrever processos e participar da mobilização, que será realizada em 3 de agosto no Amazonas e em Roraima.",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11519-trt-11-abre-inscricoes-para-mutirao-de-conciliacao-que-pode-acelerar-o-pagamento-de-direitos-trabalhistas",
-      "date": "2026-07-15",
-      "category": "Trabalhista"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-15T09:57:29.157148+00:00",
+  "updated_at": "2026-07-15T14:08:21.689282+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF vai decidir se trabalhador mantém vínculo com a Previdência mesmo com contribuição menor que mínimo da categoria",
+      "summary": "Matéria teve repercussão geral reconhecido, e entendimento a ser adotado no julgamento deverá ser aplicado em todas as instâncias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-trabalhador-mantem-vinculo-com-a-previdencia-mesmo-com-contribuicao-menor-que-minimo-da-categoria/",
+      "date": "2026-07-15",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Presidente do STF e do CNJ lança Rede Nacional de Magistrados para enfrentar avanço do crime organizado no país",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Associação Nacional dos Prefeitos questiona Lei da Dosimetria no STF",
-      "summary": "Entidade sustenta que a norma viola princípios como o da individualização da pena",
-      "url": "https://noticias.stf.jus.br/postsnoticias/associacao-nacional-dos-prefeitos-questiona-lei-da-dosimetria-no-stf/",
-      "date": "2026-07-15",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Câmara aprova regulamentação da relevância para admissão do recurso especial; projeto vai à sanção",
-      "summary": "Câmara aprova regulamentação da relevância para admissão do recurso especial; projeto vai à sanção",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-Camara-aprova-regulamentacao-da-relevancia-para-admissao-do-recurso-especial--projeto-vai-a-sancao.aspx",
+      "title": "Podcast STJ No Seu Dia discute partilha de bens no divórcio e exigência de formalização em acordos patrimoniais",
+      "summary": "Podcast STJ No Seu Dia discute partilha de bens no divórcio e exigência de formalização em acordos patrimoniais",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Podcast-STJ-No-Seu-Dia-discute-partilha-de-bens-no-divorcio-e-exigencia-de-formalizacao-em-acordos-patrimoniais.aspx",
       "date": "2026-07-15",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Entender Direito mostra desafios, avanços e perspectivas da IA na admissibilidade recursal",
-      "summary": "Programa Entender Direito aborda encontros com TJs e TRFs",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-Entender-Direito-mostra-desafios--avancos-e-perspectivas-da-IA-na-admissibilidade-recursal-.aspx",
+      "title": "Recurso repetitivo discute legitimidade passiva nas ações que envolvem o Fies",
+      "summary": "Recurso repetitivo discute legitimidade passiva nas ações que envolvem o Fies",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Recurso-repetitivo-discute-legitimidade-passiva-nas-acoes-que-envolvem-o-Fies.aspx",
       "date": "2026-07-15",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Pessoas trans: cobertura de cirurgias e escolha de presídio são temas da Pesquisa Pronta",
-      "summary": "Pessoas trans: cobertura de cirurgias e escolha de presídio são temas da Pesquisa Pronta",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14072026-Pessoas-trans-cobertura-de-cirurgias-e-escolha-de-presidio-sao-temas-da-Pesquisa-Pronta.aspx",
+      "title": "Registro no SCR não equivale a cadastro de negativados e exige apenas comunicação prévia ao cliente na concessão do crédito",
+      "summary": "Registro no SCR não equivale a cadastro de negativados e exige apenas comunicação prévia ao cliente na concessão do crédito",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Registro-no-SCR-nao-equivale-a-cadastro-de-negativados-e-exige-apenas-comunicacao-previa-ao-cliente.aspx",
       "date": "2026-07-15",
       "category": "Jurisprudencia"
     },

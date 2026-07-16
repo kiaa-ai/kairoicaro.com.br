@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-07-16T14:22:02.767646+00:00",
+  "updated_at": "2026-07-16T19:33:45.194413+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Propostas sobre modernização do sistema de Justiça podem ser enviadas até 15/8",
-      "summary": "Contribuições serão analisadas por grupo de estudos criado no âmbito do Centro de Estudos Constitucionais do STF",
-      "url": "https://noticias.stf.jus.br/postsnoticias/propostas-sobre-modernizacao-do-sistema-de-justica-podem-ser-enviadas-ate-15-8/",
+      "title": "Profissionais de imprensa setoristas do STF têm até 22/7 para fazer credenciamento",
+      "summary": "Atualização do cadastro deve ser feita pelos veículos de comunicação, e não pelos profissionais; procedimento será anual, com objetivo de organizar rotina de cobertura",
+      "url": "https://noticias.stf.jus.br/postsnoticias/profissionais-de-imprensa-setoristas-do-stf-tem-ate-22-7-para-fazer-credenciamento/",
       "date": "2026-07-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Presidente do STF recebe ministro da Fazenda para tratar da regulação das bets no Brasil",
-      "summary": "Ministro Edson Fachin sinalizou a Dario Durigan a retomada de julgamentos sobre o tema no segundo semestre de 2026 e ressaltou liminares destinadas a adoção de medidas de proteção",
-      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-ministro-da-fazenda-para-tratar-da-regulacao-das-bets-no-brasil/",
+      "title": "Presidente do STF cumpre agenda institucional em Angola e Portugal para fortalecer a cooperação entre Cortes Constitucionais",
+      "summary": "Viagem inclui encontros com representantes do Judiciário dos dois países e debates sobre justiça constitucional e independência judicial",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-cumpre-agenda-institucional-em-angola-e-portugal-para-fortalecer-a-cooperacao-entre-cortes-constitucionais/",
       "date": "2026-07-16",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Sistema Justiça poderá sofrer oscilações no fim de semana",
+      "summary": "Sistema Justiça poderá sofrer oscilações no fim de semana",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16072026-Sistema-Justica-podera-sofrer-oscilacoes-no-fim-de-semana.aspx",
+      "date": "2026-07-16",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -35,18 +43,10 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Repetitivo fixa tese sobre prova de desemprego para extensão do período de graça previdenciária",
-      "summary": "A Primeira Seção decidiu que são válidos diferentes tipos de provas, e não só o registro da situação de desemprego no Ministério do Trabalho; já a falta de anotação na Carteira de Trabalho, por si só, não basta.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16072026-Repetitivo-fixa-tese-sobre-prova-de-desemprego-para-extensao-do-periodo-de-graca-previdenciaria.aspx",
-      "date": "2026-07-16",
-      "category": "Jurisprudencia"
-    },
-    {
       "tribunal": "TRT11",
-      "title": "Trabalhador dispensado por portar pequena quantidade de maconha tem justa causa revertida em Manaus",
-      "summary": "Sentença da 4ª Vara do Trabalho do TRT-11 reconheceu que não houve prejuízo ao contrato de trabalho e determinou o pagamento de verbas rescisórias e indenização por danos morais",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11528-trabalhador-dispensado-por-portar-pequena-quantidade-de-maconha-tem-justa-causa-revertida-em-manaus",
+      "title": "Conciliação no TRT-11 viabiliza pagamento e encerra 25 processos na fase de execução",
+      "summary": "Estratégia da Vara do Trabalho de Tabatinga reuniu execuções contra a mesma empresa, localizou recursos e garantiu o pagamento de mais de R$ 532 mil em créditos trabalhistas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11530-conciliacao-no-trt-11-viabiliza-pagamento-e-encerra-25-processos-na-fase-de-execucao",
       "date": "2026-07-16",
       "category": "Trabalhista"
     },

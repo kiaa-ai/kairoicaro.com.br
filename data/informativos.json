@@ -1,22 +1,62 @@
 {
-  "updated_at": "2026-07-15T19:36:23.065271+00:00",
-  "total": 2,
+  "updated_at": "2026-07-16T03:35:49.703913+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF intima presidentes de 21 partidos políticos a explicar gestão de emendas parlamentares",
-      "summary": "Presidentes têm até 10 dias úteis para prestar informações sobre eventual participação na alocação de emendas e os critérios adotados para a distribuição dos recursos",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-intima-presidentes-de-21-partidos-politicos-a-explicar-gestao-de-emendas-parlamentares/",
-      "date": "2026-07-15",
+      "title": "Propostas sobre modernização do sistema de Justiça podem ser enviadas até 15/8",
+      "summary": "Contribuições serão analisadas por grupo de estudos criado no âmbito do Centro de Estudos Constitucionais do STF",
+      "url": "https://noticias.stf.jus.br/postsnoticias/propostas-sobre-modernizacao-do-sistema-de-justica-podem-ser-enviadas-ate-15-8/",
+      "date": "2026-07-16",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF vai decidir se trabalhador mantém vínculo com a Previdência mesmo com contribuição menor que mínimo da categoria",
-      "summary": "Matéria teve repercussão geral reconhecido, e entendimento a ser adotado no julgamento deverá ser aplicado em todas as instâncias",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-trabalhador-mantem-vinculo-com-a-previdencia-mesmo-com-contribuicao-menor-que-minimo-da-categoria/",
-      "date": "2026-07-15",
+      "title": "Presidente do STF recebe ministro da Fazenda para tratar da regulação das bets no Brasil",
+      "summary": "Ministro Edson Fachin sinalizou a Dario Durigan a retomada de julgamentos sobre o tema no segundo semestre de 2026 e ressaltou liminares destinadas a adoção de medidas de proteção",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-ministro-da-fazenda-para-tratar-da-regulacao-das-bets-no-brasil/",
+      "date": "2026-07-16",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast STJ No Seu Dia discute partilha de bens no divórcio e exigência de formalização em acordos patrimoniais",
+      "summary": "Podcast STJ No Seu Dia discute partilha de bens no divórcio e exigência de formalização em acordos patrimoniais",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Podcast-STJ-No-Seu-Dia-discute-partilha-de-bens-no-divorcio-e-exigencia-de-formalizacao-em-acordos-patrimoniais.aspx",
+      "date": "2026-07-16",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Recurso repetitivo discute legitimidade passiva nas ações que envolvem o Fies",
+      "summary": "Recurso repetitivo discute legitimidade passiva nas ações que envolvem o Fies",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Recurso-repetitivo-discute-legitimidade-passiva-nas-acoes-que-envolvem-o-Fies.aspx",
+      "date": "2026-07-16",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Registro no SCR não equivale a cadastro de negativados e exige apenas comunicação prévia ao cliente na concessão do crédito",
+      "summary": "Registro no SCR não equivale a cadastro de negativados e exige apenas comunicação prévia ao cliente na concessão do crédito",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Registro-no-SCR-nao-equivale-a-cadastro-de-negativados-e-exige-apenas-comunicacao-previa-ao-cliente.aspx",
+      "date": "2026-07-16",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Trabalhador dispensado por portar pequena quantidade de maconha tem justa causa revertida em Manaus",
+      "summary": "Sentença da 4ª Vara do Trabalho do TRT-11 reconheceu que não houve prejuízo ao contrato de trabalho e determinou o pagamento de verbas rescisórias e indenização por danos morais",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11528-trabalhador-dispensado-por-portar-pequena-quantidade-de-maconha-tem-justa-causa-revertida-em-manaus",
+      "date": "2026-07-16",
+      "category": "Trabalhista"
+    },
+    {
+      "tribunal": "TRT11",
+      "title": "Manifesto apresentado no 2º Ciclo pelo Orgulho e Diversidade estabelece diretrizes para inclusão no Judiciário amazonense",
+      "summary": "Documento construído de forma colaborativa reúne propostas que servirão de base para futuras políticas institucionais de equidade, diversidade e combate à discriminação no Poder Judiciário do Amazonas",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11523-manifesto-apresentado-no-2-ciclo-pelo-orgulho-e-diversidade-estabelece-diretrizes-para-inclusao-no-judiciario-amazonense",
+      "date": "2026-07-16",
+      "category": "Trabalhista"
     }
   ]
 }

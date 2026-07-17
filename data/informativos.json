@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-17T14:02:00.083402+00:00",
-  "total": 7,
+  "updated_at": "2026-07-17T19:32:17.816513+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Confira os temas de repercussão geral reconhecidos pelo STF no primeiro semestre de 2026",
+      "summary": "Entre os destaques estão o fornecimento judicial de produtos derivados de cannabis, o direito à educação inclusiva e a aplicação de cotas em processos seletivos internos de universidades",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-temas-de-repercussao-geral-reconhecidos-pelo-stf-no-primeiro-semestre-de-2026/",
+      "date": "2026-07-17",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Nota Institucional",
@@ -11,50 +19,18 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Profissionais de imprensa setoristas do STF têm até 22/7 para fazer credenciamento",
-      "summary": "Atualização do cadastro deve ser feita pelos veículos de comunicação, e não pelos profissionais; procedimento será anual, com objetivo de organizar rotina de cobertura",
-      "url": "https://noticias.stf.jus.br/postsnoticias/profissionais-de-imprensa-setoristas-do-stf-tem-ate-22-7-para-fazer-credenciamento/",
+      "tribunal": "TRT11",
+      "title": "Manaus recebe o \"Café com o Ministro\", iniciativa voltada ao fortalecimento da cultura da conciliação na Justiça do Trabalho",
+      "summary": "O encontro terá a presença do ministro do TST Guilherme Augusto Caputo Bastos, e promoverá o diálogo entre os integrantes da magistratura, da advocacia, do MPT, além de servidores públicos e do meio acadêmico",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11532-manaus-recebe-o-cafe-com-o-ministro-iniciativa-voltada-ao-fortalecimento-da-cultura-da-conciliacao-na-justica-do-trabalho",
       "date": "2026-07-17",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Competência para conversão de multa ambiental é tema de repetitivo",
-      "summary": "Competência para conversão de multa ambiental é tema de repetitivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Competencia-para-conversao-de-multa-ambiental-e-tema-de-repetitivo.aspx",
-      "date": "2026-07-17",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Terceira Turma reafirma direito do leiloeiro à comissão mesmo com quitação da dívida após arrematação",
-      "summary": "O colegiado também reconheceu, no mesmo julgamento, a legitimidade do leiloeiro para recorrer quando a decisão judicial impugnada tratar diretamente da exigibilidade de sua comissão.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Terceira-Turma-reafirma-direito-do-leiloeiro-a-comissao-mesmo-com-quitacao-da-divida-apos-arrematacao.aspx",
-      "date": "2026-07-17",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Sistema Justiça poderá sofrer oscilações no fim de semana",
-      "summary": "Sistema Justiça poderá sofrer oscilações no fim de semana",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16072026-Sistema-Justica-podera-sofrer-oscilacoes-no-fim-de-semana.aspx",
-      "date": "2026-07-17",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Conciliação no TRT-11 viabiliza pagamento e encerra 25 processos na fase de execução",
       "summary": "Estratégia da Vara do Trabalho de Tabatinga reuniu execuções contra a mesma empresa, localizou recursos e garantiu o pagamento de mais de R$ 532 mil em créditos trabalhistas",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11530-conciliacao-no-trt-11-viabiliza-pagamento-e-encerra-25-processos-na-fase-de-execucao",
-      "date": "2026-07-17",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Manifesto apresentado no 2º Ciclo pelo Orgulho e Diversidade estabelece diretrizes para inclusão no Judiciário amazonense",
-      "summary": "Documento construído de forma colaborativa reúne propostas que servirão de base para futuras políticas institucionais de equidade, diversidade e combate à discriminação no Poder Judiciário do Amazonas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11523-manifesto-apresentado-no-2-ciclo-pelo-orgulho-e-diversidade-estabelece-diretrizes-para-inclusao-no-judiciario-amazonense",
       "date": "2026-07-17",
       "category": "Trabalhista"
     }

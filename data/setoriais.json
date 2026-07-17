@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-16T10:04:09.819875+00:00",
+  "updated_at": "2026-07-17T09:52:14.215131+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "17.jul.2026IBDP analisa avanços da PEC para agentes de saúde e riscos jurídicosInstituto afirma que proposta reúne regras incompatíveis com a reforma da previdência e com recente entendimento do STF sobre aposentadoria especial.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-17",
+      "url": "https://www.migalhas.com.br/quentes/460466/ibdp-analisa-avancos-da-pec-para-agentes-de-saude-e-riscos-juridicos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "17.jul.2026Mudanças no regimento já preparavam STJ para receber filtro de relevânciaAlterações internas na Corte da Cidadania convergem com novo filtro de recursos, já aprovado pela Câmara e à espera de sanção.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-17",
+      "url": "https://www.migalhas.com.br/quentes/460419/mudancas-no-regimento-ja-preparavam-stj-para-filtro-de-relevancia"
+    },
+    {
+      "setor": "empresarial",
+      "title": "17.jul.2026Santos Bevilaqua amplia time estratégico com chegada de Alexandre LimaAdvogado atuará em contencioso judicial, arbitragem e consultoria, com foco em grandes sinistros e disputas de alta complexidade",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-17",
+      "url": "https://www.migalhas.com.br/quentes/460504/santos-bevilaqua-amplia-time-estrategico-com-chegada-de-alexandre-lima"
+    },
+    {
+      "setor": "varejo",
+      "title": "16.jul.2026STF: Fachin cobra respeito dos EUA à independência judicial brasileiraNota foi divulgada em meio à tensão entre Brasil e EUA após tarifa de 25% sobre produtos brasileiros.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-17",
+      "url": "https://www.migalhas.com.br/quentes/460503/stf-fachin-cobra-respeito-dos-eua-a-independencia-judicial-brasileira"
+    },
+    {
+      "setor": "ambiental",
+      "title": "16.jul.2026TRF-3 suspende aumento de IRPJ e CSLL previsto na reforma tributáriaPara magistrado, lucro presumido não pode ser tratado como benefício fiscal para justificar o aumento da carga tributária.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-17",
+      "url": "https://www.migalhas.com.br/quentes/460501/trf-3-suspende-aumento-de-irpj-e-csll-previsto-na-reforma-tributaria"
+    },
+    {
+      "setor": "empresarial",
+      "title": "16.jul.2026Detran/SP indenizará por transferir veículo de falecido com firma falsaJuíza reconheceu falha grave da autarquia ao validar documento com assinatura em nome de proprietário falecido há cinco anos.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-17",
+      "url": "https://www.migalhas.com.br/quentes/460500/detran-indenizara-por-transferir-veiculo-de-falecido-com-firma-falsa"
+    },
     {
       "setor": "empresarial",
       "title": "16.jul.2026Biblioteca do STF sedia lançamento de livro em homenagem a Paulo BrossardObra reúne ministros, juristas, políticos, historiadores e cientistas políticos para discutir o legado de um dos maiores constitucionalistas brasileiros.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-07-15",
       "url": "https://www.migalhas.com.br/quentes/460341/advogado-carioca-desaparecido-em-sao-paulo-e-encontrado-morto"
-    },
-    {
-      "setor": "empresarial",
-      "title": "14.jul.2026Governo amplia restrições à publicidade de bets e exige alertas sobre riscosPortarias reforçam a fiscalização da publicidade de bets, ampliam deveres de plataformas e divulgadores e tornam obrigatórios, a partir de 17 de julho, alertas sobre dependência e perdas financeiras.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-15",
-      "url": "https://www.migalhas.com.br/quentes/460340/governo-amplia-restricoes-a-publicidade-de-bets-e-exige-alertas"
-    },
-    {
-      "setor": "empresarial",
-      "title": "14.jul.2026Decreto proíbe anúncios de bets em espaços públicos da cidade do RioMedida alcança publicidade exterior e espaços sujeitos a autorização municipal e prevê retirada imediata dos anúncios irregulares.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-15",
-      "url": "https://www.migalhas.com.br/quentes/460330/decreto-proibe-anuncios-de-bets-em-espacos-publicos-da-cidade-do-rio"
-    },
-    {
-      "setor": "empresarial",
-      "title": "14.jul.2026Juiz nega prova testemunhal a motorista que cobra recompensa por pix errado de R$ 131 milhõesDespacho considerou suficientes os documentos já juntados e dispensou a oitiva de testemunhas.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-15",
-      "url": "https://www.migalhas.com.br/quentes/460335/juiz-mantem-veto-a-testemunha-em-caso-de-recompensa-por-pix-milionario"
-    },
-    {
-      "setor": "empresarial",
-      "title": "14.jul.2026Teresa Arruda Alvim critica uso de precedentes para barrar recursosRelatora do anteprojeto do CPC avalia os 10 anos de vigência do Código, defende a finalidade do sistema de precedentes e alerta para os riscos do uso da inteligência artificial nos tribunais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-14",
-      "url": "https://www.migalhas.com.br/quentes/460190/teresa-arruda-alvim-critica-uso-de-precedentes-para-barrar-recursos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "13.jul.2026Bloqueios ordenados por Dino podem avançar sobre jogo políticoMedidas buscam resguardar o erário, mas exigem prova de ligação entre a conduta atribuída aos investigados, o ilícito apurado e os valores bloqueados.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-14",
-      "url": "https://www.migalhas.com.br/quentes/460198/bloqueios-ordenados-por-dino-podem-avancar-sobre-jogo-politico"
-    },
-    {
-      "setor": "ambiental",
-      "title": "13.jul.2026TST eleva para R$ 40 mil indenização de carteiro trancado em Fiorino durante assaltoColegiado considerou irrisórios os R$ 10 mil fixados pelo TRT diante da grave ameaça à vida, da restrição de liberdade e da extensão do dano suportado pelo trabalhador, mantido no baú do veículo durante o crime.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-14",
-      "url": "https://www.migalhas.com.br/quentes/460239/tst-eleva-indenizacao-de-carteiro-trancado-em-fiorino-durante-assalto"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T09:33:07.351216+00:00",
+  "updated_at": "2026-07-20T10:46:55.411349+00:00",
   "total": 7,
   "items": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "tribunal": "STJ",
+      "title": "Adicional da Cofins-Importação deve ser recolhido mesmo quando a alíquota da contribuição é zero",
+      "summary": "Para a Primeira Seção, o adicional é um acréscimo autônomo de percentual à alíquota já existente, sem interferência na materialidade da contribuição, que continua sendo a importação de produtos ou serviços.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20072026-Adicional-da-Cofins-Importacao-deve-ser-recolhido-mesmo-quando-a-aliquota-da-contribuicao-e-zero.aspx",
+      "date": "2026-07-20",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
       "title": "Página de Repetitivos inclui teses sobre créditos de PIS/Pasep e Cofins e sobre ICMS em operações interestaduais",
       "summary": "Página de Repetitivos inclui teses sobre créditos de PIS/Pasep e Cofins e sobre ICMS em operações interestaduais",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Pagina-de-Repetitivos-inclui-teses-sobre-creditos-de-PISPasep-e-Cofins-e-sobre-ICMS-em-operacoes-interestaduais.aspx",
@@ -31,14 +39,6 @@
       "title": "Competência para conversão de multa ambiental é tema de repetitivo",
       "summary": "Competência para conversão de multa ambiental é tema de repetitivo",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Competencia-para-conversao-de-multa-ambiental-e-tema-de-repetitivo.aspx",
-      "date": "2026-07-20",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Terceira Turma reafirma direito do leiloeiro à comissão mesmo com quitação da dívida após arrematação",
-      "summary": "O colegiado também reconheceu, no mesmo julgamento, a legitimidade do leiloeiro para recorrer quando a decisão judicial impugnada tratar diretamente da exigibilidade de sua comissão.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Terceira-Turma-reafirma-direito-do-leiloeiro-a-comissao-mesmo-com-quitacao-da-divida-apos-arrematacao.aspx",
       "date": "2026-07-20",
       "category": "Jurisprudencia"
     },

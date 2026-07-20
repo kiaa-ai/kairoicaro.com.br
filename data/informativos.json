@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-07-20T10:46:55.411349+00:00",
+  "updated_at": "2026-07-20T14:32:25.903742+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Sistemas do STF ficarão temporariamente indisponíveis no domingo (19)",
-      "summary": "Infraestrutura tecnológica passará por atualização",
-      "url": "https://noticias.stf.jus.br/postsnoticias/sistemas-do-stf-ficarao-temporariamente-indisponiveis-no-domingo-19/",
+      "title": "Em Angola, Fachin propõe ampliar cooperação entre Cortes Constitucionais na defesa da democracia",
+      "summary": "Presidente do STF compartilhou experiências do Judiciário brasileiro e apresentou propostas para fortalecer a cooperação institucional entre Brasil e Angola",
+      "url": "https://noticias.stf.jus.br/postsnoticias/em-angola-fachin-propoe-ampliar-cooperacao-entre-cortes-constitucionais-na-defesa-da-democracia/",
       "date": "2026-07-20",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Como o STF define quem julgará um processo? Entenda como funciona a distribuição de ações na Corte",
-      "summary": "Sistema eletrônico combina sorteio, regras de compensação e critérios previstos no Regimento para definir relatores e evitar concentração de processos",
-      "url": "https://noticias.stf.jus.br/postsnoticias/como-o-stf-define-quem-julgara-um-processo-entenda-como-funciona-a-distribuicao-de-acoes-na-corte/",
+      "title": "Do Plenário à Agenda 2030: julgamentos sobre igualdade, água, energia e trabalho ampliam proteção de direitos",
+      "summary": "Série de reportagens especiais mostrará como os julgamentos da Corte contribuem para os Objetivos de Desenvolvimento Sustentável da ONU",
+      "url": "https://noticias.stf.jus.br/postsnoticias/do-plenario-a-agenda-2030-julgamentos-sobre-igualdade-agua-energia-e-trabalho-ampliam-protecao-de-direitos/",
       "date": "2026-07-20",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Informativo destaca danos morais coletivos pela inércia do Estado na demarcação de terras quilombolas",
+      "summary": "Informativo destaca danos morais coletivos pela inércia do Estado na demarcação de terras quilombolas",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20072026-Informativo-destaca-danos-morais-coletivos-pela-inercia-do-Estado-na-demarcacao-de-terras-quilombolas.aspx",
+      "date": "2026-07-20",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Indenização decorrente da impossibilidade de adjudicação compulsória é imprescritível",
+      "summary": "Indenização decorrente da impossibilidade de adjudicação compulsória é imprescritível",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20072026-Indenizacao-decorrente-da-impossibilidade-de-adjudicacao-compulsoria-e-imprescritivel.aspx",
+      "date": "2026-07-20",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
@@ -27,34 +43,18 @@
       "category": "Jurisprudencia"
     },
     {
-      "tribunal": "STJ",
-      "title": "Página de Repetitivos inclui teses sobre créditos de PIS/Pasep e Cofins e sobre ICMS em operações interestaduais",
-      "summary": "Página de Repetitivos inclui teses sobre créditos de PIS/Pasep e Cofins e sobre ICMS em operações interestaduais",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Pagina-de-Repetitivos-inclui-teses-sobre-creditos-de-PISPasep-e-Cofins-e-sobre-ICMS-em-operacoes-interestaduais.aspx",
+      "tribunal": "TRT11",
+      "title": "Como ingressar com ação trabalhista na Justiça do Trabalho do Amazonas e Roraima sem a necessidade de advogado?",
+      "summary": "Direito assegurado pela CLT permite dar entrada com processos trabalhistas de forma simples e prática, de forma presencial ou online",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11534-como-ingressar-com-acao-trabalhista-na-justica-do-trabalho-do-amazonas-e-roraima-sem-a-necessidade-de-advogado",
       "date": "2026-07-20",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Competência para conversão de multa ambiental é tema de repetitivo",
-      "summary": "Competência para conversão de multa ambiental é tema de repetitivo",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17072026-Competencia-para-conversao-de-multa-ambiental-e-tema-de-repetitivo.aspx",
-      "date": "2026-07-20",
-      "category": "Jurisprudencia"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Manaus recebe o \"Café com o Ministro\", iniciativa voltada ao fortalecimento da cultura da conciliação na Justiça do Trabalho",
       "summary": "O encontro terá a presença do ministro do TST Guilherme Augusto Caputo Bastos, e promoverá o diálogo entre os integrantes da magistratura, da advocacia, do MPT, além de servidores públicos e do meio acadêmico",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11532-manaus-recebe-o-cafe-com-o-ministro-iniciativa-voltada-ao-fortalecimento-da-cultura-da-conciliacao-na-justica-do-trabalho",
-      "date": "2026-07-20",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "Conciliação no TRT-11 viabiliza pagamento e encerra 25 processos na fase de execução",
-      "summary": "Estratégia da Vara do Trabalho de Tabatinga reuniu execuções contra a mesma empresa, localizou recursos e garantiu o pagamento de mais de R$ 532 mil em créditos trabalhistas",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11530-conciliacao-no-trt-11-viabiliza-pagamento-e-encerra-25-processos-na-fase-de-execucao",
       "date": "2026-07-20",
       "category": "Trabalhista"
     }

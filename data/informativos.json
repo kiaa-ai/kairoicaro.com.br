@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-21T14:20:38.343087+00:00",
+  "updated_at": "2026-07-21T19:50:15.201942+00:00",
   "total": 7,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Presidente do STF fala sobre desafios e esforços institucionais da Justiça brasileira durante visita ao Tribunal Supremo angolano",
-      "summary": "Ministro Edson Fachin cumpre agenda institucional em Angola, onde também falou sobre defesa da democracia",
-      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anuncia-criacao-de-rede-de-cortes-constitucionais-em-defesa-da-democracia/",
+      "title": "STF abre inscrições de estágio para estudantes negros, indígenas e quilombolas",
+      "summary": "Serão oferecidas vagas para alunos de cinco cursos de graduação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-abre-inscricoes-de-estagio-para-estudantes-negros-indigenas-e-quilombolas/",
       "date": "2026-07-21",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "STF envia à Polícia Federal primeiras informações de presidentes de partidos sobre indicação de emendas",
-      "summary": "Ministro Flávio Dino considera necessário que PF adote atos de investigação cabíveis para apurar eventuais práticas existentes",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-envia-a-policia-federal-primeiras-informacoes-de-presidentes-de-partidos-sobre-indicacao-de-emendas/",
+      "title": "Partido questiona alteração do momento de verificação da idade mínima de candidatos",
+      "summary": "Legenda argumenta que condições de elegibilidade devem ser aferidas na hora do registro da candidatura",
+      "url": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-alteracao-do-momento-de-verificacao-da-idade-minima-para-candidatos-a-cargos-eletivos/",
       "date": "2026-07-21",
       "category": "Constitucional"
     },
@@ -44,17 +44,17 @@
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 determina retomada do transporte coletivo em Manaus",
-      "summary": "Em caso de descumprimento, o STTRM estará sujeito a multa de R$ 120 mil por hora de paralisação",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11535-trt-11-determina-retomada-do-transporte-coletivo-em-manaus",
+      "title": "Em ano eleitoral, a Justiça do Trabalho alerta: assédio eleitoral no ambiente de trabalho é crime!",
+      "summary": "Trabalhadores e empregadores devem prevenir e combater a prática que é ilegal e pode gerar responsabilização trabalhista",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11536-em-ano-eleitoral-a-justica-do-trabalho-alerta-assedio-eleitoral-no-ambiente-de-trabalho-e-crime",
       "date": "2026-07-21",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "Como ingressar com ação trabalhista na Justiça do Trabalho do Amazonas e Roraima sem a necessidade de advogado?",
-      "summary": "Direito assegurado pela CLT permite dar entrada com processos trabalhistas de forma simples e prática, de forma presencial ou online",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11534-como-ingressar-com-acao-trabalhista-na-justica-do-trabalho-do-amazonas-e-roraima-sem-a-necessidade-de-advogado",
+      "title": "TRT-11 determina retomada do transporte coletivo em Manaus",
+      "summary": "Em caso de descumprimento, o STTRM estará sujeito a multa de R$ 120 mil por hora de paralisação",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11535-trt-11-determina-retomada-do-transporte-coletivo-em-manaus",
       "date": "2026-07-21",
       "category": "Trabalhista"
     }

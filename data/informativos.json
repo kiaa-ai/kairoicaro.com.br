@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-20T19:55:27.386270+00:00",
+  "updated_at": "2026-07-21T03:44:08.083133+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Presidente do STF fala sobre desafios da Justiça brasileira durante visita ao Tribunal Supremo de Angola",
+      "summary": "Ministro Edson Fachin cumpre agenda institucional em Angola, onde também falou sobre defesa da democracia",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anuncia-criacao-de-rede-de-cortes-constitucionais-em-defesa-da-democracia/",
+      "date": "2026-07-21",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF envia à Polícia Federal primeiras informações de presidentes de partidos sobre indicação de emendas",
       "summary": "Ministro Flávio Dino considera necessário que PF adote atos de investigação cabíveis para apurar eventuais práticas existentes",
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-envia-a-policia-federal-primeiras-informacoes-de-presidentes-de-partidos-sobre-indicacao-de-emendas/",
-      "date": "2026-07-20",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "STF e CNJ compartilham boas práticas do Judiciário brasileiro com Tribunal Constitucional de Angola",
-      "summary": "Transformação digital, proteção da democracia, direitos humanos, acesso à Justiça e produção de conhecimento estiveram entre os temas apresentados ao Tribunal angolano",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-e-cnj-compartilham-boas-praticas-do-judiciario-brasileiro-com-tribunal-constitucional-de-angola/",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "Constitucional"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Informativo destaca danos morais coletivos pela inércia do Estado na demarcação de terras quilombolas",
       "summary": "Informativo destaca danos morais coletivos pela inércia do Estado na demarcação de terras quilombolas",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20072026-Informativo-destaca-danos-morais-coletivos-pela-inercia-do-Estado-na-demarcacao-de-terras-quilombolas.aspx",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "Jurisprudencia"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Indenização decorrente da impossibilidade de adjudicação compulsória é imprescritível",
       "summary": "Indenização decorrente da impossibilidade de adjudicação compulsória é imprescritível",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20072026-Indenizacao-decorrente-da-impossibilidade-de-adjudicacao-compulsoria-e-imprescritivel.aspx",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "Jurisprudencia"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Adicional da Cofins-Importação deve ser recolhido mesmo quando a alíquota da contribuição é zero",
       "summary": "Para a Primeira Seção, o adicional é um acréscimo autônomo de percentual à alíquota já existente, sem interferência na materialidade da contribuição, que continua sendo a importação de produtos ou serviços.",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20072026-Adicional-da-Cofins-Importacao-deve-ser-recolhido-mesmo-quando-a-aliquota-da-contribuicao-e-zero.aspx",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "Jurisprudencia"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Como ingressar com ação trabalhista na Justiça do Trabalho do Amazonas e Roraima sem a necessidade de advogado?",
       "summary": "Direito assegurado pela CLT permite dar entrada com processos trabalhistas de forma simples e prática, de forma presencial ou online",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11534-como-ingressar-com-acao-trabalhista-na-justica-do-trabalho-do-amazonas-e-roraima-sem-a-necessidade-de-advogado",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Manaus recebe o \"Café com o Ministro\", iniciativa voltada ao fortalecimento da cultura da conciliação na Justiça do Trabalho",
       "summary": "O encontro terá a presença do ministro do TST Guilherme Augusto Caputo Bastos, e promoverá o diálogo entre os integrantes da magistratura, da advocacia, do MPT, além de servidores públicos e do meio acadêmico",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11532-manaus-recebe-o-cafe-com-o-ministro-iniciativa-voltada-ao-fortalecimento-da-cultura-da-conciliacao-na-justica-do-trabalho",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "Trabalhista"
     }
   ]

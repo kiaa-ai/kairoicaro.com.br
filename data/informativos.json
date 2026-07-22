@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-22T10:21:06.252727+00:00",
-  "total": 7,
+  "updated_at": "2026-07-22T14:21:25.898536+00:00",
+  "total": 4,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "Publicado edital da segunda edição do STF Moot",
+      "summary": "Inscrições para a competição de julgamento simulado destinada a estudantes de direito começam no dia 20/8",
+      "url": "https://noticias.stf.jus.br/postsnoticias/publicado-edital-da-segunda-edicao-do-stf-moot/",
+      "date": "2026-07-22",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "STF abre inscrições de estágio para estudantes negros, indígenas e quilombolas",
@@ -9,38 +17,6 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-abre-inscricoes-de-estagio-para-estudantes-negros-indigenas-e-quilombolas/",
       "date": "2026-07-22",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STF",
-      "title": "Partido questiona alteração do momento de verificação da idade mínima de candidatos",
-      "summary": "Legenda argumenta que condições de elegibilidade devem ser aferidas na hora do registro da candidatura",
-      "url": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-alteracao-do-momento-de-verificacao-da-idade-minima-para-candidatos-a-cargos-eletivos/",
-      "date": "2026-07-22",
-      "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJN traz decisão sobre competência para julgar furto de bilhete premiado em lotérica",
-      "summary": "STJN traz decisão sobre competência para julgar furto de bilhete premiado em lotérica",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21072026-STJN-traz-decisao-sobre-competencia-para-julgar-furto-de-bilhete-premiado-em-loterica-.aspx",
-      "date": "2026-07-22",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "STJ suspende liminar e autoriza retomada da construção de ponte em Tefé (AM)",
-      "summary": "STJ suspende liminar e autoriza retomada da construção de ponte em Tefé (AM)",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21072026-STJ-suspende-liminar-e-autoriza-retomada-da-construcao-de-ponte-em-Tefe--AM-.aspx",
-      "date": "2026-07-22",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Vítima com filho menor pode levar a aumento da pena por homicídio, reafirma Terceira Seção em repetitivo",
-      "summary": "Para a Terceira Seção, a morte da vítima é resultado inerente ao crime de homicídio, mas o fato de ela deixar filhos menores não pode ser tratado como decorrência natural e automática do delito.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21072026-Vitima-com-filho-menor-pode-levar-a-aumento-da-pena-por-homicidio--reafirma-Terceira-Secao-em-repetitivo.aspx",
-      "date": "2026-07-22",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

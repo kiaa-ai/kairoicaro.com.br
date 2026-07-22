@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-22T14:21:25.898536+00:00",
-  "total": 4,
+  "updated_at": "2026-07-22T19:42:22.355319+00:00",
+  "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "STF institui Estatuto da Auditoria Interna e reforça governança institucional",
+      "summary": "Norma alinha atuação da Auditoria Interna do STF às melhores práticas internacionais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-institui-estatuto-da-auditoria-interna-e-reforca-governanca-institucional/",
+      "date": "2026-07-22",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Publicado edital da segunda edição do STF Moot",
@@ -11,26 +19,42 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "STF abre inscrições de estágio para estudantes negros, indígenas e quilombolas",
-      "summary": "Serão oferecidas vagas para alunos de cinco cursos de graduação",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-abre-inscricoes-de-estagio-para-estudantes-negros-indigenas-e-quilombolas/",
+      "tribunal": "STJ",
+      "title": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
+      "summary": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Podcast-discute-posse-de-drogas-no-presidio-como-falta-grave-e-limites-da-decisao-do-STF-sobre-descriminalizacao.aspx",
       "date": "2026-07-22",
-      "category": "Constitucional"
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Pais podem sacar indenização por dano moral em favor de filha menor, decide Terceira Turma",
+      "summary": "Pais podem sacar indenização por dano moral em favor de filha menor, decide Terceira Turma",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Pais-podem-sacar-indenizacao-por-dano-moral-em-favor-de-filha-menor--decide-Terceira-Turma.aspx",
+      "date": "2026-07-22",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Apreensão e perda de maquinário usado em crime ambiental não dependem de má-fé do proprietário",
+      "summary": "Segundo a ministra Maria Thereza de Assis Moura, o perdimento do bem não constitui sanção pessoal, mas uma consequência objetiva do seu uso como instrumento da infração ambiental.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Apreensao-e-perda-de-maquinario-usado-em-crime-ambiental-nao-dependem-de-ma-fe-do-proprietario.aspx",
+      "date": "2026-07-22",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
-      "title": "Em ano eleitoral, a Justiça do Trabalho alerta: assédio eleitoral no ambiente de trabalho é crime!",
-      "summary": "Trabalhadores e empregadores devem prevenir e combater a prática que é ilegal e pode gerar responsabilização trabalhista",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11536-em-ano-eleitoral-a-justica-do-trabalho-alerta-assedio-eleitoral-no-ambiente-de-trabalho-e-crime",
+      "title": "Apenas uma em cada dez trabalhadoras domésticas tem carteira assinada no Norte; informalidade chega a 90%",
+      "summary": "Justiça do Trabalho registrou 414 processos de trabalhadoras e trabalhadores domésticos nos últimos sete anos no Amazonas e Roraima",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11540-apenas-uma-em-cada-dez-trabalhadoras-domesticas-tem-carteira-assinada-no-norte-informalidade-chega-a-90",
       "date": "2026-07-22",
       "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
-      "title": "TRT-11 determina retomada do transporte coletivo em Manaus",
-      "summary": "Em caso de descumprimento, o STTRM estará sujeito a multa de R$ 120 mil por hora de paralisação",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11535-trt-11-determina-retomada-do-transporte-coletivo-em-manaus",
+      "title": "Conciliação na 3ª VTBV põe fim à ação por morte de trabalhador em acidente de trabalho",
+      "summary": "O acordo firmado garantiu reparação à família e evitou o prolongamento da disputa judicial",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11539-conciliacao-na-3-vtbv-poe-fim-a-acao-por-morte-de-trabalhador-em-acidente-de-trabalho",
       "date": "2026-07-22",
       "category": "Trabalhista"
     }

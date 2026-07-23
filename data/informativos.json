@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T03:43:52.024765+00:00",
-  "total": 4,
+  "updated_at": "2026-07-23T08:43:43.958796+00:00",
+  "total": 7,
   "items": [
     {
       "tribunal": "STF",
@@ -17,6 +17,30 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/vice-presidente-do-stf-recebe-convite-para-posse-da-nova-gestao-do-stj/",
       "date": "2026-07-23",
       "category": "Constitucional"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
+      "summary": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Podcast-discute-posse-de-drogas-no-presidio-como-falta-grave-e-limites-da-decisao-do-STF-sobre-descriminalizacao.aspx",
+      "date": "2026-07-23",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Pais podem sacar indenização por dano moral em favor de filha menor, decide Terceira Turma",
+      "summary": "Pais podem sacar indenização por dano moral em favor de filha menor, decide Terceira Turma",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Pais-podem-sacar-indenizacao-por-dano-moral-em-favor-de-filha-menor--decide-Terceira-Turma.aspx",
+      "date": "2026-07-23",
+      "category": "Jurisprudencia"
+    },
+    {
+      "tribunal": "STJ",
+      "title": "Apreensão e perda de maquinário usado em crime ambiental não dependem de má-fé do proprietário",
+      "summary": "Segundo a ministra Maria Thereza de Assis Moura, o perdimento do bem não constitui sanção pessoal, mas uma consequência objetiva do seu uso como instrumento da infração ambiental.",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Apreensao-e-perda-de-maquinario-usado-em-crime-ambiental-nao-dependem-de-ma-fe-do-proprietario.aspx",
+      "date": "2026-07-23",
+      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",

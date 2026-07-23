@@ -1,53 +1,29 @@
 {
-  "updated_at": "2026-07-22T19:42:22.355319+00:00",
-  "total": 7,
+  "updated_at": "2026-07-23T03:43:52.024765+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "STF institui Estatuto da Auditoria Interna e reforça governança institucional",
-      "summary": "Norma alinha atuação da Auditoria Interna do STF às melhores práticas internacionais",
-      "url": "https://noticias.stf.jus.br/postsnoticias/stf-institui-estatuto-da-auditoria-interna-e-reforca-governanca-institucional/",
-      "date": "2026-07-22",
+      "title": "Decisão do STF permite retomada da cobrança de IPTU em Teresina",
+      "summary": "Ministro Alexandre de Moraes considerou impacto na arrecadação municipal, que poderia comprometer prestação de serviços públicos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/decisao-do-stf-permite-retomada-da-cobranca-de-iptu-em-teresina/",
+      "date": "2026-07-23",
       "category": "Constitucional"
     },
     {
       "tribunal": "STF",
-      "title": "Publicado edital da segunda edição do STF Moot",
-      "summary": "Inscrições para a competição de julgamento simulado destinada a estudantes de direito começam no dia 20/8",
-      "url": "https://noticias.stf.jus.br/postsnoticias/publicado-edital-da-segunda-edicao-do-stf-moot/",
-      "date": "2026-07-22",
+      "title": "Vice-presidente do STF recebe convite para posse da nova gestão do STJ",
+      "summary": "Os ministros Luis Felipe Salomão (presidente) e Mauro Campbell (vice) serão empossados no próximo dia 19/8",
+      "url": "https://noticias.stf.jus.br/postsnoticias/vice-presidente-do-stf-recebe-convite-para-posse-da-nova-gestao-do-stj/",
+      "date": "2026-07-23",
       "category": "Constitucional"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
-      "summary": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Podcast-discute-posse-de-drogas-no-presidio-como-falta-grave-e-limites-da-decisao-do-STF-sobre-descriminalizacao.aspx",
-      "date": "2026-07-22",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Pais podem sacar indenização por dano moral em favor de filha menor, decide Terceira Turma",
-      "summary": "Pais podem sacar indenização por dano moral em favor de filha menor, decide Terceira Turma",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Pais-podem-sacar-indenizacao-por-dano-moral-em-favor-de-filha-menor--decide-Terceira-Turma.aspx",
-      "date": "2026-07-22",
-      "category": "Jurisprudencia"
-    },
-    {
-      "tribunal": "STJ",
-      "title": "Apreensão e perda de maquinário usado em crime ambiental não dependem de má-fé do proprietário",
-      "summary": "Segundo a ministra Maria Thereza de Assis Moura, o perdimento do bem não constitui sanção pessoal, mas uma consequência objetiva do seu uso como instrumento da infração ambiental.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Apreensao-e-perda-de-maquinario-usado-em-crime-ambiental-nao-dependem-de-ma-fe-do-proprietario.aspx",
-      "date": "2026-07-22",
-      "category": "Jurisprudencia"
     },
     {
       "tribunal": "TRT11",
       "title": "Apenas uma em cada dez trabalhadoras domésticas tem carteira assinada no Norte; informalidade chega a 90%",
       "summary": "Justiça do Trabalho registrou 414 processos de trabalhadoras e trabalhadores domésticos nos últimos sete anos no Amazonas e Roraima",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11540-apenas-uma-em-cada-dez-trabalhadoras-domesticas-tem-carteira-assinada-no-norte-informalidade-chega-a-90",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "category": "Trabalhista"
     },
     {
@@ -55,7 +31,7 @@
       "title": "Conciliação na 3ª VTBV põe fim à ação por morte de trabalhador em acidente de trabalho",
       "summary": "O acordo firmado garantiu reparação à família e evitou o prolongamento da disputa judicial",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11539-conciliacao-na-3-vtbv-poe-fim-a-acao-por-morte-de-trabalhador-em-acidente-de-trabalho",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "category": "Trabalhista"
     }
   ]

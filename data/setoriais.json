@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-22T10:21:09.271683+00:00",
+  "updated_at": "2026-07-23T10:15:21.863813+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "22.jul.2026Uso de IA: Decisões expõem contraste entre punições a advogados e magistradosTJ/SP exige conferência rigorosa de advogados que utilizam IA, mas afasta responsabilização disciplinar de juiz que cita precedentes inexistentes.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-23",
+      "url": "https://www.migalhas.com.br/quentes/460846/ia-decisoes-expoem-contraste-entre-punicoes-a-advogados-e-magistrados"
+    },
+    {
+      "setor": "empresarial",
+      "title": "22.jul.2026STF cria Estatuto da Auditoria Interna para reforçar práticas de governançaResolução estabelece princípios, competências e garantias de autonomia da Auditoria Interna, em conformidade com padrões globais e recomendações do TCU.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-23",
+      "url": "https://www.migalhas.com.br/quentes/460847/stf-cria-estatuto-da-auditoria-interna-para-reforcar-governanca"
+    },
+    {
+      "setor": "varejo",
+      "title": "22.jul.2026TJ/MT eleva indenização de consumidora seguida na C&A \"por causa da cor\"Consumidora foi acompanhada ostensivamente por funcionários e tratada de forma diferenciada no caixa; tribunal considerou grave a discriminação racial e aumentou de R$ 10 mil para R$ 20 mil a reparação.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-23",
+      "url": "https://www.migalhas.com.br/quentes/460845/tj-mt-eleva-indenizacao-de-cliente-seguida-na-c-a-por-causa-da-cor"
+    },
+    {
+      "setor": "varejo",
+      "title": "22.jul.2026Juiz não vê racismo institucional do Assaí em abordagem de cliente negroAo ser abordado por funcionários, consumidor acusado de furto precisou levantar a camisa para provar inocência.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-23",
+      "url": "https://www.migalhas.com.br/quentes/460844/juiz-nao-ve-racismo-institucional-em-abordagem-de-cliente-negro"
+    },
+    {
+      "setor": "empresarial",
+      "title": "22.jul.2026Vítima de abusos pede exclusão da mãe da certidão; caso chega ao TJ/SPDefesa sustenta que vítima não deve ser obrigada a manter vínculo jurídico com quem teria destruído sua infância.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-23",
+      "url": "https://www.migalhas.com.br/quentes/460838/vitima-de-abusos-pede-exclusao-da-mae-da-certidao-caso-chega-ao-tj-sp"
+    },
+    {
+      "setor": "empresarial",
+      "title": "22.jul.2026Criança com síndrome de Down poderá produzir conteúdo digital; juíza fixa regrasDecisão limita gravações a cinco horas semanais, preserva atividades escolares e terapêuticas e reserva ao menos 60% dos rendimentos à criança.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-23",
+      "url": "https://www.migalhas.com.br/quentes/460828/crianca-com-down-podera-produzir-conteudo-digital-juiza-fixa-regras"
+    },
     {
       "setor": "empresarial",
       "title": "22.jul.2026NR-1 pode acelerar nova onda de processos trabalhistasRegras impostas pela norma obrigam empresas de todos os portes a identificar, avaliar e prevenir riscos psicossociais no ambiente de trabalho.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-07-21",
       "url": "https://www.migalhas.com.br/quentes/460584/com-liminar-para-disputar-mundial-nadadora-com-down-enfrenta-entraves"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jul.2026TJ/SP: Isenção de IPVA deve considerar ano, não data exata de fabricaçãoColegiado reconheceu a imunidade do IPVA de veículo fabricado em 2006 e afastou a exigência da Fazenda paulista de comprovar o mês e o dia de fabricação.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-21",
-      "url": "https://www.migalhas.com.br/quentes/460674/tj-sp-isencao-de-ipva-considera-ano-nao-data-exata-de-fabricacao"
-    },
-    {
-      "setor": "ambiental",
-      "title": "20.jul.2026Juiz nega danos a petshop após tutora denunciar morte de cão nas redes sociaisProvas indicaram que cão braquicefálico apresentou hipertermia após transporte inadequado; juiz afastou abuso da liberdade de expressão e condenou pet shop por falha no serviço.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-21",
-      "url": "https://www.migalhas.com.br/quentes/460675/juiz-nega-danos-a-petshop-apos-tutora-denunciar-morte-de-cao-nas-redes"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jul.2026Reis Advogados amplia ISO 9001 e passa a incluir gestão de processosP escopo de seu Sistema de Gestão da Qualidade passa a incluir a área de Gestão de Processos e Serviços de Legal Operations.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-21",
-      "url": "https://www.migalhas.com.br/quentes/460677/reis-advogados-amplia-iso-9001-e-passa-a-incluir-gestao-de-processos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jul.2026\"Responsabilidade Civil em Saúde\" é tema da 5ª edição da Revista Virtual Migalhas BioéticasA nova edição analisa o papel de médicos, hospitais, Estado e pacientes na responsabilidade civil em saúde.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-20",
-      "url": "https://www.migalhas.com.br/quentes/459327/5-edicao-da-revista-virtual-migalhas-bioeticas-aborda-dever-na-saude"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jul.2026Com juristas entre imortais, Academia Brasileira de Letras completa 129 anosABL nasceu com a missão de preservar a unidade literária e cultivar a língua e a literatura nacionais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-20",
-      "url": "https://www.migalhas.com.br/quentes/460559/academia-brasileira-de-letras-faz-129-anos-com-juristas-entre-imortais"
-    },
-    {
-      "setor": "empresarial",
-      "title": "20.jul.2026Paraty já integrou rota do ouro e hoje é palco literário internacionalAntigo ponto estratégico do Brasil colonial, município reúne patrimônio histórico e projeção internacional com a festa literária.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-20",
-      "url": "https://www.migalhas.com.br/quentes/460416/paraty-ja-integrou-rota-do-ouro-e-hoje-e-palco-literario-internacional"
     }
   ]
 }

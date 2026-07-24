@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T10:11:46.531988+00:00",
+  "updated_at": "2026-07-24T14:12:00.536223+00:00",
   "total": 7,
   "items": [
+    {
+      "tribunal": "STF",
+      "title": "‘Direito sem juridiquês’: novo episódio explica o que é amicus curiae",
+      "summary": "Vídeo mostra, de forma simples, qual a função do instituto nos julgamentos do STF",
+      "url": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-novo-episodio-explica-o-que-e-amicus-curiae/",
+      "date": "2026-07-24",
+      "category": "Constitucional"
+    },
     {
       "tribunal": "STF",
       "title": "Suspensa por mais 120 dias ação em que estados cobram da União recursos para irrigação",
@@ -11,34 +19,26 @@
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "Rede questiona falta de responsabilização de parlamentares por emendas impositivas",
-      "summary": "Partido pede ao STF que deputados federais e senadores sejam submetidos às regras aplicáveis a ordenadores de despesas",
-      "url": "https://noticias.stf.jus.br/postsnoticias/rede-questiona-falta-de-responsabilizacao-de-parlamentares-por-emendas-impositivas/",
-      "date": "2026-07-24",
-      "category": "Constitucional"
-    },
-    {
       "tribunal": "STJ",
-      "title": "Primeira Seção definirá natureza de decisão que julga impugnação ao cumprimento de sentença",
-      "summary": "Primeira Seção definirá natureza de decisão que julga impugnação ao cumprimento de sentença",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23072026-Primeira-Secao-definira-natureza-de-decisao-que-julga-impugnacao-ao-cumprimento-de-sentenca.aspx",
+      "title": "Rádio Decidendi explica tese sobre intimação do devedor como pressuposto para multa coercitiva",
+      "summary": "Rádio Decidendi explica tese sobre intimação do devedor como pressuposto para multa coercitiva",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24072026-Radio-Decidendi-explica-tese-sobre-intimacao-do-devedor-como-pressuposto-para-multa-coercitiva.aspx",
       "date": "2026-07-24",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Devedor solidário não tem direito imediato à ação de regresso após pagar apenas parte da dívida comum",
-      "summary": "Os réus de uma ação indenizatória foram condenados solidariamente; um deles quitou parte da dívida, mas só a quitação integral o habilitaria a ajuizar ação de regresso contra os codevedores.",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23072026-Devedor-solidario-nao-tem-direito-imediato-a-acao-de-regresso-apos-pagar-apenas-parte-da-divida-comum.aspx",
+      "title": "Jurisprudência em Teses traz novos entendimentos sobre direito à educação",
+      "summary": "Jurisprudência em Teses traz novos entendimentos sobre direito à educação",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24072026-Jurisprudencia-em-Teses-traz-novos-entendimentos-sobre-direito-a-educacao.aspx",
       "date": "2026-07-24",
       "category": "Jurisprudencia"
     },
     {
       "tribunal": "STJ",
-      "title": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
-      "summary": "Podcast discute posse de drogas no presídio como falta grave e limites da decisão do STF sobre descriminalização",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22072026-Podcast-discute-posse-de-drogas-no-presidio-como-falta-grave-e-limites-da-decisao-do-STF-sobre-descriminalizacao.aspx",
+      "title": "Podcast STJ No Seu Dia discute atuação do assistente de acusação e limites recursais no processo penal",
+      "summary": "Podcast STJ No Seu Dia discute atuação do assistente de acusação e limites recursais no processo penal",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24072026-Podcast-STJ-No-Seu-Dia-discute-atuacao-do-assistente-de-acusacao-e-limites-recursais-no-processo-penal.aspx",
       "date": "2026-07-24",
       "category": "Jurisprudencia"
     },

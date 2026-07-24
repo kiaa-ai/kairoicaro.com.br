@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-23T10:15:21.863813+00:00",
+  "updated_at": "2026-07-24T10:11:50.202894+00:00",
   "total": 15,
   "items": [
+    {
+      "setor": "empresarial",
+      "title": "24.jul.2026Sorteio da obra \"Os amadores do Brasil\"A publicação reúne contos que viajam pelo tempo e espaço para narrar a vida diversa do povo brasileiro, desde o período colonial até centenas de anos no futuro.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-24",
+      "url": "https://www.migalhas.com.br/quentes/458811/sorteio-da-obra-os-amadores-do-brasil"
+    },
+    {
+      "setor": "empresarial",
+      "title": "24.jul.2026Para além do afeto: qual o alcance jurídico do vínculo entre avós e netos? Advogadas explicamLegislação brasileira atribui direitos e deveres aos avós nas relações familiares.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-24",
+      "url": "https://www.migalhas.com.br/quentes/460925/alem-do-afeto-qual-o-alcance-juridico-do-vinculo-entre-avos-e-netos"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jul.2026A palavra é o Direito, a palavra vira vida: Cármen trata da relação entre Direito e LiteraturaPara ministra, Literatura ajuda a compreender os dilemas humanos que também desafiam o Direito.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-24",
+      "url": "https://www.migalhas.com.br/quentes/460930/ministra-carmen-lucia-trata-da-relacao-entre-direito-e-literatura"
+    },
+    {
+      "setor": "ambiental",
+      "title": "23.jul.2026STJ: Banco responde por empréstimo fraudulento após furto de celularMinistra Nancy Andrighi concluiu que a instituição não comprovou mecanismos eficazes para identificar e impedir operações atípicas realizadas após a subtração do aparelho.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-24",
+      "url": "https://www.migalhas.com.br/quentes/460931/stj-banco-responde-por-emprestimo-fraudulento-apos-furto-de-celular"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jul.2026TJ/MG nega usucapião de imóvel cedido à ex-mulher para gerar renda ao filhoImóvel foi cedido pelo ex-marido para ser alugado em benefício do filho comum; para o TJ/MG, a permissão afastou a posse com ânimo de dona exigida para a usucapião.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-24",
+      "url": "https://www.migalhas.com.br/quentes/460922/tj-mg-nega-usucapiao-de-imovel-cedido-a-ex-mulher-para-renda-do-filho"
+    },
+    {
+      "setor": "empresarial",
+      "title": "23.jul.2026Ministra Cármen Lúcia alerta para distância entre Brasília e o povoDurante a 24ª edição da Flip, ministra Cármen Lúcia defendeu a participação cidadã e afirmou que a democracia se fortalece para além dos gabinetes e das eleições.",
+      "summary": "",
+      "source": "Migalhas / Analise KIAA",
+      "date": "2026-07-24",
+      "url": "https://www.migalhas.com.br/quentes/460928/ministra-carmen-lucia-alerta-para-distancia-entre-brasilia-e-o-povo"
+    },
     {
       "setor": "empresarial",
       "title": "22.jul.2026Uso de IA: Decisões expõem contraste entre punições a advogados e magistradosTJ/SP exige conferência rigorosa de advogados que utilizam IA, mas afasta responsabilização disciplinar de juiz que cita precedentes inexistentes.",
@@ -73,54 +121,6 @@
       "source": "Migalhas / Analise KIAA",
       "date": "2026-07-22",
       "url": "https://www.migalhas.com.br/quentes/460782/estudo-analisa-impacto-de-decisoes-judiciais-sobre-contratos-de-seguro"
-    },
-    {
-      "setor": "empresarial",
-      "title": "21.jul.2026MTE regulamenta trabalho no comércio em feriados; confira mudançasAbertura em feriados dependerá de previsão em convenção coletiva firmada entre sindicatos patronais e profissionais.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-22",
-      "url": "https://www.migalhas.com.br/quentes/460781/mte-regulamenta-trabalho-no-comercio-em-feriados-confira-mudancas"
-    },
-    {
-      "setor": "varejo",
-      "title": "21.jul.2026Laser Fast ressarcirá clientes prejudicados após fim das atividadesSentença garantiu a consumidores a restituição dos valores pagos por pacotes não usufruídos.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-22",
-      "url": "https://www.migalhas.com.br/quentes/460774/laser-fast-ressarcira-clientes-prejudicados-apos-fim-das-atividades"
-    },
-    {
-      "setor": "empresarial",
-      "title": "21.jul.2026França aprova proibição de redes sociais para menores de 15 anosMedida, pioneira na União Europeia, começa a valer em setembro e também restringe o uso de celulares no ensino médio.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-22",
-      "url": "https://www.migalhas.com.br/quentes/460780/franca-aprova-proibicao-de-redes-sociais-para-menores-de-15-anos"
-    },
-    {
-      "setor": "empresarial",
-      "title": "21.jul.2026Livro reúne reflexões de Dimas Ramalho sobre uma década no TCE/SPLançamento da obra \"Década contada - ensaios e registros de um conselheiro\" acontece no dia 18/8, na Faculdade de Direito da USP (sala Visconde de São Leopoldo).",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-21",
-      "url": "https://www.migalhas.com.br/quentes/460679/livro-reune-reflexoes-de-dimas-ramalho-sobre-uma-decada-no-tce-sp"
-    },
-    {
-      "setor": "empresarial",
-      "title": "21.jul.2026Especialista da CAMARB comenta aproximação entre Brasil e China após tarifaço dos EUACom o redesenho dos fluxos do comércio internacional, empresas brasileiras precisam adaptar contratos e estratégias de resolução de conflitos às particularidades da cultura de negócios asiática.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-21",
-      "url": "https://www.migalhas.com.br/quentes/460629/camarb-comenta-aproximacao-entre-brasil-e-china-apos-tarifaco-dos-eua"
-    },
-    {
-      "setor": "empresarial",
-      "title": "21.jul.2026Mesmo com liminar para disputar Mundial, nadadora com Down enfrenta entravesAtleta aguarda confirmação definitiva da vaga em competição internacional em Portugal.",
-      "summary": "",
-      "source": "Migalhas / Analise KIAA",
-      "date": "2026-07-21",
-      "url": "https://www.migalhas.com.br/quentes/460584/com-liminar-para-disputar-mundial-nadadora-com-down-enfrenta-entraves"
     }
   ]
 }

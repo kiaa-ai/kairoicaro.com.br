@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-09-08T16:37:47.850546+00:00",
-  "total": 3,
+  "updated_at": "2026-09-08T21:09:06.768151+00:00",
+  "total": 4,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Supremo na Semana destaca definição de critérios para concessão da justiça gratuita",
-      "summary": "O episódio #201 está disponível nas principais plataformas de áudio e no YouTube",
-      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-definicao-de-criterios-para-concessao-da-justica-gratuita/",
+      "title": "Supremo confirma regras do TSE para partidos que deixam de prestar contas",
+      "summary": "Plenário negou pedido do PRD e do Solidariedade contra dispositivos de resolução da Justiça Eleitoral",
+      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-confirma-regras-do-tse-para-partidos-que-deixam-de-prestar-contas/",
+      "date": "2026-09-08",
+      "category": "Constitucional"
+    },
+    {
+      "tribunal": "STF",
+      "title": "Maioria das decisões individuais do STF trata do andamento dos processos",
+      "summary": "Tribunal proferiu 94.934 decisões monocráticas em 2025; número inclui análise de recursos e outras etapas processuais, e não apenas julgamentos de mérito",
+      "url": "https://noticias.stf.jus.br/postsnoticias/maioria-das-decisoes-individuais-do-stf-trata-do-andamento-dos-processos/",
       "date": "2026-09-08",
       "category": "Constitucional"
     },

@@ -1,36 +1,28 @@
 {
-  "updated_at": "2026-09-09T16:38:05.805419+00:00",
-  "total": 4,
+  "updated_at": "2026-09-09T20:55:46.821504+00:00",
+  "total": 3,
   "items": [
     {
       "tribunal": "STF",
-      "title": "Cancelada a sessão plenária desta quarta-feira (9)",
-      "summary": "Decisão foi tomada pela Presidência do Supremo",
-      "url": "https://noticias.stf.jus.br/postsnoticias/cancelada-a-sessao-plenaria-desta-quarta-feira-9/",
+      "title": "STF rejeita ação contra perícias do INSS por telemedicina e análise documental",
+      "summary": "Entendimento foi de que a falta de questionamento de todas as normas sobre o tema inviabiliza a análise da ação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acao-contra-pericias-do-inss-por-telemedicina-e-analise-documental/",
       "date": "2026-09-09",
       "category": "Constitucional"
     },
     {
-      "tribunal": "STF",
-      "title": "CESTF faz primeira reunião de grupo de estudos sobre limites e restrições a direitos fundamentais",
-      "summary": "Primeiro encontro foi dedicado à estruturação das atividades do grupo e à delimitação dos principais eixos de investigação",
-      "url": "https://noticias.stf.jus.br/postsnoticias/cestf-faz-primeira-reuniao-de-grupo-de-estudos-sobre-limites-e-restricoes-a-direitos-fundamentais/",
+      "tribunal": "TRT11",
+      "title": "Advogados poderão consultar resultados de julgamentos da 2ª Turma do TRT-11 por QR Code",
+      "summary": "Iniciativa, que começa de forma experimental em 21 de setembro, busca dar mais agilidade e praticidade ao acompanhamento das sessões",
+      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11688-advogados-poderao-consultar-resultados-de-julgamentos-da-2-turma-do-trt-11-por-qr-code",
       "date": "2026-09-09",
-      "category": "Constitucional"
+      "category": "Trabalhista"
     },
     {
       "tribunal": "TRT11",
       "title": "Saiba como identificar as diferentes formas de assédio eleitoral no trabalho",
       "summary": "Prática pode envolver ameaças, constrangimentos, discriminação e outras formas de pressão para influenciar a escolha política de trabalhadores",
       "url": "https://portal.trt11.jus.br/index.php/comunicacao/11687-saiba-como-identificar-as-diferentes-formas-de-assedio-eleitoral-no-trabalho",
-      "date": "2026-09-09",
-      "category": "Trabalhista"
-    },
-    {
-      "tribunal": "TRT11",
-      "title": "TRT-11 participa de congresso nacional sobre pesquisa e ciência de dados na Justiça do Trabalho",
-      "summary": "Tribunal apresentou estudo sobre qualidade da burocracia e gestão de pessoas durante evento realizado no TST",
-      "url": "https://portal.trt11.jus.br/index.php/comunicacao/11685-trt-11-participa-de-congresso-nacional-sobre-pesquisa-e-ciencia-de-dados-na-justica-do-trabalho",
       "date": "2026-09-09",
       "category": "Trabalhista"
     }

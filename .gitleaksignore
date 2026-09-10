@@ -1,0 +1,22 @@
+# .gitleaksignore -- kairoicaro.com.br
+#
+# Falsos positivos triados em 09/09/2026, na primeira varredura de segredos da
+# organizacao kiaa-ai.
+#
+# Silenciados POR FINGERPRINT (commit:arquivo:regra:linha), nunca por regra:
+# qualquer JWT novo neste repositorio continua reprovando o portao.
+#
+# Triagem: as quatro ocorrencias sao o MESMO token -- a chave publicavel do
+# Supabase (claim role = anon), embutida no HTML do portal de proposito, porque
+# e para isso que ela existe. Nao e a service_role, que seria critica. Verificado
+# tambem que nenhuma tabela do projeto esta com RLS desligado: com RLS ativo, o
+# portao de verdade e a politica de acesso, nao a chave.
+#
+# Se o portal for reescrito e o token mudar de linha, novos fingerprints
+# aparecerao. Nesse caso a correcao boa nao e acrescentar linhas aqui: e mover a
+# chave para variavel de build, deixando o HTML sem literal nenhum.
+
+7c6e32fe3866d368473943984c9cca5e6ccaced7:inteligencia.html:jwt:1489
+954ab8f7965396f13ccc025d3185717df78830e9:portal-kpi.html:jwt:1180
+68687b5f38963f5030c0c2658f5b0974df745041:portal-login.html:jwt:588
+68687b5f38963f5030c0c2658f5b0974df745041:portal-dashboard.html:jwt:1018

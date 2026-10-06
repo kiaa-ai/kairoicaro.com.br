@@ -1,0 +1,73 @@
+name: Publicar site (dados diários 04h BRT)
+
+# Busca os dados (tribunais, dashboard, setoriais) e publica o GitHub Pages
+# por Actions, sem commitar no main. O main é protegido (PR + Gitleaks), e o
+# push direto do robô falhava todo dia desde 10/09/2026.
+#
+# Substitui daily-data-update.yml e fetch-tribunais.yml (este era redundante:
+# o diário já rodava fetch_tribunais.py).
+#
+# Pré-requisito: Settings → Pages → Source = "GitHub Actions".
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 08:00 UTC = 04:00 BRT
+  push:
+    branches: [main]     # publica as mudanças do site já com dados frescos
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependências
+        run: pip install requests beautifulsoup4 lxml
+
+      # Falha numa fonte não derruba a publicação: fica o arquivo do main.
+      - name: Buscar informativos dos tribunais
+        continue-on-error: true
+        run: python scripts/fetch_tribunais.py
+
+      - name: Buscar dados do dashboard
+        continue-on-error: true
+        run: python scripts/fetch_dashboard_data.py
+
+      - name: Buscar notícias setoriais
+        continue-on-error: true
+        run: python scripts/fetch_setoriais.py
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empacotar site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

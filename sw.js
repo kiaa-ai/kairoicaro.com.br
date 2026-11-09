@@ -2,9 +2,11 @@
 // KIAA Portal — Service Worker v1
 // ══════════════════════════════════════════════════════════════
 
-const CACHE_VERSION = 'kiaa-site-v2.1';
+const CACHE_VERSION = 'kiaa-site-v4-integracao-20261108';
 
 const STATIC_ASSETS = [
+    '/',
+    '/index.html',
     '/novo-index.html',
     '/site-3a.html',
     '/site-negocios.html',
@@ -129,3 +131,4 @@ self.addEventListener('fetch', event => {
             .catch(() => caches.match(request))
     );
 });
+

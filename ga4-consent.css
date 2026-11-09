@@ -1,0 +1,15 @@
+#kiaa-consent {font:15px/1.5 Montserrat,Arial,sans-serif;color:#0f2944;text-align:left}
+#kiaa-consent [hidden] {display:none!important}
+#kiaa-consent-settings {position:fixed;left:12px;bottom:12px;z-index:10002;border:1px solid #0f2944;border-radius:8px;background:#fff;color:#0f2944;padding:10px 14px;font:inherit;cursor:pointer;box-shadow:0 2px 12px #0002}
+#kiaa-consent-panel {position:fixed;left:12px;bottom:66px;z-index:10003;box-sizing:border-box;width:calc(100% - 24px);max-width:580px;max-height:calc(100dvh - 90px);overflow:auto;border:1px solid #0f2944;border-radius:12px;background:#fff;color:#0f2944;padding:20px;box-shadow:0 6px 30px #0004}
+#kiaa-consent h2 {font:700 19px/1.35 Montserrat,Arial,sans-serif;margin:0 0 12px;color:#0f2944;text-shadow:none;letter-spacing:normal}
+#kiaa-consent p {font:inherit;color:#0f2944;margin:0 0 12px;max-width:none}
+#kiaa-consent a {color:#164f86;text-decoration:underline}
+#kiaa-consent summary {cursor:pointer;text-decoration:underline;margin-bottom:12px}
+#kiaa-consent .kiaa-consent-actions {display:flex;gap:12px;flex-wrap:wrap;margin:16px 0 0}
+#kiaa-consent .kiaa-consent-actions button {flex:1;min-width:165px;background:#0f2944;color:#fff;border:2px solid #0f2944;border-radius:8px;padding:12px;font:600 15px/1.35 Montserrat,Arial,sans-serif;cursor:pointer;box-shadow:none}
+#kiaa-consent-close {margin-top:12px;background:#fff;color:#0f2944;border:1px solid #0f2944;border-radius:8px;padding:10px 12px;font:inherit;cursor:pointer}
+#kiaa-consent button:focus-visible,#kiaa-consent summary:focus-visible,#kiaa-consent a:focus-visible {outline:3px solid #3a6c9c;outline-offset:3px}
+#kiaa-consent-status {position:fixed;left:12px;bottom:62px;z-index:10001;background:#fff;border-radius:6px;padding:0 8px;max-width:calc(100% - 24px);font-size:13px!important;box-shadow:0 2px 8px #0001}
+#kiaa-consent-status:empty {display:none}
+@media(max-width:420px) {#kiaa-consent-panel {padding:16px}#kiaa-consent .kiaa-consent-actions {gap:10px}#kiaa-consent .kiaa-consent-actions button {min-width:100%}}
